@@ -1,0 +1,196 @@
+2012-02-02-book-secret.html: 2012-02-02-book-secret.md
+	./blog_regen.pl 2012-02-02-book-secret.md
+2012-02-10-book-think-and-grow-rich.html: 2012-02-10-book-think-and-grow-rich.md
+	./blog_regen.pl 2012-02-10-book-think-and-grow-rich.md
+2012-03-27-book-the-soul-of-a-new-machine.html: 2012-03-27-book-the-soul-of-a-new-machine.md
+	./blog_regen.pl 2012-03-27-book-the-soul-of-a-new-machine.md
+2012-04-04-book-the-toyota-way.html: 2012-04-04-book-the-toyota-way.md
+	./blog_regen.pl 2012-04-04-book-the-toyota-way.md
+2012-04-15-book-icon.html: 2012-04-15-book-icon.md
+	./blog_regen.pl 2012-04-15-book-icon.md
+2012-04-16-book-the-7-habits.html: 2012-04-16-book-the-7-habits.md
+	./blog_regen.pl 2012-04-16-book-the-7-habits.md
+2012-04-20-book-hackers_and_painters.html: 2012-04-20-book-hackers_and_painters.md
+	./blog_regen.pl 2012-04-20-book-hackers_and_painters.md
+2012-04-26-freebsd_gsoc_proposal.html: 2012-04-26-freebsd_gsoc_proposal.md
+	./blog_regen.pl 2012-04-26-freebsd_gsoc_proposal.md
+2012-04-27-freebsd_good_proposal.html: 2012-04-27-freebsd_good_proposal.md
+	./blog_regen.pl 2012-04-27-freebsd_good_proposal.md
+2012-04-28-how_to_write_gsoc_proposal.html: 2012-04-28-how_to_write_gsoc_proposal.md
+	./blog_regen.pl 2012-04-28-how_to_write_gsoc_proposal.md
+2012-05-05-book-showstopper.html: 2012-05-05-book-showstopper.md
+	./blog_regen.pl 2012-05-05-book-showstopper.md
+2012-05-12-book-joel-on-software.html: 2012-05-12-book-joel-on-software.md
+	./blog_regen.pl 2012-05-12-book-joel-on-software.md
+2012-05-13-unfriendly_it.html: 2012-05-13-unfriendly_it.md
+	./blog_regen.pl 2012-05-13-unfriendly_it.md
+2012-05-14-funny_mistake.html: 2012-05-14-funny_mistake.md
+	./blog_regen.pl 2012-05-14-funny_mistake.md
+2012-05-17-stick_control.html: 2012-05-17-stick_control.md
+	./blog_regen.pl 2012-05-17-stick_control.md
+2012-05-19-koszek_trick.html: 2012-05-19-koszek_trick.md
+	./blog_regen.pl 2012-05-19-koszek_trick.md
+2012-05-24-book-the-lean-startup.html: 2012-05-24-book-the-lean-startup.md
+	./blog_regen.pl 2012-05-24-book-the-lean-startup.md
+2012-06-10-book-more-joel-on-software.html: 2012-06-10-book-more-joel-on-software.md
+	./blog_regen.pl 2012-06-10-book-more-joel-on-software.md
+2012-06-10-mips-assembler.html: 2012-06-10-mips-assembler.md
+	./blog_regen.pl 2012-06-10-mips-assembler.md
+2012-06-16-book-getting-to-yes.html: 2012-06-16-book-getting-to-yes.md
+	./blog_regen.pl 2012-06-16-book-getting-to-yes.md
+2012-06-26-koszek-trick-2.html: 2012-06-26-koszek-trick-2.md
+	./blog_regen.pl 2012-06-26-koszek-trick-2.md
+2012-06-28-book-design-of-everyday-things.html: 2012-06-28-book-design-of-everyday-things.md
+	./blog_regen.pl 2012-06-28-book-design-of-everyday-things.md
+2012-07-02-mfp-printer.html: 2012-07-02-mfp-printer.md
+	./blog_regen.pl 2012-07-02-mfp-printer.md
+2012-07-07-book-the-strangest-secret.html: 2012-07-07-book-the-strangest-secret.md
+	./blog_regen.pl 2012-07-07-book-the-strangest-secret.md
+2012-07-13-book-best-software-writings.html: 2012-07-13-book-best-software-writings.md
+	./blog_regen.pl 2012-07-13-book-best-software-writings.md
+2012-07-17-book-how-to-move-mount-fuji.html: 2012-07-17-book-how-to-move-mount-fuji.md
+	./blog_regen.pl 2012-07-17-book-how-to-move-mount-fuji.md
+2012-07-25-book-anything-you-want.html: 2012-07-25-book-anything-you-want.md
+	./blog_regen.pl 2012-07-25-book-anything-you-want.md
+2012-07-27-book-the-millionaire-next-door.html: 2012-07-27-book-the-millionaire-next-door.md
+	./blog_regen.pl 2012-07-27-book-the-millionaire-next-door.md
+2012-08-03-book-dont-make-me-think.html: 2012-08-03-book-dont-make-me-think.md
+	./blog_regen.pl 2012-08-03-book-dont-make-me-think.md
+2012-08-05-book-how-to-win-friends.html: 2012-08-05-book-how-to-win-friends.md
+	./blog_regen.pl 2012-08-05-book-how-to-win-friends.md
+2012-08-06-barely-usable.html: 2012-08-06-barely-usable.md
+	./blog_regen.pl 2012-08-06-barely-usable.md
+2012-08-12-book-how-to-stop-worrying-and-start-living.html: 2012-08-12-book-how-to-stop-worrying-and-start-living.md
+	./blog_regen.pl 2012-08-12-book-how-to-stop-worrying-and-start-living.md
+2012-08-15-book-getting-things-done.html: 2012-08-15-book-getting-things-done.md
+	./blog_regen.pl 2012-08-15-book-getting-things-done.md
+2012-08-24-book-rework.html: 2012-08-24-book-rework.md
+	./blog_regen.pl 2012-08-24-book-rework.md
+2012-09-07-book-the-tipping-point.html: 2012-09-07-book-the-tipping-point.md
+	./blog_regen.pl 2012-09-07-book-the-tipping-point.md
+2012-09-11-book-the-art-of-motorcycle-maintenance.html: 2012-09-11-book-the-art-of-motorcycle-maintenance.md
+	./blog_regen.pl 2012-09-11-book-the-art-of-motorcycle-maintenance.md
+2012-09-17-book-just-for-fun.html: 2012-09-17-book-just-for-fun.md
+	./blog_regen.pl 2012-09-17-book-just-for-fun.md
+2012-09-20-book-the-anatomy-of-buzz.html: 2012-09-20-book-the-anatomy-of-buzz.md
+	./blog_regen.pl 2012-09-20-book-the-anatomy-of-buzz.md
+2012-09-24-little-engine-that-could.html: 2012-09-24-little-engine-that-could.md
+	./blog_regen.pl 2012-09-24-little-engine-that-could.md
+2012-09-29-book-microserfs.html: 2012-09-29-book-microserfs.md
+	./blog_regen.pl 2012-09-29-book-microserfs.md
+2012-10-02-book-emyth-revisited.html: 2012-10-02-book-emyth-revisited.md
+	./blog_regen.pl 2012-10-02-book-emyth-revisited.md
+2012-10-07-book-starting-forth.html: 2012-10-07-book-starting-forth.md
+	./blog_regen.pl 2012-10-07-book-starting-forth.md
+2012-10-09-book-little-red-book-of.html: 2012-10-09-book-little-red-book-of.md
+	./blog_regen.pl 2012-10-09-book-little-red-book-of.md
+2012-10-14-book-rich-dad-poor-dad.html: 2012-10-14-book-rich-dad-poor-dad.md
+	./blog_regen.pl 2012-10-14-book-rich-dad-poor-dad.md
+2012-10-20-book-the-field.html: 2012-10-20-book-the-field.md
+	./blog_regen.pl 2012-10-20-book-the-field.md
+2012-10-25-book-winning.html: 2012-10-25-book-winning.md
+	./blog_regen.pl 2012-10-25-book-winning.md
+2012-11-07-book-hdl-chip-design.html: 2012-11-07-book-hdl-chip-design.md
+	./blog_regen.pl 2012-11-07-book-hdl-chip-design.md
+2012-11-12-book-homepage-usability.html: 2012-11-12-book-homepage-usability.md
+	./blog_regen.pl 2012-11-12-book-homepage-usability.md
+2012-11-17-book-positioning.html: 2012-11-17-book-positioning.md
+	./blog_regen.pl 2012-11-17-book-positioning.md
+2012-12-02-book-the-new-new-thing.html: 2012-12-02-book-the-new-new-thing.md
+	./blog_regen.pl 2012-12-02-book-the-new-new-thing.md
+2012-12-07-book-the-old-new-thing.html: 2012-12-07-book-the-old-new-thing.md
+	./blog_regen.pl 2012-12-07-book-the-old-new-thing.md
+2012-12-12-book-the-one-minute-manager.html: 2012-12-12-book-the-one-minute-manager.md
+	./blog_regen.pl 2012-12-12-book-the-one-minute-manager.md
+2012-12-15-book-the-22-laws-of-marketing.html: 2012-12-15-book-the-22-laws-of-marketing.md
+	./blog_regen.pl 2012-12-15-book-the-22-laws-of-marketing.md
+2012-12-20-book-the-goal.html: 2012-12-20-book-the-goal.md
+	./blog_regen.pl 2012-12-20-book-the-goal.md
+2012-12-27-book-101-secrets-of-highly-effective-speakers.html: 2012-12-27-book-101-secrets-of-highly-effective-speakers.md
+	./blog_regen.pl 2012-12-27-book-101-secrets-of-highly-effective-speakers.md
+2012-12-29-book-peopleware.html: 2012-12-29-book-peopleware.md
+	./blog_regen.pl 2012-12-29-book-peopleware.md
+2012-12-31-book-no-asshole-rule.html: 2012-12-31-book-no-asshole-rule.md
+	./blog_regen.pl 2012-12-31-book-no-asshole-rule.md
+2013-01-01-book-6-thinking-hats.html: 2013-01-01-book-6-thinking-hats.md
+	./blog_regen.pl 2013-01-01-book-6-thinking-hats.md
+2013-01-04-book-talent-is-overrated.html: 2013-01-04-book-talent-is-overrated.md
+	./blog_regen.pl 2013-01-04-book-talent-is-overrated.md
+2013-01-05-university-ave.html: 2013-01-05-university-ave.md
+	./blog_regen.pl 2013-01-05-university-ave.md
+2013-01-07-book-automatic-millionaire.html: 2013-01-07-book-automatic-millionaire.md
+	./blog_regen.pl 2013-01-07-book-automatic-millionaire.md
+2013-01-10-book-50-prosperity-classics.html: 2013-01-10-book-50-prosperity-classics.md
+	./blog_regen.pl 2013-01-10-book-50-prosperity-classics.md
+2013-01-13-book-on-the-roll.html: 2013-01-13-book-on-the-roll.md
+	./blog_regen.pl 2013-01-13-book-on-the-roll.md
+2013-01-15-book-50-sucess-classics.html: 2013-01-15-book-50-sucess-classics.md
+	./blog_regen.pl 2013-01-15-book-50-sucess-classics.md
+2013-01-31-book-talent-code.html: 2013-01-31-book-talent-code.md
+	./blog_regen.pl 2013-01-31-book-talent-code.md
+2013-02-02-book-dec-is-dead-long-live-dec.html: 2013-02-02-book-dec-is-dead-long-live-dec.md
+	./blog_regen.pl 2013-02-02-book-dec-is-dead-long-live-dec.md
+2013-02-10-book-how-to-stay-motivated.html: 2013-02-10-book-how-to-stay-motivated.md
+	./blog_regen.pl 2013-02-10-book-how-to-stay-motivated.md
+2013-02-16-book-losing-my-virginity.html: 2013-02-16-book-losing-my-virginity.md
+	./blog_regen.pl 2013-02-16-book-losing-my-virginity.md
+2013-02-23-book-100-startup.html: 2013-02-23-book-100-startup.md
+	./blog_regen.pl 2013-02-23-book-100-startup.md
+2013-03-01-book-land-of-list.html: 2013-03-01-book-land-of-list.md
+	./blog_regen.pl 2013-03-01-book-land-of-list.md
+2013-03-08-book-the-power-of-positive-thinking.html: 2013-03-08-book-the-power-of-positive-thinking.md
+	./blog_regen.pl 2013-03-08-book-the-power-of-positive-thinking.md
+2013-03-11-book-how-to-delegate.html: 2013-03-11-book-how-to-delegate.md
+	./blog_regen.pl 2013-03-11-book-how-to-delegate.md
+2013-04-01-book-what-would-google-do.html: 2013-04-01-book-what-would-google-do.md
+	./blog_regen.pl 2013-04-01-book-what-would-google-do.md
+2013-04-03-book-ignore-everybody.html: 2013-04-03-book-ignore-everybody.md
+	./blog_regen.pl 2013-04-03-book-ignore-everybody.md
+2013-04-05-book-titan.html: 2013-04-05-book-titan.md
+	./blog_regen.pl 2013-04-05-book-titan.md
+2013-04-09-book-mindset.html: 2013-04-09-book-mindset.md
+	./blog_regen.pl 2013-04-09-book-mindset.md
+books.html: books.md
+	./blog_regen.pl books.md
+papers.html: papers.md
+	./blog_regen.pl papers.md
+software.html: software.md
+	./blog_regen.pl software.md
+todo-2012-04-30-unix_for_engineers.html: todo-2012-04-30-unix_for_engineers.md
+	./blog_regen.pl todo-2012-04-30-unix_for_engineers.md
+todo-2012-07-10-fpga-intro.html: todo-2012-07-10-fpga-intro.md
+	./blog_regen.pl todo-2012-07-10-fpga-intro.md
+todo-2012-12-10-one-room.html: todo-2012-12-10-one-room.md
+	./blog_regen.pl todo-2012-12-10-one-room.md
+todo-axi_devinfo.html: todo-axi_devinfo.md
+	./blog_regen.pl todo-axi_devinfo.md
+todo-bare-metal.html: todo-bare-metal.md
+	./blog_regen.pl todo-bare-metal.md
+todo-book-catedral-and-bazaar.html: todo-book-catedral-and-bazaar.md
+	./blog_regen.pl todo-book-catedral-and-bazaar.md
+todo-book-the-jim-rohn-leadership-class.html: todo-book-the-jim-rohn-leadership-class.md
+	./blog_regen.pl todo-book-the-jim-rohn-leadership-class.md
+todo-book-the-psychology-of-winning.html: todo-book-the-psychology-of-winning.md
+	./blog_regen.pl todo-book-the-psychology-of-winning.md
+todo-fpga-bram.html: todo-fpga-bram.md
+	./blog_regen.pl todo-fpga-bram.md
+todo-gray-mass.html: todo-gray-mass.md
+	./blog_regen.pl todo-gray-mass.md
+todo-mba.html: todo-mba.md
+	./blog_regen.pl todo-mba.md
+todo-m.html: todo-m.md
+	./blog_regen.pl todo-m.md
+todo-object-oriented-brain-distortion.html: todo-object-oriented-brain-distortion.md
+	./blog_regen.pl todo-object-oriented-brain-distortion.md
+todo-stack-concepts.html: todo-stack-concepts.md
+	./blog_regen.pl todo-stack-concepts.md
+todo-starting-computers.html: todo-starting-computers.md
+	./blog_regen.pl todo-starting-computers.md
+todo-things-list.html: todo-things-list.md
+	./blog_regen.pl todo-things-list.md
+todo-tips.html: todo-tips.md
+	./blog_regen.pl todo-tips.md
+todo-verilog.html: todo-verilog.md
+	./blog_regen.pl todo-verilog.md
+todo-what-i-want-you-to-know.html: todo-what-i-want-you-to-know.md
+	./blog_regen.pl todo-what-i-want-you-to-know.md

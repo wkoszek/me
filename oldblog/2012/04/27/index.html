@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta charset="utf-8" />
+<link rel="stylesheet" href="/960/css/reset.css" />
+<link rel="stylesheet" href="/960/css/text.css" />
+<link rel="stylesheet" href="/960/css/960_24_col.css" />
+<link rel="stylesheet" href="/960/css/demo.cssS" />
+<link rel="stylesheet" href="/style.css" />
+<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8027537-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<title>
+Wojciech A. Koszek,
+Google Summer of Code &mdash; how proposals are evaluated
+</title>
+</head>
+<body>
+
+
+<div class="container_24">
+	<!-- SPACE -->
+	<div class="grid_24">
+		<br>
+	</div>
+	<div class="clear"></div>
+
+
+	<!-- HEADER -->
+	<div class="grid_4" id="menu">
+		&nbsp;
+	</div>
+	<div class="grid_20" id="header">
+		<p>
+			Wojciech Adam Koszek &mdash; Homepage
+		</p>
+	</div>
+	<div class="clear"></div>
+
+
+	<!-- SPACE -->
+	<div class="grid_24">
+		<br>
+	</div>
+	<div class="clear"></div>
+
+
+	<!-- MAIN:MENU -->
+	<div class="grid_2" id="menu">
+<a href="http://www.koszek.com"/>BLOG</a>
+<br>
+<br>
+<a href="http://www.koszek.com/books.html"/>BOOKS</a>
+<br>
+<br>
+<a href="http://www.koszek.com/software.html"/>SOFTWARE</a>
+<br>
+<br>
+<a href="http://www.koszek.com/papers.html"/>PAPERS</a>
+<br>
+<br>
+	</div>
+	<div class="grid_2">
+	<!-- SPACE -->
+		&nbsp;
+	</div>
+
+	<!-- MAIN:CONTENT -->
+	<div class="grid_17" id="content">
+<h2>Google Summer of Code &mdash; how proposals are evaluated</h2>
+
+<p><strong>by Wojciech Koszek</strong>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_button_google_plusone"></a>
+<!-- <a class="addthis_counter addthis_bubble_style"></a> -->
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f9b57ef259d6c68"></script>
+<br>
+<!-- AddThis Button END -->
+
+
+<p>In the previous post I explained the motivation of GSoC and the state of
+things nowadays with regards to how it helps FreeBSD.</p>
+
+<p>I guess I must explain in a bit more detailed way how evaluations are done,
+since it can not entirely clear.</p>
+
+<p><strong><em>Introduction</em></strong></p>
+
+<p>You'll find an insight on how the evaluation of Google Summer of Code took place.</p>
+
+<p>Or at least: explanation how I did it.</p>
+
+<p>Please note what within <a href="http://www.freebsd.org">FreeBSD</a> we had several
+developers with an administrator's role and they were reviewing as well.
+Their process for looking at these proposals might have differed. I don't
+know.</p>
+
+<p><strong><em>Skimming</em></strong></p>
+
+<p><strong>Quick glance at the list</strong> is the first think I do (according to <a href="http://www.useit.com">Jacob
+Nielsen</a> this is how <a href="http://www.useit.com/alertbox/9710a.html">we all do
+it</a>. So you skim over 33 items,
+you see those which doesn't make sense at all. Just to make sure you're
+right in mentally <em>nuking</em> these that you think aren't decent, I opened it
+in separate tabs in the browser. I had 99.99% success rate in judging
+irrelevant ones. This is due to simple reason: some of the proposals seem to
+be generated from Google. <strong>If you want to be accepted in <em></strong>any<strong></em> project
+DON'T pick anything from Google</strong>. Don't re-paste anything from the Internet.
+Don't republish stuff other people did. <strong>This really must be your
+proposal</strong>. So the irrelevant ones got marked as "non-acceptable" right
+away. By the way: they stayed that way, since most people reviewed those
+too. So let me make it clear once again: <strong>Don't waste your time on
+submitting junk: it for SURE will be ignored</strong>. This means: no money for
+junk.</p>
+
+<p><strong><em>Quick selection based on my knowledge</em></strong></p>
+
+<p>Nobody is an expert on everything. I'm no different. Basically I know
+nothing about BSD text processing tools, and since this proposal showed up,
+I knew I'm the bad person to review it. However, we've had 2 of those, and
+since we decided not to accept duplicates (not to have two people working on
+the same project) I glanced at both of them quickly.</p>
+
+<p>One was brief and lacked details. Had poor formatting. Was sort of done very
+quickly. Was a hack.  Obviously, if you want to show your real initiative, I
+expect you provide something in a readable form. So this really doesn't have
+to be PDF produced with QuarkXPress -- just do your best, use <a href="http://www.google-melange.com">Google
+Melange</a> formatting and you'll be just fine.</p>
+
+<p><strong><em>Deeper understanding</em></strong></p>
+
+<p>Some projects really interested me. I started to study them in more detail.
+I skipped student information, since it wasn't relevant for me at this
+stage. I was interested if the idea is OK and whether there are some
+practical steps and implementation schedule for the proposal.</p>
+
+<p>Unfortunately some had smarter form of spam embedded too. These projects got
+nuked too, thus no further time wasted for me.</p>
+
+<p>We're basically talking about around 22 project proposals already. It's 66%
+of submitted  proposals in total.</p>
+
+<p>Typical proposal must have couple of elements (I think these are imposed by
+the proposal submission form provided by Google). I must said Google did a
+good job, since the form had enough information to make reading worth its
+time.</p>
+
+<p>Every student provided:</p>
+
+<ol>
+<li>Name, Surname</li>
+<li>E-mail and phone number</li>
+<li>Short bio</li>
+<li>Resume</li>
+<li>Availability</li>
+</ol>
+
+<p>So Name and Surname got skipped, so did the e-mail and phone. Short bio was
+important for me, somehow.</p>
+
+<p>And I want to put emphasis on <strong>short</strong>. I'd really like Google to put some
+form of a limit (100 words) on what should show up here. Some were several
+A4 pages long. Well, honestly, I didn't read it. I also skimmed over the
+keywords in your text.</p>
+
+<p>Some proposals struck my attention: why on Earth people submitting proposals
+to the <a href="http://www.freebsd.org">FreeBSD Project</a> mention Linux only? I mean
+some of them had <strong>not a single word</strong> about FreeBSD. For me this is the
+sign you didn't study too well for this years GSOC and you don't want to be
+accepted, since it looks like you've picked an idea from the <a href="http://www.freebsd.org/projects/ideas/">FreeBSD ideas
+list</a> (which you have managed to
+find somehow) and without knowing what FreeBSD is you've submitted this
+stuff.</p>
+
+<p>Anyway, we had busy student-professionals applying too. Personally, I would
+have picked people like but. My reasoning is that if I see somebody working
+with computers professionally, it may mean the understanding of the whole
+GSOC is much better, responsibility is much bigger and that the likelihood
+of successful project's completion is higher. However, after some
+discussions we agreed that people with really limited time spent on the
+project are kinda risky. You know, when you can spend only 4 hours per week
+on the project it's clear isn't not going to be finished on time.</p>
+
+<p>We've had one person, whose proposal was really good, but the gentleman
+applied to other projects too, with equally good proposals, and on the way
+of evaluating his ideas, he decided to pick another project. Google
+basically doesn't let you to apply for multiple projects, so if you do so,
+you'll have to decide later. So to save your time: <strong>Before picking FreeBSD,
+just glance at other projects and verify you really want FreeBSD</strong> This will
+save lots of time to everybody.</p>
+
+<p>I hope this will help you understand what is important in the proposal for
+2013 Google Summer of Code (there will be next Google Summer of Code,
+right?)</p>
+		<br><br><br>
+		&copy; 2012-2014 Wojciech Adam Koszek &lt;wkoszek@FreeBSD.org&gt;
+		<br>
+<hr>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'koszek'; // required: replace example with your forum shortname
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+	var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a> -->
+
+	</div>
+	<!-- SPACE -->
+	<div class="grid_1" id="sa">
+		&nbsp;
+	</div>
+
+	<!-- ADDS -->
+	<div class="grid_2" id="lr">
+
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=031609997X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+	</div>
+	<div class="clear"></div>
+
+</div>
+</body>
+</html
+

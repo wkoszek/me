@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta charset="utf-8" />
+<link rel="stylesheet" href="/960/css/reset.css" />
+<link rel="stylesheet" href="/960/css/text.css" />
+<link rel="stylesheet" href="/960/css/960_24_col.css" />
+<link rel="stylesheet" href="/960/css/demo.cssS" />
+<link rel="stylesheet" href="/style.css" />
+<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8027537-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<title>
+Wojciech A. Koszek,
+fpurge() hack &mdash; Koszek trick #1
+</title>
+</head>
+<body>
+
+
+<div class="container_24">
+	<!-- SPACE -->
+	<div class="grid_24">
+		<br>
+	</div>
+	<div class="clear"></div>
+
+
+	<!-- HEADER -->
+	<div class="grid_4" id="menu">
+		&nbsp;
+	</div>
+	<div class="grid_20" id="header">
+		<p>
+			Wojciech Adam Koszek &mdash; Homepage
+		</p>
+	</div>
+	<div class="clear"></div>
+
+
+	<!-- SPACE -->
+	<div class="grid_24">
+		<br>
+	</div>
+	<div class="clear"></div>
+
+
+	<!-- MAIN:MENU -->
+	<div class="grid_2" id="menu">
+<a href="http://www.koszek.com"/>BLOG</a>
+<br>
+<br>
+<a href="http://www.koszek.com/books.html"/>BOOKS</a>
+<br>
+<br>
+<a href="http://www.koszek.com/software.html"/>SOFTWARE</a>
+<br>
+<br>
+<a href="http://www.koszek.com/papers.html"/>PAPERS</a>
+<br>
+<br>
+	</div>
+	<div class="grid_2">
+	<!-- SPACE -->
+		&nbsp;
+	</div>
+
+	<!-- MAIN:CONTENT -->
+	<div class="grid_17" id="content">
+<h2>fpurge() hack &mdash; Koszek trick #1</h2>
+
+<p><strong><em>by Wojciech Koszek</em></strong></p>
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_button_google_plusone"></a>
+<!-- <a class="addthis_counter addthis_bubble_style"></a> -->
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f9b57ef259d6c68"></script>
+<br>
+<!-- AddThis Button END -->
+
+
+<p>A friend of mine asked me once:</p>
+
+<p><strong><em>How to recover text formatted by printf(), but do not spit it
+output to the console?</em></strong></p>
+
+<p>Right now I don't exactly remember why <code>fprintf()</code> couldn't be used, but I
+remember this was in the environment where <code>fprintf()</code> (or all?) changes
+couldn't be applied.</p>
+
+<p>This is a technique I was came up with. Please note: this is <em>HUGE</em> hack and
+it is not proven to work on your system. It is based on the fact data from
+<code>printf</code> function family is first written to the buffer <code>buf</code>, and until
+it's internally flushed, it won't be printed. Lack of flush is implicitly
+expected due to the large buffer size, and buffering set by <code>setbuf</code>. Once
+we generate enough data in the <code>buf</code> buffer through <code>fprintf</code> calls, we copy
+the data to <code>text</code> buffer, and discard <code>buf</code> buffer. Discarding happens via
+<code>fprune</code> and its associated file descriptor, for which buffer has been used
+for.</p>
+
+<p>It used to work on FreeBSD and GNU/Linux, but PLEASE don't make your code
+depend on that. It's a hack.  Here it is:</p>
+
+<pre><code>#include &lt;assert.h&gt;
+#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+#include &lt;string.h&gt;
+
+#define SZ  1024*1024
+
+/*
+ * This is Koszek's trick to write formated data to the FILE structure
+ * with an underlying buffer, but without flushing it to the backing
+ * descriptor. Later on, once a buffer is filled, I print it to get a
+ * proof and clear it.
+ */
+int
+main(int argc, char **argv)
+{
+    char buf[SZ];
+    char text[SZ];
+    FILE *fp;
+
+    (void)argc;
+    (void)argv;
+
+    memset(buf, 0, sizeof(buf));
+
+    fp = fopen("FILE.txt", "a+");
+    assert(fp != NULL);
+
+    fflush(fp);
+    setbuf(fp, buf);
+
+    fprintf(fp, "Nie wiem co napisaæ\n");
+    fprintf(fp, "Nie wiem co tutaj wklepaæ\n");
+    fprintf(fp, "To ma tylko wyczy¶ciæ bufor\n");
+
+    memcpy(text, buf, sizeof(text));
+
+    fpurge(fp);
+    setbuf(fp, NULL);
+
+    printf("Text: '%s'\n", text);
+
+    fflush(fp);
+    fclose(fp);
+    return (EXIT_SUCCESS);
+}
+</code></pre>
+		<br><br><br>
+		&copy; 2012-2014 Wojciech Adam Koszek &lt;wkoszek@FreeBSD.org&gt;
+		<br>
+<hr>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'koszek'; // required: replace example with your forum shortname
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+	var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+	(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a> -->
+
+	</div>
+	<!-- SPACE -->
+	<div class="grid_1" id="sa">
+		&nbsp;
+	</div>
+
+	<!-- ADDS -->
+	<div class="grid_2" id="lr">
+
+<script type="text/javascript">
+google_ad_client = "ca-pub-7199453802213032";
+/* koszek */
+google_ad_slot = "8396875481";
+google_ad_width = 160;
+google_ad_height = 600;
+</script>
+
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+	</div>
+	<div class="clear"></div>
+
+</div>
+</body>
+</html
+

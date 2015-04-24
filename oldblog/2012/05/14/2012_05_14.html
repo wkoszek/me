@@ -1,0 +1,159 @@
+Funny mistakes vs The Toyota Way
+-------------------------------------------------------
+**by Wojciech Koszek**
+
+%%inc/addthis.html%%
+
+This article has a strange mix of UNIX and methodology and mental problems of post's author. Be
+warned!
+
+It is very funny how sometimes I get trapped with simple stuff.
+
+	===== ~/.cshrc =====
+
+	alias   commbak   tar cjf ~/backup/comments-`date '+%Y%m%d-%s'`.tar.bz2 /home/wojciec/comments
+
+(challenge)
+
+Things often get overlooked, since, yes, we all do mistakes. I do too. But it's entertaining when a
+person who knows what this stuff is all about gets trapped in his own mistakes. Each time I see
+a mistake, I try to:
+
+1. solve it properly: you have enough time to prepare a correct patch/fix to your scripts which
+  correctly solve the problem. By correctly I mean: they preserve abstractions and proper code's
+  conventions (you use some conventions, don't you?) and basically, are consistent with whatever you
+  have there.
+
+2. solve it: you don't have enough time, you must generate Excel/HTML based report that SIMPLY MUST
+  BE DONE BEFORE 3pm meeting and no matter how obsure, obfuscated and ugly method you use, it
+  doesn't really matter, since the results simply must be present by 3pm. So basically think "GM
+  production" line -- no matter what, we keep process going (this is not really true for my day job
+  and we only start "flow" once we get it right and we produce only as much data as we're able to
+  analyze, but not more).
+
+If you haven't ever done (2), it means you work for an excellent company, and I'd love to know what
+company that is.
+
+So anyway -- 2nd point is only a necessity and I'm not too ashamed, since I think it's just a part
+of daily job.  Once again: this is preferred choice only when you're pushed to finish stuff on time
+and you know upfront you won't make it.
+
+	if ($g_fn_hack) {
+		# HACK!!
+		# Filename generation routine creates a _base_name_.log of a file and we register
+		# _base_name_ to prevent us from overwriting files accidently. But since I didn't encompass in advance
+		# that we'll be repeating experiments with different paramters, we need to bring
+		# a bit of randomness to filenames, to be sure all files' names are unique
+		$fn += sprintf "%.0f", rand() * 1000;
+	}
+
+So this is an example of necessarily the smartest thing, but since the surounding code wasn't
+trivial, this is the fastest way I could solve the problem. Randomness almost always helps. Now:
+this is not as evil as you may think. I just produce files with known "base name" (before
+extension), but add some unique factor. So not too bad.
+
+I trapped myself not on generaton, but parsing this stuff. So instead of:
+
+	ls -la
+
+giving me a decent, nicely sorted result, I have to use:
+
+	ls -lar
+
+disaster to figure out which files got created first (1st experiment run) and later plot
+HTML report based on that.
+
+(Don't ask me why I do HTML generation -- I still don't know why it's me -- one of the cases where
+you're just *very* lucky; I LOVE generating HTML, of course)
+
+1st I solve by automating stuff and proper error reporting. I use cron(1) extensively, but lots of
+stuff is still done semiautomatically.
+
+	"You don't run everything from cron. You suck man, you REALLY SUCK"
+
+Well...
+
+Stuff which I still happen to prefer to run by hand is defined by "Mental willingness to watch
+important process happening interactively due to the strong responsibility and need of knowing that
+it **just worked fine**". It's not that I can stuff everything from cron(1), because I can. I don't
+do it, since I don't feel too comfortable.
+
+Not being comfortable involves:
+
+1. Working as a different user (shared account) and typing commands which lie in the history, which
+   you happen to type by accident etc..
+
+2. Moving large batches of important files
+
+3. Copying stuff from one place to another
+
+4. Removing stuff
+
+5. Managing processes
+
+(1) I try to stay away from. For me shared accounts are a bad idea. So I just try to work as "me",
+and later copy results of commands/processing. (2) and (3) somehow fall into the same bucket. For me
+this is a standard:
+
+	/bin/ls -1
+
+Then everything follows:
+
+	/bin/ls -1 | xargs -n 1
+
+Every step I check just in case. So normally you write a script, but since now I'm a smart a** in
+the middle of a book "The Toyota Way":
+
+I can say I'm getting "visual inspection" done on every step. And I polish process till it's right.
+It gives me more experience and knowledge what I can expect in the next stages too. So finally it becomes:
+
+	/bin/ls -1 | xargs -n 1 -i# echo mv # #.old
+
+So I have a habit of making lots of aliases. Aliases tend to be completely dark and you **simply
+can't understand them** unless you're me:
+
+	alias alljobs `bjobs | grep -v JOB | cut -d " " -f 1 | xargs -n 1 echo CMD`
+
+What does this useless command do?
+
+Huh?
+
+Well, not too much. It just prints a line for each LSF job scheduled to run at the certain time.
+Why to do it in a such a complex way? Well, if you manage relatively important processes, which
+JUST CAN'T CRASH, you must be certain to do exactly what you want.
+
+So the way I work is that I create myself a intermediate commands that automate lots of boring stuff
+(like the above: printing all running jobs) and have them generate something, that can be trivially
+modified:
+
+	alljobs | sed 's/CMD/bstop/g'
+
+and suddenly you have something to feed your copy&paste buffer with. Once you inspect the output of
+a command, you can feed your shell with it too:
+
+	alljobs | sed 's/CMD/bstop/g' | sh
+
+Still with me? Asleep? Yet another quiz to wake you up:
+
+	sh script1.sh script2.sh
+
+What does this do? Hint: it is against the logic.
+
+Yet, I stick to aliases. For example, "cd" is the most aliased command by me. If I have to type:
+
+	cd /long/path/name/to/dir
+
+twice, it almost always lands in my:
+
+	~/.aliases
+
+and earns it's only line there. Once again, it can get messy, since if you do:
+
+	cdt
+
+especially when you're projecting your session, people don't really know where are you and what are
+you trying to accomplish. However:
+
+	alias	fp	'/bin/ls -1 | xargs -n 1 readlink -f'
+
+I really can't imagine working without shortcuts..
