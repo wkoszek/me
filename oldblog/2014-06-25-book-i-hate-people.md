@@ -18,4 +18,5 @@ It's a nice little book summarizing the procedures for getting your work
 done in a corporate setting.
 
 @@@RIGHT@@@
-https://www.google.com/search?q=i+hate+people&num=100&client=ubuntu&hs=BG8&channel=fs&tbm=isch&imgil=DnvxMaq1cwMn_M%253A%253BvzwKJiFEdwLiXM%253Bhttp%25253A%25252F%25252Fwww.mancards.com%25252Fi-hate-when-people-leave-and-they-dont-take-their-memories-with-them%25252F&source=iu&pf=m&fir=DnvxMaq1cwMn_M%253A%252CvzwKJiFEdwLiXM%252C_&usg=__g9JG77a2F-lQQepqKp3cci5WLmY%3D&biw=1440&bih=724&ved=0CCkQyjc&ei=gcJhVLOBPYuZjAK-8YHICw#imgdii=_
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=ss_til&ad_type=product_link&tracking_id=wojcadamkoszh-20&marketplace=amazon&region=US&placement=B002ASFPR8&asins=B002ASFPR8&linkId=FWNP6UD35PLNYVLO&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=C02400&bg_color=FFFFFF"> </iframe>

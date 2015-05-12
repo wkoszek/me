@@ -2,6 +2,7 @@ Accelerated learning techniques
 ---------------
 
 **AUTHOR:** Brian Tracy
+
 **DATE READ:** 2014-Oct-15
 
 %%inc/addthis.html%%
