@@ -1,5 +1,7 @@
-At work for several months I was swapping large number of Xilinx FPGA chips in boards for
-the purposes of company's testing.
+People often ask me what I did when I was a part of the while I was a part
+of the hardware industry. To some extent the hardware industry is about ...
+hardware.
+
 Board is started, program is run and board is restarted.
 Program spits something through the serial cable, and this thing is recorded
 in a log file.
