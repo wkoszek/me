@@ -2,6 +2,18 @@
 # Blog settings
 ###
 
+tgt_env_var = "TGT_KOSZEK_COM"
+
+def dbg(*args)
+  print "# KC "
+  args.each do |a|
+    print a
+  end
+  print "\n"
+end
+
+dbg("------------ site building started -----------")
+
 # Time.zone = "UTC"
 
 activate :blog do |blog|
@@ -84,16 +96,28 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+tgt = ENV[tgt_env_var].to_s.downcase
+is_prod = (tgt == "production")
+
 # Build-specific configuration
 configure :build do
-  # For example, change the Compass output style for deployment
-  # activate :minify_css
+  if is_prod then
+    dbg("production build!")
 
-  # Minify Javascript on build
-  # activate :minify_javascript
+    # For example, change the Compass output style for deployment
+    dbg("...will minify CSS")
+    activate :minify_css
 
-  # Minify Javascript on build
-  #activate :minify_html
+    # Minify Javascript on build
+    dbg("...will minify Javascript")
+    activate :minify_javascript
+
+    # Minify Javascript on build
+    dbg("...will minify HTML")
+    activate :minify_html
+  else
+    dbg("development build!!!")
+  end
 
   # Enable cache buster
   # activate :asset_hash
