@@ -1,7 +1,0 @@
----
-title: sample
-date: 2015-05-15 06:49 UTC
-tags:
----
-
-Just trying out middleman.
