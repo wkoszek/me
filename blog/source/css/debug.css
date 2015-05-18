@@ -5,5 +5,11 @@ a {
 	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
 	font-style: italic;
 	font-size: 150%;
-	margin-left: 5%;
+	padding-right: 4%;
+}
+.ads {
+	/* 130x100px */
+	width: 130px;
+	height: 190px;
+	border: solid 1px purple;
 }
