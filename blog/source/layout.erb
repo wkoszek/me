@@ -7,52 +7,100 @@
 		<meta name="description" content="Wojciech Adam Koszek website and blog">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
 		<link rel="stylesheet" href="/css/normalize.css">
 		<link rel="stylesheet" href="/css/skeleton.css">
+		<link rel="stylesheet" href="/css/debug.css">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
 		<link rel="icon" type="image/png" href="images/favicon.png">
 		<title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
 		<%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 	</head>
 	<body>
 	<div class="container">
+		<div class="row"><!-- debug -->
+			<div id="debug">
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+			</div>
+		</div><!-- /debug -->
+
 		<div class="row">
-			<div class="one-half column">
-				<h1>Wojciech Adam Koszek</h1>
+			<div class="four columns">
+				<h4>Wojciech Adam Koszek</h4>
+			</div>
+			<div class="eight columns links">
+				<a href="/software/">Software</a>
+				<a href="/blog/">Writing</a>
+				<a href="/speadking/">Speaking</a>
+				<a href="/reading/">Reading</a>
+				<a href="/about/">About me</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns">
+				<br>
+				<br>
+			</div>
+		</div>
 
-				<p>This index.html page is a placeholder
-				with the CSS, font and favicon. It's just
-				waiting for you to add some content! If you
-				need some help hit up the <a
-				href="http://www.getskeleton.com">Skeleton
-				documentation</a>.</p>
-
-				<div id="main" role="main">
-					<%= yield %>
+		<div class="row"><!-- center -->
+			<div class="three columns leftpanel">
+				<div class="ads">
 				</div>
 
-				<aside>
-					<h2>Recent Articles</h2>
-						<ol>
-							<% blog.articles[0...10].each do |article| %>
-							<li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
-						<% end %>
-					</ol>
+				<b>Contact</b><br>
+				<a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;wojciech@koszek.com</a>
+				<br>
 
-					<h2>Tags</h2>
-						<ol>
-							<% blog.tags.each do |tag, articles| %>
-							<li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
-						<% end %>
-					</ol>
-					<h2>By Year</h2>
-						<ol>
-							<% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-							<li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
-						<% end %>
-					</ol>
-				</aside>
-			</div><!--content-->
-		</div><!--row-->
+				<a href="http://www.twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;@wkoszek</a>
+				<br>
+
+				<a href="http://www.linkedin.com/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;LinkedIn</a>
+				<br>
+
+				<a href="http://www.github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;Github</a>
+				<br>
+
+				<br>
+				<b>Tags</b>
+				<br>
+				<% blog.tags.each do |tag, articles| %>
+					<%= link_to "#{tag} (#{articles.size})", tag_path(tag) %><br>
+				<% end %>
+			</div>
+			<div class="seven columns">
+				<h2>Blog</h2>
+					<% blog.articles[0...10].each do |article| %>
+					<span class="date"><%= article.date.strftime('%b %e, %Y') %></span><br>
+					<%= link_to article.title, article %>
+					<br>
+					<br>
+					<% end %>
+			</div>
+
+			<div class="two columns">
+			</div>
+		</div><!-- content -->
+
+		<div class="row footer">
+			<div class="twelve columns">
+			<center>
+				&copy; 2015 Wojciech Adam Koszek
+			</center>
+			</div>
+		</div>
 	</div><!--container-->
 </body>
 </html>

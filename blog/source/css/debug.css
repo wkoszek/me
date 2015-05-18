@@ -5,11 +5,36 @@ a {
 	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
 	font-style: italic;
 	font-size: 150%;
-	padding-right: 4%;
+	margin-right: 4%;
 }
 .ads {
 	/* 130x100px */
 	width: 130px;
-	height: 190px;
-	border: solid 1px purple;
+	height: 0px; /* 190px */
+	height: 190px; /* 190px */
+	border: solid 1px white;
+}
+.date {
+	font-size: 85%;
+	color: gray;
+}
+
+.footer {
+	font-size: 85%;
+}
+
+#asocial aa
+{
+	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
+        font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 100%;
+	font-style: normal;
+}
+.leftpanel a {
+	font-size: 100%;
+        font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+}
+.links {
+	font-size: 100%;
 }
