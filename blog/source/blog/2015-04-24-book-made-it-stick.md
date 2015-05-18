@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Made it stick"
 date:   2015-04-24 19:13:59
 categories: books
