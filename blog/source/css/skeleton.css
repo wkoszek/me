@@ -158,7 +158,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: darkred;
+  color: #af0000;
   text-decoration: none;
   border-bottom: dotted 1px darkred;
 }
