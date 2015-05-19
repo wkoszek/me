@@ -1,12 +1,15 @@
-** {
+* {
 	border: dotted 1px gray;
 }
-a {
+
+.links a, .leftpanel a
+{
 	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
 	font-style: italic;
 	font-size: 150%;
 	margin-right: 4%;
 }
+
 .ads {
 	/* 130x100px */
 	width: 130px;
@@ -15,26 +18,56 @@ a {
 	border: solid 1px white;
 }
 .date {
+        font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 85%;
-	color: gray;
+	color: black;
+	font-weight: bold;
 }
 
 .footer {
 	font-size: 85%;
 }
 
-#asocial aa
-{
-	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
-        font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 100%;
-	font-style: normal;
+.content p {
+	font-family: "Baskerville";
+	font-size: 150%;
 }
+.leftpanel a {
+	font-size: 100%;
+}
+/*
 .leftpanel a {
 	font-size: 100%;
         font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-style: normal;
 }
+*/
 .links {
 	font-size: 100%;
 }
+
+
+/* LOGO */
+.logo a {
+        font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: black;
+	font-size: 150%;
+	font-style: normal;
+	font-weight: bold;
+}
+.logo a:hover {
+	color: darkgray;
+}
+
+a {
+  color: #af0000; background:white;
+  -o-transition:color .1s ease-out, background 0.2s ease-in;
+  -ms-transition:color .1s ease-out, background 0.2s ease-in;
+  -moz-transition:color .1s ease-out, background 0.2s ease-in;
+  -webkit-transition:color .1s ease-out, background 0.2s ease-in;
+  /* ...and now override with proper CSS property */
+  transition:color .2s ease-out, background 0.2s ease-in;
+}
+a:hover { color:darkgray; background:white; }
+
