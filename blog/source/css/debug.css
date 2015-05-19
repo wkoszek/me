@@ -9,6 +9,14 @@
 	font-size: 150%;
 	margin-right: 4%;
 }
+.links .ac {
+	padding-bottom: 1%;
+	border-bottom: solid 5px darkred;
+}
+body {
+	border-top: solid 3px black;
+}
+
 .content p {
 	font-family: "Baskerville";
 	font-size: 150%;
