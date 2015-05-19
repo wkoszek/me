@@ -2,12 +2,19 @@
 	border: dotted 1px gray;
 }
 
-.links a, .leftpanel a
+.links a, .leftpanel a, .content a
 {
 	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
 	font-style: italic;
 	font-size: 150%;
 	margin-right: 4%;
+}
+.content p {
+	font-family: "Baskerville";
+	font-size: 150%;
+}
+.content a {
+	font-size: 125%;
 }
 
 .ads {
@@ -20,8 +27,8 @@
 .date {
         font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 85%;
-	color: black;
+	font-size: 65%;
+	color: gray;
 	font-weight: bold;
 }
 
@@ -29,10 +36,6 @@
 	font-size: 85%;
 }
 
-.content p {
-	font-family: "Baskerville";
-	font-size: 150%;
-}
 .leftpanel a {
 	font-size: 100%;
 }
