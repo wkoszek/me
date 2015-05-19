@@ -41,11 +41,11 @@
 				<a href="/">Wojciech Adam Koszek</a>
 			</div>
 			<div class="eight columns links">
-				<a href="/">Writing</a>
-				<a href="/reading/">Reading</a>
-				<a href="/speaking/">Speaking</a>
-				<a href="/software/">Software</a>
-				<a href="/about/">About me</a>
+				<a class="<%= current_page.url == "/" ? "ac" : "in" %>" href="/">Writing</a>
+				<a class="<%= current_page.url == "/reading/" ? "ac" : "in" %>" href="/reading/">Reading</a>
+				<a class="<%= current_page.url == "/speaking/" ? "ac" : "in" %>" href="/speaking/">Speaking</a>
+				<a class="<%= current_page.url == "/software/" ? "ac" : "in" %>" href="/software/">Software</a>
+				<a class="<%= current_page.url == "/about/" ? "ac" : "in" %>" href="/about/">About me</a>
 			</div>
 		</div>
 		<div class="row">
