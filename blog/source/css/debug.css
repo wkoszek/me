@@ -1,4 +1,4 @@
-* {
+** {
 	border: dotted 1px gray;
 }
 
@@ -58,6 +58,7 @@
 	font-size: 150%;
 	font-style: normal;
 	font-weight: bold;
+	border: 0;
 }
 .logo a:hover {
 	color: darkgray;
