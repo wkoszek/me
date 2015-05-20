@@ -1,12 +1,11 @@
-The E-Myth Revisited
---------------------
+---
+title:	The E-Myth Revisited
+auth:	Michael E. Gerber
+read:	2012-10-02
+---
 
-**AUTHOR:** Michael E. Gerber, 
-**DATE READ:** 2012-10-02
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Wow!
 

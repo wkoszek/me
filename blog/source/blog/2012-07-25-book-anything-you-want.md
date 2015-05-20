@@ -1,12 +1,11 @@
-Anything you want
----------------
+---
+title:	Anything you want
+auth:	Derek Sivers 
+read:	2012-07-25
+---
 
-**AUTHOR:** Derek Sivers 
-**DATE READ:** 2012-07-25
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 About Derek I learnt by accident.
 

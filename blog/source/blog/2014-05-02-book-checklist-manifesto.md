@@ -1,13 +1,12 @@
-The checklist manifesto
----------------
+---
+title:	The checklist manifesto
+auth:	Atul Gawande
+read:	2014-05-02
+---
 
-**AUTHOR:** Atul Gawande
 
-**DATE READ:** 2014-05-02
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

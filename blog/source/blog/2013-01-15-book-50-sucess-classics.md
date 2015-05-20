@@ -1,12 +1,11 @@
-50 Success Classics
----------------
+---
+title:	50 Success Classics
+auth:	Tom Butler-Bowdon
+read:	2013-01-15
+---
 
-**AUTHOR:** Tom Butler-Bowdon
-**DATE READ:** 2013-01-15
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This book was mentioned in "50 Prosperity Classics", since it apparently was
 the "first one". It's similar in nature. Book list is slightly different. As

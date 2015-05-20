@@ -1,12 +1,11 @@
-Picture This: How Pictures Work
----------------
+---
+title:	Picture This: How Pictures Work
+auth:	Molly Bang
+read:	2014-12-27
+---
 
-**AUTHOR:** Molly Bang
-**DATE READ:** 2014-12-27
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

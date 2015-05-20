@@ -1,12 +1,11 @@
-Rework
-------------------
+---
+title:	Rework
+auth:	Jason Fried, David Heinemeier Hansson 
+read:	2012-08-24
+---
 
-**AUTHOR:** Jason Fried, David Heinemeier Hansson 
-**DATE READ:** 2012-08-24
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 I highly recommend you skip this book, since I want to be ahead of you.
 

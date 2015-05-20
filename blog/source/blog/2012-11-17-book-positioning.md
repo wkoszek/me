@@ -1,12 +1,11 @@
-Positioning
----------------
+---
+title:	Positioning
+auth:	Al Ries, Jack Trout 
+read:	2012-11-17
+---
 
-**AUTHOR:** Al Ries, Jack Trout 
-**DATE READ:** 2012-11-17
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This book was similar to "22 lawy of marketing".
 

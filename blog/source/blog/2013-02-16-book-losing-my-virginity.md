@@ -1,12 +1,11 @@
-Losing My Virginity
----------------
+---
+title:	Losing My Virginity
+auth:	Richard Branson
+read:	2013-02-16
+---
 
-**AUTHOR:** Richard Branson
-**DATE READ:** 2013-02-16
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Yet another WOW on my list. Absolute MUST to read for anybody interested in
 business. Once of the examples that real entrepreneurs can be born outside

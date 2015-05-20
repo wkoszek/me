@@ -1,12 +1,11 @@
-The Idea Factory
----------------
+---
+title:	The Idea Factory
+auth:	Jon Gertner 
+read:	2014-11-04
+---
 
-**AUTHOR:** Jon Gertner 
-**DATE READ:** 2014-11-04
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

@@ -1,12 +1,11 @@
-Getting things done
--------------------
+---
+title:	Getting things done
+auth:	David Allen
+read:	2012-08-15
+---
 
-**AUTHOR:** David Allen, 
-**DATE READ:** 2012-08-15
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This book is, and will be for a long time my number ONE in improving how I
 function. Surprisingly, I learned about this books from my job, which is

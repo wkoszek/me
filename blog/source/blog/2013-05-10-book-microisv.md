@@ -1,12 +1,11 @@
-MicroISV
-----------------
+---
+title:	MicroISV
+auth:	Bob Walsh
+read:	2013-05-10
+---
 
-**AUTHOR:** Bob Walsh
-**DATE READ:** 2013-05-10
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 MicroISV was on Joel Spolsky MBA list, which I basically follow in my
 reading.

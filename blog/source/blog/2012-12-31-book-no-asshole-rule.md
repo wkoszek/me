@@ -1,12 +1,11 @@
-No asshole rule
----------------
+---
+title:	No asshole rule
+auth:	Robert Sutton 
+read:	2012-12-31
+---
 
-**AUTHOR:** Robert Sutton 
-**DATE READ:** 2012-12-31
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 I scored 7/23 on "Are you an asshole" scale, which makes me be in a "You
 have to watch yourself" category.

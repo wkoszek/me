@@ -1,12 +1,11 @@
-Made in America
----------------
+---
+title:	Made in America
+auth:	Sam Walton, John Huey
+read:	2013-08-20
+---
 
-**AUTHOR:** Sam Walton, John Huey
-**DATE READ:** 2013-08-20
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This book was quite amazing. It's funny that there are people like Sam
 Walton, who decided to leave some heritage and write a piece like that.

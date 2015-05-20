@@ -1,12 +1,11 @@
-Don't make me think
------------------
+---
+title:	Don't make me think
+auth:	Steve Krug 
+read:	2012-08-03
+---
 
-**AUTHOR:** Steve Krug 
-**DATE READ:** 2012-08-03
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 After I finished:
 

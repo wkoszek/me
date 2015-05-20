@@ -1,12 +1,11 @@
-How to Gain 2 Extra Hours a Day
----------------
+---
+title:	How to Gain 2 Extra Hours a Day
+auth:	Brian Tracy
+read:	2013-08-05
+---
 
-**AUTHOR:** Brian Tracy
-**DATE READ:** 2013-08-05
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 When I first listened to this book, I started to have a bad opinion about Tracy's
 books, since the advice which I have heard is basically: "In order to get

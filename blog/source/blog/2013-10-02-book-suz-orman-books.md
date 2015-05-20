@@ -1,12 +1,11 @@
-Suze Orman books (9 steps, Courage..., )
----------------
+---
+title:	Suze Orman books (9 steps, Courage..., )
+auth:	Suze Orman
+read:	2013-10-02
+---
 
-**AUTHOR:** Suze Orman
-**DATE READ:** 2013-10-02
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 If you're a HFT or a Bitcoin trader, these books ARE NOT for you.
 

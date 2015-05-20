@@ -1,13 +1,12 @@
-How to stay motivated
----------------
+---
+title:	How to stay motivated
+auth:	Zig Ziglar
+read:	2013-02-10
+---
 
-**AUTHOR:** Zig Ziglar
 
-**DATE READ:** 2013-02-10
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 It was one of my favorite audio recordings.
 

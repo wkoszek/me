@@ -1,12 +1,11 @@
-Teach yourself Ruby in 21 days
----------------
+---
+title:	Teach yourself Ruby in 21 days
+auth:	by Mark Slagell
+read:	2014-11-27
+---
 
-**AUTHOR:** by Mark Slagell
-**DATE READ:** 2014-11-27
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This is a very nice, slick, little book with a fair amount of background in
 Ruby to actually remind/teach one how to work with this language.

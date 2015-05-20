@@ -1,12 +1,11 @@
-Succeeding as first time manager
-----------------------
+---
+title:	Succeeding as first time manager
+auth:	Dick Lohr
+read:	2013-04-20
+---
 
-**AUTHOR:** Dick Lohr
-**DATE READ:** 2013-04-20
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This was actually pretty good!
 

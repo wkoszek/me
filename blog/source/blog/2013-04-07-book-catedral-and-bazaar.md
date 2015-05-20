@@ -1,12 +1,11 @@
-The Cathedral and the Bazaar
----------------
+---
+title:	The Cathedral and the Bazaar
+auth:	Eric S. Raymond
+read:	2013-04-07
+---
 
-**AUTHOR:** Eric S. Raymond
-**DATE READ:** 2013-04-07
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Nice overview on the open source world and old times of software
 development.

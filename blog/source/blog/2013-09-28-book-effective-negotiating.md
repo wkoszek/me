@@ -1,12 +1,11 @@
-Effective negotiating
----------------
+---
+title:	Effective negotiating
+auth:	Chester L Karrass
+read:	2013-09-28
+---
 
-**AUTHOR:** Chester L Karrass
-**DATE READ:** 2013-09-28
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Effective negotiating is something I felt would be worthwhile to study,
 since the whole subject was relatively new to me.

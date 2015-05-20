@@ -1,12 +1,11 @@
-The Founder's Dilemmas
----------------
+---
+title:	The Founder's Dilemmas
+auth:	Noam Wasserman
+read:	2014-12-30
+---
 
-**AUTHOR:** Noam Wasserman
-**DATE READ:** 2014-12-30
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This book was on my TODO for quite a while, as I was in the search for a
 some answers related to problems founders of startups and individual

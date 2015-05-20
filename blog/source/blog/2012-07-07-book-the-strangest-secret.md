@@ -1,12 +1,11 @@
-The Strangest Secret
----------------
+---
+title:	The Strangest Secret
+auth:	Earl Nightingale 
+read:	2012-07-07
+---
 
-**AUTHOR:** Earl Nightingale 
-**DATE READ:** 2012-07-07
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This is one of the most influential books that I recommend to people.
 Earl Nightingale is probably right after Napoleon Hill on the success

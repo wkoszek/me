@@ -1,14 +1,13 @@
-How to move mount Fuji
----------------------------------------------
+---
+title:	How to move mount Fuji
+auth:	 William Poundstone 
+read:	2012-07-17
+---
 
-**AUTHOR:**  William Poundstone 
-**DATE READ:** 2012-07-17
 
-%%inc/addthis.html%%
 
 ...or ***Shockey Semiconductor and hiring smart people***
 
-### NOTES ###
 
 Interesting feeling it is when you're reading about places where significant
 accomplishments had happened before you've been born. And especially when

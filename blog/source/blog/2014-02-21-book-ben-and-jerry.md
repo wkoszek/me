@@ -1,12 +1,11 @@
-Ben and Jerry
----------------
+---
+title:	Ben and Jerry
+auth:	Fred Lager
+read:	2014-02-21
+---
 
-**AUTHOR:** Fred Lager
-**DATE READ:** 2014-02-21
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 

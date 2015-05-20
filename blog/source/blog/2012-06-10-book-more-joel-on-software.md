@@ -1,12 +1,11 @@
-More Joel on Software
----------------
+---
+title:	More Joel on Software
+auth:	Joel Spolsky 
+read:	2012-06-10
+---
 
-**AUTHOR:** Joel Spolsky 
-**DATE READ:** 2012-06-10
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 No worse than the predecessor, this book is a mandatory item for everybody
 related to the hi-tech world in any way.

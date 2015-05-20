@@ -1,12 +1,11 @@
-Jim Rohn's weekend leadership event
--------------------
+---
+title:	Jim Rohn's weekend leadership event
+auth:	Jim Rohn
+read:	2013-03-14
+---
 
-**AUTHOR:** Jim Rohn
-**DATE READ:** 2013-03-14
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 By all means this is a great content, which I can highly recommend. Rohn is
 an excellent speaker; very easily to listen and understand. Everything

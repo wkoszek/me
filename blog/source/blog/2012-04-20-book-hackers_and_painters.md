@@ -1,12 +1,11 @@
-Hackers and painters
----------------------------------
+---
+title:	Hackers and painters
+auth:	Paul Graham 
+read:	2012-04-20
+---
 
-**AUTHOR:** Paul Graham 
-**DATE READ:** 2012-04-20
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 I'm catching up with a list of computer classics and reading Graham's **Hackers and painters**
 

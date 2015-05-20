@@ -1,12 +1,11 @@
-The Power of Less
----------------
+---
+title:	The Power of Less
+auth:	 Leo Babauta
+read:	2013-05-02
+---
 
-**AUTHOR:**  Leo Babauta
-**DATE READ:** 2013-05-02
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Leo's book I really enjoyed. I'm not alone in terms of trying to simplify
 things around.

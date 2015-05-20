@@ -1,12 +1,11 @@
-Showstopper!
----------------
+---
+title:	Showstopper!
+auth:	G. Pascal Zachary 
+read:	2012-05-05
+---
 
-**AUTHOR:** G. Pascal Zachary 
-**DATE READ:** 2012-05-05
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 "Your ass is grass, and I'm a lawnmower"
 

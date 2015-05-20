@@ -1,12 +1,11 @@
-The science of getting rich
----------------
+---
+title:	The science of getting rich
+auth:	Wallace D. Wattles
+read:	2013-04-18
+---
 
-**AUTHOR:** Wallace D. Wattles
-**DATE READ:** 2013-04-18
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 So the beginning reminded me "The 21 immutable laws of marketing", where
 they describe that if other areas of science can have their laws, why

@@ -1,12 +1,11 @@
-David and Goliath
----------------
+---
+title:	David and Goliath
+auth:	Malcolm Gladwell
+read:	2014-06-07
+---
 
-**AUTHOR:** Malcolm Gladwell
-**DATE READ:** 2014-06-07
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

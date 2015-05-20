@@ -1,13 +1,12 @@
-The Power of Twitter
----------------
+---
+title:	The Power of Twitter
+auth:	Joel Comm, Dave Taylor, Guy Kawasaki
+read:	2014-10-19
+---
 
-**AUTHOR:** Joel Comm, Dave Taylor, Guy Kawasaki
 
-**DATE READ:** 2014-10-19
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 For some time now I was promising myself that I'd try to put social media under
 my control, since thanks to many website I use on a daily basis I realized

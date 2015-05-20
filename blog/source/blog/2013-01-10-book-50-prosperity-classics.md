@@ -1,12 +1,11 @@
-50 Prosperity Classics
----------------
+---
+title:	50 Prosperity Classics
+auth:	Tom Butler-Bowdon
+read:	2013-01-09
+---
 
-**AUTHOR:** Tom Butler-Bowdon
-**DATE READ:** 2013-01-09
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Nice overview of 50 books related to prosperity. I picked this one to target
 myself for 2013.

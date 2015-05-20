@@ -1,12 +1,11 @@
-The art of start
----------------
+---
+title:	The art of start
+auth:	Guy Kawasaki
+read:	2014-05-02
+---
 
-**AUTHOR:** Guy Kawasaki
-**DATE READ:** 2014-05-02
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

@@ -1,12 +1,11 @@
-The first billion is the hardest
----------------
+---
+title:	The first billion is the hardest
+auth:	T. Boone Pickens
+read:	2014-04-04
+---
 
-**AUTHOR:** T. Boone Pickens
-**DATE READ:** 2014-04-04
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

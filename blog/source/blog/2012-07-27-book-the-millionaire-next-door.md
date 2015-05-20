@@ -1,12 +1,11 @@
-The Millionaire Next Door
----------------
+---
+title:	The Millionaire Next Door
+auth:	Thomas J. Stanley,  William D. Danko 
+read:	2012-07-27
+---
 
-**AUTHOR:** Thomas J. Stanley,  William D. Danko 
-**DATE READ:** 2012-07-27
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 Full title "The Millionaire Next Door : The Surprising Secrets of America's Wealthy"

@@ -1,13 +1,12 @@
-How to read a book?
----------------
+---
+title:	How to read a book?
+auth:	Mortimer J. Adler, Charles Van Doren
+read:	2014-10-13
+---
 
-**AUTHOR:** Mortimer J. Adler, Charles Van Doren
 
-**DATE READ:** 2014-10-13
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

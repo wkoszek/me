@@ -1,12 +1,11 @@
-101 Secrets of Highly Effective Speakers
-----------------------------------------
+---
+title:	101 Secrets of Highly Effective Speakers
+auth:	Caryl Rae Krannich
+read:	2012-12-25
+---
 
-**AUTHOR: Caryl Rae Krannich** 
-**DATE READ:** 2012-12-25
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This is kind of interesting book about what to do and what to avoid while
 speaking to a large groups of people.

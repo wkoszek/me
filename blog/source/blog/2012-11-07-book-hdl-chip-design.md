@@ -1,12 +1,11 @@
-HDL Chip Design
----------------
+---
+title:	HDL Chip Design
+auth:	Douglas Smith 
+read:	2012-11-07
+---
 
-**AUTHOR:** Douglas Smith 
-**DATE READ:** 2012-11-07
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Full title: "HDL Chip Design: A Practical Guide for Designing, Synthesizing
 & Simulating ASICs & FPGAs Using VHDL or Verilog"

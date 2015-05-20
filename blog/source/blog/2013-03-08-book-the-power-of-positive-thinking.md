@@ -1,12 +1,11 @@
-The Power of Positive Thinking
----------------
+---
+title:	The Power of Positive Thinking
+auth:	Norman Vincent Peale
+read:	2013-03-08
+---
 
-**AUTHOR:** Norman Vincent Peale
-**DATE READ:** 2013-03-08
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 One of the books that I didn't quite "get", and thus didn't really enjoy.
 The thing is that unlike other positive thinking lectures, this position is

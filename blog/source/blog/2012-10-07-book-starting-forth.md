@@ -1,13 +1,12 @@
-Starting Forth
----------------
+---
+title:	Starting Forth
+auth:	Leo Brodie
+read:	2012-10-07
+---
 
-**AUTHOR:** Leo Brodie
 
-**DATE READ:** 2012-10-07
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 One of the technical classics, which I have promised myself to read.
 

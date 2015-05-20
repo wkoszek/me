@@ -1,12 +1,11 @@
-Just for Fun: The Story of an Accidental Revolutionary
----------------
+---
+title:	Just for Fun: The Story of an Accidental Revolutionary
+auth:	Linus Torvalds, David Diamond 
+read:	2012-09-17
+---
 
-**AUTHOR:** Linus Torvalds, David Diamond 
-**DATE READ:** 2012-09-17
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Short, little, geeky story about Linus and Linux, copyrights and ownership,
 coding, software culture and others like that.

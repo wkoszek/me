@@ -1,12 +1,11 @@
-Dealers of Lightning
----------------
+---
+title:	Dealers of Lightning
+auth:	Michael A. Hiltzik
+read:	2013-01-17
+---
 
-**AUTHOR:** Michael A. Hiltzik
-**DATE READ:** 2013-01-17
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Man, that's amazing, but it's like an N-th book on "Building a computer"
 story.

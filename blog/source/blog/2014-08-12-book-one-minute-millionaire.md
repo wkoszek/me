@@ -1,13 +1,12 @@
-One Minute Millionaire
----------------
+---
+title:	One Minute Millionaire
+auth:	Mark Victor Hansen, Robert G. Allen
+read:	2014-08-12
+---
 
-**AUTHOR:** Mark Victor Hansen, Robert G. Allen
 
-**DATE READ:** 2014-08-12
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 @@@RIGHT@@@
 

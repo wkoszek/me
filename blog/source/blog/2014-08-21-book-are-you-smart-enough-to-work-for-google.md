@@ -1,13 +1,12 @@
-Are you smart enough to work at Google?
----------------
+---
+title:	Are you smart enough to work at Google?
+auth:	William Poundstone
+read:	2014-08-21
+---
 
-**AUTHOR:** William Poundstone
 
-**DATE READ:** 2014-08-21
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

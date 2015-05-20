@@ -1,12 +1,11 @@
-How to win friends and influence people
------------------
+---
+title:	How to win friends and influence people
+auth:	Dale Carnegie 
+read:	2012-08-05
+---
 
-**AUTHOR:** Dale Carnegie 
-**DATE READ:** 2012-08-05
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 There is a lot of hardcore technical books on my shelf, but before I'll grab
 them and study more chip design and other geeky stuff, I decided to

@@ -1,12 +1,11 @@
-Power hiring
----------------
+---
+title:	Power hiring
+auth:	Lou Adler
+read:	2013-07-02
+---
 
-**AUTHOR:** Lou Adler
-**DATE READ:** 2013-07-02
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

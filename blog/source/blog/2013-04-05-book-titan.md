@@ -1,12 +1,11 @@
-Titan
----------------
+---
+title:	Titan
+auth:	Ron Chernow
+read:	2013-04-06
+---
 
-**AUTHOR:** Ron Chernow
-**DATE READ:** 2013-04-06
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 True story behind William A. Rockefeller, known as "Devil Bill" and later,
 one and only: John D. Rockefeller.

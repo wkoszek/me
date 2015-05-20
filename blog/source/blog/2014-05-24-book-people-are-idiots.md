@@ -1,12 +1,11 @@
-People Are Idiots and I Can Prove It!
----------------
+---
+title:	People Are Idiots and I Can Prove It!
+auth:	Larry Winget
+read:	2014-05-24
+---
 
-**AUTHOR:** Larry Winget
-**DATE READ:** 2014-05-24
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

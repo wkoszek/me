@@ -1,12 +1,11 @@
-JavaScript: The Definitive Guide
----------------
+---
+title:	JavaScript: The Definitive Guide
+auth:	David Flanagan
+read:	2013-03-24
+---
 
-**AUTHOR:** David Flanagan
-**DATE READ:** 2013-03-24
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 1/3rd of book is good. The rest was basically API manual pages all over the
 place and DOM browser hierarchies explained. I skipped those.

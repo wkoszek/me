@@ -1,13 +1,12 @@
-Accelerated learning techniques
----------------
+---
+title:	Accelerated learning techniques
+auth:	Brian Tracy
+read:	2014-Oct-15
+---
 
-**AUTHOR:** Brian Tracy
 
-**DATE READ:** 2014-Oct-15
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This little and interesting book touches topics such as paraphrasing newly
 read material, together with hints on how to stay focused.

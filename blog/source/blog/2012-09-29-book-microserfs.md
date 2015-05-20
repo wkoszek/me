@@ -1,12 +1,11 @@
-Microserfs
----------------
+---
+title:	Microserfs
+auth:	Douglas Coupland 
+read:	2012-09-29
+---
 
-**AUTHOR:** Douglas Coupland 
-**DATE READ:** 2012-09-29
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 I had a mixed feelings about this one.
 It described strange culture of Microsoft and their corporate environment.

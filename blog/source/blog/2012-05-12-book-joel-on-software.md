@@ -1,12 +1,11 @@
-Joel on Software
----------------
+---
+title:	Joel on Software
+auth:	Joel Spolsky 
+read:	2012-05-12
+---
 
-**AUTHOR:** Joel Spolsky 
-**DATE READ:** 2012-05-12
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 U la la. Just read. Simply read and enjoy. I think this is number #1 in
 terms of "what changed my approach to software engineering".

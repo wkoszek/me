@@ -1,12 +1,11 @@
-Innovate like Edison
----------------
+---
+title:	Innovate like Edison
+auth:	Michael J. Gelb, Sarah Miller Caldicott
+read:	2014-01-10
+---
 
-**AUTHOR:** Michael J. Gelb, Sarah Miller Caldicott
-**DATE READ:** 2014-01-10
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Great introduction to the life and achievements of one of the most famous
 inventors ever lived.

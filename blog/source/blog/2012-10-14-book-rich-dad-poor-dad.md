@@ -1,12 +1,11 @@
-Rich Dad Poor Dad
----------------
+---
+title:	Rich Dad Poor Dad
+auth:	Robert Kiyosaki 
+read:	2012-10-14
+---
 
-**AUTHOR:** Robert Kiyosaki 
-**DATE READ:** 2012-10-14
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Full title is "Rich Dad Poor Dad: What The Rich Teach Their Kids About Money That the Poor
 and Middle Class Do Not!"

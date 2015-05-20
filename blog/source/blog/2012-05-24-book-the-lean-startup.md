@@ -1,12 +1,11 @@
-The Lean Startup
----------------
+---
+title:	The Lean Startup
+auth:	Eric Ries 
+read:	2012-05-24
+---
 
-**AUTHOR:** Eric Ries 
-**DATE READ:** 2012-05-24
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Full title: "The Lean Startup -- How Today's Entrepreneurs Use Continuous
 Innovation to Create Radically Successful Businesses"

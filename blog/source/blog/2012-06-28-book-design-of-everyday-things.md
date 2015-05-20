@@ -1,12 +1,11 @@
-Design of everyday things
------------------
+---
+title:	Design of everyday things
+auth:	Donald A. Norman 
+read:	2012-06-28
+---
 
-**AUTHOR:** Donald A. Norman 
-**DATE READ:** 2012-06-28
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Boy ooohhh boy! Do I get frustrated by design of some objects of my daily use!
 No longer do I feel like a source of problem when encountering a difficulty

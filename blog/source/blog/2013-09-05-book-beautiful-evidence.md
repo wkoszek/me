@@ -1,12 +1,11 @@
-Beautiful evindence
----------------
+---
+title:	Beautiful evindence
+auth:	Edward Tufte
+read:	2013-09-05
+---
 
-**AUTHOR:** Edward Tufte
-**DATE READ:** 2013-09-05
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 "Beautiful evidence" is similar to "Envisioning information" and felt
 similar in terms of style of writing, as well as the content itself. The

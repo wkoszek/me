@@ -1,14 +1,13 @@
-The Power of Habit
----------------
+---
+title:	The Power of Habit
+auth:	 Charles Duhigg
+read:	2014-02-07
+---
 
-**AUTHOR:**  Charles Duhigg
-
-**DATE READ:** 2014-02-07
 
 
-%%inc/addthis.html%%
 
-### NOTES ###
+
 
 Power of Habit outlines just that: what can be achieved if you restructure
 your life slightly and align your daily habits to planned targets. I believe

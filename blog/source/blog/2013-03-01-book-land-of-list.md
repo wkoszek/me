@@ -1,12 +1,11 @@
-Land of Lisp
----------------
+---
+title:	Land of Lisp
+auth:	Conrad Barski 
+read:	2013-03-01
+---
 
-**AUTHOR:** Conrad Barski 
-**DATE READ:** 2013-03-01
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Full title "Land of Lisp: Learn to Program in Lisp, One Game at a Time!"
 

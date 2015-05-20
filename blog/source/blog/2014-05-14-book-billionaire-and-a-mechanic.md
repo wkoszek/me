@@ -1,13 +1,12 @@
-The Billionaire and the Mechanic
----------------
+---
+title:	The Billionaire and the Mechanic
+auth:	Julian Guthrie
+read:	2014-05-14
+---
 
 
-**AUTHOR:** Julian Guthrie
-**DATE READ:** 2014-05-14
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

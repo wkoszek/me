@@ -1,12 +1,11 @@
-As I see it.
----------------
+---
+title:	As I see it.
+auth:	Jean Paul Getty
+read:	2013-09-10
+---
 
-**AUTHOR:** Jean Paul Getty
-**DATE READ:** 2013-09-10
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 After great "How to be rich" I decided to immediately order the 2nd book by
 the oil magnate.

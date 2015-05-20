@@ -1,12 +1,11 @@
-Talent is overrated
----------------
+---
+title:	Talent is overrated
+auth:	Geoff Colvin 
+read:	2013-01-04
+---
 
-**AUTHOR:** Geoff Colvin 
-**DATE READ:** 2013-01-04
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This book delivered a confirmation to my belief. If you have ever played a
 musical instrument, this book will also deliver very solid background on why

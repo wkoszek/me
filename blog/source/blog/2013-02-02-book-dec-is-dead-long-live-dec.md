@@ -1,12 +1,11 @@
-DEC is dead. Long live DEC
----------------
+---
+title:	DEC is dead. Long live DEC
+auth:	E. Schein, P. Kampas, P. Delisi, M. Sonduck 
+read:	2013-01
+---
 
-**AUTHOR:** E. Schein, P. Kampas, P. Delisi, M. Sonduck 
-**DATE READ:** 2013-01
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This position was the next one in terms of hi-tech classics. DEC is the
 company that had put significant ground work for many further

@@ -1,12 +1,11 @@
-Long Walk to Freedom
----------------
+---
+title:	Long Walk to Freedom
+auth:	Nelson Mandela
+read:	2013-05-04
+---
 
-**AUTHOR:** Nelson Mandela
-**DATE READ:** 2013-05-04
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Haven't spent too much time reading anything from outside of the business
 world lately, but decided to break the bad habit. I picked "Long Walk To

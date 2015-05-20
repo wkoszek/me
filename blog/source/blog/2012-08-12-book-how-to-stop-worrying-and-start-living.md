@@ -1,12 +1,11 @@
-How to Stop Worrying and Start Living
----------------
+---
+title:	How to Stop Worrying and Start Living
+auth:	Dale Carnegie 
+read:	2012-08-12
+---
 
-**AUTHOR:** Dale Carnegie 
-**DATE READ:** 2012-08-12
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 "How to Win..." I got since it was just undeniably one of the most popular
 American classics, known even by people who don't read books.

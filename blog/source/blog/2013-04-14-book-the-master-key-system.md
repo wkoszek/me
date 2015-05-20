@@ -1,12 +1,11 @@
-The Master Key System
----------------
+---
+title:	The Master Key System
+auth:	Charles F. Haanel
+read:	2013-04-14
+---
 
 
-**AUTHOR:** Charles F. Haanel
-**DATE READ:** 2013-04-14
 
-%%inc/addthis.html%%
-### NOTES ###
 
 My brain is overflowing with content of that kind already, so nothing new
 here. If you've reach "Think and grow rich", you're unlikely to need this

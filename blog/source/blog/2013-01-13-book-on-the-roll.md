@@ -1,12 +1,8 @@
-On A Roll
----------
-
-**AUTHOR:** Howard Jonas 
-**DATE READ:** 2013-01-05
-
-%%inc/addthis.html%%
-
-### NOTES ###
+---
+title:	On A Roll
+auth:	Howard Jonas 
+read:	2013-01-05
+---
 
 Since the first sentence in this book I knew it'd be a very interesting
 lecture. Lets say that after the first sentence I knew I must read this book

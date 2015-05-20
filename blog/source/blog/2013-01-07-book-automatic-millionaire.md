@@ -1,12 +1,11 @@
-The Automatic Millionaire
----------------
+---
+title:	The Automatic Millionaire
+auth:	David Bach 
+read:	2013-01-07
+---
 
-**AUTHOR:** David Bach 
-**DATE READ:** 2013-01-07
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Magic of regular investing seems to have been with me for a long time.
 Mostly due to grandmother, who said that not a single person in our family

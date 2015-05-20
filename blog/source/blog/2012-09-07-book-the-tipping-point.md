@@ -1,13 +1,10 @@
-The Tipping Point
----------------
+---
+title:	The Tipping Point
+auth:	Malcolm Gladwell
+read:	2012-09-07
+---
 
-**AUTHOR:**
-Malcolm Gladwell
-**DATE READ:** 2012-09-07
 
-%%inc/addthis.html%%
-
-### NOTES ###
 
 Full title: "The Tipping Point: How Little Things Can Make a Big Difference"
 

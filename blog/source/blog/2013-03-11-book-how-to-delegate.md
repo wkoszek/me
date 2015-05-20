@@ -1,12 +1,11 @@
-How to Delegate
----------------
+---
+title:	How to Delegate
+auth:	Dick Lohr
+read:	2013-03-11
+---
 
-**AUTHOR:** Dick Lohr
-**DATE READ:** 2013-03-11
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 *Full title: How to Delegate Work and Ensure It's Done Right.*
 

@@ -1,13 +1,12 @@
-Winning
----------------
+---
+title:	Winning
+auth:	Jack Welch, Suzy Welch
+read:	2012-11-25
+---
 
-**AUTHOR:** Jack Welch, Suzy Welch
 
-**DATE READ:** 2012-11-25
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 High "OMG" factor for me. Price of the book to knowledge "sold" ratio is
 very high here.

@@ -1,13 +1,12 @@
-Blink
----------------
+---
+title:	Blink
+auth:	Malcolm Gladwell
+read:	2014-02-03
+---
 
-**AUTHOR:** Malcolm Gladwell
 
-**DATE READ:** 2014-02-03
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Blink is probably one of the best books of 2014 for me and it positively
 surprised me. Gladwell touches on the subject of rapid assessments done in

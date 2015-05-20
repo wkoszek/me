@@ -1,12 +1,11 @@
-Direct from Dell
----------------
+---
+title:	Direct from Dell
+auth:	Michael Dell, Catherine Fredman
+read:	2014-03-01
+---
 
-**AUTHOR:** Michael Dell, Catherine Fredman
-**DATE READ:** 2014-03-01
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

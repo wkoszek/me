@@ -1,12 +1,11 @@
-Extreme Toyota
----------------
+---
+title:	Extreme Toyota
+auth:	Emi Osono, Norihiko Shimizu, Hirotaka Takeuchi
+read:	2014-03-23
+---
 
-**AUTHOR:** Emi Osono, Norihiko Shimizu, Hirotaka Takeuchi
-**DATE READ:** 2014-03-23
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

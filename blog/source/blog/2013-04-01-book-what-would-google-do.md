@@ -1,12 +1,11 @@
-What would Google do?
----------------
+---
+title:	What would Google do?
+auth:	Jeff Jervis
+read:	2013-04-01
+---
 
-**AUTHOR:** Jeff Jervis
-**DATE READ:** 2013-04-01
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This is a pure propaganda! 
 

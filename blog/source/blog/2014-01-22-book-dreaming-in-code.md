@@ -1,12 +1,11 @@
-Dreaming in code
----------------
+---
+title:	Dreaming in code
+auth:	Scott Rosenberg
+read:	2014-01-22
+---
 
-**AUTHOR:** Scott Rosenberg
-**DATE READ:** 2014-01-22
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 The full title was: Dreaming in Code: Two Dozen Programmers, Three Years,
 4,732 Bugs, and One Quest for Transcendent Software. 

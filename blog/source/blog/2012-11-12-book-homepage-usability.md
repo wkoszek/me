@@ -1,12 +1,11 @@
-Homepage Usability: 50 Websites Deconstructed
----------------
+---
+title:	Homepage Usability: 50 Websites Deconstructed
+auth:	 Jakob Nielsen, Marie Tahir 
+read:	2012-11-12
+---
 
-**AUTHOR:**  Jakob Nielsen, Marie Tahir 
-**DATE READ:** 2012-11-12
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Dean of usability so impressed me with his
 [http://www.useit.com/](http://www.useit.com), that I decided to read his

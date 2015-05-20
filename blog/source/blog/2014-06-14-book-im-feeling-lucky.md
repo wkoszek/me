@@ -1,13 +1,12 @@
-I'm Feeling Lucky
----------------
+---
+title:	I'm Feeling Lucky
+auth:	Douglas Edwards
+read:	2014-06-14
+---
 
-**AUTHOR:** Douglas Edwards
 
-**DATE READ:** 2014-06-14
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

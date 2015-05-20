@@ -1,12 +1,11 @@
-How to Get Rich
----------------
+---
+title:	How to Get Rich
+auth:	Felix Dennis
+read:	2013-04-28
+---
 
-**AUTHOR:** Felix Dennis
-**DATE READ:** 2013-04-28
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 I DO NOT RECOMMEND THIS BOOK.
 

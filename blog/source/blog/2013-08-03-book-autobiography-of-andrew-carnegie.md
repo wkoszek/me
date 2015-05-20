@@ -1,12 +1,11 @@
-Autobiography of Andrew Carnegie
----------------
+---
+title:	Autobiography of Andrew Carnegie
+auth:	Andrew Carnegie
+read:	2013-08-10
+---
 
-**AUTHOR**: Andrew Carnegie
-**DATE READ:** 2013-08-10
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 I don't know how many times I've been starting this audiobook and giving up,
 since the beginning of this book is pretty stiff. Some days I preferred to

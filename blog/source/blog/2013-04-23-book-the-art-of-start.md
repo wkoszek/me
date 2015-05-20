@@ -1,13 +1,12 @@
-The Art of Start
----------------
+---
+title:	The Art of Start
+auth:	Guy Kawasaki 
+read:	2013-04-23
+---
 
-**AUTHOR:** Guy Kawasaki 
 
-**DATE READ:** 2013-04-23
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Kawasaki's book I read long time ago, It's a nice little booklet, relatively
 short, relatively packed with content.

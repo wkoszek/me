@@ -1,12 +1,11 @@
-Mindset
-------------------------
+---
+title:	Mindset
+auth:	Carol Dweck
+read:	2013-04-09
+---
 
-**AUTHOR:** Carol Dweck
-**DATE READ:** 2013-04-09
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This book would fit pretty well with "The Talent Code" and "Talent is
 overrate". Carol Dweck explains problem solving approaches and the attitude

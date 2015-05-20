@@ -1,13 +1,12 @@
-The Toyota Way
----------------
+---
+title:	The Toyota Way
+auth:	Jeffrey Liker
+read:	2012-04-04
+---
 
-**AUTHOR:** Jeffrey Liker
 
-**DATE READ:** 2012-04-04
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Full title: "The Toyota Way: 14 Management Principles from the World's
 Greatest Manufacturer"

@@ -1,12 +1,11 @@
-Peopleware
-----------
+---
+title:	Peopleware
+auth:	Marco, Lister
+read:	2012-12-29
+---
 
-**AUTHOR: DeMarco, Lister** 
-**DATE READ:** 2012-12-29
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Biggest effort in making project happen is figuring out social problems:
 managing people, managing expectations, figuring out issues and disagreements.

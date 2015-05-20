@@ -1,12 +1,11 @@
-The Field
----------------
+---
+title:	The Field
+auth:	Lynne McTaggart 
+read:	2012-10-20
+---
 
-**AUTHOR:** Lynne McTaggart 
-**DATE READ:** 2012-10-20
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Full title: "The Field--The Quest for the Secret Force of the Universe"
 

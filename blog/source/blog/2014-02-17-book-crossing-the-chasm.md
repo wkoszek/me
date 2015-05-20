@@ -1,12 +1,11 @@
-Crossing the chasm
----------------
+---
+title:	Crossing the chasm
+auth:	Geoffrey A. Moore
+read:	2014-02-17
+---
 
-**AUTHOR:** Geoffrey A. Moore
-**DATE READ:** 2014-02-17
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This is a classic in the Silicon Valley. Not sure if I learned a lot due to
 my previous studies, but was definitely good to hear known content

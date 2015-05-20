@@ -1,13 +1,12 @@
-The Millionaire Mind
----------------
+---
+title:	The Millionaire Mind
+auth:	Thomas J. Stanley
+read:	2013-05-15
+---
 
 
-**AUTHOR:** Thomas J. Stanley
-**DATE READ:** 2013-05-15
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Slightly updated version of the previous masterpiece.
 

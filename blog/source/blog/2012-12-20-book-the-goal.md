@@ -1,13 +1,12 @@
-The Goal
----------------
+---
+title:	The Goal
+auth:	Eliyahu M. Goldratt, Jeff Cox, David Whitford
+read:	2012-12-20
+---
 
-**AUTHOR:** Eliyahu M. Goldratt, Jeff Cox, David Whitford
 
-**DATE READ:** 2012-12-20
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Amazing take on a lean approach of business management. I didn't believe
 it'll be a valuable book, but boy.. was I wrong!

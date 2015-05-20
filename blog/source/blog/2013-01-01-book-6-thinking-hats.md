@@ -1,12 +1,11 @@
-Six thinking hats
------------------
+---
+title:	Six thinking hats
+auth:	Edward De Bono 
+read:	2013-01-01
+---
 
-**AUTHOR:** Edward De Bono 
-**DATE READ:** 2013-01-01
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 I didn't really know what to expect out of this book, but in general my
 understanding is it's a directed way for generating common voice and

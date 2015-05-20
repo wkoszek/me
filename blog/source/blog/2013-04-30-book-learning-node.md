@@ -1,12 +1,11 @@
-Learning Node
----------------
+---
+title:	Learning Node
+auth:	Shelley Powers
+read:	2013-05-01
+---
 
-**AUTHOR:** Shelley Powers
-**DATE READ:** 2013-05-01
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 *Be warned -- this is boring and technical thing*
 

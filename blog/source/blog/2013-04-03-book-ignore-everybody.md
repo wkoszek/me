@@ -1,12 +1,11 @@
-Ignore Everybody
----------------
+---
+title:	Ignore Everybody
+auth:	Hugh MacLeod
+read:	2013-04-03
+---
 
-**AUTHOR:** Hugh MacLeod
-**DATE READ:** 2013-04-03
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Didn't really know what to think about this book. Started just fine--nice
 story about New York City and having fun. Author described his niche habit

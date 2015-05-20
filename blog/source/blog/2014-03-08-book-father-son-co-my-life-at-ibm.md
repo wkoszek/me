@@ -1,12 +1,11 @@
-Father & Son -- my life at IBM
----------------
+---
+title:	Father & Son -- my life at IBM
+auth:	Thomas J. Watson, Peter Petre
+read:	2014-03-08
+---
 
-**AUTHOR:** Thomas J. Watson, Peter Petre
-**DATE READ:** 2014-03-08
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

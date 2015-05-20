@@ -1,12 +1,11 @@
-The 7 habits of highly effective people
----------------
+---
+title:	The 7 habits of highly effective people
+auth:	Stephen R. Covey 
+read:	2012-04-16
+---
 
-**AUTHOR:** Stephen R. Covey 
-**DATE READ:** 2012-04-16
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Covey's classic was well-known around my company. Looks like at some point
 in time this book was handed to people. Some of them claimed they were

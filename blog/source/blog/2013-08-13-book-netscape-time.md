@@ -1,12 +1,11 @@
-Netscape Time
----------------
+---
+title:	Netscape Time
+auth:	Jim Clark
+read:	2013-08-13
+---
 
-**AUTHOR:** Jim Clark
-**DATE READ:** 2013-08-13
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Full title: "Netscape time: The Making of the Billion-Dollar Start-Up That
 Took on Microsoft"

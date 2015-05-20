@@ -1,12 +1,11 @@
-Screw business as usual
----------------
+---
+title:	Screw business as usual
+auth:	Richard Branson
+read:	2014-03-14
+---
 
-**AUTHOR:** Richard Branson
-**DATE READ:** 2014-03-14
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

@@ -1,12 +1,11 @@
-The Old New Thing
----------------
+---
+title:	The Old New Thing
+auth:	Raymond Chen 
+read:	2012-12-07
+---
 
-**AUTHOR:** Raymond Chen 
-**DATE READ:** 2012-12-07
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 First time I learnt from Raymond Chen from Microsoft blog articles, and I
 wished there was a book with his blog entries, so that I don't have to stare

@@ -1,12 +1,11 @@
-The 17 Indisputable Laws of Teamwork
----------------
+---
+title:	The 17 Indisputable Laws of Teamwork
+auth:	John C. Maxwell
+read:	2014-01-16
+---
 
-**AUTHOR:** John C. Maxwell
-**DATE READ:** 2014-01-16
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This is a good summary of all management practices from previous books which
 I've read. 

@@ -1,12 +1,11 @@
-Everyone else must fail
----------------
+---
+title:	Everyone else must fail
+auth:	Karen Southwick
+read:	2013-04-27
+---
 
-**AUTHOR:** Karen Southwick
-**DATE READ:** 2013-04-27
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Think about me whatever you want, I don't care -- I like Larry.
 

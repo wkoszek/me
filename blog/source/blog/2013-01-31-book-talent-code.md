@@ -1,12 +1,11 @@
-Talent code
----------------
+---
+title:	Talent code
+auth:	Daniel Coyle 
+read:	2013-01-31
+---
 
-**AUTHOR:** Daniel Coyle 
-**DATE READ:** 2013-01-31
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Full title: The Talent Code: Greatness Isn't Born. It's Grown. Here's How.
 

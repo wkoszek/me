@@ -1,12 +1,11 @@
-The Anatomy of Buzz
----------------
+---
+title:	The Anatomy of Buzz
+auth:	Emanuel Rosen 
+read:	2012-09-20
+---
 
-**AUTHOR:** Emanuel Rosen 
-**DATE READ:** 2012-09-20
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 How the word spreads.
 

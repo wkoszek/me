@@ -1,12 +1,11 @@
-Brian Tracy books...
----------------
+---
+title:	Brian Tracy books...
+auth:	Brian Tracy
+read:	2013-07-22
+---
 
-**AUTHOR:** Brian Tracy
-**DATE READ:** 2013-07-22
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Not too much will be put here.
 

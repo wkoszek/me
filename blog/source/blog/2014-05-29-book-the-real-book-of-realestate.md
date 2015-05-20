@@ -1,13 +1,12 @@
-The real book of real-estate
----------------
+---
+title:	The real book of real-estate
+auth:	Robert T. Kiyosaki
+read:	2014-05-29
+---
 
-**AUTHOR:** Robert T. Kiyosaki
-**DATE READ:** 2014-05-29
 
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 
 @@@RIGHT@@@

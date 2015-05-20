@@ -1,12 +1,11 @@
-The Art of Motorcycle Maintenance
---------------------------------
+---
+title:	The Art of Motorcycle Maintenance
+auth:	Robert Pirsig 
+read:	2012-09-11
+---
 
-**AUTHOR:** Robert Pirsig 
-**DATE READ:** 2012-09-11
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Being over-ambitious is the worst of all sin. I promised myself to seek for
 recommendations for good books and stick to them and listen to nobody's

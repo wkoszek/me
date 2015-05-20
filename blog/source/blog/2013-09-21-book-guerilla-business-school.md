@@ -1,12 +1,11 @@
-Guerilla Business School
----------------
+---
+title:	Guerilla Business School
+auth:	Herv Eker
+read:	2013-09-21
+---
 
-**AUTHOR:** Herv Eker
-**DATE READ:** 2013-09-21
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Live recordings from countries other than Poland let me realize how
 different the society is. It's very hard for me to believe such a class

@@ -1,12 +1,11 @@
-I hate people
----------------
+---
+title:	I hate people
+auth:	Jonathan Littman, Marc Hershon
+read:	2014-06-25
+---
 
-**AUTHOR:** Jonathan Littman, Marc Hershon
-**DATE READ:** 2014-06-25
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 The title of a book is probably to boost sales a little, yet I fell is that
 "Office survival guide" would be a better title for this position.

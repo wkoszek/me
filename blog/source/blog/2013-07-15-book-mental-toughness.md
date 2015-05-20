@@ -1,12 +1,11 @@
-Mental toughness training
----------------
+---
+title:	Mental toughness training
+auth:	 by James, Loehr, Peter McLaughlin
+read:	2013-07-15
+---
 
-**AUTHOR:**  by James, Loehr, Peter McLaughlin
-**DATE READ:** 2013-07-15
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 "Mental Toughness Training", just like its subtitle says, is a guide to
 achieving ideal performance at will.

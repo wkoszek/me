@@ -1,12 +1,11 @@
-Envisioning information
----------------
+---
+title:	Envisioning information
+auth:	Edward Tufte
+read:	2013-08-27
+---
 
-**AUTHOR:** Edward Tufte
-**DATE READ:** 2013-08-27
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Edward Tufte's books were on my TODO for 2 years now (I got the 4 pack from
 somebody who apparently participated in the tutorial), but haven't had a

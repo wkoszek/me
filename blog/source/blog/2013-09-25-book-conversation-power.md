@@ -1,12 +1,11 @@
-Conversation Power
----------------
+---
+title:	Conversation Power
+auth:	James K. Van Fleet
+read:	2013-09-25
+---
 
-**AUTHOR:** James K. Van Fleet
-**DATE READ:** 2013-09-25
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Not that great - some obvious stuff. Nothing else.
 

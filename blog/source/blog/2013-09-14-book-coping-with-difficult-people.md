@@ -1,12 +1,11 @@
-Coping with difficult people
----------------
+---
+title:	Coping with difficult people
+auth:	Robert M. Bramson
+read:	2013-09-14
+---
 
-**AUTHOR:** Robert M. Bramson
-**DATE READ:** 2013-09-14
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Title looked appealing to me, since I believe many people in the corporation
 I work for must have real problems with interacting with me. I too sometimes

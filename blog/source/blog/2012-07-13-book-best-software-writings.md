@@ -1,12 +1,11 @@
-The Best Software Writing I
----------------
+---
+title:	The Best Software Writing I
+auth:	Joel Spolsky and various other authors 
+read:	2012-07-19
+---
 
-**AUTHOR:** Joel Spolsky and various other authors 
-**DATE READ:** 2012-07-19
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 This time Joel acted as a art connoisseur, who picked the best miniature art
 forms and glued them together and commented on.

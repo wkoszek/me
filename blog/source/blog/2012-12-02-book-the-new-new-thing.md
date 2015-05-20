@@ -1,12 +1,11 @@
-The New New Thing: A Silicon Valley Story
----------------
+---
+title:	The New New Thing: A Silicon Valley Story
+auth:	Michael Lewis 
+read:	2012-12-02
+---
 
-**AUTHOR:** Michael Lewis 
-**DATE READ:** 2012-12-02
 
-%%inc/addthis.html%%
 
-### NOTES ###
 
 Silicon Graphics story and why it's not worth to take investors early!
 
