@@ -8,7 +8,7 @@ read:	2014-01-22
 
 
 The full title was: Dreaming in Code: Two Dozen Programmers, Three Years,
-4,732 Bugs, and One Quest for Transcendent Software. 
+4,732 Bugs, and One Quest for Transcendent Software.
 
 
 The book explains the story behind Chandler, Mitch Kapor's open-source pet

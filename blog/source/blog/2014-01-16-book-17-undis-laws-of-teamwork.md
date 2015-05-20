@@ -8,7 +8,7 @@ read:	2014-01-16
 
 
 This is a good summary of all management practices from previous books which
-I've read. 
+I've read.
 
 I haven't learnt anything new from this group, but if you haven't dealt with
 problems touching team management, I'd say this is probably the best summary

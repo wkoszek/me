@@ -1,6 +1,6 @@
 ---
 title:	How to move mount Fuji
-auth:	 William Poundstone 
+auth:	 William Poundstone
 read:	2012-07-17
 ---
 

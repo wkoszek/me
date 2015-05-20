@@ -23,7 +23,7 @@ managed to survive and figured out a niche way of dropping prices.
 I still don't understand why at that time making deals Railroads and getting
 a discount was prohibited. I think I'm raised in a culture, where things
 like that are performed on a daily basis, thus this doesn't seem too
-outrageous. 
+outrageous.
 
 The idea of trust was pretty unique too. I think being the first one to come
 up with an idea is pretty cool. He should be getting more credit for that :)

@@ -1,6 +1,6 @@
 ---
 title:	No asshole rule
-auth:	Robert Sutton 
+auth:	Robert Sutton
 read:	2012-12-31
 ---
 

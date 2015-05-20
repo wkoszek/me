@@ -59,7 +59,7 @@ authors of that kind.
 But honestly, once again: "Think and grow rich" is more natural. Especially
 in the form of "rare recordings". No hints here, but once you'll find it,
 you'll know it's this thing I mentioned. Additionally, hearing original
-author's voice is something that makes me want to concentrate more. 
+author's voice is something that makes me want to concentrate more.
 
 @@@RIGHT@@@
 

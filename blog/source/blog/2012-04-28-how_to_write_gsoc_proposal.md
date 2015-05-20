@@ -23,7 +23,7 @@ sentence answer for each of the questions:
  FreeBSD support of filesystem X*; *I propose to improve 3 FreeBSD text
  utilities: grep(1), diff(1) and sed(1)*; *This proposal is about bringing
  support for CPU percentage limits".
- 
+
  + **Why do you work on this project?** Example: "I want to improve support
  for colorful ls(1) because current ls(1) is archaic"; "I want to improve
  FreeBSD ULE kernel scheduler to let me turn CPU off"* etc..
@@ -151,7 +151,7 @@ give a guideline, but just like they teach us all: introduction, content,
 summary. This is how I would like to see GSOC project descriptions stated.
 Some questions which you may find helpful: What's the project all about?
 What does it solve? What current system/program doesn't have, that your
-project will bring? Who will benefit from it? 
+project will bring? Who will benefit from it?
 
 Don't include all answers to all questions. "Project description" must be
 technical, and not only having brave statements. So include technical

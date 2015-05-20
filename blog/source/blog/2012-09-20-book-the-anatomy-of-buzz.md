@@ -1,6 +1,6 @@
 ---
 title:	The Anatomy of Buzz
-auth:	Emanuel Rosen 
+auth:	Emanuel Rosen
 read:	2012-09-20
 ---
 

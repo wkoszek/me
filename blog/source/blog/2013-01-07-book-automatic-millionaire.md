@@ -1,6 +1,6 @@
 ---
 title:	The Automatic Millionaire
-auth:	David Bach 
+auth:	David Bach
 read:	2013-01-07
 ---
 
@@ -63,7 +63,7 @@ will give you back. I played with the calculator:
 and the only thing which I think is worth trying is the last point of Bach's
 book mentioned: if you have two choices in your life, it's worth trying the
 riskier one. Since nearly always there's a time to recover from disaster, at
-least you won't regret anything on your deathbed. 
+least you won't regret anything on your deathbed.
 
 @@@RIGHT@@@
 

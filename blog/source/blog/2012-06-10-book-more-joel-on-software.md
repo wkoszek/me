@@ -1,6 +1,6 @@
 ---
 title:	More Joel on Software
-auth:	Joel Spolsky 
+auth:	Joel Spolsky
 read:	2012-06-10
 ---
 

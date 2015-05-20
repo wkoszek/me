@@ -9,7 +9,7 @@ read:	2013-04-28
 
 I DO NOT RECOMMEND THIS BOOK.
 
-Felix, thanks a lot! 
+Felix, thanks a lot!
 
 @@@RIGHT@@@
 

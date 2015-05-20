@@ -1,6 +1,6 @@
 ---
 title:	How to Stop Worrying and Start Living
-auth:	Dale Carnegie 
+auth:	Dale Carnegie
 read:	2012-08-12
 ---
 

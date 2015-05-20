@@ -1,6 +1,6 @@
 ---
 title:	Anything you want
-auth:	Derek Sivers 
+auth:	Derek Sivers
 read:	2012-07-25
 ---
 

@@ -47,7 +47,7 @@ of daily job.  Once again: this is preferred choice only when you're pushed to f
 and you know upfront you won't make it.
 
 	if ($g_fn_hack) {
-		# HACK!! 
+		# HACK!!
 		# Filename generation routine creates a _base_name_.log of a
 		# file and we register _base_name_ to prevent us from
 		# overwriting files accidentally. But since I didn't
@@ -200,7 +200,7 @@ So methodology works pretty well: do automatic stuff first, get it right,
 but leave the very last decision to the "human operator" (you) when
 possible; inspect stuff visually; double check random lines of sequences of
 commands which you're going to run; if multiple (>1000) lines are involved,
-redirect output to a file and edit it, cross check with your assumptions. 
+redirect output to a file and edit it, cross check with your assumptions.
 The decide what to do.
 
 Believe me, this methodology saved me couple of times, since some critical

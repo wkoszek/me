@@ -1,6 +1,5 @@
 ---
 title:	"Secret"
-date:   2012-02-02
 tags:	books
 auth:	Rhonda Byrne
 read:	2012-02-02

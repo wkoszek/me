@@ -1,6 +1,6 @@
 ---
 title:	Microserfs
-auth:	Douglas Coupland 
+auth:	Douglas Coupland
 read:	2012-09-29
 ---
 
@@ -29,7 +29,7 @@ There's a psychological element in the  book, which I liked.
 There's a deep moral too.
 
 You're likely to enjoy it. If I were to recommend you the last book in your
-life, this wouldn't be the one. Other than that however, it's worth reading. 
+life, this wouldn't be the one. Other than that however, it's worth reading.
 
 @@@RIGHT@@@
 

@@ -1,6 +1,6 @@
 ---
 title:	On A Roll
-auth:	Howard Jonas 
+auth:	Howard Jonas
 read:	2013-01-05
 ---
 

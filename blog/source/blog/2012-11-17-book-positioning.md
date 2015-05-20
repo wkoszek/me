@@ -1,6 +1,6 @@
 ---
 title:	Positioning
-auth:	Al Ries, Jack Trout 
+auth:	Al Ries, Jack Trout
 read:	2012-11-17
 ---
 

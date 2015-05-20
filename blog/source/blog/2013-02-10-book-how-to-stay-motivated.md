@@ -10,7 +10,7 @@ read:	2013-02-10
 
 It was one of my favorite audio recordings.
 
-One of the longest too. 
+One of the longest too.
 
 I didn't know Zig Ziglar till the study of "50 prosperity classics" and "50
 success classics".  His name was mentioned there, and in a pretty strange

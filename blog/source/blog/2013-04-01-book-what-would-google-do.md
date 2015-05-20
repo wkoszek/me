@@ -7,7 +7,7 @@ read:	2013-04-01
 
 
 
-This is a pure propaganda! 
+This is a pure propaganda!
 
 Reading this thing lead to mixed feelings, however I consider the overall
 experience -- the aftertaste -- to be positive. Praising Google for pretty

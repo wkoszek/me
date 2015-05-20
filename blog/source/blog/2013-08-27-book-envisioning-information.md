@@ -17,7 +17,7 @@ from the collection.
 
 Pretty amazing research has been done to create a book of that type.
 Examples of the art forms comes from several centuries and spun many
-countries. 
+countries.
 
 Presenting information is a very difficult subject, having learned it at a
 daily job. Needing to present 4 combination of experiments across 5

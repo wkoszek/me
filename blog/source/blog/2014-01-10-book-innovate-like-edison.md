@@ -22,7 +22,7 @@ believe that. I view the book as a collection of "good to have" advices.
 
 They mention lots of Edison's things that were just his thing, and which are
 so different in between entrepreneurs that it's hard to tell whether
-Edison's "unique features" really helped him to be so successful. 
+Edison's "unique features" really helped him to be so successful.
 
 There's a big cross-section with Napoleon Hill's classic here, which authors
 emphasize several times. This only proves how big of a art piece Hill's book

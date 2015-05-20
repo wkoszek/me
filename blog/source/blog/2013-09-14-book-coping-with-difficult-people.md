@@ -18,14 +18,14 @@ participating in anything, the ones that agree with everything but don't
 produce any results, bulldozers and other.
 
 Each of them is a ticking social bomb which is going to explode in a
-different time. 
+different time.
 
 For each of them he gives the background and the possible ways to handle the
 troublesome human being.
 
 If you work in a big corporation, I think you must have experienced each of
 the behaviors mentioned. This book will provide an explanation and ways to
-show why some people behave like that. 
+show why some people behave like that.
 
 Useful resource.
 

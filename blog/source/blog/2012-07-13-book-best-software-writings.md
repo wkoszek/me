@@ -1,6 +1,6 @@
 ---
 title:	The Best Software Writing I
-auth:	Joel Spolsky and various other authors 
+auth:	Joel Spolsky and various other authors
 read:	2012-07-19
 ---
 

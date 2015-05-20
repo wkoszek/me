@@ -1,6 +1,6 @@
 ---
 title:	The Field
-auth:	Lynne McTaggart 
+auth:	Lynne McTaggart
 read:	2012-10-20
 ---
 

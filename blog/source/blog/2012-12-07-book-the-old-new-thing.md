@@ -1,6 +1,6 @@
 ---
 title:	The Old New Thing
-auth:	Raymond Chen 
+auth:	Raymond Chen
 read:	2012-12-07
 ---
 

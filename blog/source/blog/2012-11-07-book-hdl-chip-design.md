@@ -1,6 +1,6 @@
 ---
 title:	HDL Chip Design
-auth:	Douglas Smith 
+auth:	Douglas Smith
 read:	2012-11-07
 ---
 

@@ -1,6 +1,5 @@
 ---
 title:  "Made it stick"
-date:   2015-04-24 19:13:59
 categories: books
 ---
 
@@ -24,7 +23,7 @@ anything else.
 Diversifying the practice also brings good results, and trying to use as
 much of a power of our associative minds leads to much better results.
 This is a theme mentioned by Brian Tracy in his "Accelerated Learning
-Techniques" where he's 
+Techniques" where he's
 
 One of the colleges mentioned was said to have teachers give assignments for
 classes that were to happen in the future, so that students unfamiliar with

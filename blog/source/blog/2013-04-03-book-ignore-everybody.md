@@ -10,7 +10,7 @@ read:	2013-04-03
 Didn't really know what to think about this book. Started just fine--nice
 story about New York City and having fun. Author described his niche habit
 of drawing things on the back of business cards, and how people felt it's
-ridiculous. 
+ridiculous.
 
 His faith in doing something he liked and believed in was one of the
 advices. This is a point of view not matching the interative, incremental

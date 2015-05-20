@@ -4,7 +4,7 @@ Cross-compile GNU assembler for MIPS
 
 %%inc/addthis.html%%
 
-Just a short note, not to have to walk through the Web each time I 
+Just a short note, not to have to walk through the Web each time I
 want to get some strange opcodes generated.
 
 Today "strange" means "MIPS". "Nobody uses MIPS", you say? Well -- I still believe MIPS

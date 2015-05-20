@@ -1,6 +1,6 @@
 ---
 title:	Talent is overrated
-auth:	Geoff Colvin 
+auth:	Geoff Colvin
 read:	2013-01-04
 ---
 

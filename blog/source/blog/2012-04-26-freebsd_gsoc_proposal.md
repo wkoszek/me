@@ -21,7 +21,7 @@ a short summary regarding what I think about GSoC:
 
  1. It's a very valuable program for young people, who otherwise would have
  gone unnoticed.
- 
+
  2. It's a good boost in the community. GSoC gave some more life in Open
  Source, since even if not for the pure technical joy (at first), people
  decide to hack stuff for fun and profit (in the middle-east countries $5000
@@ -70,7 +70,7 @@ an overlap? What's the interest in your project?  Are other people are
 willing to review your work? Do you have any competition?
 
 These questions seem easy, but they might be a key for understanding:
- 
+
  + **If you really want to work on your project?** There are a lot of things
  (devil is in the detail) that can be overlooked and your project may not be
  as fun as you initially think. Try to do your best to analyze the project

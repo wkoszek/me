@@ -1,6 +1,6 @@
 ---
 title:	Rich Dad Poor Dad
-auth:	Robert Kiyosaki 
+auth:	Robert Kiyosaki
 read:	2012-10-14
 ---
 
@@ -29,7 +29,7 @@ Rich Dad even gets called "A crook" once.
 
 Interesting question about lack of financial literacy among the society is
 mentioned. It funny how little people know about investing after finishing
-high-school (at least from my Polish perspective). 
+high-school (at least from my Polish perspective).
 
 The idea for working for yourself is mentioned. It's like "Give hungry a
 fish, he'll eat one day; teach him for to fish, and won't be hungry ever".

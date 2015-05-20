@@ -1,6 +1,6 @@
 ---
 title:	DEC is dead. Long live DEC
-auth:	E. Schein, P. Kampas, P. Delisi, M. Sonduck 
+auth:	E. Schein, P. Kampas, P. Delisi, M. Sonduck
 read:	2013-01
 ---
 
@@ -14,7 +14,7 @@ and if there was no PDP, who can know if UNIX would have ever been
 developed?
 
 Looks like number of accomplishments coming from DEC are mostly due to the
-culture and value of culture company has put into it's core philosophy. 
+culture and value of culture company has put into it's core philosophy.
 Was DEC a geeks dream?
 From the introduction it looks like.
 Ken Olsen's company is being described as the place, where over all costs

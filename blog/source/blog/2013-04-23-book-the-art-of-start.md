@@ -1,6 +1,6 @@
 ---
 title:	The Art of Start
-auth:	Guy Kawasaki 
+auth:	Guy Kawasaki
 read:	2013-04-23
 ---
 
@@ -11,7 +11,7 @@ read:	2013-04-23
 Kawasaki's book I read long time ago, It's a nice little booklet, relatively
 short, relatively packed with content.
 
-So hey -- I did what I did with other recommendations of books. 
+So hey -- I did what I did with other recommendations of books.
 
 I made up a date in which I want other people think I read it, and after a
 short break I'm trying to tune jazzy swingy samba sound in the background
@@ -55,7 +55,7 @@ Oh well. I'm pretty sure he'll read it and offer me a lunch at Stacks.
 Anyway: worth reading. However it's like a class on multiple programming
 languages on your university -- it points our things exists, but don't
 explain them well. You'll have to read other books from my list to get a
-feel on things like "bootstrapping", branding and positioning. 
+feel on things like "bootstrapping", branding and positioning.
 
 And do not look at posters in the library if you see the date is past due.
 

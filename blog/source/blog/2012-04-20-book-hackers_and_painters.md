@@ -1,6 +1,6 @@
 ---
 title:	Hackers and painters
-auth:	Paul Graham 
+auth:	Paul Graham
 read:	2012-04-20
 ---
 
@@ -26,7 +26,7 @@ This book is a statement of "Start small" and "growing business".
 Web store creator. Well, it's the 2nd author of ISV/software
 engineering/business books, except [Joal
 Spolsky](http://www.joelonsoftware.com/) that I've read who mentions LISP.
-This automatically extended my Amazon wishlist queue. 
+This automatically extended my Amazon wishlist queue.
 
 + **If your customers won't buy your software
 anyway, you don't loose anything by giving them software for free**. It was

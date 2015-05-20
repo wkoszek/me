@@ -15,12 +15,12 @@ liked.
 
 The book starts with Walton reaching a problematic moment of realizing he's
 the no. 1 on the list of the richest American, and news rumoring about him
-leaving fairly modest life in Bentonville, Arkansas. 
+leaving fairly modest life in Bentonville, Arkansas.
 
 
 Walton then backtracks his life from the beginning, by starting from the
 beginning - on how he was born and raised in pretty typical family, in times
-of great depression, where every penny counted. 
+of great depression, where every penny counted.
 
 Married early on, he seemed to be a true family man. His store started from
 the loan he got from his father-in-law. The loan paid back in 2 years

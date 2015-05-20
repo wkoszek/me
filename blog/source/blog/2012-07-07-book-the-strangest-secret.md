@@ -1,6 +1,6 @@
 ---
 title:	The Strangest Secret
-auth:	Earl Nightingale 
+auth:	Earl Nightingale
 read:	2012-07-07
 ---
 
@@ -22,7 +22,7 @@ possible.
 
 He's probably one of the best speakers I've ever listened to.
 
-Can't learn old dog new tricks? 
+Can't learn old dog new tricks?
 
 @@@RIGHT@@@
 

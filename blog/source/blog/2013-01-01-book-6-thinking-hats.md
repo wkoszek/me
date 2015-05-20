@@ -1,6 +1,6 @@
 ---
 title:	Six thinking hats
-auth:	Edward De Bono 
+auth:	Edward De Bono
 read:	2013-01-01
 ---
 

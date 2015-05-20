@@ -37,7 +37,7 @@ away. By the way: they stayed that way, since most people reviewed those
 too. So let me make it clear once again: **Don't waste your time on
 submitting junk: it for SURE will be ignored**. This means: no money for
 junk.
- 
+
 ***Quick selection based on my knowledge***
 
 Nobody is an expert on everything. I'm no different. Basically I know
@@ -45,7 +45,7 @@ nothing about BSD text processing tools, and since this proposal showed up,
 I knew I'm the bad person to review it. However, we've had 2 of those, and
 since we decided not to accept duplicates (not to have two people working on
 the same project) I glanced at both of them quickly.
- 
+
 One was brief and lacked details. Had poor formatting. Was sort of done very
 quickly. Was a hack.  Obviously, if you want to show your real initiative, I
 expect you provide something in a readable form. So this really doesn't have

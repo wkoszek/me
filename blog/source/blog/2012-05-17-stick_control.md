@@ -165,7 +165,7 @@ just get the feeling of what's going on:
 		}
 	}
 
-Proven ANSI C is bad tool, since bit stuff is painful. 
+Proven ANSI C is bad tool, since bit stuff is painful.
 
 Program is based on a simple idea of figuring out a pattern of given length
 `bitl`. For each length of that kind, we create two parts of patterns: `l`
@@ -181,9 +181,9 @@ lots of built-in syntax structures for bit banging:
 	  3 reg[3:0]        right_r = 4'd0;
 	  4 wire[7:0]       bar;
 	  5 wire[15:0]      barx2;
-	  6 
+	  6
 	  7 integer         i;
-	  8 
+	  8
 	  9 initial begin
 	 10         for (i = 0; i < 4'hf; i = i + 1) begin
 	 11                 left_r[3:0] = i;
@@ -193,7 +193,7 @@ lots of built-in syntax structures for bit banging:
 	 15 end
 	 16 assign bar[7:0] = { left_r[3:0], right_r[3:0] };
 	 17 assign barx2[15:0] = { left_r[3:0], right_r[3:0], left_r[3:0], right_r[3:0] };
-	 18 
+	 18
 	 19 endmodule
 
 Which gives us:

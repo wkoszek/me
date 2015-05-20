@@ -23,7 +23,7 @@ be pretty darn good, is to have `diffs` e-mailed to you, just like we do on:
 
 But, as you already know, getting this functionality isn't always that easy
 if you have The Big Brother. Most often than not, I end up crafting myself
-yet-another-tiny-script, that helps me a lot. 
+yet-another-tiny-script, that helps me a lot.
 
 Here it is:
 
@@ -76,7 +76,7 @@ I purposefully didn't fix it, so that you understand what you're doing
 (hint: read the comment). Cron job with this script will produce some junk
 on the output and will get e-mailed to you. I prefer that  -- I have a
 e-mail filter dumping these e-mails to a separate e-mail folders under CRON/
-directory, so that I can inspect things going wrong. 
+directory, so that I can inspect things going wrong.
 
 PS: This post doesn't solve "How to keep your Perforce session opened", but
     I'm not brave enough to show it to you, so this is that part you have to
@@ -86,4 +86,4 @@ Script turned out to be pretty useful. I can see from Perforce what sort of
 problems hardware group is solving!
 @@@RIGHT@@@
 
-<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0596101856" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>  
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0596101856" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

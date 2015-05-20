@@ -1,6 +1,6 @@
 ---
 title:	Design of everyday things
-auth:	Donald A. Norman 
+auth:	Donald A. Norman
 read:	2012-06-28
 ---
 
