@@ -1,11 +1,9 @@
 The Toyota Way
 ---------------
 
-**AUTHOR:**
-Jeffrey Liker
+**AUTHOR:** Jeffrey Liker
 
-**DATE READ:**
-2012-04-04
+**DATE READ:** 2012-04-04
 
 %%inc/addthis.html%%
 

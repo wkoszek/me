@@ -2,7 +2,7 @@ As I see it.
 ---------------
 
 **AUTHOR:** Jean Paul Getty
-**DATE READ:** 2013-
+**DATE READ:** 2013-09-10
 
 %%inc/addthis.html%%
 

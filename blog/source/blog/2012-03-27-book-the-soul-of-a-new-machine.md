@@ -1,12 +1,9 @@
-The Soul Of A New Machine
----------------
-
-**AUTHOR:** Tracy Kidder 
-**DATE READ:** 2012-03-27
-
-%%inc/addthis.html%%
-
-### NOTES ###
+---
+title:	"The Soul Of A New Machine"
+auth:	Tracy Kidder 
+read:	2012-03-27
+ad:	<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00008RWB6" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+---
 
 Reading about good old days is something I enjoy in my free time.
 Getting to know history of computer is something that compensates my general
@@ -32,8 +29,3 @@ Very entertaining at the beginning, but I just couldn't finish it. Get
 pretty boring by the end.
 
 Nice historical study.
-
-@@@RIGHT@@@
-
-<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00008RWB6" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-

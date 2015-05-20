@@ -1,7 +1,7 @@
 Autobiography of Andrew Carnegie
 ---------------
 
-**AUTHOR: Andrew Carnegie**
+**AUTHOR**: Andrew Carnegie
 **DATE READ:** 2013-08-10
 
 %%inc/addthis.html%%

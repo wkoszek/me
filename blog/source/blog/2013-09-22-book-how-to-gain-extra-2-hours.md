@@ -1,7 +1,7 @@
 How to Gain 2 Extra Hours a Day
 ---------------
 
-**Brian Tracy:**
+**AUTHOR:** Brian Tracy
 **DATE READ:** 2013-08-05
 
 %%inc/addthis.html%%
