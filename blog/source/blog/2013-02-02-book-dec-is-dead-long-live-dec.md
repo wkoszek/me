@@ -1,7 +1,8 @@
 DEC is dead. Long live DEC
 ---------------
 
-**AUTHOR:** E. Schein, P. Kampas, P. Delisi, M. Sonduck **DATE READ:** 2013-01
+**AUTHOR:** E. Schein, P. Kampas, P. Delisi, M. Sonduck 
+**DATE READ:** 2013-01
 
 %%inc/addthis.html%%
 

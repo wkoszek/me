@@ -1,7 +1,8 @@
 The Old New Thing
 ---------------
 
-**AUTHOR:** Raymond Chen **DATE READ:** 2012-12-07
+**AUTHOR:** Raymond Chen 
+**DATE READ:** 2012-12-07
 
 %%inc/addthis.html%%
 

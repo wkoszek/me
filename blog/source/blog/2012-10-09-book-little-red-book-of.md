@@ -1,7 +1,8 @@
 Little Red Book of Selling: 12.5 Principles of Sales Greatness
 ----------------------------
 
-**AUTHOR:** Jeffrey Gitomer **DATE READ:** 2012-10-09
+**AUTHOR:** Jeffrey Gitomer 
+**DATE READ:** 2012-10-09
 
 %%inc/addthis.html%%
 

@@ -1,7 +1,8 @@
 The Automatic Millionaire
 ---------------
 
-**AUTHOR:** David Bach **DATE READ:** 2013-01-07
+**AUTHOR:** David Bach 
+**DATE READ:** 2013-01-07
 
 %%inc/addthis.html%%
 

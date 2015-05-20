@@ -1,7 +1,8 @@
 HDL Chip Design
 ---------------
 
-**AUTHOR:** Douglas Smith **DATE READ:** 2012-
+**AUTHOR:** Douglas Smith 
+**DATE READ:** 2012-11-07
 
 %%inc/addthis.html%%
 

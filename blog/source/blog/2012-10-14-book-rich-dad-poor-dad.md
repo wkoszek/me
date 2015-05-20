@@ -1,7 +1,8 @@
 Rich Dad Poor Dad
 ---------------
 
-**AUTHOR:** Robert Kiyosaki **DATE READ:** 2012-10-14
+**AUTHOR:** Robert Kiyosaki 
+**DATE READ:** 2012-10-14
 
 %%inc/addthis.html%%
 

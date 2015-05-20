@@ -1,7 +1,8 @@
 The Field
 ---------------
 
-**AUTHOR:** Lynne McTaggart **DATE READ:** 2012-10-20
+**AUTHOR:** Lynne McTaggart 
+**DATE READ:** 2012-10-20
 
 %%inc/addthis.html%%
 

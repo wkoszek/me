@@ -1,7 +1,8 @@
 No asshole rule
 ---------------
 
-**AUTHOR:** Robert Sutton **DATE READ:** 2012-12-31
+**AUTHOR:** Robert Sutton 
+**DATE READ:** 2012-12-31
 
 %%inc/addthis.html%%
 

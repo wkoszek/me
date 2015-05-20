@@ -2,6 +2,7 @@ Winning
 ---------------
 
 **AUTHOR:** Jack Welch, Suzy Welch
+
 **DATE READ:** 2012-11-25
 
 %%inc/addthis.html%%

@@ -1,7 +1,8 @@
 Anything you want
 ---------------
 
-**AUTHOR:** Derek Sivers **DATE READ:** 2012-07-25
+**AUTHOR:** Derek Sivers 
+**DATE READ:** 2012-07-25
 
 %%inc/addthis.html%%
 

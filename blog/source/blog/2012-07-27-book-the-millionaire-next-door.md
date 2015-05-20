@@ -1,7 +1,8 @@
 The Millionaire Next Door
 ---------------
 
-**AUTHOR:** Thomas J. Stanley,  William D. Danko **DATE READ:** 2012-07-27
+**AUTHOR:** Thomas J. Stanley,  William D. Danko 
+**DATE READ:** 2012-07-27
 
 %%inc/addthis.html%%
 

@@ -1,7 +1,8 @@
 Talent is overrated
 ---------------
 
-**AUTHOR:** Geoff Colvin **DATE READ:** 2013-01-04
+**AUTHOR:** Geoff Colvin 
+**DATE READ:** 2013-01-04
 
 %%inc/addthis.html%%
 

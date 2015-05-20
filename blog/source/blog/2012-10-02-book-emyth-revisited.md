@@ -1,7 +1,8 @@
 The E-Myth Revisited
 --------------------
 
-**AUTHOR:** Michael E. Gerber, **DATE READ:** 2012-10-02
+**AUTHOR:** Michael E. Gerber, 
+**DATE READ:** 2012-10-02
 
 %%inc/addthis.html%%
 

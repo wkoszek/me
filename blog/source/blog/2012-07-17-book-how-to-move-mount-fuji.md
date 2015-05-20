@@ -1,7 +1,8 @@
 How to move mount Fuji
 ---------------------------------------------
 
-**AUTHOR:**  William Poundstone **DATE READ:** 2012-07-17
+**AUTHOR:**  William Poundstone 
+**DATE READ:** 2012-07-17
 
 %%inc/addthis.html%%
 

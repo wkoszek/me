@@ -1,7 +1,8 @@
 Positioning
 ---------------
 
-**AUTHOR:** Al Ries, Jack Trout **DATE READ:** 2012-11-17
+**AUTHOR:** Al Ries, Jack Trout 
+**DATE READ:** 2012-11-17
 
 %%inc/addthis.html%%
 

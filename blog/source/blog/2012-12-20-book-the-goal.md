@@ -2,6 +2,7 @@ The Goal
 ---------------
 
 **AUTHOR:** Eliyahu M. Goldratt, Jeff Cox, David Whitford
+
 **DATE READ:** 2012-12-20
 
 %%inc/addthis.html%%

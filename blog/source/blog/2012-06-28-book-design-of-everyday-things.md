@@ -1,7 +1,8 @@
 Design of everyday things
 -----------------
 
-**AUTHOR:** Donald A. Norman **DATE READ:** 2012-06-28
+**AUTHOR:** Donald A. Norman 
+**DATE READ:** 2012-06-28
 
 %%inc/addthis.html%%
 

@@ -1,7 +1,8 @@
 How to win friends and influence people
 -----------------
 
-**AUTHOR:** Dale Carnegie **DATE READ:** 2012-08-05
+**AUTHOR:** Dale Carnegie 
+**DATE READ:** 2012-08-05
 
 %%inc/addthis.html%%
 

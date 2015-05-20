@@ -1,7 +1,8 @@
 Six thinking hats
 -----------------
 
-**AUTHOR:** Edward De Bono **DATE READ:** 2013-01-01
+**AUTHOR:** Edward De Bono 
+**DATE READ:** 2013-01-01
 
 %%inc/addthis.html%%
 

@@ -1,7 +1,8 @@
 Just for Fun: The Story of an Accidental Revolutionary
 ---------------
 
-**AUTHOR:** Linus Torvalds, David Diamond **DATE READ:** 2012-09-17
+**AUTHOR:** Linus Torvalds, David Diamond 
+**DATE READ:** 2012-09-17
 
 %%inc/addthis.html%%
 

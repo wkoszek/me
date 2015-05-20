@@ -1,7 +1,8 @@
 Think and Grow Rich
 ---------------
 
-**AUTHOR:** Napoleon Hill **DATE READ:** 2012-02-10
+**AUTHOR:** Napoleon Hill 
+**DATE READ:** 2012-02-10
 
 %%inc/addthis.html%%
 

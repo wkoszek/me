@@ -1,7 +1,8 @@
 The Strangest Secret
 ---------------
 
-**AUTHOR:** Earl Nightingale **DATE READ:** 2012-07-07
+**AUTHOR:** Earl Nightingale 
+**DATE READ:** 2012-07-07
 
 %%inc/addthis.html%%
 

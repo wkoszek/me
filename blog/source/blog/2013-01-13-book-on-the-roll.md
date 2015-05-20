@@ -1,7 +1,8 @@
 On A Roll
 ---------
 
-**AUTHOR:** Howard Jonas **DATE READ:** 2013-01-05
+**AUTHOR:** Howard Jonas 
+**DATE READ:** 2013-01-05
 
 %%inc/addthis.html%%
 

@@ -1,7 +1,8 @@
 Getting to Yes
 ---------------
 
-**AUTHOR:** Roger Fisher, William L. Ury, Bruce Patton **DATE READ:** 2012-06-16
+**AUTHOR:** Roger Fisher, William L. Ury, Bruce Patton 
+**DATE READ:** 2012-06-16
 
 %%inc/addthis.html%%
 

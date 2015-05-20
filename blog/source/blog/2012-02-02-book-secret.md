@@ -1,11 +1,11 @@
-Secret
-------
-
-**AUTHOR:** Rhonda Byrne **READ:** 2012-02-02
-
-%%inc/addthis.html%%
-
-### NOTES ###
+---
+title:	"Secret"
+date:   2012-02-02
+tags:	books
+auth:	Rhonda Byrne
+read:	2012-02-02
+ad:	<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1582701709" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+---
 
 This is where the story with "new school" Hill-alike books started. This
 book wouldn't have been such a big and significant step on my reading list,
@@ -45,6 +45,3 @@ finishing the book and reading the cover, I found series of video lectures
 on YouTube straight from the Mr Hill, and due to excellent quality of the
 recordings, I soon learned who guru is..
 
-@@@RIGHT@@@
-
-<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1582701709" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

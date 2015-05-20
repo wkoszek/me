@@ -1,7 +1,8 @@
 The Lean Startup
 ---------------
 
-**AUTHOR:** Eric Ries **DATE READ:** 2012-05-24
+**AUTHOR:** Eric Ries 
+**DATE READ:** 2012-05-24
 
 %%inc/addthis.html%%
 

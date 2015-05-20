@@ -1,7 +1,8 @@
 Microserfs
 ---------------
 
-**AUTHOR:** Douglas Coupland **DATE READ:** 2012-09-29
+**AUTHOR:** Douglas Coupland 
+**DATE READ:** 2012-09-29
 
 %%inc/addthis.html%%
 

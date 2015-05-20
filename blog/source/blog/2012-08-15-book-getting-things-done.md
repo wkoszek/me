@@ -1,7 +1,8 @@
 Getting things done
 -------------------
 
-**AUTHOR:** David Allen, **DATE READ:** 2012-08-15
+**AUTHOR:** David Allen, 
+**DATE READ:** 2012-08-15
 
 %%inc/addthis.html%%
 

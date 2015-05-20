@@ -1,7 +1,8 @@
 Don't make me think
 -----------------
 
-**AUTHOR:** Steve Krug **DATE READ:** 2012-08-03
+**AUTHOR:** Steve Krug 
+**DATE READ:** 2012-08-03
 
 %%inc/addthis.html%%
 

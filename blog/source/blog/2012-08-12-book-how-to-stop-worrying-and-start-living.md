@@ -1,7 +1,8 @@
 How to Stop Worrying and Start Living
 ---------------
 
-**AUTHOR:** Dale Carnegie **DATE READ:** 2012-08-12
+**AUTHOR:** Dale Carnegie 
+**DATE READ:** 2012-08-12
 
 %%inc/addthis.html%%
 

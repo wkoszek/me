@@ -1,7 +1,8 @@
 Hackers and painters
 ---------------------------------
 
-**AUTHOR:** Paul Graham **DATE READ:** 2012-04-20
+**AUTHOR:** Paul Graham 
+**DATE READ:** 2012-04-20
 
 %%inc/addthis.html%%
 

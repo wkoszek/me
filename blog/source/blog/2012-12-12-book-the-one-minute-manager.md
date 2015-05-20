@@ -1,7 +1,8 @@
 The One Minute Manager
 ---------------
 
-**AUTHOR:** Kenneth H. Blanchard, Spencer Johnson **DATE READ:** 2012-12-12
+**AUTHOR:** Kenneth H. Blanchard, Spencer Johnson 
+**DATE READ:** 2012-12-12
 
 %%inc/addthis.html%%
 

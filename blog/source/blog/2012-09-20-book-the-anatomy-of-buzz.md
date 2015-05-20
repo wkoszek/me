@@ -1,7 +1,8 @@
 The Anatomy of Buzz
 ---------------
 
-**AUTHOR:** Emanuel Rosen **DATE READ:** 2012-09-20
+**AUTHOR:** Emanuel Rosen 
+**DATE READ:** 2012-09-20
 
 %%inc/addthis.html%%
 

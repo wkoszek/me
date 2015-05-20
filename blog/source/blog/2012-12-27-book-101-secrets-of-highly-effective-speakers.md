@@ -1,7 +1,8 @@
 101 Secrets of Highly Effective Speakers
 ----------------------------------------
 
-**AUTHOR: Caryl Rae Krannich** **DATE READ:** 2012-12-25
+**AUTHOR: Caryl Rae Krannich** 
+**DATE READ:** 2012-12-25
 
 %%inc/addthis.html%%
 

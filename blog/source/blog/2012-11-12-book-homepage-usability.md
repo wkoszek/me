@@ -1,7 +1,8 @@
 Homepage Usability: 50 Websites Deconstructed
 ---------------
 
-**AUTHOR:**  Jakob Nielsen, Marie Tahir **DATE READ:** 2012-11-12
+**AUTHOR:**  Jakob Nielsen, Marie Tahir 
+**DATE READ:** 2012-11-12
 
 %%inc/addthis.html%%
 

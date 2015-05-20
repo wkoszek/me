@@ -1,7 +1,8 @@
 Showstopper!
 ---------------
 
-**AUTHOR:** G. Pascal Zachary **DATE READ:** 2012-
+**AUTHOR:** G. Pascal Zachary 
+**DATE READ:** 2012-
 
 %%inc/addthis.html%%
 

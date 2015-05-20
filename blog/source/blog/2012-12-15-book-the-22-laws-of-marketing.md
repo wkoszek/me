@@ -1,7 +1,8 @@
 The 22 Immutable Laws of Marketing
 ---------------
 
-**AUTHOR:** Al Ries, Jack Trout **DATE READ:** 2012-12-15
+**AUTHOR:** Al Ries, Jack Trout 
+**DATE READ:** 2012-12-15
 
 %%inc/addthis.html%%
 

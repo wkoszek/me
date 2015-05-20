@@ -1,7 +1,8 @@
 The Best Software Writing I
 ---------------
 
-**AUTHOR:** Joel Spolsky and various other authors **DATE READ:** 2012-07-19
+**AUTHOR:** Joel Spolsky and various other authors 
+**DATE READ:** 2012-07-19
 
 %%inc/addthis.html%%
 

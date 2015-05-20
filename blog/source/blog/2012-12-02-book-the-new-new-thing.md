@@ -1,7 +1,8 @@
 The New New Thing: A Silicon Valley Story
 ---------------
 
-**AUTHOR:** Michael Lewis **DATE READ:** 2012-12-02
+**AUTHOR:** Michael Lewis 
+**DATE READ:** 2012-12-02
 
 %%inc/addthis.html%%
 

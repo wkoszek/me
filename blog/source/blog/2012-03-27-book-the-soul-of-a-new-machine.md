@@ -1,7 +1,8 @@
 The Soul Of A New Machine
 ---------------
 
-**AUTHOR:** Tracy Kidder **DATE READ:** 2012-03-27
+**AUTHOR:** Tracy Kidder 
+**DATE READ:** 2012-03-27
 
 %%inc/addthis.html%%
 

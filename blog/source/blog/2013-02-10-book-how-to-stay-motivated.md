@@ -2,6 +2,7 @@ How to stay motivated
 ---------------
 
 **AUTHOR:** Zig Ziglar
+
 **DATE READ:** 2013-02-10
 
 %%inc/addthis.html%%

@@ -3,6 +3,7 @@ The Toyota Way
 
 **AUTHOR:**
 Jeffrey Liker
+
 **DATE READ:**
 2012-04-04
 

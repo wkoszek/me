@@ -1,7 +1,8 @@
 Talent code
 ---------------
 
-**AUTHOR:** Daniel Coyle **DATE READ:** 2013-01-31
+**AUTHOR:** Daniel Coyle 
+**DATE READ:** 2013-01-31
 
 %%inc/addthis.html%%
 

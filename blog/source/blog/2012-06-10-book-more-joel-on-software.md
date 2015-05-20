@@ -1,7 +1,8 @@
 More Joel on Software
 ---------------
 
-**AUTHOR:** Joel Spolsky **DATE READ:** 2012-06-10
+**AUTHOR:** Joel Spolsky 
+**DATE READ:** 2012-06-10
 
 %%inc/addthis.html%%
 
