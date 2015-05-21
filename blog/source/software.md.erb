@@ -6,37 +6,37 @@ software:
     date: Feb 9, 2015
     name: MacB
     link: https://github.com/wkoszek/macb
-    desc: Mac Build: command line tool for Xcode project creation
+    desc: "Mac Build: command line tool for Xcode project creation"
   -
     date: 2014
     name: UnSaver
     link: https://github.com/wkoszek/unsaver
-    desc: Xilinx's hackathon project written in CWEB, Literate Programming system
+    desc: "Xilinx's hackathon project written in CWEB, Literate Programming system"
   -
     date: 2013
     name: USB_relay
     link: https://github.com/wkoszek/usb_relay
-    desc: USB driver for JS284 relay from J-Works
+    desc: "USB driver for JS284 relay from J-Works"
   -
     date: Sept 9, 2009
     name: "NetFPGA driver for FreeBSD"
     link: http://www.koszek.com/stuff/netfpga/freebsd_netfpga-20090906.tar.gz
-    desc: Driver which I've written during my HIIT/Ericsson internship
+    desc: "Driver which I've written during my HIIT/Ericsson internship"
   -
     date: June 21, 2009
     name: FLViz
     link: https://github.com/wkoszek/flviz
-    desc: Graphical Simulator of DFA state transitions
+    desc: "Graphical Simulator of DFA state transitions"
   -
     date: June 16, 2009
     name: Koszek-Matyja Network Simulator
     link: http://www.koszek.com/stuff/studia/kmnsim-20090616.tgz
-    desc: Config-file driver Ethernet simulator with hubs/switches
+    desc: "Config-file driver Ethernet simulator with hubs/switches"
   -
     date: Oct 1, 2008
     name: LibCLA
     link: http://www.koszek.com/stuff/libcla-20081001.tar.bz2
-    desc: Library for hierarchical command argument handling (as in CLI interfaces of Cisco/KVM devices)
+    desc: "Library for hierarchical command argument handling (as in CLI interfaces of Cisco/KVM devices)"
 ---
 
 ### Software
@@ -44,6 +44,6 @@ software:
 My software projects written over the years.
 
 <% current_page.data.software.each do |item| %> 
-<a href="<%= %>"><%= item.name %></a><br>
+<a target="_blank" href="<%= item.link %>"><%= item.name %></a><br>
 <p><%= item.desc %></p>
 <% end %>
