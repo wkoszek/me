@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+		<meta name="author" content="Wojciech Adam Koszek">
+		<meta name="description" content="Wojciech Adam Koszek website and blog">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+		<link rel="stylesheet" href="/css/normalize.css">
+		<link rel="stylesheet" href="/css/skeleton.css">
+		<link rel="stylesheet" href="/css/debug.css">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+		<link rel="icon" type="image/png" href="images/favicon.png">
+		<title>Blog Title - fpurge() hack &mdash; Koszek trick #1</title>
+		<link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+	</head>
+	<body>
+	<div class="container">
+		<div class="row">
+			<div id="debug">
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="three columns logo">
+				<a href="/">Wojciech Adam Koszek</a>
+			</div>
+			<div class="eight columns links">
+				<a class="in" href="/">Writing</a>
+				<a class="in" href="/reading/">Reading</a>
+				<a class="in" href="/speaking/">Speaking</a>
+				<a class="in" href="/software/">Software</a>
+				<a class="in" href="/about/">About me</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns">
+				<br>
+				<br>
+			</div>
+		</div>
+
+		<div class="row"><!-- center -->
+			<div class="three columns leftpanel">
+				<div class="ads">
+				</div>
+
+				<b>Contact</b><br>
+				<a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a>
+				<br>
+
+				<a href="http://www.twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a>
+				<br>
+
+				<a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a>
+				<br>
+
+				<a href="http://www.github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a>
+				<br>
+
+				<br>
+				<b>Tags</b>
+				<br>
+					<a href="/blog/tags/books/">books (2)</a><br>
+			</div>
+			<div class="seven columns content">
+				<p>A friend of mine asked me once:</p>
+
+<p><strong><em>How to recover text formatted by printf(), but do not spit it
+output to the console?</em></strong></p>
+
+<p>Right now I don't exactly remember why <code>fprintf()</code> couldn't be used, but I
+remember this was in the environment where <code>fprintf()</code> (or all?) changes
+couldn't be applied.</p>
+
+<p>This is a technique I was came up with. Please note: this is <em>HUGE</em> hack and
+it is not proven to work on your system. It is based on the fact data from
+<code>printf</code> function family is first written to the buffer <code>buf</code>, and until
+it's internally flushed, it won't be printed. Lack of flush is implicitly
+expected due to the large buffer size, and buffering set by <code>setbuf</code>. Once
+we generate enough data in the <code>buf</code> buffer through <code>fprintf</code> calls, we copy
+the data to <code>text</code> buffer, and discard <code>buf</code> buffer. Discarding happens via
+<code>fprune</code> and its associated file descriptor, for which buffer has been used
+for.</p>
+
+<p>It used to work on FreeBSD and GNU/Linux, but PLEASE don't make your code
+depend on that. It's a hack.  Here it is:</p>
+
+<pre><code>#include &lt;assert.h&gt;
+#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+#include &lt;string.h&gt;
+
+#define	SZ	1024*1024
+
+/*
+ * This is Koszek's trick to write formated data to the FILE structure
+ * with an underlying buffer, but without flushing it to the backing
+ * descriptor. Later on, once a buffer is filled, I print it to get a
+ * proof and clear it.
+ */
+int
+main(int argc, char **argv)
+{
+	char buf[SZ];
+	char text[SZ];
+	FILE *fp;
+
+	(void)argc;
+	(void)argv;
+
+	memset(buf, 0, sizeof(buf));
+
+	fp = fopen("FILE.txt", "a+");
+	assert(fp != NULL);
+
+	fflush(fp);
+	setbuf(fp, buf);
+
+	fprintf(fp, "Nie wiem co napisaæ\n");
+	fprintf(fp, "Nie wiem co tutaj wklepaæ\n");
+	fprintf(fp, "To ma tylko wyczy¶ciæ bufor\n");
+
+	memcpy(text, buf, sizeof(text));
+
+	fpurge(fp);
+	setbuf(fp, NULL);
+
+	printf("Text: '%s'\n", text);
+
+	fflush(fp);
+	fclose(fp);
+	return (EXIT_SUCCESS);
+} @@@RIGHT@@@
+</code></pre>
+
+<script type="text/javascript">
+google_ad_client = "ca-pub-7199453802213032";
+/* koszek */
+google_ad_slot = "8396875481";
+google_ad_width = 160;
+google_ad_height = 600;
+</script>
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+			</div>
+
+			<div class="two columns">
+			</div>
+		</div><!-- content -->
+
+		<div class="row footer">
+			<div class="twelve columns">
+			<center>
+				&copy; 2015 Wojciech Adam Koszek
+			</center>
+			</div>
+		</div>
+	</div><!--container-->
+</body>
+</html>

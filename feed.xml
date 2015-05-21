@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2015-05-19T17:00:00-07:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Organized mind</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/05/20/book-organized-mind/"/>
+    <id>http://blog.url.com/blog/2015/05/20/book-organized-mind/</id>
+    <published>2015-05-19T17:00:00-07:00</published>
+    <updated>2015-05-20T23:55:18-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">
+</content>
+  </entry>
+  <entry>
+    <title>sample</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/05/15/sample/"/>
+    <id>http://blog.url.com/blog/2015/05/15/sample/</id>
+    <published>2015-05-14T17:00:00-07:00</published>
+    <updated>2015-05-20T23:25:23-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Just trying out middleman.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Made it stick</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/04/24/book-made-it-stick/"/>
+    <id>http://blog.url.com/blog/2015/04/24/book-made-it-stick/</id>
+    <published>2015-04-23T17:00:00-07:00</published>
+    <updated>2015-05-20T23:55:00-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Accelerating learning should probably be my logical step before I started to
+read and listen to (audio) books, yet I came to this topic quite late.
+During one of the trips back home in KQED I've listened to a great podcast
+entitled: "Science of Smart" where a research of Roedriger was mentioned.&lt;/p&gt;
+
+&lt;p&gt;General message out of this book is that studying-by-repeating and cramming
+for exams are the most common "learning" techniques applied by students of
+high-school and universities. Yet the research proves that it's testing and
+quizing that actually helps us retain the knowledge and actually master it.&lt;/p&gt;
+
+&lt;p&gt;One of the examples given is that good teachers (couches) know how to
+diversify a training for their teams so that th&lt;/p&gt;
+
+&lt;p&gt;Spaced repetition is one of the techniques mentioned too. According to the
+research spaced-repetition leads to much more effective retention than
+anything else.&lt;/p&gt;
+
+&lt;p&gt;Diversifying the practice also brings good results, and trying to use as
+much of a power of our associative minds leads to much better results.
+This is a theme mentioned by Brian Tracy in his "Accelerated Learning
+Techniques" where he's&lt;/p&gt;
+
+&lt;p&gt;One of the colleges mentioned was said to have teachers give assignments for
+classes that were to happen in the future, so that students unfamiliar with
+the topic can challenge their minds and try to solve problems by doing
+individual research.&lt;/p&gt;
+
+&lt;p&gt;Reading and understanding is just an illusion of knowing. Quite likely this
+illusion comes from the fact that while reading, we think that by
+understanding words, sentences and general meaning of a text we actually
+assimilate the knowledge.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>The Innovators</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/04/23/book-innovators/"/>
+    <id>http://blog.url.com/blog/2015/04/23/book-innovators/</id>
+    <published>2015-04-22T17:00:00-07:00</published>
+    <updated>2015-05-20T23:54:57-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Probably the most comprehensive study on the history and current state of
+computing and innovation. From Ada Byron to Bill Gates.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>In the Plex</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2015/01/05/book-in-the-plex/"/>
+    <id>http://blog.url.com/blog/2015/01/05/book-in-the-plex/</id>
+    <published>2015-01-04T16:00:00-08:00</published>
+    <updated>2015-05-20T23:54:56-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;In The Plex&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>The Founder's Dilemmas</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2014/12/30/book-founders-dilemmas/"/>
+    <id>http://blog.url.com/blog/2014/12/30/book-founders-dilemmas/</id>
+    <published>2014-12-29T16:00:00-08:00</published>
+    <updated>2015-05-20T23:54:51-07:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;This book was on my TODO for quite a while, as I was in the search for a
+some answers related to problems founders of startups and individual
+projects face.&lt;/p&gt;
+
+&lt;p&gt;Have you ever had an idea and wanted to collect a team of friends and
+execute them? If so, you'll know what these problems might be.&lt;/p&gt;
+
+&lt;p&gt;The feel of the book is similar to the Millionair's Mind, as the author
+relates to his broad study and statistical evidence across a lot of
+startups.
+The issue is that only small number of these startups are used for the main
+thread of a discussion.&lt;/p&gt;
+
+&lt;p&gt;@@@RIGHT@@@&lt;/p&gt;
+&lt;iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;OneJS=1&amp;amp;Operation=GetAdHtml&amp;amp;MarketPlace=US&amp;amp;source=ss&amp;amp;ref=ss_til&amp;amp;ad_type=product_link&amp;amp;tracking_id=wojcadamkoszh-20&amp;amp;marketplace=amazon&amp;amp;region=US&amp;amp;placement=0691158304&amp;amp;asins=0691158304&amp;amp;linkId=32IZJM7F5GYU3YXI&amp;amp;show_border=false&amp;amp;link_opens_in_new_window=true&amp;amp;price_color=333333&amp;amp;title_color=C00000&amp;amp;bg_color=FFFFFF"&gt;
+&lt;/iframe&gt;
+</content>
+  </entry>
+</feed>

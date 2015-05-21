@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+		<meta name="author" content="Wojciech Adam Koszek">
+		<meta name="description" content="Wojciech Adam Koszek website and blog">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+		<link rel="stylesheet" href="/css/normalize.css">
+		<link rel="stylesheet" href="/css/skeleton.css">
+		<link rel="stylesheet" href="/css/debug.css">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+		<link rel="icon" type="image/png" href="images/favicon.png">
+		<title>Blog Title - Learning Node</title>
+		<link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+	</head>
+	<body>
+	<div class="container">
+		<div class="row">
+			<div id="debug">
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+				<div class="one column">&nbsp;</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="three columns logo">
+				<a href="/">Wojciech Adam Koszek</a>
+			</div>
+			<div class="eight columns links">
+				<a class="in" href="/">Writing</a>
+				<a class="in" href="/reading/">Reading</a>
+				<a class="in" href="/speaking/">Speaking</a>
+				<a class="in" href="/software/">Software</a>
+				<a class="in" href="/about/">About me</a>
+			</div>
+		</div>
+		<div class="row">
+			<div class="twelve columns">
+				<br>
+				<br>
+			</div>
+		</div>
+
+		<div class="row"><!-- center -->
+			<div class="three columns leftpanel">
+				<div class="ads">
+				</div>
+
+				<b>Contact</b><br>
+				<a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a>
+				<br>
+
+				<a href="http://www.twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a>
+				<br>
+
+				<a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a>
+				<br>
+
+				<a href="http://www.github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a>
+				<br>
+
+				<br>
+				<b>Tags</b>
+				<br>
+					<a href="/blog/tags/books/">books (2)</a><br>
+			</div>
+			<div class="seven columns content">
+				<p><em>Be warned – this is boring and technical thing</em></p>
+
+<p>In between my Silicon Valle/business/MBA studies, which finally started to
+make me pretty tired, I decided to revert back to something people consider
+neat and hot and technically sexy. Something that can expand your skill-set
+to something better than "mere mortal".</p>
+
+<p>Javascript is something I explored multiple times. Typically considered a
+technology for the weak NOPs and "MOV r0,r0,r0"-kind of people, I felt it's
+perfect for me.  Javascript had lots of things which kept me mentally
+stimulated.  I think most of the interest towards to Javascript was caused
+by Douglas Crockford's publication, especially:</p>
+
+<p><a href="JavaScript: The World's Most Misunderstood Programming Language">http://javascript.crockford.com/javascript.html</a></p>
+
+<p>He also did JSLint:</p>
+
+<p><a href="JSLint,The JavaScript Code Quality Tool">http://www.jslint.com/</a></p>
+
+<p>Which is a neat software. Anyway:</p>
+
+<p>Javascript, I believed, really sucks and looses belonged appraisal since I'm
+confident nearly all Javascript environment suck as hell and people do
+nothing about it. If you expect me to debug my script in a browser in a
+windows which consumes 1/3 of height of my screen you're just ridiculous.
+Yes, even you, my dear Opera developers (Opera is the most amazing browser
+out there, if you haven't noticed yet).</p>
+
+<p>So I was really looking for was a thing where my functions and other "stuff"
+could get created, and where I could make sure things work, and then move it
+to the browser. Basically: I was not looking for something with explicit
+non-blocking memory support.</p>
+
+<p>First about Node I learned from the Node.js author about non-blocking I/O
+based on callbacks.</p>
+
+<p>Couple of years ago I was a structured programming retard. Basically I would
+take random Java code form Beans which a friend of mine wrote and I'd
+criticize him using anonymous functions everywhere. How bad I was. But it
+was when I had too much time and less understanding of programming and the
+whole functional concept. In other words, it was before meeting a good
+friend of mine, Charles. And before I read the LISP book.</p>
+
+<p>So..</p>
+
+<p>I really like the idea of anonymous functions now–they make your code more
+compact. Basically things look more condensed and consistent. And there's
+something I started to appreciate only after I started working for The Man,
+where the "senior senior" contractor explained me pros and cons and his view
+on a need of scanning multiple files just to find simple stuff, if #define
+values.</p>
+
+<p>Stuff like Javascript notation can be used for lots of things when I think
+about it, but I bet it would actually be pretty good for real-time systems.
+Most real time systems are all about the loop in which stuff gets executed.
+In a loop you typically have a giant state machine, where you try to
+dispatch events based on the state.</p>
+
+<p>Javascript would give you the whole painful loop part for free.</p>
+
+<p>Non-blocking I/O makes hard things easy and simple things hard. When you
+want to execute sequential block in a asynchronous block, stuff needs to be
+wrapped around function/data hierarchy, so that it fits the non-blocking
+model.</p>
+
+<p>Some portions of examples are surprisingly simple and surprisingly "new" in
+a way makes me thing "why hasn't this been done before". Example:</p>
+
+<pre><code>require('colors');
+console.log("string".green);
+</code></pre>
+
+<p>When I think about it, it really doesn't have to get anything better.</p>
+
+<p>From the deployment perspective my understanding is that you basically have
+to hack around a lot to make it work, and probably even more to make it
+perform well, since stuff looks like something pretty primitive. It's a pity
+Node.js doesn't code with a solution letting me to run it continually, just
+like Apache. Basically I want a solution which will hide from me the fact
+that I need an external program to restart Node.js in case things go WRONG.
+It might be the same as it is now (using external "monitor" program to see
+if Node is alive), but I don't want to be aware of it.</p>
+
+<p>Unfortunately Node.js doesn't really help with whole WWW page thingy–it's
+still is some random code mixed with random HTML tags.</p>
+
+<p>The whole book was just fine, however little or nearly no space (based on
+ratios of content) is spent on deeply explaining Node.js nature.</p>
+
+<p>@@@RIGHT@@@</p>
+
+<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&amp;bc1=FFFFFF&amp;IS2=1&amp;npa=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=FF0000&amp;t=wojcadamkoszh-20&amp;o=1&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=1449323073" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+
+			</div>
+
+			<div class="two columns">
+			</div>
+		</div><!-- content -->
+
+		<div class="row footer">
+			<div class="twelve columns">
+			<center>
+				&copy; 2015 Wojciech Adam Koszek
+			</center>
+			</div>
+		</div>
+	</div><!--container-->
+</body>
+</html>
