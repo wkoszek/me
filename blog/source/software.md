@@ -1,6 +1,11 @@
 ---
 pageable: true
 per_page: 10
+
+software:
+  item:
+    name: "NetFPGA driver for FreeBSD"
+    link: http://www.koszek.com/stuff/netfpga/freebsd_netfpga-20090906.tar.gz
 ---
 
 ### Software
