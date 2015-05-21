@@ -1,15 +1,6 @@
-Buying home for dummies
----------------
+---
+title:	"Home Buying For Dummies"
+auth:	Eric Tyson, Ray Brown"
+read:	2013-07-02
+---
 
-**AUTHOR:** ???
-**DATE READ:** 2012-
-
-**AUTHOR:**
-**DATE READ:** 2013-
-
-%%inc/addthis.html%%
-
-### NOTES ###
-
-
-@@@RIGHT@@@
