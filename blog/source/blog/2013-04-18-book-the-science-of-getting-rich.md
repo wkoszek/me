@@ -1,5 +1,5 @@
 ---
-title:	The science of getting rich
+title:	"The science of getting rich"
 auth:	Wallace D. Wattles
 read:	2013-04-18
 ---

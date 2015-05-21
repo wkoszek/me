@@ -1,5 +1,5 @@
 ---
-title:	Peopleware
+title:	"Peopleware"
 auth:	Marco, Lister
 read:	2012-12-29
 ---

@@ -1,5 +1,5 @@
 ---
-title:	Netscape Time
+title:	"Netscape Time"
 auth:	Jim Clark
 read:	2013-08-13
 ---

@@ -1,5 +1,5 @@
 ---
-title:	The Cathedral and the Bazaar
+title:	"The Cathedral and the Bazaar"
 auth:	Eric S. Raymond
 read:	2013-04-07
 ---

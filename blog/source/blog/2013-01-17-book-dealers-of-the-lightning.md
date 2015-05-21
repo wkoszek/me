@@ -1,5 +1,5 @@
 ---
-title:	Dealers of Lightning
+title:	"Dealers of Lightning"
 auth:	Michael A. Hiltzik
 read:	2013-01-17
 ---

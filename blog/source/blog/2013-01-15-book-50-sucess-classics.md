@@ -1,5 +1,5 @@
 ---
-title:	50 Success Classics
+title:	"50 Success Classics"
 auth:	Tom Butler-Bowdon
 read:	2013-01-15
 ---

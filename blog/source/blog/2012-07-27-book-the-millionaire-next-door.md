@@ -1,5 +1,5 @@
 ---
-title:	The Millionaire Next Door
+title:	"The Millionaire Next Door"
 auth:	Thomas J. Stanley,  William D. Danko
 read:	2012-07-27
 ---

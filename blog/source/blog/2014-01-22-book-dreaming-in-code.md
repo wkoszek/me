@@ -1,5 +1,5 @@
 ---
-title:	Dreaming in code
+title:	"Dreaming in code"
 auth:	Scott Rosenberg
 read:	2014-01-22
 ---

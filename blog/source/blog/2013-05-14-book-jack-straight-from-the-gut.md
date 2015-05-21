@@ -1,5 +1,5 @@
 ---
-title:	Jack - Straight from the Gut
+title:	"Jack - Straight from the Gut"
 auth:	Jack Welch, John A. Byrne
 read:	2013-05-14
 ---

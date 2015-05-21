@@ -1,5 +1,5 @@
 ---
-title:	Joel on Software
+title:	"Joel on Software"
 auth:	Joel Spolsky
 read:	2012-05-12
 ---

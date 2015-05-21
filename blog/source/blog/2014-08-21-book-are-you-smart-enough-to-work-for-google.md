@@ -1,5 +1,5 @@
 ---
-title:	Are you smart enough to work at Google?
+title:	"Are you smart enough to work at Google?"
 auth:	William Poundstone
 read:	2014-08-21
 ---

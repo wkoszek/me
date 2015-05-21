@@ -1,5 +1,5 @@
 ---
-title:	Guerilla Business School
+title:	"Guerilla Business School"
 auth:	Herv Eker
 read:	2013-09-21
 ---

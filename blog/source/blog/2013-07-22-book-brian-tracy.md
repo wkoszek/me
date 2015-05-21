@@ -1,5 +1,5 @@
 ---
-title:	Brian Tracy books...
+title:	"Brian Tracy books..."
 auth:	Brian Tracy
 read:	2013-07-22
 ---

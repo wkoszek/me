@@ -1,5 +1,5 @@
 ---
-title:	50 Prosperity Classics
+title:	"50 Prosperity Classics"
 auth:	Tom Butler-Bowdon
 read:	2013-01-09
 ---

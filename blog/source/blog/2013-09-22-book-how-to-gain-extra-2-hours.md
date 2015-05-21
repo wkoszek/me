@@ -1,5 +1,5 @@
 ---
-title:	How to Gain 2 Extra Hours a Day
+title:	"How to Gain 2 Extra Hours a Day"
 auth:	Brian Tracy
 read:	2013-08-05
 ---

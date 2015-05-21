@@ -1,5 +1,5 @@
 ---
-title:	Power hiring
+title:	"Power hiring"
 auth:	Lou Adler
 read:	2013-07-02
 ---

@@ -1,5 +1,5 @@
 ---
-title:	Autobiography of Andrew Carnegie
+title:	"Autobiography of Andrew Carnegie"
 auth:	Andrew Carnegie
 read:	2013-08-10
 ---

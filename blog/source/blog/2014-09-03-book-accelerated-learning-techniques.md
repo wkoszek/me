@@ -1,5 +1,5 @@
 ---
-title:	Accelerated learning techniques
+title:	"Accelerated learning techniques"
 auth:	Brian Tracy
 read:	2014-Oct-15
 ---

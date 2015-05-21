@@ -1,5 +1,5 @@
 ---
-title:	The Founder's Dilemmas
+title:	"The Founder's Dilemmas"
 auth:	Noam Wasserman
 read:	2014-12-30
 ---

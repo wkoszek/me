@@ -1,5 +1,5 @@
 ---
-title:	What would Google do?
+title:	"What would Google do?"
 auth:	Jeff Jervis
 read:	2013-04-01
 ---

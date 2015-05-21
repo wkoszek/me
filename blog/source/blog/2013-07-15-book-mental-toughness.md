@@ -1,5 +1,5 @@
 ---
-title:	Mental toughness training
+title:	"Mental toughness training"
 auth:	 by James, Loehr, Peter McLaughlin
 read:	2013-07-15
 ---

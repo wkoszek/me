@@ -1,5 +1,5 @@
 ---
-title:	Direct from Dell
+title:	"Direct from Dell"
 auth:	Michael Dell, Catherine Fredman
 read:	2014-03-01
 ---

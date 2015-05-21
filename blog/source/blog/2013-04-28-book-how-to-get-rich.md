@@ -1,5 +1,5 @@
 ---
-title:	How to Get Rich
+title:	"How to Get Rich"
 auth:	Felix Dennis
 read:	2013-04-28
 ---

@@ -1,5 +1,5 @@
 ---
-title:	How to Be Rich
+title:	"How to Be Rich"
 auth:	 J. Paul Getty
 read:	2013-04-26
 ---

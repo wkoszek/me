@@ -1,5 +1,5 @@
 ---
-title:	Linchpin
+title:	"Linchpin"
 auth:	Seth Godin
 read:	2014-09-17
 ---

@@ -1,5 +1,5 @@
 ---
-title:	The Goal
+title:	"The Goal"
 auth:	Eliyahu M. Goldratt, Jeff Cox, David Whitford
 read:	2012-12-20
 ---

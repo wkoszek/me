@@ -1,5 +1,5 @@
 ---
-title:	Six thinking hats
+title:	"Six thinking hats"
 auth:	Edward De Bono
 read:	2013-01-01
 ---

@@ -1,5 +1,5 @@
 ---
-title:	Everyone else must fail
+title:	"Everyone else must fail"
 auth:	Karen Southwick
 read:	2013-04-27
 ---

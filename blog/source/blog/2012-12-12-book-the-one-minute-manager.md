@@ -1,5 +1,5 @@
 ---
-title:	The One Minute Manager
+title:	"The One Minute Manager"
 auth:	Kenneth H. Blanchard, Spencer Johnson
 read:	2012-12-12
 ---

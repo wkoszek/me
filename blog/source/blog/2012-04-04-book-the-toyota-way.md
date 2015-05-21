@@ -1,5 +1,5 @@
 ---
-title:	The Toyota Way
+title:	"The Toyota Way"
 auth:	Jeffrey Liker
 read:	2012-04-04
 ---

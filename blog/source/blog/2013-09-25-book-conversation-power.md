@@ -1,5 +1,5 @@
 ---
-title:	Conversation Power
+title:	"Conversation Power"
 auth:	James K. Van Fleet
 read:	2013-09-25
 ---

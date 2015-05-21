@@ -1,5 +1,5 @@
 ---
-title:	JavaScript: The Definitive Guide
+title:	"JavaScript: The Definitive Guide"
 auth:	David Flanagan
 read:	2013-03-24
 ---

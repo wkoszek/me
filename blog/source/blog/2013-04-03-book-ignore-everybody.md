@@ -1,5 +1,5 @@
 ---
-title:	Ignore Everybody
+title:	"Ignore Everybody"
 auth:	Hugh MacLeod
 read:	2013-04-03
 ---

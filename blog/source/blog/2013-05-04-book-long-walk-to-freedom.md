@@ -1,5 +1,5 @@
 ---
-title:	Long Walk to Freedom
+title:	"Long Walk to Freedom"
 auth:	Nelson Mandela
 read:	2013-05-04
 ---

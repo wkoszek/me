@@ -1,5 +1,5 @@
 ---
-title:	Learning Node
+title:	"Learning Node"
 auth:	Shelley Powers
 read:	2013-05-01
 ---

@@ -1,5 +1,5 @@
 ---
-title:	Hackers and painters
+title:	"Hackers and painters"
 auth:	Paul Graham
 read:	2012-04-20
 ---

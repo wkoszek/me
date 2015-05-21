@@ -1,5 +1,5 @@
 ---
-title:	No asshole rule
+title:	"No asshole rule"
 auth:	Robert Sutton
 read:	2012-12-31
 ---

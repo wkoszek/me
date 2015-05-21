@@ -1,5 +1,5 @@
 ---
-title:	Suze Orman books (9 steps, Courage..., )
+title:	"Suze Orman books (9 steps, Courage..., )"
 auth:	Suze Orman
 read:	2013-10-02
 ---

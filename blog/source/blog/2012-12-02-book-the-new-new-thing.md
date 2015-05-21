@@ -1,5 +1,5 @@
 ---
-title:	The New New Thing: A Silicon Valley Story
+title:	"The New New Thing: A Silicon Valley Story"
 auth:	Michael Lewis
 read:	2012-12-02
 ---

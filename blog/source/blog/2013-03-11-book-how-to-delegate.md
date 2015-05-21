@@ -1,5 +1,5 @@
 ---
-title:	How to Delegate
+title:	"How to Delegate"
 auth:	Dick Lohr
 read:	2013-03-11
 ---

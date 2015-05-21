@@ -1,5 +1,5 @@
 ---
-title:	The Old New Thing
+title:	"The Old New Thing"
 auth:	Raymond Chen
 read:	2012-12-07
 ---

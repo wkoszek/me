@@ -1,5 +1,5 @@
 ---
-title:	Talent code
+title:	"Talent code"
 auth:	Daniel Coyle
 read:	2013-01-31
 ---

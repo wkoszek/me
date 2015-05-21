@@ -1,5 +1,5 @@
 ---
-title:	Ben and Jerry
+title:	"Ben and Jerry"
 auth:	Fred Lager
 read:	2014-02-21
 ---

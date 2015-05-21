@@ -1,5 +1,5 @@
 ---
-title:	Don't make me think
+title:	"Don't make me think"
 auth:	Steve Krug
 read:	2012-08-03
 ---

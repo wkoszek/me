@@ -1,5 +1,5 @@
 ---
-title:	A Whole New Mind: Why Right-Brainers Will Rule the Future
+title:	"A Whole New Mind: Why Right-Brainers Will Rule the Future"
 auth:	Daniel H. Pink
 read:	2014-09-24
 ---

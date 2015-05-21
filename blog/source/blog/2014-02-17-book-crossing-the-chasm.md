@@ -1,5 +1,5 @@
 ---
-title:	Crossing the chasm
+title:	"Crossing the chasm"
 auth:	Geoffrey A. Moore
 read:	2014-02-17
 ---

@@ -1,5 +1,5 @@
 ---
-title:	The Idea Factory
+title:	"The Idea Factory"
 auth:	Jon Gertner
 read:	2014-11-04
 ---

@@ -1,5 +1,5 @@
 ---
-title:	The Lean Startup
+title:	"The Lean Startup"
 auth:	Eric Ries
 read:	2012-05-24
 ---

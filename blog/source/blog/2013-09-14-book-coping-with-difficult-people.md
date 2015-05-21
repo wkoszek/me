@@ -1,5 +1,5 @@
 ---
-title:	Coping with difficult people
+title:	"Coping with difficult people"
 auth:	Robert M. Bramson
 read:	2013-09-14
 ---

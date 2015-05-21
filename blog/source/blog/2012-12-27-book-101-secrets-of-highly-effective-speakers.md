@@ -1,5 +1,5 @@
 ---
-title:	101 Secrets of Highly Effective Speakers
+title:	"101 Secrets of Highly Effective Speakers"
 auth:	Caryl Rae Krannich
 read:	2012-12-25
 ---

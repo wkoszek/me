@@ -1,5 +1,5 @@
 ---
-title:	Extreme Toyota
+title:	"Extreme Toyota"
 auth:	Emi Osono, Norihiko Shimizu, Hirotaka Takeuchi
 read:	2014-03-23
 ---

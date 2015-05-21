@@ -1,5 +1,5 @@
 ---
-title:	Essential: Essays by The Minimalists
+title:	"Essential: Essays by The Minimalists"
 auth:	Joshua Fields Millburn, Ryan Nicodemus
 read:	2014-08-28
 ---

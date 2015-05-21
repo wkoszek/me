@@ -1,5 +1,5 @@
 ---
-title:	The Automatic Millionaire
+title:	"The Automatic Millionaire"
 auth:	David Bach
 read:	2013-01-07
 ---
