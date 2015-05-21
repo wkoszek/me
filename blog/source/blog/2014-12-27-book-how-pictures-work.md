@@ -2,6 +2,7 @@
 title:	"Picture This: How Pictures Work"
 auth:	Molly Bang
 read:	2014-12-27
+book:	yes
 ---
 
 

@@ -2,6 +2,7 @@
 title:	"HDL Chip Design"
 auth:	Douglas Smith
 read:	2012-11-07
+book:	yes
 ---
 
 

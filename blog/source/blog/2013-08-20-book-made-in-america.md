@@ -2,6 +2,7 @@
 title:	"Made in America"
 auth:	Sam Walton, John Huey
 read:	2013-08-20
+book:	yes
 ---
 
 

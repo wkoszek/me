@@ -2,6 +2,7 @@
 title:	"David and Goliath"
 auth:	Malcolm Gladwell
 read:	2014-06-07
+book:	yes
 ---
 
 

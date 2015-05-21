@@ -2,6 +2,7 @@
 title:	"50 Prosperity Classics"
 auth:	Tom Butler-Bowdon
 read:	2013-01-09
+book:	yes
 ---
 
 

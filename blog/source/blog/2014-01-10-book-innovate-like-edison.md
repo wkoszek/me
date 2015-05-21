@@ -2,6 +2,7 @@
 title:	"Innovate like Edison"
 auth:	Michael J. Gelb, Sarah Miller Caldicott
 read:	2014-01-10
+book:	yes
 ---
 
 

@@ -2,6 +2,7 @@
 title:	"Just for Fun: The Story of an Accidental Revolutionary"
 auth:	Linus Torvalds, David Diamond
 read:	2012-09-17
+book:	yes
 ---
 
 

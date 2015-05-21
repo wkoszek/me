@@ -2,6 +2,8 @@
 title:	"I'm Feeling Lucky"
 auth:	Douglas Edwards
 read:	2014-06-14
+book:	yes
+book:	yes
 ---
 
 

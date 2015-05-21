@@ -2,6 +2,7 @@
 title:	"Autobiography of Andrew Carnegie"
 auth:	Andrew Carnegie
 read:	2013-08-10
+book:	yes
 ---
 
 

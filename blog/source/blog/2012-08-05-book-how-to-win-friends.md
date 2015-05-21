@@ -2,6 +2,7 @@
 title:	"How to win friends and influence people"
 auth:	Dale Carnegie
 read:	2012-08-05
+book:	yes
 ---
 
 

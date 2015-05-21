@@ -1,6 +1,7 @@
 ---
 title:  "Made it stick"
 categories: books
+book:	yes
 ---
 
 Accelerating learning should probably be my logical step before I started to

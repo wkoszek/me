@@ -2,6 +2,7 @@
 title:	"Jim Rohn's weekend leadership event"
 auth:	Jim Rohn
 read:	2013-03-14
+book:	yes
 ---
 
 

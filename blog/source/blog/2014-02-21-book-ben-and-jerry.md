@@ -2,6 +2,7 @@
 title:	"Ben and Jerry"
 auth:	Fred Lager
 read:	2014-02-21
+book:	yes
 ---
 
 

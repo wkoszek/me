@@ -2,6 +2,7 @@
 title:	"The Art of Motorcycle Maintenance"
 auth:	Robert Pirsig
 read:	2012-09-11
+book:	yes
 ---
 
 

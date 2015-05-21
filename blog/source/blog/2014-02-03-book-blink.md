@@ -2,6 +2,7 @@
 title:	"Blink"
 auth:	Malcolm Gladwell
 read:	2014-02-03
+book:	yes
 ---
 
 

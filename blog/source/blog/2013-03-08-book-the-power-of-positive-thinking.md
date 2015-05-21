@@ -2,6 +2,7 @@
 title:	"The Power of Positive Thinking"
 auth:	Norman Vincent Peale
 read:	2013-03-08
+book:	yes
 ---
 
 

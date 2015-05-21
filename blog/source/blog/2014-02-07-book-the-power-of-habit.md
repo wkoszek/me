@@ -2,6 +2,7 @@
 title:	"The Power of Habit"
 auth:	 Charles Duhigg
 read:	2014-02-07
+book:	yes
 ---
 
 

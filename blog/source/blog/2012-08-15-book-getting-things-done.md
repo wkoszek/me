@@ -2,6 +2,7 @@
 title:	"Getting things done"
 auth:	David Allen
 read:	2012-08-15
+book:	yes
 ---
 
 

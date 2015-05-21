@@ -2,6 +2,7 @@
 title:	"The Field"
 auth:	Lynne McTaggart
 read:	2012-10-20
+book:	yes
 ---
 
 
