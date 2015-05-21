@@ -1,8 +1,7 @@
-fpurge() hack &mdash; Koszek trick #1
---------------------------------
-***by Wojciech Koszek***
-
-%%inc/addthis.html%%
+---
+title:	"fpurge() hack &mdash; Koszek trick #1"
+auth:	Wojciech Koszek
+---
 
 A friend of mine asked me once:
 

@@ -1,7 +1,7 @@
-Google Summer of Code &mdash; how proposals are evaluated
----------------------------------------------------
-**by Wojciech Koszek**
-%%inc/addthis.html%%
+---
+title:	"Google Summer of Code &mdash; how proposals are evaluated"
+auth:	"Wojciech Koszek"
+---
 
 In the previous post I explained the motivation of GSoC and the state of
 things nowadays with regards to how it helps FreeBSD.

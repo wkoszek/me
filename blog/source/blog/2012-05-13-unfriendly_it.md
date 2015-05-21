@@ -1,9 +1,7 @@
-Unfriendly IT, or how to get Perforce diffs e-mailed to you
------------------------------------------------------------
-**by Wojciech Koszek**
-
-%%inc/addthis.html%%
-
+---
+title:	"Unfriendly IT, or how to get Perforce diffs e-mailed to you"
+auth:	Wojciech Koszek
+---
 
 Work for a big corporation can be very depressing sometimes. This touches me
 especially when I have to request something, and IT department doesn't

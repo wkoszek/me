@@ -1,8 +1,7 @@
-Cross-compile GNU assembler for MIPS
-------------------------
-***by Wojciech Koszek***
-
-%%inc/addthis.html%%
+---
+title:	"Cross-compile GNU assembler for MIPS"
+auth:	Wojciech Koszek
+---
 
 Just a short note, not to have to walk through the Web each time I
 want to get some strange opcodes generated.

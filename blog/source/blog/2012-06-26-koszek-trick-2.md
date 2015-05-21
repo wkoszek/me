@@ -1,7 +1,7 @@
-Figuring out confusing assembly instructions &mdash; Koszek trick #2
------------------
-**by Wojciech Koszek**
-%%inc/addthis.html%%
+---
+title:	"Figuring out confusing assembly instructions &mdash; Koszek trick #2"
+auth:	Wojciech Koszek
+---
 
 Todays post will be very simple, maybe trivial. One of the hacks that I came
 up with, when I encountered confusing arcane of ANSI C, or when I played

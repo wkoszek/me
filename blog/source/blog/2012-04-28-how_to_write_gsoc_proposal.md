@@ -1,7 +1,7 @@
-How to write a good Google Summer of Code Proposals
----------------------------------------------------
-**by Wojciech Koszek**
-%%inc/addthis.html%%
+---
+title:	"How to write a good Google Summer of Code Proposals"
+auth:	Wojciech Koszek
+---
 
 Let me keep it short. As short and concrete as your proposal should be.
 I document my  examples with this years proposals, but the fact you see

@@ -1,7 +1,7 @@
-Almost usable &mdash; Sharp MFP printer menu
------------------
-**by Wojciech Koszek**
-%%inc/addthis.html%%
+---
+title:	"Almost usable &mdash; Sharp MFP printer menu"
+auth:	Wojciech Koszek
+---
 
 I decided to give Sharp MFP printer a try. I'm pretty conservative (lets say I'm radical:
 if something works nicely for me, I don't wanna change). But printers which

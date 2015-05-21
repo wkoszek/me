@@ -1,8 +1,7 @@
-Google Summer of Code &mdash; my take
--------------------------------
-**by Wojciech Koszek**
-
-%%inc/addthis.html%%
+---
+title:	"Google Summer of Code &mdash; my take"
+auth:	Wojciech Koszek
+---
 
 So it has been a week since I reviewed 32 Google Summer of Code proposals for
 FreeBSD.  If you don't know anything about it, try to see

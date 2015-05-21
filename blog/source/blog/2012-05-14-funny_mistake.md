@@ -1,8 +1,7 @@
-Funny mistakes and The Toyota Way
--------------------------------------------------------
-**by Wojciech Koszek**
-
-%%inc/addthis.html%%
+---
+title:	"Funny mistakes and The Toyota Way"
+auth:	Wojciech Koszek
+---
 
 This article has a strange mix of UNIX and methodology and mental problems
 of post's author, related with inspirations from the The Toyota Way. I read

@@ -1,9 +1,7 @@
-01001011, or on the art of snare drum patterns
--------------------------------------------------------
-**by Wojciech Koszek**
-
-
-%%inc/addthis.html%%
+---
+title:	"01001011, or on the art of snare drum patterns"
+auth:	Wojciech Koszek
+---
 
 Below is my short experiment on finding an analogy between two of things I
 like: computers and music. Sometimes when I think about snare drum

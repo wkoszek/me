@@ -1,8 +1,7 @@
-Random notes on "Barely usable"
------------------
-**by Wojciech Koszek**
-%%inc/addthis.html%%
-
+---
+title:	"Random notes on 'Barely usable'"
+auth:	Wojciech Koszek
+---
 
 Hall in my new apartment is narrow enough to make it impossible to bring ANY
 form of the furniture in. Wanna desk? NEEEEEEEEEEE. Cupboard?
