@@ -1,27 +1,49 @@
 ---
 pageable: true
 per_page: 10
-
 software:
-  item:
+  -
+    date: Feb 9, 2015
+    name: MacB
+    link: https://github.com/wkoszek/macb
+    desc: Mac Build: command line tool for Xcode project creation
+  -
+    date: 2014
+    name: UnSaver
+    link: https://github.com/wkoszek/unsaver
+    desc: Xilinx's hackathon project written in CWEB, Literate Programming system
+  -
+    date: 2013
+    name: USB_relay
+    link: https://github.com/wkoszek/usb_relay
+    desc: USB driver for JS284 relay from J-Works
+  -
+    date: Sept 9, 2009
     name: "NetFPGA driver for FreeBSD"
     link: http://www.koszek.com/stuff/netfpga/freebsd_netfpga-20090906.tar.gz
+    desc: Driver which I've written during my HIIT/Ericsson internship
+  -
+    date: June 21, 2009
+    name: FLViz
+    link: https://github.com/wkoszek/flviz
+    desc: Graphical Simulator of DFA state transitions
+  -
+    date: June 16, 2009
+    name: Koszek-Matyja Network Simulator
+    link: http://www.koszek.com/stuff/studia/kmnsim-20090616.tgz
+    desc: Config-file driver Ethernet simulator with hubs/switches
+  -
+    date: Oct 1, 2008
+    name: LibCLA
+    link: http://www.koszek.com/stuff/libcla-20081001.tar.bz2
+    desc: Library for hierarchical command argument handling (as in CLI interfaces of Cisco/KVM devices)
 ---
 
 ### Software
 
-Random stuff I wrote over the years.
+My software projects written over the years.
 
-<h4>NetFPGA driver</h4>
-
-http://www.koszek.com/stuff/netfpga/freebsd_netfpga-20090906.tar.gz
-
-Simple network simulator
-
-http://www.koszek.com/stuff/studia/kmnsim-20090616.tgz
-
-LibCLA
-
-Library for hierarchical command argument handling (as in CLI interfaces of Cisco/KVM devices):
-
-http://www.koszek.com/stuff/libcla-20081001.tar.bz2
+<% current_page.data.software.each do |item| %> 
+<a href="<%= %>"><%= item.name %></a><br>
+<p><%= item.desc %></p>
+<% end %>
