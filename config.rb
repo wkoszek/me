@@ -43,6 +43,8 @@ end
 
 page "/feed.xml", layout: false
 
+ignore "css/charter/*"
+
 ###
 # Compass
 ###
