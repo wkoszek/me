@@ -84,6 +84,10 @@ page "/feed.xml", layout: false
 activate :livereload
 activate :directory_indexes
 
+# Fix quotes: https://github.com/middleman/middleman/issues/909
+set :markdown_engine, :kramdown
+set :markdown, :smartypants => true
+
 # Methods defined in the helpers block are available in templates
 # helpers do
 #   def some_helper
