@@ -10,10 +10,9 @@ writing itself..
 
 
 <% blog.articles.each do |article| %>
-<% unless article.data.book %>
+  <% next if article.tags.include?("books") %>
 <span class="date"><%= article.date.strftime('%b %e, %Y') %></span><br>
 <%= link_to article.title, article %>
 <br>
 <br>
-<% end %>
 <% end %>
