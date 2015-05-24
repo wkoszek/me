@@ -2,7 +2,7 @@
 title:	"Losing My Virginity"
 auth:	Richard Branson
 read:	2013-02-16
-book:	yes
+tags:	books
 ---
 
 

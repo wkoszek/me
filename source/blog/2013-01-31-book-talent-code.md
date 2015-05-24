@@ -2,7 +2,7 @@
 title:	"Talent code"
 auth:	Daniel Coyle
 read:	2013-01-31
-book:	yes
+tags:	books
 ---
 
 

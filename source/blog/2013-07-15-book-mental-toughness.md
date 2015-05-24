@@ -2,7 +2,7 @@
 title:	"Mental toughness training"
 auth:	 by James, Loehr, Peter McLaughlin
 read:	2013-07-15
-book:	yes
+tags:	books
 ---
 
 

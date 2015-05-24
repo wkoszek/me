@@ -2,7 +2,7 @@
 title:	"Envisioning information"
 auth:	Edward Tufte
 read:	2013-08-27
-book:	yes
+tags:	books
 ---
 
 

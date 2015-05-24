@@ -2,7 +2,7 @@
 title:	"The Art of Start"
 auth:	Guy Kawasaki
 read:	2013-04-23
-book:	yes
+tags:	books
 ---
 
 

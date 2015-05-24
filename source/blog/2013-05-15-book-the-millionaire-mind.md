@@ -2,7 +2,7 @@
 title:	"The Millionaire Mind"
 auth:	Thomas J. Stanley
 read:	2013-05-15
-book:	yes
+tags:	books
 ---
 
 

@@ -2,7 +2,7 @@
 title:	"The 4-Hour Workweek"
 auth:	Timothy Ferriss
 read:	2014-06-02
-book:	yes
+tags:	books
 ---
 
 

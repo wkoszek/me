@@ -2,7 +2,7 @@
 title:	"Are you smart enough to work at Google?"
 auth:	William Poundstone
 read:	2014-08-21
-book:	yes
+tags:	books
 ---
 
 

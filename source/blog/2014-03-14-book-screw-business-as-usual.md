@@ -2,7 +2,7 @@
 title:	"Screw business as usual"
 auth:	Richard Branson
 read:	2014-03-14
-book:	yes
+tags:	books
 ---
 
 

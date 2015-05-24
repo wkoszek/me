@@ -2,7 +2,7 @@
 title:	"The Toyota Way"
 auth:	Jeffrey Liker
 read:	2012-04-04
-book:	yes
+tags:	books
 ---
 
 

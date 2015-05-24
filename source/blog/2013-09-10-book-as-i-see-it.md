@@ -2,7 +2,7 @@
 title:	"As I see it."
 auth:	Jean Paul Getty
 read:	2013-09-10
-book:	yes
+tags:	books
 ---
 
 

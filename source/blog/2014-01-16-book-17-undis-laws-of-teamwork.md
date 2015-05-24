@@ -2,7 +2,7 @@
 title:	"The 17 Indisputable Laws of Teamwork"
 auth:	John C. Maxwell
 read:	2014-01-16
-book:	yes
+tags:	books
 ---
 
 

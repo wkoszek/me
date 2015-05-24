@@ -2,7 +2,7 @@
 title:	"Winning"
 auth:	Jack Welch, Suzy Welch
 read:	2012-11-25
-book:	yes
+tags:	books
 ---
 
 

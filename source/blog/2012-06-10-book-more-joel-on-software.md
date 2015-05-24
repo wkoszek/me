@@ -2,7 +2,7 @@
 title:	"More Joel on Software"
 auth:	Joel Spolsky
 read:	2012-06-10
-book:	yes
+tags:	books
 ---
 
 

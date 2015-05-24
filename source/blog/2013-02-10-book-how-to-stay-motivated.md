@@ -2,7 +2,7 @@
 title:	"How to stay motivated"
 auth:	Zig Ziglar
 read:	2013-02-10
-book:	yes
+tags:	books
 ---
 
 

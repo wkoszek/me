@@ -2,7 +2,7 @@
 title:	"DEC is dead. Long live DEC"
 auth:	E. Schein, P. Kampas, P. Delisi, M. Sonduck
 read:	2013-01
-book:	yes
+tags:	books
 ---
 
 

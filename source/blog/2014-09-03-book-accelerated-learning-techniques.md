@@ -2,7 +2,7 @@
 title:	"Accelerated learning techniques"
 auth:	Brian Tracy
 read:	2014-Oct-15
-book:	yes
+tags:	books
 ---
 
 

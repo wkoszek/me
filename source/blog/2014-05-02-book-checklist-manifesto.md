@@ -2,7 +2,7 @@
 title:	"The checklist manifesto"
 auth:	Atul Gawande
 read:	2014-05-02
-book:	yes
+tags:	books
 ---
 
 

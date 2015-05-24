@@ -2,7 +2,7 @@
 title:	"On A Roll"
 auth:	Howard Jonas
 read:	2013-01-05
-book:	yes
+tags:	books
 ---
 
 Since the first sentence in this book I knew it'd be a very interesting

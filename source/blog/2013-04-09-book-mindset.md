@@ -2,7 +2,7 @@
 title:	"Mindset"
 auth:	Carol Dweck
 read:	2013-04-09
-book:	yes
+tags:	books
 ---
 
 

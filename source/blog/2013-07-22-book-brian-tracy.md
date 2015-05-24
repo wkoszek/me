@@ -2,7 +2,7 @@
 title:	"Brian Tracy books..."
 auth:	Brian Tracy
 read:	2013-07-22
-book:	yes
+tags:	books
 ---
 
 

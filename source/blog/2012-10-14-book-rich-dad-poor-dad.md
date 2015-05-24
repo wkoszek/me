@@ -2,7 +2,7 @@
 title:	"Rich Dad Poor Dad"
 auth:	Robert Kiyosaki
 read:	2012-10-14
-book:	yes
+tags:	books
 ---
 
 

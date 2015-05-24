@@ -2,7 +2,7 @@
 title:	"Father & Son -- my life at IBM"
 auth:	Thomas J. Watson, Peter Petre
 read:	2014-03-08
-book:	yes
+tags:	books
 ---
 
 

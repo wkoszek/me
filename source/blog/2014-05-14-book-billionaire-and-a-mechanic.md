@@ -2,7 +2,7 @@
 title:	"The Billionaire and the Mechanic"
 auth:	Julian Guthrie
 read:	2014-05-14
-book:	yes
+tags:	books
 ---
 
 

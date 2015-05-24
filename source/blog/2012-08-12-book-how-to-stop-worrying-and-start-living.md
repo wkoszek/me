@@ -2,7 +2,7 @@
 title:	"How to Stop Worrying and Start Living"
 auth:	Dale Carnegie
 read:	2012-08-12
-book:	yes
+tags:	books
 ---
 
 

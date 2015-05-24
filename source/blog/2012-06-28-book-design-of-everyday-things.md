@@ -2,7 +2,7 @@
 title:	"Design of everyday things"
 auth:	Donald A. Norman
 read:	2012-06-28
-book:	yes
+tags:	books
 ---
 
 

@@ -2,7 +2,7 @@
 title:	"Dreaming in code"
 auth:	Scott Rosenberg
 read:	2014-01-22
-book:	yes
+tags:	books
 ---
 
 

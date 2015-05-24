@@ -1,7 +1,7 @@
 ---
 title:  "The Innovators"
 categories: books
-book:	yes
+tags:	books
 ---
 
 Probably the most comprehensive study on the history and current state of
