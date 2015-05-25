@@ -12,7 +12,7 @@ writing itself..
 <% blog.articles.each do |article| %>
   <% next if article.tags.include?("books") %>
 <span class="date"><%= article.date.strftime('%b %e, %Y') %></span><br>
-<%= link_to article.title, article %>
+<%= link_to article.title, article, :class => 'abig' %>
 <br>
 <br>
 <% end %>
