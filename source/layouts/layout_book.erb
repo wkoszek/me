@@ -1,0 +1,17 @@
+<% wrap_layout :layout do %>
+	<article>
+		<span class="date"><%= current_page.date.strftime('%b %e, %Y') %></span>
+		<% current_page.tags.each do |tag| %>
+			<!-- <span><%= link_to tag, tag_path(tag) %></span> -->
+		<% end %>
+		<h2><%= current_page.title %></h2>
+		<i>Wojciech Adam Koszek</i>
+		&nbsp;
+		• 
+		&nbsp;
+		<a href="#share">Share <i class="fa fa-share-alt"></i></a></i>
+		<p>
+			<%= yield %>
+		</p>
+	</article>
+<% end %>
