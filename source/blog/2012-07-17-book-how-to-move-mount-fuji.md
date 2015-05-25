@@ -49,7 +49,6 @@ won't know what the trick is all about!
 Anyway, excellent book, like most of his writings. Looks like my strategy of
 buying his books no matter what works pretty well for me -- I learn a lot!
 Highly recommended (unless you know the trick!)
-@@@RIGHT@@@
 
 
 <script type="text/javascript"><!--

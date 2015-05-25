@@ -38,4 +38,3 @@ The message is very similar to Steven Covey's "7 habits". If you've already
 read this one, you can consider Ziglar's book as a complementary reading.
 Otherwise, I suggest you get it.
 
-@@@RIGHT@@@

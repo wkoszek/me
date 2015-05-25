@@ -78,7 +78,6 @@ This is shortened story. I'll save you the rest. That that I tried to scan
 couple of interesting quotes from couple of books from Amazon which I got
 lately, but it wasn't trivial either. Especially canceling buggy choices is
 hard on MFP -- some menus don't have Cancel/Back buttons.
-@@@RIGHT@@@
 
 <script type="text/javascript">
 google_ad_client = "ca-pub-7199453802213032";

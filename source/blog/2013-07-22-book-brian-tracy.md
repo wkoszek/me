@@ -36,7 +36,6 @@ vacation". Pretty broad spectrum..
 
 That's about it.
 
-@@@RIGHT@@@
 
 <a target="_blank" href="http://www.amazon.com/Brian-Tracy/e/B001H6OMRI/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&qid=1375163486&sr=8-2-ent&tag=wojcadamkoszh-20">Brian Tracy @ Amazon</a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

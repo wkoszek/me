@@ -47,7 +47,6 @@ Help You, you must read this book.
 And if you wonder, why I get excellent breakfasts and lunches in a company
 while you don't, you should read some chapters as well. Oh, and by the way
 -- I was getting those BEFORE I read it too.
-@@@RIGHT@@@
 
 
 <script type="text/javascript"><!--

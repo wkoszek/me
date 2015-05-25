@@ -238,7 +238,6 @@ provide some feedback.
 
 The end,
 Hope that helps
-@@@RIGHT@@@
 
 <script type="text/javascript">
 google_ad_client = "ca-pub-7199453802213032";

@@ -24,4 +24,3 @@ Allen, then lots of information will be replicated.
 
 <iframe width="480" height="360" src="//www.youtube.com/embed/PSGiUiMo_ZE" frameborder="0" allowfullscreen></iframe>
 
-@@@RIGHT@@@

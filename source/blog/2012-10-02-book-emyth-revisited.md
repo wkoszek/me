@@ -58,7 +58,6 @@ However, this is probably one of the most important books about business
 I've read so far. Highly recommended reading for anybody thinking about
 something more than an American 8hr/5day/lifetime dream.
 
-@@@RIGHT@@@
 
 <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0887307280" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 

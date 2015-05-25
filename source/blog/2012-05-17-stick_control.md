@@ -244,7 +244,6 @@ me stop at play at tempos 60-80 to get it right, because of brain telling me
 "Left", where "Right" was supposed to be used.
 
 Lots of fun.
-@@@RIGHT@@@
 
 
 <iframe

@@ -71,7 +71,6 @@ depend on that. It's a hack.  Here it is:
 		fclose(fp);
 		return (EXIT_SUCCESS);
 	}
-@@@RIGHT@@@
 
 <script type="text/javascript">
 google_ad_client = "ca-pub-7199453802213032";
