@@ -3,6 +3,7 @@ title:	"How to Delegate"
 auth:	Dick Lohr
 read:	2013-03-11
 tags:	books
+layout: layout_book
 ---
 
 

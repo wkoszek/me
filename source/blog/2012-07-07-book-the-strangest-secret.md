@@ -3,6 +3,7 @@ title:	"The Strangest Secret"
 auth:	Earl Nightingale
 read:	2012-07-07
 tags:	books
+layout: layout_book
 ---
 
 

@@ -3,6 +3,7 @@ title:	"Netscape Time"
 auth:	Jim Clark
 read:	2013-08-13
 tags:	books
+layout: layout_book
 ---
 
 

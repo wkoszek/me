@@ -3,6 +3,7 @@ title:	"I hate people"
 auth:	Jonathan Littman, Marc Hershon
 read:	2014-06-25
 tags:	books
+layout: layout_book
 ---
 
 

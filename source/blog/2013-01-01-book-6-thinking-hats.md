@@ -3,6 +3,7 @@ title:	"Six thinking hats"
 auth:	Edward De Bono
 read:	2013-01-01
 tags:	books
+layout: layout_book
 ---
 
 

@@ -3,6 +3,7 @@ title:	"Brian Tracy books..."
 auth:	Brian Tracy
 read:	2013-07-22
 tags:	books
+layout: layout_book
 ---
 
 

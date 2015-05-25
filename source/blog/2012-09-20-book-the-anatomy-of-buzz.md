@@ -3,6 +3,7 @@ title:	"The Anatomy of Buzz"
 auth:	Emanuel Rosen
 read:	2012-09-20
 tags:	books
+layout: layout_book
 ---
 
 

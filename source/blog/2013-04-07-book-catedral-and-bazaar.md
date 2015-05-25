@@ -3,6 +3,7 @@ title:	"The Cathedral and the Bazaar"
 auth:	Eric S. Raymond
 read:	2013-04-07
 tags:	books
+layout: layout_book
 ---
 
 

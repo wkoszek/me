@@ -3,6 +3,7 @@ title:	"Joel on Software"
 auth:	Joel Spolsky
 read:	2012-05-12
 tags:	books
+layout: layout_book
 ---
 
 

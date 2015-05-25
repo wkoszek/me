@@ -3,6 +3,7 @@ title:	"The Power of Less"
 auth:	 Leo Babauta
 read:	2013-05-02
 tags:	books
+layout: layout_book
 ---
 
 

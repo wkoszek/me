@@ -3,6 +3,7 @@ title:	"Ignore Everybody"
 auth:	Hugh MacLeod
 read:	2013-04-03
 tags:	books
+layout: layout_book
 ---
 
 

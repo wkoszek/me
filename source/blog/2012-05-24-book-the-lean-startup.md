@@ -3,6 +3,7 @@ title:	"The Lean Startup"
 auth:	Eric Ries
 read:	2012-05-24
 tags:	books
+layout: layout_book
 ---
 
 

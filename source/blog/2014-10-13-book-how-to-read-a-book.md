@@ -3,6 +3,7 @@ title:	"How to read a book?"
 auth:	Mortimer J. Adler, Charles Van Doren
 read:	2014-10-13
 tags:	books
+layout: layout_book
 ---
 
 

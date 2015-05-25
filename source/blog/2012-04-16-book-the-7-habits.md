@@ -3,6 +3,7 @@ title:	"The 7 habits of highly effective people"
 auth:	Stephen R. Covey
 read:	2012-04-16
 tags:	books
+layout: layout_book
 ---
 
 

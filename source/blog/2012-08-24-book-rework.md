@@ -3,6 +3,7 @@ title:	"Rework"
 auth:	Jason Fried, David Heinemeier Hansson
 read:	2012-08-24
 tags:	books
+layout: layout_book
 ---
 
 

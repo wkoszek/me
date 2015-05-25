@@ -3,6 +3,7 @@ title:	"Talent is overrated"
 auth:	Geoff Colvin
 read:	2013-01-04
 tags:	books
+layout: layout_book
 ---
 
 

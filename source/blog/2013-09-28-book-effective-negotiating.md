@@ -3,6 +3,7 @@ title:	"Effective negotiating"
 auth:	Chester L Karrass
 read:	2013-09-28
 tags:	books
+layout: layout_book
 ---
 
 

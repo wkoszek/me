@@ -3,6 +3,7 @@ title:	"Direct from Dell"
 auth:	Michael Dell, Catherine Fredman
 read:	2014-03-01
 tags:	books
+layout: layout_book
 ---
 
 

@@ -3,6 +3,7 @@ title:	"The Power of Twitter"
 auth:	Joel Comm, Dave Taylor, Guy Kawasaki
 read:	2014-10-19
 tags:	books
+layout: layout_book
 ---
 
 

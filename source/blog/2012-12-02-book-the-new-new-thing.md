@@ -3,6 +3,7 @@ title:	"The New New Thing: A Silicon Valley Story"
 auth:	Michael Lewis
 read:	2012-12-02
 tags:	books
+layout: layout_book
 ---
 
 

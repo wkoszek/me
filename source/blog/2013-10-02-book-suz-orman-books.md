@@ -3,6 +3,7 @@ title:	"Suze Orman books (9 steps, Courage..., )"
 auth:	Suze Orman
 read:	2013-10-02
 tags:	books
+layout: layout_book
 ---
 
 

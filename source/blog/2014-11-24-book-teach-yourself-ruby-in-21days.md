@@ -3,6 +3,7 @@ title:	"Teach yourself Ruby in 21 days"
 auth:	by Mark Slagell
 read:	2014-11-27
 tags:	books
+layout: layout_book
 ---
 
 

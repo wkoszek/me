@@ -3,6 +3,7 @@ title:	"MicroISV"
 auth:	Bob Walsh
 read:	2013-05-10
 tags:	books
+layout: layout_book
 ---
 
 

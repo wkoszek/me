@@ -3,6 +3,7 @@ title:	"50 Success Classics"
 auth:	Tom Butler-Bowdon
 read:	2013-01-15
 tags:	books
+layout: layout_book
 ---
 
 

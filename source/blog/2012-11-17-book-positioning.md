@@ -3,6 +3,7 @@ title:	"Positioning"
 auth:	Al Ries, Jack Trout
 read:	2012-11-17
 tags:	books
+layout: layout_book
 ---
 
 

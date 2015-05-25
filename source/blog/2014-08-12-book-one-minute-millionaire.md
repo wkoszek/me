@@ -3,6 +3,7 @@ title:	"One Minute Millionaire"
 auth:	Mark Victor Hansen, Robert G. Allen
 read:	2014-08-12
 tags:	books
+layout: layout_book
 ---
 
 

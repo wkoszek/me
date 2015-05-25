@@ -3,6 +3,7 @@ title:	"Microserfs"
 auth:	Douglas Coupland
 read:	2012-09-29
 tags:	books
+layout: layout_book
 ---
 
 

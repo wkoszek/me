@@ -3,6 +3,7 @@ title:	"Everyone else must fail"
 auth:	Karen Southwick
 read:	2013-04-27
 tags:	books
+layout: layout_book
 ---
 
 

@@ -3,6 +3,7 @@ title:	"Getting to Yes"
 auth:	Roger Fisher, William L. Ury, Bruce Patton
 read:	2012-06-16
 tags:	books
+layout: layout_book
 ---
 
 

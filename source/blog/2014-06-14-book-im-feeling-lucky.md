@@ -4,6 +4,7 @@ auth:	Douglas Edwards
 read:	2014-06-14
 tags:	books
 tags:	books
+layout: layout_book
 ---
 
 

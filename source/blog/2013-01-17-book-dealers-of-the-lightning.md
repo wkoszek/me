@@ -3,6 +3,7 @@ title:	"Dealers of Lightning"
 auth:	Michael A. Hiltzik
 read:	2013-01-17
 tags:	books
+layout: layout_book
 ---
 
 

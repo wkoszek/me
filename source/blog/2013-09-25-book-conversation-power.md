@@ -3,6 +3,7 @@ title:	"Conversation Power"
 auth:	James K. Van Fleet
 read:	2013-09-25
 tags:	books
+layout: layout_book
 ---
 
 

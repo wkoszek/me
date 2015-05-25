@@ -3,6 +3,7 @@ title:	"Little Red Book of Selling: 12.5 Principles of Sales Greatness"
 auth:	Jeffrey Gitomer
 read:	2012-10-09
 tags:	books
+layout: layout_book
 ---
 
 

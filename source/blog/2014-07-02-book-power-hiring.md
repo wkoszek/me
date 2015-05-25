@@ -3,6 +3,7 @@ title:	"Power hiring"
 auth:	Lou Adler
 read:	2013-07-02
 tags:	books
+layout: layout_book
 ---
 
 

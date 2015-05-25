@@ -3,6 +3,7 @@ title:	"Extreme Toyota"
 auth:	Emi Osono, Norihiko Shimizu, Hirotaka Takeuchi
 read:	2014-03-23
 tags:	books
+layout: layout_book
 ---
 
 

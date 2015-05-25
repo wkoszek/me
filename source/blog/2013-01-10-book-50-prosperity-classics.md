@@ -3,6 +3,7 @@ title:	"50 Prosperity Classics"
 auth:	Tom Butler-Bowdon
 read:	2013-01-09
 tags:	books
+layout: layout_book
 ---
 
 

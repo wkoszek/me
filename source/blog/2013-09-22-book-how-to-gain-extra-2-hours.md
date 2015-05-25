@@ -3,6 +3,7 @@ title:	"How to Gain 2 Extra Hours a Day"
 auth:	Brian Tracy
 read:	2013-08-05
 tags:	books
+layout: layout_book
 ---
 
 

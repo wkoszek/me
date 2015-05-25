@@ -3,6 +3,7 @@ title:	"The Founder's Dilemmas"
 auth:	Noam Wasserman
 read:	2014-12-30
 tags:	books
+layout: layout_book
 ---
 
 

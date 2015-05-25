@@ -3,6 +3,7 @@ title:	"Guerilla Business School"
 auth:	Herv Eker
 read:	2013-09-21
 tags:	books
+layout: layout_book
 ---
 
 

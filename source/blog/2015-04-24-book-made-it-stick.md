@@ -2,6 +2,7 @@
 title:  "Made it stick"
 categories: books
 tags:	books
+layout: layout_book
 ---
 
 Accelerating learning should probably be my logical step before I started to

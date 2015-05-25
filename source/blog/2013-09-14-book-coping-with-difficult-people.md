@@ -3,6 +3,7 @@ title:	"Coping with difficult people"
 auth:	Robert M. Bramson
 read:	2013-09-14
 tags:	books
+layout: layout_book
 ---
 
 

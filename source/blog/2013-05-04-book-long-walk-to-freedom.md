@@ -3,6 +3,7 @@ title:	"Long Walk to Freedom"
 auth:	Nelson Mandela
 read:	2013-05-04
 tags:	books
+layout: layout_book
 ---
 
 

@@ -3,6 +3,7 @@ title:	"The real book of real-estate"
 auth:	Robert T. Kiyosaki
 read:	2014-05-29
 tags:	books
+layout: layout_book
 ---
 
 

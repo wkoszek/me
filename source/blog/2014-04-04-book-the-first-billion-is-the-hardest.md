@@ -3,6 +3,7 @@ title:	"The first billion is the hardest"
 auth:	T. Boone Pickens
 read:	2014-04-04
 tags:	books
+layout: layout_book
 ---
 
 

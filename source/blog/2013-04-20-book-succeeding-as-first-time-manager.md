@@ -3,6 +3,7 @@ title:	"Succeeding as first time manager"
 auth:	Dick Lohr
 read:	2013-04-20
 tags:	books
+layout: layout_book
 ---
 
 

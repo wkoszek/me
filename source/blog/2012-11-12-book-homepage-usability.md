@@ -3,6 +3,7 @@ title:	"Homepage Usability: 50 Websites Deconstructed"
 auth:	 Jakob Nielsen, Marie Tahir
 read:	2012-11-12
 tags:	books
+layout: layout_book
 ---
 
 

@@ -3,6 +3,7 @@ title:	"Getting things done"
 auth:	David Allen
 read:	2012-08-15
 tags:	books
+layout: layout_book
 ---
 
 

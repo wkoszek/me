@@ -3,6 +3,7 @@ title:	"The Tipping Point"
 auth:	Malcolm Gladwell
 read:	2012-09-07
 tags:	books
+layout: layout_book
 ---
 
 

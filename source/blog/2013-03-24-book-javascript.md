@@ -3,6 +3,7 @@ title:	"JavaScript: The Definitive Guide"
 auth:	David Flanagan
 read:	2013-03-24
 tags:	books
+layout: layout_book
 ---
 
 

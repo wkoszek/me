@@ -3,6 +3,7 @@ title:	"Beautiful evindence"
 auth:	Edward Tufte
 read:	2013-09-05
 tags:	books
+layout: layout_book
 ---
 
 

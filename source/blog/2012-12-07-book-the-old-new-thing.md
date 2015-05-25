@@ -3,6 +3,7 @@ title:	"The Old New Thing"
 auth:	Raymond Chen
 read:	2012-12-07
 tags:	books
+layout: layout_book
 ---
 
 

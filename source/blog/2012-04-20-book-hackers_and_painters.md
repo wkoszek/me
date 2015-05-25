@@ -3,6 +3,7 @@ title:	"Hackers and painters"
 auth:	Paul Graham
 read:	2012-04-20
 tags:	books
+layout: layout_book
 ---
 
 

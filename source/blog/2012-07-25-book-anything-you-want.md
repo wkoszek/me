@@ -3,6 +3,7 @@ title:	"Anything you want"
 auth:	Derek Sivers
 read:	2012-07-25
 tags:	books
+layout: layout_book
 ---
 
 

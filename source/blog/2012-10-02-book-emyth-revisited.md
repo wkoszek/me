@@ -3,6 +3,7 @@ title:	"The E-Myth Revisited"
 auth:	Michael E. Gerber
 read:	2012-10-02
 tags:	books
+layout: layout_book
 ---
 
 

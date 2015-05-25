@@ -3,6 +3,7 @@ title:	"How to move mount Fuji"
 auth:	 William Poundstone
 read:	2012-07-17
 tags:	books
+layout: layout_book
 ---
 
 
