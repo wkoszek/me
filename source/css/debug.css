@@ -6,8 +6,20 @@
 {
 	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
 	font-style: italic;
-	font-size: 150%;
+}
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  font-family: "HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.links a {
 	margin-right: 4%;
+}
+.links a, .leftpanel a {
+	font-size: 150%;
 }
 .links .ac {
 	padding-bottom: 1%;
@@ -17,12 +29,9 @@ body {
 	border-top: solid 3px black;
 }
 
-.content p {
+.content {
 	font-family: "Baskerville";
-	font-size: 150%;
-}
-.content a {
-	font-size: 125%;
+	font-size: 170%;
 }
 
 .ads {
