@@ -92,3 +92,21 @@ a {
 }
 a:hover { color:darkgray; background:white; }
 
+
+.container {
+  max-width: 1200px;
+}
+body {
+  font-family: "HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+a {
+  color: #af0000;
+  text-decoration: none;
+  border-bottom: dotted 1px darkred;
+}
+a:hover {
+  color: gray;
+}
