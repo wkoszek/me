@@ -8,6 +8,7 @@ b:
 # production build
 p:
 	env TGT_KOSZEK_COM=production rake publish
+	make u
 
 d:
 	dig koszek.com +nostats +nocomments +nocmd
