@@ -35,7 +35,7 @@ The only reason is that I think it was the only single person that had
 something on YouTube. I didn't like it much, unlike his biography from
 Byrne's book:
 
-***"Bob Proctor's wisdom came to him through lineage of great teachers..."***
+*"Bob Proctor's wisdom came to him through lineage of great teachers..."*
 
 So here I was -- being introduced to the 2 big names of all time..
 
