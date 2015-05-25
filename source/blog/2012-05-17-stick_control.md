@@ -1,6 +1,9 @@
 ---
 title:	"01001011, or on the art of snare drum patterns"
 auth:	Wojciech Koszek
+ads:
+- <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1892764040" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe> 
+- <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0757995403" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
 
 Below is my short experiment on finding an analogy between two of things I
@@ -246,14 +249,3 @@ me stop at play at tempos 60-80 to get it right, because of brain telling me
 Lots of fun.
 
 
-<iframe
-src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1892764040"
-style="width:120px;height:240px;" scrolling="no" marginwidth="0"
-marginheight="0" frameborder="0"></iframe>
-
-
-
-<iframe
-src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0757995403"
-style="width:120px;height:240px;" scrolling="no" marginwidth="0"
-marginheight="0" frameborder="0"></iframe>

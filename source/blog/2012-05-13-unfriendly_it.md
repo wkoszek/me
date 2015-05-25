@@ -1,6 +1,8 @@
 ---
 title:	"Unfriendly IT, or how to get Perforce diffs e-mailed to you"
 auth:	Wojciech Koszek
+ads:
+- <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0596101856" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
 
 Work for a big corporation can be very depressing sometimes. This touches me
@@ -83,4 +85,3 @@ PS: This post doesn't solve "How to keep your Perforce session opened", but
 Script turned out to be pretty useful. I can see from Perforce what sort of
 problems hardware group is solving!
 
-<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0596101856" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

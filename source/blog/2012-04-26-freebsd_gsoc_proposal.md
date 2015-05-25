@@ -1,6 +1,8 @@
 ---
 title:	"Google Summer of Code &mdash; my take"
 auth:	Wojciech Koszek
+ads:
+- <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=031609997X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
 
 So it has been a week since I reviewed 32 Google Summer of Code proposals for
@@ -104,6 +106,4 @@ But remember that working on the project is just like a normal job: you have
 assumptions, you have requirements imposed by your proposal, and you have some
 hints, but you also have a lot of work you must do by yourself.
 
-
-<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=031609997X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 

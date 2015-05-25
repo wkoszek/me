@@ -4,6 +4,8 @@ auth:	Brian Tracy
 read:	2013-08-05
 tags:	books
 layout: layout_book
+ads:
+- <iframe width="480" height="360" src="//www.youtube.com/embed/PSGiUiMo_ZE" frameborder="0" allowfullscreen></iframe>
 ---
 
 
@@ -21,6 +23,4 @@ Allen's "Getting things done".
 Along the other books, this served as a completion of my "Increased
 productivity studies". I can recommend it, however if you have listen to
 Allen, then lots of information will be replicated.
-
-<iframe width="480" height="360" src="//www.youtube.com/embed/PSGiUiMo_ZE" frameborder="0" allowfullscreen></iframe>
 

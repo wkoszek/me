@@ -4,12 +4,11 @@ auth:	 William Poundstone
 read:	2012-07-17
 tags:	books
 layout: layout_book
+ads:
+- <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0316778494" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
 
-
-
 ...or ***Shockey Semiconductor and hiring smart people***
-
 
 Interesting feeling it is when you're reading about places where significant
 accomplishments had happened before you've been born. And especially when
@@ -20,7 +19,6 @@ surprised me. I expected only questions and reasoning on how recruiters
 think, but encountered a pretty big chunk of history of Silicon Valley and
 the background behind it after all.
 
-<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0316778494" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 Lewis Terman's craziness of IQ testing, Shockey's genius and his magic team
 of 8; Fairchild Semiconductor and others.
@@ -89,8 +87,3 @@ google_ad_height = 600;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-
-
-
-
-
