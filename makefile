@@ -12,5 +12,11 @@ p:
 d:
 	dig koszek.com +nostats +nocomments +nocmd
 
+u:
+	git checkout gh-pages
+	git pull
+	git checkout master
+	git pull
+
 clean:
 	rm -rf build
