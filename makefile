@@ -11,6 +11,10 @@ p:
 
 d:
 	dig koszek.com +nostats +nocomments +nocmd
+	@echo "============== checking koszek.com ================="
+	host -a koszek.com
+	@echo "============== checking www.koszek.com ================="
+	host -a www.koszek.com
 
 u:
 	git checkout gh-pages
