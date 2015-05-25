@@ -110,3 +110,14 @@ a {
 a:hover {
   color: gray;
 }
+
+
+
+ul {
+  list-style: circle; }
+ol {
+  list-style: decimal; }
+ol, ul {
+  padding-left: 5%;
+  margin-top: 0; }
+
