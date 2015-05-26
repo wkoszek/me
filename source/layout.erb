@@ -14,7 +14,7 @@
 		<link rel="stylesheet" href="/css/debug.css">
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-		<link rel="icon" type="image/png" href="images/favicon.png">
+		<link rel="icon" type="image/png" href="img/favicon.png">
 		<title>Blog Title<%= ' - ' + current_article.title unless current_article.nil? %></title>
 		<%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
 	</head>
