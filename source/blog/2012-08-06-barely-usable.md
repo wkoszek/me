@@ -1,5 +1,5 @@
 ---
-title:	"Random notes on 'Barely usable'"
+title:	'Random notes on "Barely usable"'
 auth:	Wojciech Koszek
 tags:	article
 layout: layout_book
