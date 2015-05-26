@@ -9,3 +9,4 @@ find . -type f		\
 	-or		\
 	-name "*.md"	\
 	-print0 | xargs -0 perl -pi -e 's/ +$//'
+	perl -0 -pi -w -e "s/\n\n\n/\n/g" *.md
