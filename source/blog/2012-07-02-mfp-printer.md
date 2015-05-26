@@ -2,6 +2,7 @@
 title:	"Almost usable &mdash; Sharp MFP printer menu"
 auth:	Wojciech Koszek
 tags:	article
+layout: layout_book
 ---
 
 I decided to give Sharp MFP printer a try. I'm pretty conservative (lets say I'm radical:

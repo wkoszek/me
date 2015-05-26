@@ -2,6 +2,7 @@
 title:	"fpurge() hack &mdash; Koszek trick #1"
 auth:	Wojciech Koszek
 tags:	article
+layout: layout_book
 ---
 
 A friend of mine asked me once:

@@ -2,6 +2,7 @@
 title:	"Funny mistakes and The Toyota Way"
 auth:	Wojciech Koszek
 tags:	article
+layout: layout_book
 ---
 
 This article has a strange mix of UNIX and methodology and mental problems
