@@ -42,8 +42,12 @@
 				<a href="/">Wojciech Adam Koszek</a>
 			</div>
 			<div class="eight columns links">
-				<a class="<%= current_page.url == "/" ? "ac" : "in" %>" href="/">Blog</a>
-				<a class="<%= current_page.url == "/reading/" ? "ac" : "in" %>" href="/reading/">Reading</a>
+				<% is_rd = 1 if current_page.url == "/reading/" %>
+				<% is_rd = 1 if current_page.data.tags != nil and current_page.data.tags.include?("books") %>
+				<% is_wr = 1 if current_page.url == "/" %>
+				<% is_wr = 1 if current_page.data.tags != nil and current_page.data.tags.include?("article") %>
+				<a class="<%= is_wr ? "ac" : "in" %>" href="/">Blog</a>
+				<a class="<%= is_rd ? "ac" : "in" %>" href="/reading/">Reading</a>
 				<!-- <a class="<%= current_page.url == "/speaking/" ? "ac" : "in" %>" href="/speaking/">Speaking</a> -->
 				<a class="<%= current_page.url == "/software/" ? "ac" : "in" %>" href="/software/">Software</a>
 				<a class="<%= current_page.url == "/papers/" ? "ac" : "in" %>" href="/papers/">Papers</a>
