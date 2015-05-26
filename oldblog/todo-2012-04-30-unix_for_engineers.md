@@ -4,7 +4,7 @@ UNIX for engineers and scientists
 %%inc/addthis.html%%
 
 I was asked couple of times  to collect notes on productivity in \*nix systems, so I
-thought: "Why don't I create a post about it?". 
+thought: "Why don't I create a post about it?".
 
 This is a hard topic in general, since there's lots of lots of subjects
 here. UNIX wasn't ever built as a easy to use system, but it's pretty damn
@@ -26,7 +26,7 @@ programs will be much better. For some, however, you need a way to have very
 quick technique of performing tasks in a batch mode.
 
 Batch means: no need to sit and do monkey-alike tasks, but writing small
-tool for performing these tasks for you. 
+tool for performing these tasks for you.
 
 This is possible in UNIX.
 
@@ -208,7 +208,7 @@ Will read the file.
 Will show you file ``empty``. Since it's empty, this shouldn't show you
 anything. There's this thing that is called redirection of the output.
 
-What ``cat`` really does it assumes you'll 
+What ``cat`` really does it assumes you'll
 
 ### vim/emacs
 
@@ -291,7 +291,7 @@ To see them from where you are:
 what that means. I'll show all possible entries".
 
 Command ``ls`` is kind of special. The more you spend on getting it to work
-for you, be better for you. 
+for you, be better for you.
 
 You see I passed ``-d`` to ``ls``. These are flags. Anything that starts
 with ``-`` means "Stuff that isn't about directories or files, but about

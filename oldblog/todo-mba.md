@@ -154,7 +154,7 @@ My personal experiences shows that the most technically skilled people are
 just normal, not "freaky".
 Descriptions made me think about "The Soul of a New Machine", which was
 similar, and Apple environment described in "iCON" and several others, so it
-looks like very geeky behavior 
+looks like very geeky behavior
 
 ## Getting to Yes ##
 **Roger Fisher, William L. Ury and Bruce Patton**
@@ -169,7 +169,7 @@ In the big company this book should be a mandatory reading.
 ## Little Red Book Of Selling ##
 **by Jeffrey Gitomer**
 
-Looks like 
+Looks like
 
 ## Getting Things Done ##
 **by David Allen**
@@ -223,7 +223,7 @@ From mythical
 ## the field (the quest for the secret force of the universe)
 **by Lynne McTaggart**
 
-## Positioning ## 
+## Positioning ##
 **by Al Ries, Jack Trout and Philip Kotler**
 
 ## The E-Myth ##

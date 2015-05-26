@@ -37,8 +37,8 @@ competition, I felt using Microsoft will lead to some positive experiences.
 I wasn't wrong.
 
 And I don't regret this decision. Quite reverse: I started to appreciated
-Microsoft engineers more and this appreciation is still growing. 
-Now you may start to think what I'm saying here is an example of lunacy. 
+Microsoft engineers more and this appreciation is still growing.
+Now you may start to think what I'm saying here is an example of lunacy.
 
 Maybe it is. Who knows?
 
@@ -96,6 +96,6 @@ And I just *can't* do it under *nix system.
 
 Copy & paste doesn't exist under UNIX.
 
-Now let me explain you. 
+Now let me explain you.
 
 Windows architecture mic

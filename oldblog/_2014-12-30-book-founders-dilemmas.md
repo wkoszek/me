@@ -9,7 +9,7 @@ TITLE
 ### NOTES ###
 
 This book was on my TODO for quite a while, as I was in the search for a
-some answers 
+some answers
 
 The feel of the book is similar to the Millionair's Mind, as the author
 relates to his broad study and statistical evidence across a lot of

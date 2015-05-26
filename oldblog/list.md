@@ -5,7 +5,7 @@ crossing the chasm
 business of software
 trump the art of the deal
 the startup game
-programming windows 
+programming windows
 customers.com
 
 verilog standard
@@ -28,7 +28,7 @@ thinking forth
 web publishing
 designing web usability
 i hate people
-dealers of the lighting 
+dealers of the lighting
 slack
 lateral thinking
 the checklist manifesto

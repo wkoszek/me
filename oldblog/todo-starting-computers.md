@@ -1,5 +1,5 @@
 Anyway, I'll make a long story short to not bore you to death: I don't
-remember when I achieved anything or learned valuable stuff 
+remember when I achieved anything or learned valuable stuff
 was in times when Internet in Europe was really expensive.  Sitting on
 websites or IRCs was just freaking pricey, so books were the rescue. The
 conclusion is that my current knowledge didn't come from ready-to-use,

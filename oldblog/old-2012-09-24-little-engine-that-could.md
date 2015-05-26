@@ -99,7 +99,7 @@ understand you're just fine working full-time.
 
 ![Would you rather](/img/littledogfatwoman.jpg)
 
-There's this game - "Would you rather...". 
+There's this game - "Would you rather...".
 
 If you're from The
 Old Lands, I know you qualify to compete in "Would you rather..." with me,
@@ -111,7 +111,7 @@ asking, and I'll think on replying).
 Anyway -- lots of the people can't play in "Would you rather ...":
 
 > *Would you rather  work on something interesting and learn, or earn a lot" pick "Earn a lot"?*
-> 
+>
 > *Would you rather do X or Y" pick whichever is safer?*
 
 etc.

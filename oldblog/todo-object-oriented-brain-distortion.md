@@ -23,15 +23,15 @@ typical, built-in type, you have += overloaded, so that even though v1 and
 v2 are of non-standard types (like classes) you can still do += and have
 compiler understand what you mean.
 
-This is 
+This is
 
-Basically no longer there are datastructures and 
+Basically no longer there are datastructures and
 
 I overemphesize of course. OOP isn't that bad. But I draw a line here to
 show, that lots of people somehow can't think of programs as something that
 doesn't have methods and classes.
 
-Obiect Oriented programming 
+Obiect Oriented programming
 
 OOP isn't that bad.
 

@@ -87,7 +87,7 @@ understand you're just fine working full-time.
 
 #### Would you rather ####
 
-There's this game - "Would you rather...". 
+There's this game - "Would you rather...".
 
 If you're from The
 Old Lands, I know you qualify to compete in "Would you rather..." with me,
@@ -111,7 +111,7 @@ depressing that these are the only people in big companies, who know what
 they want.
 
 Anyway, I'll make a long story short to not bore you to death: I don't
-remember when I achieved anything or learned valuable stuff 
+remember when I achieved anything or learned valuable stuff
 was in times when Internet in Europe was really expensive.  Sitting on
 websites or IRCs was just freaking expensive, so books were the rescue. The
 conclusion is that my current knowledge didn't come from ready-to-use,

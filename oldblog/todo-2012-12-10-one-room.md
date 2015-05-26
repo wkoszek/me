@@ -25,10 +25,10 @@ underlying hardware.
 There's a 2nd aspect of projects, which isn't at all technical. So called
 social aspect can be much, much more challenging. But let skip computers and
 work here. The thing that I see pure analogy from is real-life. I
-experienced that not so long ago. Lets call it "6-week long Project Visitor". 
+experienced that not so long ago. Lets call it "6-week long Project Visitor".
 
-This is when you're meant to live in one limited space with 1 person. 
-Experience of this kind I learn 
+This is when you're meant to live in one limited space with 1 person.
+Experience of this kind I learn
 
 I knew that for a long time now, since I have always been impressed in by
 industry giants building huge systems: FreeBSD and Linux from the Open

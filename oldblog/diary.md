@@ -7,4 +7,4 @@
 
 20140923:
 
-	Figured out an easy way to 
+	Figured out an easy way to

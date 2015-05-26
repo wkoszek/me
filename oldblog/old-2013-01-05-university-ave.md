@@ -27,7 +27,7 @@ I'm sometimes amazed about what I experience around.
 University Ave, want it or not, is the center of Silicon Valley. Without
 arguing where Shockey worked most often (theory of Mountain View being 1st
 center of Silicon Valley) I think connection to Stanford makes Palo Alto >
-Mountain View. 
+Mountain View.
 
 Some things which I've experienced...
 

@@ -3,10 +3,10 @@ Verilog standard. As I go, I'm slowly getting rid of sequential attitude of doin
 things, and growing more and more analogies between my programming and
 digital-design experience. With the hope of letting other software people start to
 understand the digital world a bit more, I decided to write how I think it
-works, with absolutely no guarantee it's right or wrong. 
+works, with absolutely no guarantee it's right or wrong.
 
 Over the last several years, oh well, poor me, I've programmed in a
-sequential way. 
+sequential way.
 
 For now lets concentrate on the simple cases: simple scrachpad UNIX program
 running from the command line. Maybe Python or Perl or Ruby or PHP or Lua

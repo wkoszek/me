@@ -23,5 +23,8 @@ u:
 	git checkout master
 	git pull
 
+w:
+	./cleanup.sh
+
 clean:
 	rm -rf build

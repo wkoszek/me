@@ -5,7 +5,7 @@ Debuggers no no no
 
 There were times in the past where I just couldn't start working on a
 programming problem without having all debugging tools behind my belt. Over the years
-I realized I never actually used any of them. 
+I realized I never actually used any of them.
 
 I do use GDB sometimes -- just as a C-compliant calculator.  And I only do
 it on new systems, where I don't have my copy of calc(1) lying around.
@@ -47,7 +47,7 @@ which you use like this:
 	DBG("here, arg=%d", arg);
 
 
-which is basically (both code and the macro itself) a piece of junk 
+which is basically (both code and the macro itself) a piece of junk
 ANSI C purists will hate, but which is very, very useful. Reasons:
 
 1. helps you identify places in code which your program has reached

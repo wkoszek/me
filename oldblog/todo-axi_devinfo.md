@@ -103,7 +103,7 @@ which address we're accessing.
 			((rd_reg_idx[11] == 1'b1) ? 32'd0 : 32'd0 ) |
 			((rd_reg_idx[12] == 1'b1) ? 32'd0 : 32'd0 ) |
 			((rd_reg_idx[13] == 1'b1) ? 32'd0 : 32'd0 ) |
-			((rd_reg_idx[15] == 1'b1) ? 32'd0 : 32'd0 ); 
+			((rd_reg_idx[15] == 1'b1) ? 32'd0 : 32'd0 );
 
 AXI handling is pretty minimal and not quite complete, but is enough to
 actually not hang the AXI master and get the data back:

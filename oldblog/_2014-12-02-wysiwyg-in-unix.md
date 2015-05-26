@@ -41,7 +41,7 @@ Browser
 -------
 I'm trying to work on the illustration for my article, and since it happens
 to be fairly technical, I'm using METAPOST. METAPOST is run from the command
-line and generates SVG and EPS from the .mp file. From within VIM I'm 
+line and generates SVG and EPS from the .mp file. From within VIM I'm
 
 TeX
 ---
