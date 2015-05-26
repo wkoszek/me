@@ -1,17 +1,48 @@
 <% wrap_layout :layout do %>
-	<article>
-		<span class="date"><%= current_page.date.strftime('%b %e, %Y') %></span>
-		<% current_page.tags.each do |tag| %>
-			<!-- <span><%= link_to tag, tag_path(tag) %></span> -->
-		<% end %>
-		<h1><%= current_page.title %></h1>
-		<i>Wojciech Adam Koszek</i>
-		&nbsp;
-		• 
-		&nbsp;
-		<a href="#share">Share <i class="fa fa-share-alt"></i></a></i>
-		<p>
-			<%= yield %>
-		</p>
-	</article>
+	<div class="row"><!-- center -->
+		<div class="three columns leftpanel">
+			<div class="ads">
+			</div>
+
+			<b>Contact</b><br>
+			<a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a>
+			<br>
+
+			<a href="http://www.twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a>
+			<br>
+
+			<a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a>
+			<br>
+
+			<a href="http://www.github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a>
+			<br>
+
+			<br>
+			<b>Tags</b>
+			<br>
+			<% blog.tags.each do |tag, articles| %>
+				<%= link_to "#{tag} (#{articles.size})", tag_path(tag) %><br>
+			<% end %>
+		</div>
+		<div class="seven columns content">
+			<article>
+				<span class="date"><%= current_page.date.strftime('%b %e, %Y') %></span>
+				<% current_page.tags.each do |tag| %>
+					<!-- <span><%= link_to tag, tag_path(tag) %></span> -->
+				<% end %>
+				<h1><%= current_page.title %></h1>
+				<i>Wojciech Adam Koszek</i>
+				&nbsp;
+				•
+				&nbsp;
+				<a href="#share">Share <i class="fa fa-share-alt"></i></a></i>
+				<p>
+					<%= yield %>
+				</p>
+			</article>
+		</div>
+
+		<div class="two columns">
+		</div>
+	</div><!-- content -->
 <% end %>
