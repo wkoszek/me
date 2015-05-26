@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0553562835" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 This book was quite amazing. It's funny that there are people like Sam
 Walton, who decided to leave some heritage and write a piece like that.
 
@@ -20,8 +16,6 @@ liked.
 The book starts with Walton reaching a problematic moment of realizing he's
 the no. 1 on the list of the richest American, and news rumoring about him
 leaving fairly modest life in Bentonville, Arkansas.
-
-
 Walton then backtracks his life from the beginning, by starting from the
 beginning - on how he was born and raised in pretty typical family, in times
 of great depression, where every penny counted.

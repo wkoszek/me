@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1612933211" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 So the beginning reminded me "The 21 immutable laws of marketing", where
 they describe that if other areas of science can have their laws, why
 marketing can't? Similar to "Think and grow rich", where the law of success
@@ -23,8 +19,6 @@ So how is this book different than other dozen of books that I reviewed
 after my personal studies on wealth?
 
 Well...
-
-
 Wattles can be pretty f.....ing aggressive. So if you see this book on your
 child's desk, first of all you can be somehow proud (not every kid picks
 books on getting rich by themselves), but on the other hand be warned -- I
@@ -64,5 +58,3 @@ But honestly, once again: "Think and grow rich" is more natural. Especially
 in the form of "rare recordings". No hints here, but once you'll find it,
 you'll know it's this thing I mentioned. Additionally, hearing original
 author's voice is something that makes me want to concentrate more.
-
-

@@ -72,5 +72,3 @@ wouldn't have applied to used-books anyway. Oh well.
 
 Howard, if you read this, I hope you know I trust IDT services are just OK
 :)
-
-

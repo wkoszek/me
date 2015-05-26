@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1570232296" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 This is kind of interesting book about what to do and what to avoid while
 speaking to a large groups of people.
 
@@ -67,5 +63,3 @@ presentation is over. Some people may also want to ask you some stuff in
 person. Lots of times I got congratulations from one group of people and
 complaints from another. I think this is how the world is: many people, many
 points of view and you have to cope with it.
-
-

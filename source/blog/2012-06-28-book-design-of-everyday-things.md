@@ -10,10 +10,6 @@ ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0125184069" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0321767535" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 Boy ooohhh boy! Do I get frustrated by design of some objects of my daily use!
 No longer do I feel like a source of problem when encountering a difficulty
 with usage of things supposedly being trivial to use. No more!
@@ -70,8 +66,6 @@ bottom of the window doesn't have any "white space". There no place to drag
 to, and it's painful if you have subdirectories, since dragging files to
 such a top level directory will likely cause files to be copied to a
 subdirectory.
-
-
 **Flip switch**
 
 It would be also interesting to write a bit about design and aesthetics

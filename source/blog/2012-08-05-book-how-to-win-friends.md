@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1439167346" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 There is a lot of hardcore technical books on my shelf, but before I'll grab
 them and study more chip design and other geeky stuff, I decided to
 start pruning the queue of my TOREAD list from something more lightweight.
@@ -20,8 +16,6 @@ and more about what is/isn't considered inappropriate while replying to
 e-mails and text messages, and this book somehow felt into this plan.
 
 This is by all means really, really good book!
-
-
 Don't get me wrong -- I typically don't go to the bookstore to find a "How
 to loose 17lbs over the weekend" books, but this title made me think.
 Additionally I saw the title on several other pages of people who I admire,
@@ -47,8 +41,6 @@ Help You, you must read this book.
 And if you wonder, why I get excellent breakfasts and lunches in a company
 while you don't, you should read some chapters as well. Oh, and by the way
 -- I was getting those BEFORE I read it too.
-
-
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-7199453802213032";
 /* koszek */
@@ -60,8 +52,6 @@ google_ad_height = 600;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-
-
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-7199453802213032";
 /* koszek */
@@ -73,8 +63,6 @@ google_ad_height = 600;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-
-
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-7199453802213032";
 /* koszek */

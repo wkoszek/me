@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0767923820" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 Magic of regular investing seems to have been with me for a long time.
 Mostly due to grandmother, who said that not a single person in our family
 would end up well if not her habit of money saving.
@@ -68,5 +64,3 @@ and the only thing which I think is worth trying is the last point of Bach's
 book mentioned: if you have two choices in your life, it's worth trying the
 riskier one. Since nearly always there's a time to recover from disaster, at
 least you won't regret anything on your deathbed.
-
-

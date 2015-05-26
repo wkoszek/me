@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=159184259X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 Didn't really know what to think about this book. Started just fine--nice
 story about New York City and having fun. Author described his niche habit
 of drawing things on the back of business cards, and how people felt it's
@@ -62,6 +58,4 @@ bridges between chapters, which act as a random thoughts brought and thrown
 on the reader without a major sense and connection to the context of the
 chapter. Personally I don't like it. However bring pretty sure MacLeod did
 it to get more advertising and become more memorable--we can forgive that.
-
-
 

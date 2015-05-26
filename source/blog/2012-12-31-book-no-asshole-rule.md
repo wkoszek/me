@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0446698202" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 I scored 7/23 on "Are you an asshole" scale, which makes me be in a "You
 have to watch yourself" category.
 
@@ -40,5 +36,3 @@ From the typical corporate life, probably I experienced one of the behaviors
 explained. Only through e-mail, where my recipient started ignoring my
 polite questions and requests, while I was still being CCed on his
 communication with other people on my case. But that's rare.
-
-

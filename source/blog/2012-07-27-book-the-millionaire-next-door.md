@@ -8,10 +8,6 @@ ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1589795474" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
 
-
-
-
-
 Full title "The Millionaire Next Door : The Surprising Secrets of America's Wealthy"
 
 This is basically a mix of psychology, sociology, economy and business. I
@@ -43,5 +39,3 @@ nobody else wants to do, ever.
 ...
 
 As I said--pretty impressive chunk of research.
-
-

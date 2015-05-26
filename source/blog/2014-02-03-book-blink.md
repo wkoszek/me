@@ -8,10 +8,6 @@ ads:
 - <a href="http://www.amazon.com/gp/product/0316010669/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316010669&linkCode=as2&tag=wojcadamkoszh-20&linkId=FHZVIJBYWUHOOQQI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0316010669&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wojcadamkoszh-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&l=as2&o=1&a=0316010669" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ---
 
-
-
-
-
 Blink is probably one of the best books of 2014 for me and it positively
 surprised me. Gladwell touches on the subject of rapid assessments done in
 various domains of life, including doctors and scientists.
@@ -38,5 +34,3 @@ Mostly from the ``How to be in Command and Out of Control'':
 So there were many good stories and comparison mentioned on people requiring
 sub-second time to perform complex judgements in the situation of a disaster
 or an emergency, with Millenium 2000 being my favorite.
-
-

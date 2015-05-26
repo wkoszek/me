@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0887306667" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 Successful duet of Ries and Trout deliver another content together 2nd time in a row.
 
 I do agree with other people whom I have discussed this book with: examples
@@ -38,5 +34,3 @@ biography.  So treat it as "good to read" as an inspiration, but be careful
 and expect everything can end up 100% different than expected.
 
 World is just too many factors..
-
-

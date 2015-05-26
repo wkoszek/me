@@ -53,8 +53,6 @@ single teacher on the planet.
 src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1892764040"
 style="width:120px;height:240px;" scrolling="no" marginwidth="0"
 marginheight="0" frameborder="0"></iframe>
-
-
 When I first about it, I believed it's one of the rocket-science-alike music books with advanced
 notation, which even Berklee students have problems understanding (for
 example, I have a problem understanding
@@ -216,8 +214,6 @@ Which gives us:
          12: 11000011 1100001111000011
          13: 11010010 1101001011010010
          14: 11100001 1110000111100001
-
-
 Anyway, funny thing is that it has given me some pretty successful results:
 0, 2, 3, 4, 5, 6, 9, 10, 11, 13, 14.  11 from 14 of those are well known
 "rudiments" from Stick Control. But this example has symmetric patterns:
@@ -249,5 +245,3 @@ me stop at play at tempos 60-80 to get it right, because of brain telling me
 "Left", where "Right" was supposed to be used.
 
 Lots of fun.
-
-

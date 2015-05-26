@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe width="480" height="360" src="//www.youtube.com/embed/PSGiUiMo_ZE" frameborder="0" allowfullscreen></iframe>
 ---
-
-
-
-
 When I first listened to this book, I started to have a bad opinion about Tracy's
 books, since the advice which I have heard is basically: "In order to get
 more productive and earn 2 additional hours per day is basically show up at

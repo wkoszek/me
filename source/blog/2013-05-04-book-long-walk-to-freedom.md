@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0030565812" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 Haven't spent too much time reading anything from outside of the business
 world lately, but decided to break the bad habit. I picked "Long Walk To
 Freedom", since it was present on "50 success classics" which somehow showed
@@ -30,5 +26,3 @@ and being able to celebrate his freedom at the age of 71, he can be
 considered a true Made Man of the Africa.
 
 Highly recommended for anybody.
-
-

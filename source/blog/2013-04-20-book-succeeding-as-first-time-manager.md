@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1559774940" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 This was actually pretty good!
 
 When you're relatively good at something, and you need to train somebody or
@@ -61,5 +57,3 @@ author was.
 
 In general: Lohr's books I found particularly interesting. Maybe because the
 topic is completely new to me.
-
-

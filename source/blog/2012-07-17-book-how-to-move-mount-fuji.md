@@ -18,8 +18,6 @@ I started reading "How to move Mount Fuji" and actually this book positively
 surprised me. I expected only questions and reasoning on how recruiters
 think, but encountered a pretty big chunk of history of Silicon Valley and
 the background behind it after all.
-
-
 Lewis Terman's craziness of IQ testing, Shockey's genius and his magic team
 of 8; Fairchild Semiconductor and others.
 
@@ -47,8 +45,6 @@ won't know what the trick is all about!
 Anyway, excellent book, like most of his writings. Looks like my strategy of
 buying his books no matter what works pretty well for me -- I learn a lot!
 Highly recommended (unless you know the trick!)
-
-
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-7199453802213032";
 /* koszek */
@@ -72,10 +68,6 @@ google_ad_height = 600;
 <script type="text/javascript"
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-
-
-
-
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-7199453802213032";
 /* koszek */

@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1401309704" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 Leo's book I really enjoyed. I'm not alone in terms of trying to simplify
 things around.
 
@@ -76,8 +72,6 @@ is that you'll me a schedule, since things slip in and schedules fall apart.
 So with enough backup time and less tasks, it's likely you'll be more
 creditable for other people, since you'll be actually accomplishing your
 tasks.
-
-
 Note on slowing down -- over high-school, where the biggest improvement in
 my technical skills happened, I had an amazing habits of coming back from
 school and taking a nap on the floor, with music in my years. Really unique
@@ -87,5 +81,3 @@ the tempo of 240bpm. That's when Virgil Donati's music started to kick in.
 I HIGHLY recommend this book. Really, just go and buy it. And read it,
 chapter by chapter. Really great complementary material for "Getting things
 done".
-
-

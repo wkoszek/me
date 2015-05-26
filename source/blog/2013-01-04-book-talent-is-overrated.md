@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1591842948" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 This book delivered a confirmation to my belief. If you have ever played a
 musical instrument, this book will also deliver very solid background on why
 you can only succeed in playing well by practicing regularly.
@@ -86,5 +82,3 @@ he was having a great time doing things that well. Maybe this was his
 favorite open-source projects? I know he didn't want to touch things until
 he was sure they're ready and he's ready. I think sometimes he might have
 been procractinating--something I inherited unfortunately.
-
-

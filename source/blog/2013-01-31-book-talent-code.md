@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=055380684X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 Full title: The Talent Code: Greatness Isn't Born. It's Grown. Here's How.
 
 As opposed to "Talent is overrated", this book covered topics touching
@@ -53,5 +49,3 @@ them to it, and the act of practice as a punishment.
 Digging further had shown advanced people understood practice is about
 learning new stuff and making mistakes first, and gradually fixing them
 later.
-
-

@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=F90000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0321440307" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 First time I learnt from Raymond Chen from Microsoft blog articles, and I
 wished there was a book with his blog entries, so that I don't have to stare
 at LCD.
@@ -49,5 +45,3 @@ with.
 I highly recommend to anybody willing to write commercial software, but
 especially to all UNIX users, who are bashing Windows and Microsoft without
 knowing anything from "back stage".
-
-

@@ -107,5 +107,3 @@ not like 90% successful. Let make it 10% success. Or 5%.
 But remember that working on the project is just like a normal job: you have
 assumptions, you have requirements imposed by your proposal, and you have some
 hints, but you also have a lot of work you must do by yourself.
-
-

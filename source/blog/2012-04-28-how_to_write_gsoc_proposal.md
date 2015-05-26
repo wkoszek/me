@@ -10,8 +10,6 @@ I document my  examples with this years proposals, but the fact you see
 title of your project here means nothing. These are just examples.
 
 ### Project title
-
-
 Nothing more here. Keep it short and precise. ***NTFS for FreeBSD*** is so
 much different than ***Proposal for FreeBSD***.  Positively different.
 
@@ -31,8 +29,6 @@ sentence answer for each of the questions:
  FreeBSD ULE kernel scheduler to let me turn CPU off"* etc..
 
 Most of the short descriptions of the projects were surprisingly good.
-
-
 ### Provide real name and surname
 
 If possible, provided something that can be entered with limited set of
@@ -136,8 +132,6 @@ what its activity. So maybe ask on
 have a
 [freebsd-hackers](http://lists.freebsd.org/pipermail/freebsd-hackers/). This
 is probably pretty darn good way.
-
-
 ### Project Description
 
 Before you jump to the project description - I sort of miss "motivation"
@@ -236,8 +230,6 @@ If I have to type:
 
 to observe what you've done already, it's much more likely I'll do it and
 provide some feedback.
-
-
 The end,
 Hope that helps
 

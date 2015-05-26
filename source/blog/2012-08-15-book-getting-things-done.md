@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0142000280" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 This book is, and will be for a long time my number ONE in improving how I
 function. Surprisingly, I learned about this books from my job, which is
 uncommon, since it's a rare to hear book recommendation in between cuboids.
@@ -42,5 +38,3 @@ whatever I had for making lists, meaning:
 After couple of months I revisited the book, and it looks like I've fallen
 into known trap of listing projects, but not actions for accomplishing the
 projects. I'm fixing that now.
-
-

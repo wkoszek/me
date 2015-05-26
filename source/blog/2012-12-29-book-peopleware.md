@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0932633439" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 Biggest effort in making project happen is figuring out social problems:
 managing people, managing expectations, figuring out issues and disagreements.
 Most common cause of project failure is making mistakes in one of those
@@ -45,5 +41,3 @@ since while in Finland even as an intern I had my own office, with window
 facing nice company's park. Office with a door. And free access to excellent
 coffee machine, where getting latte/mocha was possible through a button
 press.
-
-

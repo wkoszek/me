@@ -61,10 +61,6 @@ always. Result: "Brewing" LED is confusing and I'd rather have no LED whatsoever
 
 ...unless you like to get some more hot water on your hands, or hot coffee
 on the floor.
-
-
 3x2 flip-switch on one of the PCBs I'm playing with is *really* similar to
 3x2 power connector. Result? If you're connecting an USB relay you better be
 sure you're doing it to the right 3x2 beast.
-
-

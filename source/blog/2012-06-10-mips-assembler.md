@@ -66,5 +66,3 @@ opcodes:
 
 Thanks to these several steps, I have a simple infrastructure to play with
 MIPS opcodes.
-
-

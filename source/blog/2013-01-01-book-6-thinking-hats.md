@@ -7,10 +7,6 @@ layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0316178314" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
-
-
-
-
 I didn't really know what to expect out of this book, but in general my
 understanding is it's a directed way for generating common voice and
 opinions on particular case/problem.
@@ -69,8 +65,6 @@ given solution.
 Green hat is the creative hat. You steer your mental effort toward creative
 solutions in the hope of coming up with new ideas. There's no discussion on
 this stage, and no criticism of ideas given. You simply write them down.
-
-
 The whole method seems to be a directed brain-storming session, where
 instead of random order of expressing opinions, the whole activity is
 coordinated. This may lead to less frustration and more understanding what
@@ -82,5 +76,3 @@ myself first, maybe with writing down things to consider and will see how it
 goes. Opinions on the method are welcome too.
 
 Author cites some spectacular results in the industry world...
-
-
