@@ -1,6 +1,7 @@
 ---
 title:	"fpurge() hack &mdash; Koszek trick #1"
 auth:	Wojciech Koszek
+tags:	article
 ---
 
 A friend of mine asked me once:

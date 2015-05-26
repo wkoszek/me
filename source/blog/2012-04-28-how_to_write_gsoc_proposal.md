@@ -1,6 +1,7 @@
 ---
 title:	"How to write a good Google Summer of Code Proposals"
 auth:	Wojciech Koszek
+tags:	article
 ---
 
 Let me keep it short. As short and concrete as your proposal should be.
