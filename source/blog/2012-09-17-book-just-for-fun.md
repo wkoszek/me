@@ -6,6 +6,10 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0066620732" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+<a href="http://www.amazon.com/gp/product/0066620732/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0066620732&linkCode=as2&tag=wojcadamkoszh-20&linkId=B77RONMGVH72K34J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0066620732&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wojcadamkoszh-20" ></a><img >src="http://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&l=as2&o=1&a=0066620732" >width="1" height="1" border="0" alt="" style="border:none !important; >margin:0px !important;" />
+
+
 ---
 Short, little, geeky story about Linus and Linux, copyrights and ownership,
 coding, software culture and others like that.
