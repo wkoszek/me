@@ -4,7 +4,7 @@ Dependencies:
 
 gem install middleman
 gem install capybara
-gem install check-links
+pip install linkchecker
 
 brew update
 brew install qt
