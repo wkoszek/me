@@ -26,5 +26,8 @@ u:
 w:
 	./cleanup.sh
 
+t:
+	rspec spec/website.rb
+
 clean:
 	rm -rf build

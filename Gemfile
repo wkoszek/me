@@ -9,5 +9,9 @@ gem "middleman-deploy"
 gem "middleman-livereload"
 gem "middleman-gh-pages"
 
+# Testing
+gem 'capybara'
+gem 'selenium-webdriver'
+
 # For feed.xml.builder
 gem "builder", "~> 3.0"
