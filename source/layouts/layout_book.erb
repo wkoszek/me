@@ -1,6 +1,14 @@
 <% wrap_layout :layout do %>
 	<div class="row"><!-- center -->
 		<div class="three columns leftpanel">
+			<% if current_page.data.ads != nil %>
+				<% current_page.data.ads.each do |ad| %>
+					<%= ad %>
+				<% end %>
+				<br>
+				<br>
+			<% end %>
+
 			<div class="ads">
 			</div>
 
