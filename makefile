@@ -26,8 +26,10 @@ u:
 w:
 	./cleanup.sh
 
-t:
+t:	tl
 	rspec spec/website.rb
+tl:
+	linkchecker http://127.0.0.1:4567
 
 clean:
 	rm -rf build
