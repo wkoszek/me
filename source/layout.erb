@@ -10,16 +10,16 @@
 		<meta name="p:domain_verify" content="35dedfd4f697e6e974b0ae6631ca7351"/>
 
 		<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
-		<link rel="stylesheet" href="/fonts/charter/webfonts/stylesheet.css">
+		<link rel="stylesheet" href="/css/charter/webfonts/stylesheet.css">
 
 		<link rel="stylesheet" href="/css/normalize.css">
 		<link rel="stylesheet" href="/css/skeleton.css">
 		<link rel="stylesheet" href="/css/debug.css">
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-		<link rel="icon" type="image/png" href="img/favicon.ico">
+		<link rel="icon" type="image/png" href="/img/favicon.ico">
 		<title>Wojciech Koszek<%= ' - ' + current_article.title unless current_article.nil? %></title>
-		<%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
+		<%= feed_tag :atom, "/feed.xml", title: "Atom Feed" %>
 	</head>
 	<body>
 	<div class="container">
