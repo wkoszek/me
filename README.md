@@ -2,9 +2,9 @@
 
 Dependencies:
 
-gem install middleman
-gem install capybara
-pip install linkchecker
+	gem install middleman
+	gem install capybara
+	pip install linkchecker
 
-brew update
-brew install qt
+	brew update
+	brew install qt
