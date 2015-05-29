@@ -22,3 +22,8 @@ Same about business story behind Cherry Garcia Ice Cream.
 Not a must; rather a obligatory reading for people interested in biographies
 and corporate history.
 
+BTW:
+
+Get on hold of this book was much harder than anything else, since I knew
+allocating time would be hard. I ordered **audio tapes**, found a Jack-Jack
+audio cable and converted it in Audacity on my FreeBSD laptop.
