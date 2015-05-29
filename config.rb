@@ -43,7 +43,6 @@ end
 
 page "/feed.xml", layout: false
 
-ignore "css/charter/*"
 ignore /papers_new*/
 ignore "spec/*"
 
