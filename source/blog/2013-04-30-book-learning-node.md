@@ -20,11 +20,12 @@ perfect for me.  Javascript had lots of things which kept me mentally
 stimulated.  I think most of the interest towards to Javascript was caused
 by Douglas Crockford's publication, especially:
 
-[http://javascript.crockford.com/javascript.html](JavaScript: The World's Most Misunderstood Programming Language)
+[JavaScript: The World's Most Misunderstood Programming Language](http://javascript.crockford.com/javascript.html)
+
 
 He also did JSLint:
 
-[http://www.jslint.com/](JSLint: The JavaScript Code Quality Tool)
+[JSLint: The JavaScript Code Quality Tool](http://www.jslint.com)
 
 Which is a neat software. Anyway:
 
