@@ -93,7 +93,7 @@ As I was writing this post, my company got some new babies: Sharp MFP
 printers.  It was pretty interesting experience, so I wrote a separate post
 about it.
 
-[Almost usable](http://www.koszek.com/2012/06/29/)
+[Almost usable](http://www.koszek.com/blog/2012/07/02/mfp-printer/)
 
 Anyway - the story with MFP is so much better than my previous experiences.
 Think of an intern in the computer lab with multiple floors, with all
