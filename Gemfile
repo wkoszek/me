@@ -8,6 +8,7 @@ gem "middleman-minify-html"
 gem "middleman-deploy"
 gem "middleman-livereload"
 gem "middleman-gh-pages"
+gem "middleman-syntax"
 
 # Testing
 gem 'capybara'

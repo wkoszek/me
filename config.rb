@@ -86,6 +86,7 @@ ignore "spec/*"
 # Reload the browser automatically whenever files change
 activate :livereload
 activate :directory_indexes
+activate :syntax
 
 # Fix quotes: https://github.com/middleman/middleman/issues/909
 set :markdown_engine, :kramdown

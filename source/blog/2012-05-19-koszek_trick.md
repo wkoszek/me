@@ -27,49 +27,51 @@ for.
 It used to work on FreeBSD and GNU/Linux, but PLEASE don't make your code
 depend on that. It's a hack.  Here it is:
 
-	#include <assert.h>
-	#include <stdio.h>
-	#include <stdlib.h>
-	#include <string.h>
+~~~  cpp
 
-	#define	SZ	1024*1024
+#include <assert.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-	/*
-	 * This is Koszek's trick to write formated data to the FILE structure
-	 * with an underlying buffer, but without flushing it to the backing
-	 * descriptor. Later on, once a buffer is filled, I print it to get a
-	 * proof and clear it.
-	 */
-	int
-	main(int argc, char **argv)
-	{
-		char buf[SZ];
-		char text[SZ];
-		FILE *fp;
+#define	SZ	1024*1024
 
-		(void)argc;
-		(void)argv;
+/*
+ * This is Koszek's trick to write formated data to the FILE structure
+ * with an underlying buffer, but without flushing it to the backing
+ * descriptor. Later on, once a buffer is filled, I print it to get a
+ * proof and clear it.
+ */
+int
+main(int argc, char **argv)
+{
+	char buf[SZ];
+	char text[SZ];
+	FILE *fp;
 
-		memset(buf, 0, sizeof(buf));
+	(void)argc;
+	(void)argv;
 
-		fp = fopen("FILE.txt", "a+");
-		assert(fp != NULL);
+	memset(buf, 0, sizeof(buf));
 
-		fflush(fp);
-		setbuf(fp, buf);
+	fp = fopen("FILE.txt", "a+");
+	assert(fp != NULL);
+	fflush(fp);
+	setbuf(fp, buf);
 
-		fprintf(fp, "Nie wiem co napisaæ\n");
-		fprintf(fp, "Nie wiem co tutaj wklepaæ\n");
-		fprintf(fp, "To ma tylko wyczy¶ciæ bufor\n");
+	fprintf(fp, "Nie wiem co napisaæ\n");
+	fprintf(fp, "Nie wiem co tutaj wklepaæ\n");
+	fprintf(fp, "To ma tylko wyczy¶ciæ bufor\n");
 
-		memcpy(text, buf, sizeof(text));
+	memcpy(text, buf, sizeof(text));
 
-		fpurge(fp);
-		setbuf(fp, NULL);
+	fpurge(fp);
+	setbuf(fp, NULL);
 
-		printf("Text: '%s'\n", text);
+	printf("Text: '%s'\n", text);
 
-		fflush(fp);
-		fclose(fp);
-		return (EXIT_SUCCESS);
-	}
+	fflush(fp);
+	fclose(fp);
+	return (EXIT_SUCCESS);
+}
+~~~
