@@ -30,6 +30,8 @@ t:	tl
 	rspec spec/website.rb
 tl:
 	linkchecker http://127.0.0.1:4567
+tll:
+	linkchecker http://www.koszek.com/
 
 clean:
 	rm -rf build
