@@ -24,7 +24,7 @@ by Douglas Crockford's publication, especially:
 
 He also did JSLint:
 
-[http://www.jslint.com/](JSLint,The JavaScript Code Quality Tool)
+[http://www.jslint.com/](JSLint: The JavaScript Code Quality Tool)
 
 Which is a neat software. Anyway:
 
