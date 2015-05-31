@@ -13,6 +13,7 @@ gem "middleman-syntax"
 # Testing
 gem 'capybara'
 gem 'selenium-webdriver'
+gem "chromedriver-helper", "0.0.6"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
