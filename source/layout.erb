@@ -29,16 +29,18 @@
 	</head>
 	<body>
 	<div class="container">
-		<div class="row">
+		<div class="hidden-sm hidden-xs row">
 			<div id="debug">
 				<div class="col-md-1">&nbsp;</div>
 				<div class="col-md-1">&nbsp;</div>
 				<div class="col-md-1">&nbsp;</div>
 				<div class="col-md-1">&nbsp;</div>
+
 				<div class="col-md-1">&nbsp;</div>
 				<div class="col-md-1">&nbsp;</div>
 				<div class="col-md-1">&nbsp;</div>
 				<div class="col-md-1">&nbsp;</div>
+
 				<div class="col-md-1">&nbsp;</div>
 				<div class="col-md-1">&nbsp;</div>
 				<div class="col-md-1">&nbsp;</div>
@@ -50,11 +52,12 @@
 			<div class="col-md-3 logo">
 				<a href="/">Wojciech Adam Koszek</a>
 			</div>
-			<div class="col-md-8 links">
+			<div class="col-md-9 links hidden-sm hidden-xs">
 				<% is_rd = 1 if current_page.url == "/reading/" %>
 				<% is_rd = 1 if current_page.data.tags != nil and current_page.data.tags.include?("books") %>
 				<% is_wr = 1 if current_page.url == "/" %>
 				<% is_wr = 1 if current_page.data.tags != nil and current_page.data.tags.include?("article") %>
+
 				<a class="<%= is_wr ? "ac" : "in" %>" href="/">Blog</a>
 				<a class="<%= is_rd ? "ac" : "in" %>" href="/reading/">Reading</a>
 				<!-- <a class="<%= current_page.url == "/speaking/" ? "ac" : "in" %>" href="/speaking/">Speaking</a> -->
@@ -64,7 +67,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-12">
+			<div class="col-md-12 hidden-sm hidden-xs">
 				<br>
 				<br>
 			</div>
