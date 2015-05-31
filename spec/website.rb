@@ -47,9 +47,14 @@ describe "visit pages", :type => :feature do
 
 		num = 0
 		l.urls.each do |url|
-			print "# testing #{url}"
+			print "# testing: #{url}\n"
 			visit "#{url}"
 			expect(page).to have_content "Wojciech Adam Koszek"
+			["src=", "iframe", "amazon-adsystem",
+			 "important;", "margin:", "height=", "width=",
+			 "border="].each { |chunk|
+				expect(page).to have_no_content "#{chunk}"
+			}
 			page.save_screenshot("tmp/#{num}.png")
 			num += 1
 		end
