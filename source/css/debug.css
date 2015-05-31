@@ -54,6 +54,14 @@ body {
 	color: black;
 }
 
+/* Extra small and small*/
+@media(min-width:10px) and (max-width:991px) {
+	.title {
+		font-size: 150%;
+	}
+}
+
+
 .footer {
 	text-align: center;
 	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
