@@ -12,4 +12,4 @@ find . -type f		\
 	-print0 | grep -v oldblog | > _.tmp
 
 cat _.tmp | xargs -n 1 -0 perl -0 -pi -w -e 's/ +$//'
-cat _.tmp | xargs -n 1 -0 perl -0 -pi -w -e "s/\n\n\n/\n/g"
+cat _.tmp | xargs -n 1 -0 perl -0 -pi -w -e "s/\n\n\n/\n\n/g"
