@@ -50,12 +50,7 @@ describe "visit pages", :type => :feature do
 			print "# testing: #{url}\n"
 			visit "#{url}"
 			expect(page).to have_content "Wojciech Adam Koszek"
-			["src=", "iframe", "amazon-adsystem",
-			 "important;", "margin:", "height=", "width=",
-			 "border="].each { |chunk|
-				expect(page).to have_no_content "#{chunk}"
-			}
-			page.save_screenshot("tmp/#{num}.png")
+			expect(page).to have_no_content /src=|iframe=|amazon-adsystem|important:|margin:|height=|width=/
 			num += 1
 		end
 	end
