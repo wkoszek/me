@@ -87,6 +87,7 @@ ignore "spec/*"
 activate :livereload
 activate :directory_indexes
 activate :syntax
+activate :graphviz
 
 # Fix quotes: https://github.com/middleman/middleman/issues/909
 set :markdown_engine, :kramdown

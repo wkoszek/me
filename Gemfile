@@ -9,6 +9,7 @@ gem "middleman-deploy"
 gem "middleman-livereload"
 gem "middleman-gh-pages"
 gem "middleman-syntax"
+gem "middleman-graphviz"
 
 # Testing
 gem 'capybara'
