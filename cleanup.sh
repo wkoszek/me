@@ -1,6 +1,8 @@
 #!/bin/sh
 
 rm -rf _.tmp
+trap 'rm -rf _.tmp' EXIT ILL INT
+
 find . -type f		\
 	\( -name "*.html"	\
 	-or		\
