@@ -41,12 +41,17 @@ body {
 	height: 190px; /* 190px */
 	border: solid 1px white;
 }
-.date {
+.date, .title {
         font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 65%;
 	color: gray;
 	font-weight: bold;
+}
+.title {
+	font-family: "HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 200%;
+	color: black;
 }
 
 .footer {

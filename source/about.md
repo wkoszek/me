@@ -5,7 +5,7 @@ layout: layout_book
 tags:
 ---
 
-### About me
+# About me
 
 <img style="float: left; padding-right: 3%;" src="/img/small_IMG_1394.jpg">
 <!--

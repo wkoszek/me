@@ -9,12 +9,17 @@
 
 		<meta name="p:domain_verify" content="35dedfd4f697e6e974b0ae6631ca7351"/>
 
-		<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
 		<link rel="stylesheet" href="/css/charter/webfonts/stylesheet.css">
 
-		<link rel="stylesheet" href="/css/normalize.css">
-		<link rel="stylesheet" href="/css/skeleton.css">
 		<link rel="stylesheet" href="/css/debug.css">
+
 		<link rel="stylesheet" href="/css/code.css">
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
@@ -26,26 +31,26 @@
 	<div class="container">
 		<div class="row">
 			<div id="debug">
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
-				<div class="one column">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
+				<div class="col-md-1">&nbsp;</div>
 			</div>
 		</div>
 
 		<div class="row">
-			<div class="three columns logo">
+			<div class="col-md-3 logo">
 				<a href="/">Wojciech Adam Koszek</a>
 			</div>
-			<div class="eight columns links">
+			<div class="col-md-8 links">
 				<% is_rd = 1 if current_page.url == "/reading/" %>
 				<% is_rd = 1 if current_page.data.tags != nil and current_page.data.tags.include?("books") %>
 				<% is_wr = 1 if current_page.url == "/" %>
@@ -59,7 +64,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="twelve columns">
+			<div class="col-md-12">
 				<br>
 				<br>
 			</div>
@@ -68,7 +73,7 @@
 		<%= yield %>
 
 		<div class="row">
-			<div class="twelve columns footer">
+			<div class="col-md-12 footer">
 				<i>&copy; 2015 Wojciech Adam Koszek (<a href="http://www.twitter.com/wkoszek/">@wkoszek</a>)</i>
 			</div>
 		</div>
