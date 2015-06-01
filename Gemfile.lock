@@ -8,6 +8,9 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
     addressable (2.3.8)
+    bourbon (4.2.3)
+      sass (~> 3.4)
+      thor
     builder (3.2.2)
     capybara (2.4.4)
       mime-types (>= 1.16)
@@ -173,6 +176,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bourbon
   builder (~> 3.0)
   capybara
   chromedriver-helper (= 0.0.6)

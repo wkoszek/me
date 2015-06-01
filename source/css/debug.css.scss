@@ -1,3 +1,14 @@
+@import "bourbon";
+
+@include selection {
+	background-color: darkred;
+	color: white;
+}
+
+body {
+	@include selection(true);
+}
+
 ** {
 	border: dotted 1px gray;
 }
