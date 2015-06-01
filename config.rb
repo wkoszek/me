@@ -45,6 +45,7 @@ page "/feed.xml", layout: false
 
 ignore /papers_new*/
 ignore "spec/*"
+ignore "/drafts/*"
 
 ###
 # Compass
