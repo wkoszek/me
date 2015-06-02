@@ -27,13 +27,14 @@
 			<a href="http://github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a>
 			<br>
 
+			<br>
+			<h4>Subscribe for updates</h4>
 			<p>
 				<%= partial "mailchimp" %>
 			</p>
 
 			<br>
-			<b>Tags</b>
-			<br>
+			<h4>Tags</h4>
 			<% blog.tags.each do |tag, articles| %>
 				<%= link_to "#{tag} (#{articles.size})", tag_path(tag) %><br>
 			<% end %>
