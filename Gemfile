@@ -9,7 +9,6 @@ gem "middleman-deploy"
 gem "middleman-livereload"
 gem "middleman-gh-pages"
 gem "middleman-syntax"
-gem "middleman-graphviz"
 
 # HTML/CSS stuff.
 gem 'bourbon'
