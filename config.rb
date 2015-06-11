@@ -89,6 +89,17 @@ activate :livereload
 activate :directory_indexes
 activate :syntax
 activate :graphviz
+#activate :spellcheck
+activate :spellcheck,
+		page: "blog/*",
+		tags: [ :p, :article ],
+		lang: :en_CA,
+		ignored_exts: [".jpg", ".png", ".pdf",
+			".sh", ".ico", ".xml", ".woff",
+			".eot", ".ttf", "*.otf",
+			".txt", "CNAME",
+			"/papers/", "/software/"
+		]
 
 # Fix quotes: https://github.com/middleman/middleman/issues/909
 set :markdown_engine, :kramdown
