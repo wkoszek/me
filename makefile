@@ -39,17 +39,15 @@ tll:
 
 vmup:
 	vagrant up
-	vagrant ssh -c "sudo service nginx stop"
 	vagrant ssh -c "cd /vagrant; mkdir -p tmp; make http_start"
 vmdown:
 	vagrant ssh -c "cd /vagrant; make http_stop"
 	vagrant halt
 
-http_start:
-	sudo nginx -c `pwd`/etc/vm_nginx.conf -s stop
-	sudo nginx -c `pwd`/etc/vm_nginx.conf
+http_start: http_stop
+	sudo nginx -c `pwd`/etc/vm_nginx.conf || exit 0
 http_stop:
-	sudo nginx -c `pwd`/etc/vm_nginx.conf -s stop
+	sudo killall -9 nginx || exit 0
 
 clean:
 	rm -rf build
