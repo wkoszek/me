@@ -43,3 +43,10 @@ Things Done].
 I feel like Allen's book beats this one, as it's manageable and provides
 90% of answers to most of the issues which might have driven you to picking
 this book on the first place.
+
+One of the great pieces of content, maybe even better than respective
+chapter in "Programming Pearls" was an introductions and detailed
+explanation of the back of the envelope calculations and reasons why people
+still use them for interview questions. "Programming pearls" seems to be one
+of the first books where quizing with fairly open-ended question was done
+during the interviews.
