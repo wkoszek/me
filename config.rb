@@ -12,6 +12,19 @@ def dbg(*args)
   print "\n"
 end
 
+def get_words_allowed(fn)
+  allowed = []
+  f = File.open(fn, "r")
+  while (line = f.gets)
+	if line =~ /^#/ or line =~ /^$/
+		next
+	end
+	allowed << line.strip
+  end
+  print "== Got allowed: #{allowed}\n"
+  allowed
+end
+
 dbg("------------ site building started -----------")
 
 # Time.zone = "UTC"
@@ -46,6 +59,7 @@ page "/feed.xml", layout: false
 ignore /papers_new*/
 ignore "spec/*"
 ignore "/drafts/*"
+ignore "/data/*"
 
 ignore "/articles/*"
 
@@ -98,6 +112,7 @@ activate :spellcheck,
 		lang: :en_CA,
 		debug: 0,
 		dontfail: 1,
+		allow: get_words_allowed("./data/words_allowed.txt"),
 		ignored_exts: [".jpg", ".png", ".pdf",
 			".sh", ".ico", ".xml", ".woff",
 			".eot", ".ttf", "*.otf",
