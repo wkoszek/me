@@ -47,6 +47,8 @@ ignore /papers_new*/
 ignore "spec/*"
 ignore "/drafts/*"
 
+ignore "/articles/*"
+
 ###
 # Compass
 ###

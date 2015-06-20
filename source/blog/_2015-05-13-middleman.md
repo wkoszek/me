@@ -1,1 +1,1 @@
-middleman init --template=blog
+../articles/_2015-05-13-middleman.md
