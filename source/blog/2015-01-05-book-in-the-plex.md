@@ -15,3 +15,31 @@ drive talented employees towards them, and Google is unquestionably one of
 them. Structured after a college dorm Google is the place where most
 talented college graduates end up
 
+Search engine started at Stanford, and sponsored by two mentors of Silicon
+Valley: Andy Bechtolstein and David Cheriton moved from being built with
+cheap computers in a Beowolf cluster to being a "cloud", still built with
+commodity hardware, but with many, many improvements from the software side
+to make the search reliable.
+
+Interesting about Google is that the search was so new when they showed up,
+that people claimed there's no money to be made with search. Search is
+search, not product sites themselves, so what can you do with it? Well,
+nothing. Unless millions of people start to click your pages, and then..
+Well, if you have attention of millions of people, a lot of things become
+easy.
+
+Levy's book quotes "Don't be Evil" policy, which to some no longer touches
+Google in 2015. In 2015 Google became the new Microsoft, with Microsoft
+being Microsoft. I see many people attributing Microsoft with good words
+(heck, even heard from Linux geeks that Windows 7 just works), yet Google is
+bu-bu as it spies on your e-mails, shows you creepy adds based on those
+e-mails, and additionally sends your love letters to NSA. This is not the
+Google Levy described. But oh well..
+
+Interesting is the level of money saving that Levy describes. Google was
+built from left-over parts, and it probably still has a power to receive
+cheaper parts, when ordering in quantity. Book mentions that software is
+providing many, many layers of reliability fat, so that people don't have to
+worry about servers being fried and disks dying. That's an interesting
+approach. Simply: assume hardware will fail and write your software around
+that problem.
