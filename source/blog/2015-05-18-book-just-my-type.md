@@ -24,7 +24,7 @@ their creation.
 
 Typography stars such as Matthew Carter were mentioned extensively. First
 time I learned about Carter from Matthew's Butterick's
-(http://practicaltypography.com/)[Practical Typography]
+[Practical Typography](http://www.practicaltypography.com/)
 website, and "Just My Type" fed me with more details.
 
 Thing I'm not sure about is how to train your sensitivity, so that no only

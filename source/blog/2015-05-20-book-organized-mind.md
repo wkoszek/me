@@ -37,8 +37,8 @@ seem to never end. To some extent it's a paradox that "Organized mind" isn't
 actually clear, precise and more concise.
 
 Some chapters reminded me organization systems presented by Allen in 
-(http://www.koszek.com/blog/2012/08/15/book-getting-things-done/)[Getting
-Things Done].
+
+[Getting Things Done](http://www.koszek.com/blog/2012/08/15/book-getting-things-done/)
 
 I feel like Allen's book beats this one, as it's manageable and provides
 90% of answers to most of the issues which might have driven you to picking
