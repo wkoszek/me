@@ -7,22 +7,25 @@ ads:
 - <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=031609997X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
 
-In the previous post I explained the motivation of GSoC and the state of
-things nowadays with regards to how it helps FreeBSD.
+In the previous post I explained the motivation behind GSoC and the state of
+things with regards to how it helps FreeBSD.
 
-I guess I must explain in a bit more detailed way how evaluations are done,
-since it can not entirely clear.
+I guess I must explain a bit more on how GSOC proposal evaluations are done,
+since it can be not entirely clear to outsiders.
 
 ***Introduction***
 
-You'll find an insight on how the evaluation of Google Summer of Code took place.
+Below you'll find an insight on how the evaluation of Google Summer of Code
+took place for the FreeBSD project, but please not that people and projects
+vary in how they treat their students and participants. Having said that,
+over the years of GSoC participation I've had a chance to interact with
+other teams, and their experiences and the approach are similar to FreeBSD's
+in how the communitate, help and judge students.
 
-Or at least: explanation how I did it.
-
-Please note what within [FreeBSD](http://www.freebsd.org) we had several
-developers with an administrator's role and they were reviewing as well.
-Their process for looking at these proposals might have differed. I don't
-know.
+Please note that even within [FreeBSD](http://www.freebsd.org) we always have several
+developers with administrator's roles and they review proposals as well.
+Their process of looking at these proposals might have differed to the one
+described below.
 
 ***Skimming***
 
