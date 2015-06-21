@@ -1,0 +1,1 @@
+../articles/2015-06-20-middleman-spellcheck.md
