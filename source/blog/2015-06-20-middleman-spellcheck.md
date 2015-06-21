@@ -1,5 +1,5 @@
 ---
-title:	'Source code dive: fixing Middleman-spellcheck'
+title:	'Fixing Middleman-spellcheck'
 auth:	Wojciech Koszek
 read:	2015-06-20
 tags:	article
