@@ -1,1 +1,1 @@
-../articles/_2015-05-13-middleman.md
+middleman init --template=blog
