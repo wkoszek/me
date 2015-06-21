@@ -150,3 +150,18 @@ ol, ul {
 .highlight {
 font-size: 16px;
 }
+blockquote {
+font-size: 100%;
+font-family: Futura;
+font-weight: bold;
+border-left: solid 3px darkred;
+}
+code {
+font-size: 80%;
+}
+.update {
+font-size: 100%;
+background: lightyellow;
+font-family: Futura;
+border: solid 1px orange;
+}
