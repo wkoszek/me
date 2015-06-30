@@ -18,5 +18,16 @@ it felt to be a part of early days of Amazon.
 Moving from customer service through the steps of organizational ladder he
 landed in departments which made no sense back then.
 
+Books is a proof that even companies like Amazon, which were funded on a
+basis of frugality and customer focus, had a hard time managing rapid growth
+in the times where the company doubled every years. Using doors for desks on
+one side; sending people merchandise for which they didn't pay on the
+other side.
+
+Many other fenomena are explained, such as a drama of Christmas time at
+Amazon, where people are dying to be able to deliver shipments on time, with
+least amount of problems. Also corporate culture and a cult of Amazon which
+developed in early days are explained.
+
 Style is unique to the extent that I'm seriously pondering a detour from my
 planned reading lists and picking up some other books my Daisey.
