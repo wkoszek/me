@@ -9,5 +9,27 @@ ads:
 ---
 
 Probably the most comprehensive study on the history and current state of
-computing and innovation. From Ada Byron to Bill Gates.
+computing and innovation. From Ada Byron to Bill Gates. From mechanical
+computers, through tubes to the transistor. Explained is the history of
+modern computing.
+
+Chapter 3 reminded me that in the early days people building computers
+didn't recognize the domain of programming at all. It's quite fascinating to
+think that I graduated from a domain which 50 years earlier wasn't even
+recognized. In the old days people building computers would write
+programs, and due to the nature of their programming (low-level programming
+with 0 abstraction of hardware interfaces) it's hard to be surprise by that
+state of things.
+
+I've learned about the existance of "As we may think" by Vannevar Bush, but
+yet have to read it. Seems like this piece had a great impact on many
+people, including guys like
+[Marc Andressen](http://www.twitter.com/pmarca/).
+
+The "On games" reminded me a lecture from Computer History Museum YouTube
+channel, in which Bill Joy explained that during his presentation of
+Ping-Pong game on Sun machine, VCs who didn't know what it is but felt it
+was cool, were pulling wallets and giving checks for 6-7 figures in hope
+computers and computer networks will prove to be important.
+
 
