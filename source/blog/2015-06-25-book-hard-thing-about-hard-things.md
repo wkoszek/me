@@ -22,7 +22,7 @@ many individuals.
 
 Horowitz's "The Hard Thing About Hard Things" is written in a pretty
 interesting style. Just like one of the things which you may not know about
-[Steve Vai](http://www.stevevai.com)
+[Steve Vai](http://www.vai.com)
 is that he's a bee-keeper, you may not know is that Ben Horowitz seems to
 be be a fan of certain style of music. Which one? Get to learn it from the book. 
 Prelude to each chapter consists of quotations from several artists. I may
@@ -35,15 +35,15 @@ right one, and after record-setting IPO he moved to the Loud Cloud, which
 just like many other entrepreneurial ventures from the Silicon Boom of
 2000's was waaay ahead of its time.
 
-From there on started a journey of Horowitz as what he calls a war-time-CEO.
+From there on started a journey of Horowitz as what he calls a Wartime CEO.
 I do agree that many of the resources which I've tapped to help myself
 understand modern business better to a large extent concentrate on funding,
 building and working with the teams and products. Yet very few explain how
-[how](http://www.koszek.com/blog/2012/10/25/book-winning/)
-[to](http://www.koszek.com/blog/2012/05/05/book-showstopper/)
-[deal](http://www.koszek.com/blog/2012/12/02/book-the-new-new-thing/)
-[with](http://www.koszek.com/blog/2012/12/20/book-the-goal/)
-[problems](http://www.koszek.com/blog/2013/01/13/book-on-the-roll/).
+[How](http://www.koszek.com/blog/2012/10/25/book-winning/)
+[To](http://www.koszek.com/blog/2012/05/05/book-showstopper/)
+[Deal](http://www.koszek.com/blog/2012/12/02/book-the-new-new-thing/)
+[With](http://www.koszek.com/blog/2012/12/20/book-the-goal/)
+[Problems](http://www.koszek.com/blog/2013/01/13/book-on-the-roll/).
 
 Next thing which I didn't realize that unlike the spectacular 16 months
 from the funding to the IPO in the Netscape's case, Loud Cloud Inc and
