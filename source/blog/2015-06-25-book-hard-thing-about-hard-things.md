@@ -15,7 +15,7 @@ there are
 [several](http://www.koszek.com/blog/2012/05/24/book-the-lean-startup/)
 [well-known](http://www.koszek.com/blog/2012/08/24/book-rework/)
 [classics](http://www.koszek.com/blog/2012/10/02/book-emyth-revisited/)
-which are considered a mekka of startup knowledge.
+which are considered a Mekka of startup knowledge.
 Today I'm proud to announce that by audio bookshelf has been extended by 1
 important resource and I feel soon it'll become a classic referred to by
 many individuals.
