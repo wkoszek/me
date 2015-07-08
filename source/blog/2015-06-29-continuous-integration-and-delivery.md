@@ -55,7 +55,12 @@ completely makes sense.
 While I glance at Tracis and Jenkins and Circle Ci documentation and
 comparing them, below are the links on how big guys do it. If you have any
 other ones, ping me, and I'll add them to the list together with a credit
-to a contributor.
+to a contributor. Learning more would help me figure out in my head on what the right
+pattern for implementing CI really is. Doing it for couple of toy projects
+Github is probably not worth investing huge amount of time for configuration
+of tools and infrastructure, but assuming necessary shortcuts, I think it
+should be possible to get yourself a nice system for software pleasure and
+comfort.
 
 ## Most valuable resources
 
