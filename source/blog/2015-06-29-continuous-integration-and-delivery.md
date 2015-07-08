@@ -34,7 +34,7 @@ tracking progress and letting you know how each build went is a lot of work,
 yet it pays off. Why? Well, in the last several months I've been working
 with several technologies, including C, Python, Ruby and Javascript. All of
 them are fairly old citizens of computer world, yet working with them isn't
-as straighforward as one may seem. 
+as straightforward as one may seem. 
 
 Engineering build for each project still seems to be a custom task. Wiring
 your code with libraries might be easier with tools such us
@@ -43,7 +43,7 @@ might be easier, but its repository is
 limited. Making
 [Python](http://www.python.org)
 use ``pip`` is no longer as
-straighforward. Why?  Well, Python 2 or 3 I ask? So we have ``virtualenv``
+straightforward. Why?  Well, Python 2 or 3 I ask? So we have ``virtualenv``
 right now even for less sophisticated programs. And Ruby?
 [Rails](http://rubyonrails.org)?
 Which one -- 3 or 4? And this is how you
@@ -52,12 +52,12 @@ end up with RVM.
 So a build and testing automation
 completely makes sense.
 
-While I glance at Tracis and Jenkins and Circle Ci documentation and
+While I glance at Travis and Jenkins and Circle Ci documentation and
 comparing them, below are the links on how big guys do it. If you have any
 other ones, ping me, and I'll add them to the list together with a credit
 to a contributor. Learning more would help me figure out in my head on what the right
 pattern for implementing CI really is. Doing it for couple of toy projects
-Github is probably not worth investing huge amount of time for configuration
+GitHub is probably not worth investing huge amount of time for configuration
 of tools and infrastructure, but assuming necessary shortcuts, I think it
 should be possible to get yourself a nice system for software pleasure and
 comfort.

@@ -131,3 +131,9 @@ iCON
 iHELL
 iPOD
 makefile
+
+# 2015-06-29-continuous-integration-and-delivery.md
+Biicode
+virtualenv
+AWS
+RVM
