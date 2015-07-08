@@ -42,8 +42,8 @@ your code with libraries might be easier with tools such us
 might be easier, but its repository is
 limited. Making
 [Python](http://www.python.org)
-use ``pip'' is no longer as
-straighforward. Why?  Well, Python 2 or 3 I ask? So we have ``virtualenv''
+use ``pip`` is no longer as
+straighforward. Why?  Well, Python 2 or 3 I ask? So we have ``virtualenv``
 right now even for less sophisticated programs. And Ruby?
 [Rails](http://rubyonrails.org)?
 Which one -- 3 or 4? And this is how you
