@@ -137,3 +137,9 @@ Biicode
 virtualenv
 AWS
 RVM
+
+# /blog/2015/06/25/book-hard-thing-about-hard-things/
+Vai
+waaay
+Opsware
+rex
