@@ -2,7 +2,6 @@
 title:	'Source Code from "Programmer Guide to NCurses" by Dan Gookin'
 tags:	article
 read:	2015-07-08
-build:	true
 published: true
 layout: layout_book
 ads:
