@@ -3,6 +3,8 @@
 ###
 
 tgt_env_var = "TGT_KOSZEK_COM"
+tgt = ENV[tgt_env_var].to_s.downcase
+is_prod = (tgt == "production")
 
 def dbg(*args)
   print "# KC "
@@ -54,11 +56,15 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+activate :drafts do |drafts|
+  drafts.build = true if not is_prod
+  puts "# Build: #{drafts.build}"
+end
+
 page "/feed.xml", layout: false
 
 ignore /papers_new*/
 ignore "spec/*"
-ignore "/drafts/*"
 ignore "/data/*"
 
 ignore "/articles/*"
@@ -137,9 +143,6 @@ set :js_dir, 'js'
 
 set :images_dir, 'img'
 
-tgt = ENV[tgt_env_var].to_s.downcase
-is_prod = (tgt == "production")
-
 # Build-specific configuration
 configure :build do
   if is_prod then
@@ -169,3 +172,4 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
