@@ -9,7 +9,7 @@ ads:
 ---
 
 Sometimes it makes me think how much information XXI century human being can
-intake with intelectural hickup. It's a fairly known fact that as we move
+intake with intelectual hiccup. It's a fairly known fact that as we move
 forward with medicine, science and human knowledge in general nowadays, the knowledge
 of past generations starts to be available at our fingertips.
 

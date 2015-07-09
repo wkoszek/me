@@ -16,8 +16,8 @@ them. Structured after a college dorm Google is the place where most
 talented college graduates end up
 
 Search engine started at Stanford, and sponsored by two mentors of Silicon
-Valley: Andy Bechtolstein and David Cheriton moved from being built with
-cheap computers in a Beowolf cluster to being a "cloud", still built with
+Valley: Andy Bechtolsheim and David Cheriton moved from being built with
+cheap computers in a Beowulf cluster to being a "cloud", still built with
 commodity hardware, but with many, many improvements from the software side
 to make the search reliable.
 

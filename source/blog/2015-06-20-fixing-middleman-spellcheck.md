@@ -6,7 +6,7 @@ tags:	article
 layout: layout_book
 ---
 
-Sometimes when you make a change to the software, it is intersting to
+Sometimes when you make a change to the software, it is interesting to
 predict how long will such change take. Fixing *Middleman-spellcheck* was
 initially only about letting myself to select words which I would consider
 correct and do it from within the front-matter of each Middleman's article

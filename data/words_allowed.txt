@@ -139,7 +139,36 @@ AWS
 RVM
 
 # /blog/2015/06/25/book-hard-thing-about-hard-things/
+Mekka
 Vai
 waaay
 Opsware
 rex
+
+#/blog/2015/06/20/fixing-middleman-spellcheck/
+md
+html
+rb
+aspell
+
+# /blog/2015/06/14/book-21-dog-years/
+Daisey's
+fenomena
+Daisey
+
+# /blog/2015/05/20/book-organized-mind/
+intelectual
+hiccup
+
+#  /blog/2015/01/05/book-in-the-plex/
+Bechtolsheim
+
+#  spellcheck  Running spell checker for /blog/2015/04/23/book-innovators/
+Vannevar
+Andreessen
+
+#  spellcheck  Running spell checker for /blog/2015/04/24/book-made-it-stick/
+th
+
+#  spellcheck  Running spell checker for /blog/2015/05/18/book-just-my-type/
+nd

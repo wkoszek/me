@@ -21,10 +21,10 @@ programs, and due to the nature of their programming (low-level programming
 with 0 abstraction of hardware interfaces) it's hard to be surprise by that
 state of things.
 
-I've learned about the existance of "As we may think" by Vannevar Bush, but
+I've learned about the existence of "As we may think" by Vannevar Bush, but
 yet have to read it. Seems like this piece had a great impact on many
 people, including guys like
-[Marc Andressen](http://www.twitter.com/pmarca/).
+[Marc Andreessen](http://www.twitter.com/pmarca/).
 
 The "On games" reminded me a lecture from Computer History Museum YouTube
 channel, in which Bill Joy explained that during his presentation of

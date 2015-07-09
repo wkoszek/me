@@ -14,7 +14,7 @@ projects face.
 Have you ever had an idea and wanted to collect a team of friends and
 execute them? If so, you'll know what these problems might be.
 
-The feel of the book is similar to the Millionair's Mind, as the author
+The feel of the book is similar to the Millionaire's Mind, as the author
 relates to his broad study and statistical evidence across a lot of
 startups.
 The issue is that only small number of these startups are used for the main
