@@ -1,25 +1,25 @@
 #!/bin/sh
 
+PARNAME="11_BLOG"
+
 DRIVE=~/tmp/gdrive/drive
+PARID=`$DRIVE list -q "title = \"${PARNAME}\"" | grep -v ^Id | cut -d " " -f 1`
 
-	rm -rf l
-	$DRIVE list -q "'0B_PjHVm3K3RVfmgwVUV5SDBLRk1wSm9rYjUtUW1jWW9TVVZCTERVX2tWQ2tLVnFmV09lams' in parents" > _.l
-	cat -n _.l
+$DRIVE list -q "'$PARID' in parents" | cat -n
 
-	echo "Enter ID of doc to convert:"
-	read ID
+echo "Enter ID of doc to convert:"
+read ID
 
-	$DRIVE info -i $ID > _.i
+BASENAME=`$DRIVE info -i $ID | grep ^Title: | cut -d " " -f 2-`
 
-	BASENAME=`grep ^Title: _.i | cut -d " " -f 2-`
+$DRIVE download -i $ID -s --format docx > _.docx
+$DRIVE download -i $ID -s --format txt > _.txt
+pandoc _.docx -o _.md
 
-	$DRIVE download -i $ID -s --format html > _.html
-
-	./html2md.js _.html > _.raw
-
-	sed '1,2d' < _.raw > _.txt
-
-
+(mkdir -p _.r && cd _.r && unzip ../_.docx)
+mkdir $BASENAME
+mv _.r/word/media/* ${BASENAME}/
+sed -i "" "s,media/image,${BASENAME}/image,g" _.md
 
 TITLE_CUR=`head -1 _.txt`
 echo "Enter title [${TITLE_CUR}] <ENTER/custom title>"
@@ -70,7 +70,10 @@ fi
 	echo
 	echo
 	echo
-	cat _.txt
+	cat _.md
 ) > _.ready
 mv -f ${BASENAME}.md ${BASENAME}.md.bak.`head /dev/urandom | md5`
 mv -i _.ready ${BASENAME}.md
+echo "# to edit"
+echo
+echo vim ${BASENAME}.md
