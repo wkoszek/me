@@ -1,6 +1,9 @@
 #!/bin/sh
 
 PARNAME="11_BLOG"
+if [ "x$1" != "x" ]; then
+	PARNAME=$1
+fi
 
 DRIVE=~/tmp/gdrive/drive
 PARID=`$DRIVE list -q "title = \"${PARNAME}\"" | grep -v ^Id | cut -d " " -f 1`
