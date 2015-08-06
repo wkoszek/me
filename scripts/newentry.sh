@@ -17,12 +17,15 @@ BASENAME=`$DRIVE info -i $ID | grep ^Title: | cut -d " " -f 2-`
 
 $DRIVE download -i $ID -s --format docx > _.docx
 $DRIVE download -i $ID -s --format txt > _.txt
-pandoc _.docx -o _.md
+pandoc --track-changes=accept _.docx -o _.md
 
 (mkdir -p _.r && cd _.r && unzip ../_.docx)
 mkdir $BASENAME
 mv _.r/word/media/* ${BASENAME}/
 sed -i "" "s,media/image,${BASENAME}/image,g" _.md
+
+sed -i "" 's,\\~,~,g' _.md	# unbackslash stuff
+sed -i "" 's,\\',',g' _.md	# remove \`
 
 TITLE_CUR=`head -1 _.txt`
 echo "Enter title [${TITLE_CUR}] <ENTER/custom title>"
@@ -58,9 +61,6 @@ if [ "x$TAGS_ANSWER" = "xb" ]; then
 fi
 
 (
-	echo
-	echo
-	echo
 	echo "---"
 	echo "title:	'$TITLE'"
 	echo "tags:	$TAGS"
@@ -75,8 +75,18 @@ fi
 	echo
 	cat _.md
 ) > _.ready
-mv -f ${BASENAME}.md ${BASENAME}.md.bak.`head /dev/urandom | md5`
+
+if [ -f ${BASENAME} ]; then
+	mv -f ${BASENAME}.md \
+		${BASENAME}.md.bak.`head /dev/urandom | md5` 2>&1 >/dev/null
+fi
 mv -i _.ready ${BASENAME}.md
+
 echo "# to edit"
 echo
 echo vim ${BASENAME}.md
+echo
+echo "# to move:"
+echo
+echo "mv ${BASENAME}.md ../source/blog/"
+echo "mv ${BASENAME} ../source/img/"
