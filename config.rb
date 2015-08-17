@@ -5,6 +5,7 @@
 tgt_env_var = "TGT_KOSZEK_COM"
 tgt = ENV[tgt_env_var].to_s.downcase
 is_prod = (tgt == "production")
+is_ci_build = (ENV["CIRCLECI"].to_s.downcase == "true")
 
 def dbg(*args)
   print "# KC "
@@ -112,20 +113,24 @@ activate :livereload
 activate :directory_indexes
 activate :syntax
 activate :graphviz
-#activate :spellcheck
-activate :spellcheck,
-		page: "blog/*",
-		tags: [ :p, :article ],
-		lang: :en_CA,
-		debug: 0,
-		dontfail: 1,
-		allow: get_words_allowed("./data/words_allowed.txt"),
-		ignored_exts: [".jpg", ".png", ".pdf",
-			".sh", ".ico", ".xml", ".woff",
-			".eot", ".ttf", "*.otf",
-			".txt", "CNAME",
-			"/papers/", "/software/"
-		]
+
+# Until we get middleman-spellcheck new version in Gems, we disable for
+# non-local builds
+if !is_ci_build then
+	activate :spellcheck,
+			page: "blog/*",
+			tags: [ :p, :article ],
+			lang: :en_CA,
+			debug: 0,
+			dontfail: 1,
+			allow: get_words_allowed("./data/words_allowed.txt"),
+			ignored_exts: [".jpg", ".png", ".pdf",
+				".sh", ".ico", ".xml", ".woff",
+				".eot", ".ttf", "*.otf",
+				".txt", "CNAME",
+				"/papers/", "/software/"
+			]
+end
 
 # Fix quotes: https://github.com/middleman/middleman/issues/909
 set :markdown_engine, :kramdown
