@@ -2,7 +2,9 @@ machine:
   ruby:
     version:
       2.2.2
-
 dependencies:
   pre:
     - bundle install
+test:
+  override:
+    - true
