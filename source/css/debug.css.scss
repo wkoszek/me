@@ -8,6 +8,10 @@
 body {
 	@include selection(true);
 }
+p {
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
 
 ** {
 	border: dotted 1px gray;

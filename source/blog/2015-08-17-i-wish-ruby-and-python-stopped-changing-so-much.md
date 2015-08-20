@@ -39,8 +39,6 @@ deployed, the features and bugs are there to stay.
 Keep in mind, there are also some little things, which can cause some
 problems for users, such as:
 
-<br>
-
 	macb:24:10: W: File.exists? is deprecated in favor of File.exist?.
 
 	if File.exists?("obj") then
@@ -59,7 +57,6 @@ problems for users, such as:
 
 	^^^^^^^
 
-<br>
 It's a fairly minor change.
 The change from "print expression" to "print(expression)" in Python is much
 harder, since it potentially breaks programs as complex as "Hello world".
