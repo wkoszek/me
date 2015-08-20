@@ -6,6 +6,7 @@ tgt_env_var = "TGT_KOSZEK_COM"
 tgt = ENV[tgt_env_var].to_s.downcase
 is_prod = (tgt == "production")
 is_ci_build = (ENV["CIRCLECI"].to_s.downcase == "true")
+has_spellcheck_v80 = 1
 
 def dbg(*args)
   print "# KC "
@@ -116,7 +117,7 @@ activate :graphviz
 
 # Until we get middleman-spellcheck new version in Gems, we disable for
 # non-local builds
-#if !is_ci_build then
+if has_spellcheck_v80 then
 	activate :spellcheck,
 			page: "blog/*",
 			tags: [ :p, :article ],
@@ -130,7 +131,7 @@ activate :graphviz
 				".txt", "CNAME",
 				"/papers/", "/software/"
 			]
-#end
+end
 
 # Fix quotes: https://github.com/middleman/middleman/issues/909
 set :markdown_engine, :kramdown
