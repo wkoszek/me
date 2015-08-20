@@ -10,7 +10,7 @@ gem "middleman-deploy"
 gem "middleman-livereload"
 gem "middleman-gh-pages"
 gem "middleman-syntax"
-gem 'middleman-spellcheck'
+gem 'middleman-spellcheck', '~> 0.8.0'
 
 # HTML/CSS stuff.
 gem 'bourbon'
