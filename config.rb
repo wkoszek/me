@@ -116,7 +116,7 @@ activate :graphviz
 
 # Until we get middleman-spellcheck new version in Gems, we disable for
 # non-local builds
-if !is_ci_build then
+#if !is_ci_build then
 	activate :spellcheck,
 			page: "blog/*",
 			tags: [ :p, :article ],
@@ -130,7 +130,7 @@ if !is_ci_build then
 				".txt", "CNAME",
 				"/papers/", "/software/"
 			]
-end
+#end
 
 # Fix quotes: https://github.com/middleman/middleman/issues/909
 set :markdown_engine, :kramdown
