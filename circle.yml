@@ -8,3 +8,8 @@ test:
 dependencies:
   pre:
     - bundle install
+
+general:
+  branches:
+    ignore:
+      - gh-pages
