@@ -107,7 +107,7 @@ GEM
     middleman-minify-html (3.4.0)
       htmlcompressor (~> 0.1.0)
       middleman-core (>= 3.2)
-    middleman-spellcheck (0.7.5)
+    middleman-spellcheck (0.8.0)
       middleman-core (~> 3.2)
       nokogiri
     middleman-sprockets (3.4.2)
@@ -191,6 +191,6 @@ DEPENDENCIES
   middleman-gh-pages
   middleman-livereload
   middleman-minify-html
-  middleman-spellcheck
+  middleman-spellcheck (~> 0.8.0)
   middleman-syntax
   selenium-webdriver
