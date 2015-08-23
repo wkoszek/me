@@ -126,7 +126,7 @@ But it did!
 
 It worked, but my overall experience with Go so far is that I don’t want to come back. Programs such as pip, Gem, and npm have spoiled me, and I don’t want to go back to the old way of doing things where everything has to be typed into the terminal and later verified.
 
-“It’s not possible!” some may say. But I know that’s not true. Take [Vagrant](https%3A%2F%2Fwww.vagrantup.com%2F&sa=D&sntz=1&usg=AFQjCNGIPqi-jXhXAZJ91ybWAezY-WIfBg) for example. Vagrant is accomplishing something very complex in a way that is really simple for the user. It configures and starts a virtual “computer emulator” and hides all ugly and cumbersome bits and pieces from the user, delivering an amazing user experience. Vagrant can start a virtual computer on my host machine with only 3 commands.
+“It’s not possible!” some may say. But I know that’s not true. Take [Vagrant](https://www.vagrantup.com/) for example. Vagrant is accomplishing something very complex in a way that is really simple for the user. It configures and starts a virtual “computer emulator” and hides all ugly and cumbersome bits and pieces from the user, delivering an amazing user experience. Vagrant can start a virtual computer on my host machine with only 3 commands.
 
 ~~~ terminal
 vagrant init ubuntu/trusty64
