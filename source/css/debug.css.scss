@@ -1,14 +1,35 @@
 @import "bourbon";
 
-$link-color:			darkred !default;
+$link-color:			brown !default;
 $sel-bg-color:			$link-color !default;
 $sel-fg-color:			white;
 $link-active-color:		$link-color;
 $blockquote-border-color:	black;
-$link-fg-color:			#af0000;
+$link-fg-color:			$link-color;
 $link-bg-color:			white;
 $link-fg-hover-color:		darkgray;
 $link-bg-hover-color:		white;
+
+$font-group:			"HelveticaNeue-CondensedBold", "PT Sans",
+				"Futura", "Open Sans", "HelveticaNeue",
+				"Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-links:			$font-group;
+$font-leftpanel:		$font-group;
+$font-content:			$font-group;
+$font-headers:			$font-group;
+$font-content:			"Baskerville";
+$font-footer:			'Hoefler Text', Baskerville, PTSerifCustom;
+$font-blockquote;		"Futura";
+$font-date-time:		"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+				// font-family: "PT Sans", "Futura", "Open Sans",
+				// "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-title:			"HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans",
+				"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-logo:			"PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue",
+				"Helvetica", "Arial", sans-serif;
+$font-body:			"HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans",
+				"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-update:			"Futura";
 
 @include selection {
 	background-color: $sel-bg-color;
@@ -28,17 +49,17 @@ p {
 	border: dotted 1px gray;
 }
 
-.links a, .leftpanel a, .content a
-{
-	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
-}
+.links a { font-family: $font-links; }
+.leftpanel a { font-family: $font-leftpanel; }
+.content a { font-family: $font-content; }
+
 .content h1,
 .content h2,
 .content h3,
 .content h4,
 .content h5,
 .content h6 {
-  font-family: "HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: $font-headers;
 }
 .links a {
 	margin-right: 4%;
@@ -55,7 +76,7 @@ body {
 }
 
 .content {
-	font-family: "Baskerville";
+	font-family: $font-content;
 	font-size: 160%;
 }
 
@@ -67,14 +88,13 @@ body {
 	border: solid 1px white;
 }
 .date, .title {
-        font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: $font-date-time;
 	font-size: 65%;
 	color: gray;
 	font-weight: bold;
 }
 .title {
-	font-family: "HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: $font-title;
 	font-size: 200%;
 	color: black;
 }
@@ -89,20 +109,13 @@ body {
 
 .footer {
 	text-align: center;
-	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
+	font-family: $font-footer;
 	font-style: italic;
 }
 
 .leftpanel a {
 	font-size: 100%;
 }
-/*
-.leftpanel a {
-	font-size: 100%;
-        font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-style: normal;
-}
-*/
 .links {
 	font-size: 100%;
 }
@@ -110,7 +123,7 @@ body {
 
 /* LOGO */
 .logo a {
-        font-family: "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: $font-logo;
 	color: black;
 	font-size: 150%;
 	font-style: normal;
@@ -135,7 +148,7 @@ a:hover { color: $link-fg-hover-color; background: $link-bg-hover-color; }
   max-width: 1200px;
 }
 body {
-  font-family: "HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: $font-body;
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
@@ -153,9 +166,10 @@ ol, ul {
 .highlight {
 font-size: 16px;
 }
+
 blockquote {
 font-size: 100%;
-font-family: Futura;
+font-family: $font-blockquote;
 font-weight: bold;
 border-left: solid 3px $blockquote-border-color;
 }
@@ -165,7 +179,7 @@ font-size: 80%;
 .update {
 font-size: 100%;
 background: lightyellow;
-font-family: Futura;
+font-family: $font-update;
 border: solid 1px orange;
 }
 
