@@ -3,31 +3,36 @@
 $def-bg-color:			white;
 $link-color:			brown !default;
 $link-active-color:		$link-color;
-$blockquote-border-color:	$link-color;
+$blockquote-border-color:	black;
 $link-fg-color:			$link-color;
 $link-bg-color:			$def-bg-color;
 $link-fg-hover-color:		darkgray;
 $link-bg-hover-color:		$def-bg-color;
 
+$blockquote-shift:		30px;
+
 $sel-bg-color:			$link-color !default;	// inverted colors
 $sel-fg-color:			$def-bg-color;
 
 $font-group:			"HelveticaNeue-CondensedBold", "PT Sans",
-				"Futura", "Open Sans", "HelveticaNeue",
-				"Helvetica Neue", Helvetica, Arial, sans-serif;
+				"Futura", "HelveticaNeue", "Helvetica Neue",
+				Helvetica, Arial, sans-serif;
 $font-body:			"charterregular";
+$font-body-bold:		"charterbold";
+
 $font-links:			$font-group;
-$font-links-leftpanel:		$font-group;
-$font-links-content:		"charterbold";
 $font-headers:			$font-group;
+$font-links-leftpanel:		$font-group;
+$font-links-content:		$font-body-bold;
 $font-content:			$font-body;
 $font-footer:			$font-body;
-$font-blockquote:		$font-group;
+$font-blockquote:		$font-body-bold;
 $font-date-time:		$font-group;
 $font-title:			$font-group;
 $font-logo:			$font-group;
 $font-body:			$font-group;
 $font-update:			$font-group;
+$font-links-indexpage:		$font-body;
 
 @include selection {
 	background-color: $sel-bg-color;
@@ -50,6 +55,7 @@ p {
 .links a { font-family: $font-links; }
 .leftpanel a { font-family: $font-links-leftpanel; }
 .content a { font-family: $font-links-content; }
+a.abig { font-family: $font-links-indexpage; }
 
 .content h1,
 .content h2,
@@ -168,7 +174,8 @@ font-size: 16px;
 blockquote {
 font-size: 100%;
 font-family: $font-blockquote;
-font-weight: bold;
+padding-left: $blockquote-shift;
+margin-left: -$blockquote-shift;
 border-left: solid 3px $blockquote-border-color;
 }
 code {
