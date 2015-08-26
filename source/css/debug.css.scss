@@ -1,13 +1,24 @@
 @import "bourbon";
 
+$link-color:			darkred !default;
+$sel-bg-color:			$link-color !default;
+$sel-fg-color:			white;
+$link-active-color:		$link-color;
+$blockquote-border-color:	black;
+$link-fg-color:			#af0000;
+$link-bg-color:			white;
+$link-fg-hover-color:		darkgray;
+$link-bg-hover-color:		white;
+
 @include selection {
-	background-color: darkred;
-	color: white;
+	background-color: $sel-bg-color;
+	color: $sel-fg-color;
 }
 
 body {
 	@include selection(true);
 }
+
 p {
 	margin-top: 3%;
 	margin-bottom: 3%;
@@ -20,7 +31,6 @@ p {
 .links a, .leftpanel a, .content a
 {
 	font-family: 'Hoefler Text', Baskerville, PTSerifCustom;
-	font-style: italic;
 }
 .content h1,
 .content h2,
@@ -38,7 +48,7 @@ p {
 }
 .links .ac {
 	padding-bottom: 1%;
-	border-bottom: solid 5px darkred;
+	border-bottom: solid 5px $link-active-color;
 }
 body {
 	border-top: solid 3px black;
@@ -112,7 +122,7 @@ body {
 }
 
 a {
-  color: #af0000; background:white;
+  color: $link-fg-color;  background: $link-bg-color;
   -o-transition:color .1s ease-out, background 0.2s ease-in;
   -ms-transition:color .1s ease-out, background 0.2s ease-in;
   -moz-transition:color .1s ease-out, background 0.2s ease-in;
@@ -120,9 +130,7 @@ a {
   /* ...and now override with proper CSS property */
   transition:color .2s ease-out, background 0.2s ease-in;
 }
-a:hover { color:darkgray; background:white; }
-
-
+a:hover { color: $link-fg-hover-color; background: $link-bg-hover-color; }
 .container {
   max-width: 1200px;
 }
@@ -132,15 +140,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
-a {
-  color: #af0000;
-  text-decoration: none;
-}
-a:hover {
-  color: gray;
-}
-
-
 
 ul {
   list-style: circle; }
@@ -158,7 +157,7 @@ blockquote {
 font-size: 100%;
 font-family: Futura;
 font-weight: bold;
-border-left: solid 3px darkred;
+border-left: solid 3px $blockquote-border-color;
 }
 code {
 font-size: 80%;
