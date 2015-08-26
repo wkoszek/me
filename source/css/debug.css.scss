@@ -13,23 +13,19 @@ $link-bg-hover-color:		white;
 $font-group:			"HelveticaNeue-CondensedBold", "PT Sans",
 				"Futura", "Open Sans", "HelveticaNeue",
 				"Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-body:			"Palatino";
 $font-links:			$font-group;
 $font-leftpanel:		$font-group;
 $font-content:			$font-group;
 $font-headers:			$font-group;
-$font-content:			"Baskerville";
-$font-footer:			'Hoefler Text', Baskerville, PTSerifCustom;
-$font-blockquote:		"Futura";
-$font-date-time:		"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-				// font-family: "PT Sans", "Futura", "Open Sans",
-				// "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-title:			"HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans",
-				"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-logo:			"PT Sans", "Futura", "Open Sans", "HelveticaNeue", "Helvetica Neue",
-				"Helvetica", "Arial", sans-serif;
-$font-body:			"HelveticaNeue-CondensedBold", "PT Sans", "Futura", "Open Sans",
-				"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-update:			"Futura";
+$font-content:			$font-body;
+$font-footer:			$font-body;
+$font-blockquote:		$font-group;
+$font-date-time:		$font-group;
+$font-title:			$font-group;
+$font-logo:			$font-group;
+$font-body:			$font-group;
+$font-update:			$font-group;
 
 @include selection {
 	background-color: $sel-bg-color;
