@@ -1,22 +1,24 @@
 @import "bourbon";
 
+$def-bg-color:			white;
 $link-color:			brown !default;
-$sel-bg-color:			$link-color !default;
-$sel-fg-color:			white;
 $link-active-color:		$link-color;
-$blockquote-border-color:	black;
+$blockquote-border-color:	$link-color;
 $link-fg-color:			$link-color;
-$link-bg-color:			white;
+$link-bg-color:			$def-bg-color;
 $link-fg-hover-color:		darkgray;
-$link-bg-hover-color:		white;
+$link-bg-hover-color:		$def-bg-color;
+
+$sel-bg-color:			$link-color !default;	// inverted colors
+$sel-fg-color:			$def-bg-color;
 
 $font-group:			"HelveticaNeue-CondensedBold", "PT Sans",
 				"Futura", "Open Sans", "HelveticaNeue",
 				"Helvetica Neue", Helvetica, Arial, sans-serif;
-$font-body:			"Palatino";
+$font-body:			"charterregular";
 $font-links:			$font-group;
-$font-leftpanel:		$font-group;
-$font-content:			$font-group;
+$font-links-leftpanel:		$font-group;
+$font-links-content:		"charterbold";
 $font-headers:			$font-group;
 $font-content:			$font-body;
 $font-footer:			$font-body;
@@ -46,8 +48,8 @@ p {
 }
 
 .links a { font-family: $font-links; }
-.leftpanel a { font-family: $font-leftpanel; }
-.content a { font-family: $font-content; }
+.leftpanel a { font-family: $font-links-leftpanel; }
+.content a { font-family: $font-links-content; }
 
 .content h1,
 .content h2,
