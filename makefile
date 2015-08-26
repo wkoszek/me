@@ -52,4 +52,4 @@ http_stop:
 clean:
 	rm -rf build
 	find * -name ".DS_Store" | xargs -n 1 rm -rf
-	rm -rf tmp
+	rm -rf tmp scripts/_.*
