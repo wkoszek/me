@@ -96,8 +96,8 @@ tried, and then reverted back to the method that just works?
 “I’m a startup and I’d like to get my technology into the enterprise
 market”
 
-In the past, I was a part of [Xilinx](http://www.xilinx.com) and I can tell
-you that from my experience that “the best” in a big company will quite
+In the past, I was a part of [Xilinx](http://www.xilinx.com) and from what
+I could observe “the best” in a big company will quite
 likely mean the best price/quality ratio plus some combination of answers to
 the following questions:
 
