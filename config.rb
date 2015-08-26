@@ -71,7 +71,6 @@ ignore "/data/*"
 ignore "scripts/*"
 
 ignore "/articles/*"
-ignore "*.pdf"
 
 ###
 # Compass
