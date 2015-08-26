@@ -28,6 +28,16 @@
 
 		<link rel="icon" type="image/png" href="/img/favicon.ico">
 		<title>Wojciech Koszek<%= ' - ' + current_article.title unless current_article.nil? %></title>
+
+		<meta property="og:title" content="<%= current_article.title unless current_article.nil? %>" />
+		<meta property="og:site_name" content="Wojciech Koszek personal website"/>
+		<meta property="og:type" content="article" />
+		<meta property="article:author" content="https://www.koszek.com/about" />
+		<meta property="article:publisher" content="https://www.koszek.com/" />
+		<!--
+		<meta property="og:description" content="Some form of desc" />
+		-->
+
 		<%= feed_tag :atom, "/feed.xml", title: "Atom Feed" %>
 
 	</head>
