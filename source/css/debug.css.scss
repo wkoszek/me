@@ -17,16 +17,14 @@ $sel-fg-color:			$def-bg-color;
 $font-group:			"HelveticaNeue-CondensedBold", "PT Sans",
 				"Futura", "HelveticaNeue", "Helvetica Neue",
 				Helvetica, Arial, sans-serif;
-$font-body:			"charterregular";
-$font-body-bold:		"charterbold";
+$font-body:			"charter";
 
 $font-links:			$font-group;
 $font-headers:			$font-group;
 $font-links-leftpanel:		$font-group;
-$font-links-content:		$font-body-bold;
 $font-content:			$font-body;
 $font-footer:			$font-body;
-$font-blockquote:		$font-body-bold;
+$font-blockquote:		$font-body;
 $font-date-time:		$font-group;
 $font-title:			$font-group;
 $font-logo:			$font-group;
@@ -49,7 +47,7 @@ body {
 
 .links a { font-family: $font-links; }
 .leftpanel a { font-family: $font-links-leftpanel; }
-.content a { font-family: $font-links-content; }
+.content a { font-weight: bold; }
 a.abig { font-family: $font-links-indexpage; }
 
 .content h1,
@@ -169,6 +167,7 @@ font-size: 16px;
 blockquote {
 font-size: 100%;
 font-family: $font-blockquote;
+font-weight: bold;
 padding-left: $blockquote-shift;
 margin-left: -$blockquote-shift;
 border-left: solid 3px $blockquote-border-color;
