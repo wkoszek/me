@@ -15,7 +15,7 @@ is probably one of the most frequently asked questions on technical
 forums. With 2.8 billion results from Google, somehow technical “AWS”
 manages to top the search results page:
 
-![](2015-08-26-how-do-you-evaluate-new-technologies/image05.png)
+![](2015-08-26-how-do-you-evaluate-new-technologies/image05.jpg)
 
 As a software crowd, we all start to use new technologies at some point.
 While many technologies are fairly self-explanatory (having no
@@ -41,13 +41,13 @@ during which architecture and choices would involve only guys with
 beards, long hair and glasses. Youngsters with &lt;= 25yrs of industry
 experience wouldn’t be welcome.
 
-![](2015-08-26-how-do-you-evaluate-new-technologies/image03.png)Then the top guru of the clan wearing a dark cloak
+![](2015-08-26-how-do-you-evaluate-new-technologies/image03.jpg)Then the top guru of the clan wearing a dark cloak
 would speak up and sequentially ask each each of the masters whether
 their bag of spells could be used. Masters would each try to defend
 their own bag of spells with arguments, discussions, disagreements and
 fist fights until finally the strongest spell would win.
 
-![](2015-08-26-how-do-you-evaluate-new-technologies/image04.png)
+![](2015-08-26-how-do-you-evaluate-new-technologies/image04.jpg)
 
 And in fact, yes, industry seems to work like that - perhaps without the
 spells, masters and cloaks, but the schema is very similar. In fact, the

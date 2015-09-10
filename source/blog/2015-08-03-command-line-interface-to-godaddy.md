@@ -16,7 +16,7 @@ For quite some time now I’ve been a user of
 `.pl` domains: their user interface was terrible, since after logging
 to your account all you could see was an advertisement:
 
-![](2015-08-03-command-line-interface-to-godaddy/image01.png)
+![](2015-08-03-command-line-interface-to-godaddy/image01.jpg)
 
 The website with an ad always loaded very quickly. Then you had to
 switch to “Control Panel”, which was always very slow. I could complain

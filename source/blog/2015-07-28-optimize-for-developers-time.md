@@ -15,7 +15,7 @@ limited. There was little or no networking, and communication with the
 computer was primitive. Heck, even Norton Commander on a 12” was
 suboptimal. Right now, I could probably achieve this:
 
-![](2015-07-19-optimize-for-developers-time/image02.png)
+![](2015-07-19-optimize-for-developers-time/image02.jpg)
 
 And do it in a single Terminal window, which would make ’70s engineers’
 eyeballs go red with jealousy. Have you ever wondered what the world was
@@ -63,7 +63,7 @@ storage. If we compare my current 256 GB SSD disk to my very first 1.2
 GB disk ever, it’s about 200x more. Yet most of the time my system lets
 it sit and do little, maybe with occasional swapping:
 
-![](2015-07-19-optimize-for-developers-time/image03.png)
+![](2015-07-19-optimize-for-developers-time/image03.jpg)
 
 In 2015, I honestly want programs to take the maximum amount of memory
 whenever possible, as long as it makes my computer work faster. I want

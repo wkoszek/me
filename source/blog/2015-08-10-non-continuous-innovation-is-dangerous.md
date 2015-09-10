@@ -18,7 +18,7 @@ website*](http://www.koszek.com/reading/) in the hope of referring to
 ago*](http://www.koszek.com/blog/2012/12/07/book-the-old-new-thing/),
 and all I saw instead of a nice picture was this:
 
-![](2015-08-10-non-continuous-innovation-is-dangerous/image02.png)
+![](2015-08-10-non-continuous-innovation-is-dangerous/image02.jpg)
 
 The cause is good, but the place is bad. So I went back and I dug up the
 email:
@@ -68,7 +68,7 @@ git commit
 
 And the issue is fixed:
 
-![](2015-08-10-non-continuous-innovation-is-dangerous/image03.png)
+![](2015-08-10-non-continuous-innovation-is-dangerous/image03.jpg)
 
 This reminds me that one of the worst non-continuous improvements I’ve
 made to FreeBSD was my enhancement to the kernel configuration system.
