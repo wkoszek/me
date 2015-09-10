@@ -11,6 +11,7 @@ gem "middleman-livereload"
 gem "middleman-gh-pages"
 gem "middleman-syntax"
 gem 'middleman-spellcheck', '~> 0.8.0'
+gem 'middleman-imageoptim'
 
 # HTML/CSS stuff.
 gem 'bourbon'
