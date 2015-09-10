@@ -40,7 +40,7 @@ activate :imageoptim do |options|
   options.skip_missing_workers = true
 
   # Cause image_optim to be in shouty-mode
-  options.verbose = false
+  options.verbose = true
 
   # Setting these to true or nil will let options determine them (recommended)
   options.nice = true
@@ -57,8 +57,8 @@ activate :imageoptim do |options|
   options.jpegtran  = { :copy_chunks => false, :progressive => true, :jpegrescan => true }
   options.optipng   = { :level => 6, :interlace => false }
   options.pngcrush  = { :chunks => ['alla'], :fix => false, :brute => false }
-  options.pngout    = { :copy_chunks => false, :strategy => 0 }
-  options.svgo      = {}
+  options.pngout    = false # { :copy_chunks => false, :strategy => 0 }
+  options.svgo      = false # {}
 end
 
 activate :blog do |blog|
