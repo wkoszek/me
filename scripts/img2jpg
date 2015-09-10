@@ -1,0 +1,13 @@
+#!/bin/sh
+
+(cd source; find * -name "*.png") | while read IMG; do
+	JPG="${IMG%%.png}.jpg"
+	echo "# Converting $IMG -> $JPG"
+	convert source/$IMG source/$JPG
+
+	FROM=`echo $IMG | cut -d '/' -f 2-`
+	TO=`echo $JPG | cut -d '/' -f 2-`
+
+	echo "Replacing $FROM -> $TO"
+	sed -i '' "s,$FROM,$TO,g" source/blog/*
+done
