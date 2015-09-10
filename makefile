@@ -9,6 +9,7 @@ b:
 
 # production build
 p:
+	rm -rf build
 	env TGT_KOSZEK_COM=production rake publish
 	make u
 
