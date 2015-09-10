@@ -8,6 +8,10 @@ test:
 dependencies:
   pre:
     - bundle install
+    - gem install image_optim
+    - gem install image_optim_pack
+    # In case image_optim_pack doesn't work, one can use this:
+    #- sudo apt-get install -y advancecomp gifsicle jhead jpegoptim libjpeg-progs optipng pngcrush pngquant
 
 general:
   branches:
