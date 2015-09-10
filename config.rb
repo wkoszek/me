@@ -34,13 +34,13 @@ dbg("------------ site building started -----------")
 # Time.zone = "UTC"
 activate :imageoptim do |options|
   # Use a build manifest to prevent re-compressing images between builds
-  options.manifest = true
+  options.manifest = false
 
   # Silence problematic image_optim workers
   options.skip_missing_workers = true
 
   # Cause image_optim to be in shouty-mode
-  options.verbose = true
+  options.verbose = false
 
   # Setting these to true or nil will let options determine them (recommended)
   options.nice = true
