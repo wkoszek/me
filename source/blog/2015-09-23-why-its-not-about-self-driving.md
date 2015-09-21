@@ -1,7 +1,7 @@
 ---
 title:	'Why it’s not about self-driving'
 tags:	article
-read:	2015-09-20
+read:	2015-09-23
 published: true
 layout:	layout_book
 ads:
