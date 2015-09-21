@@ -1,5 +1,5 @@
 ---
-title:	'Why it’s not about self-driving'
+title:	"Why it's not about self-driving"
 tags:	article
 read:	2015-09-23
 published: true
