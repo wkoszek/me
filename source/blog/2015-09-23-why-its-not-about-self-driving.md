@@ -1,5 +1,5 @@
 ---
-title:	'﻿Why it’s not about self-driving'
+title:	'Why it’s not about self-driving'
 tags:	article
 read:	2015-09-20
 published: true
@@ -7,7 +7,6 @@ layout:	layout_book
 ads:
 - 
 ---
-
 
 
 In “How to be Rich” Jean Paul Getty expressed his excitement about
