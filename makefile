@@ -25,6 +25,11 @@ u:
 	git checkout master
 	git pull
 
+bootstrap:
+	bundle install
+	gem install image_optim
+	gem install image_optim_pack
+
 w:
 	./cleanup.sh
 
