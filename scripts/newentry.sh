@@ -5,7 +5,7 @@ if [ "x$1" != "x" ]; then
 	PARNAME=$1
 fi
 
-DRIVE=~/tmp/gdrive/drive
+DRIVE=gdrive
 PARID=`$DRIVE list -q "title = \"${PARNAME}\"" | grep -v ^Id | cut -d " " -f 1`
 
 $DRIVE list -q "'$PARID' in parents" | cat -n
