@@ -1,5 +1,5 @@
 ---
-title:	'Do you have a favorite shell trick?'
+title:	'Do You Have a Favorite Shell Trick?'
 tags:	article
 read:	2015-09-28
 published: true
