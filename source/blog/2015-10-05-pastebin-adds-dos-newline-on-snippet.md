@@ -34,13 +34,14 @@ On the Synology I fetched it through a “raw” mode, which presents you
 with just clean data from a snippet, with no HTML tags:
 
 ~~~shell
-wget -O d2 "http://pastebin.com/raw.php?i=ETv4pRjK"
+wget -O wget2 "http://pastebin.com/raw.php?i=ETv4pRjK"
+chmod 755 wget2
 ~~~
 
 And when I ran it, I got this:
 
 ~~~shell
-wkoszek_nas> ./d2
+wkoszek_nas> ./wget2
 : No such file or directory
 ~~~
 
@@ -49,9 +50,9 @@ even after spending some time on it I still hadn’t figured out what was
 going on; then I saw this:
 
 ~~~shell
-wk:~> ls -la d d2
--rw-r--r-- 1 wk staff 209 4 paź 01:48 d
--rw-r--r-- 1 wk staff 216 4 paź 01:48 d2
+wk:~> ls -la wget wget2
+-rw-r--r-- 1 wk staff 209 4 paź 01:48 wget
+-rw-r--r-- 1 wk staff 216 4 paź 01:48 wget2
 ~~~
 
 Pastebin is adding DOS new-line separators at the end of each line. I
@@ -69,7 +70,7 @@ On Linux/MacOSX, the `cat` has a `-v` flag, which is also very
 helpful:
 
 ~~~shell
-wk:~> cat -v d2
+wk:~> cat -v wget2
 #!/usr/bin/env python^M
 import urllib2, sys^M
 ~~~
