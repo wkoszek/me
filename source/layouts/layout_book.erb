@@ -50,7 +50,7 @@
 				<%= link_to "#{tag} (#{articles.size})", tag_path(tag) %><br>
 			<% end %>
 		</div>
-		<div class="col-md-7 content">
+		<div class="col-md-6 content">
 			<% if current_page.data.tags != nil %>
 				<article>
 					<span class="date"><%= current_page.date.strftime('%b %e, %Y') %></span>
@@ -118,7 +118,19 @@
 			<% end %>
 		</div>
 
-		<div class="col-md-2">
+		<div class="col-md-3">
+			<font color="gray">
+				<h3>Links</h3>
+				<h4><a href="/r/software-tools/">Software tools</a></h4>
+				<!--
+				<h3>Checklists</h3>
+				<h4><a href="/r/software-change-checklist/">Software Change Checklist</a></h4>
+				<h3>Algorithms</h3>
+				<h4><a href="randomized-data-structures/">Randomized data structures</a></h4>
+				<h3>Software process</h3>
+				<h4><a href="continuous-integration-systems/">How to use Continuous Integration</a></h4>
+				-->
+			</font>
 		</div>
 	</div><!-- content -->
 <% end %>

@@ -1,0 +1,16 @@
+---
+pageable: true
+per_page: 10
+layout: layout_book
+tags:
+tools:
+  -
+    name: Nylas N1 Mac e-mail reader
+    link: https://invite.nylas.com/download/
+---
+
+# Software tools
+
+<% current_page.data.tools.each do |item| %>
+<a target="_blank" href="<%= item.link %>"><%= item.name %></a><br>
+<% end %>
