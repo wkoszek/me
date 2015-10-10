@@ -14,6 +14,7 @@ gem 'middleman-spellcheck', '~> 0.8.0'
 gem 'middleman-imageoptim'
 gem 'middleman-search_engine_sitemap'
 gem 'middleman-sitemap-ping'
+gem 'middleman-build-reporter'
 
 # HTML/CSS stuff.
 gem 'bourbon'

@@ -39,6 +39,11 @@ activate :sitemap_ping do |config|
   config.after_build  = false                      # (optional, default: true)        Run automatically after build?
 end
 
+activate :build_reporter do |build|
+  build.reporter_file = 'build'
+  build.reporter_file_formats = ['yaml', 'json']
+end
+
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   blog.prefix = "blog"
