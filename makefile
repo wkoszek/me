@@ -25,6 +25,11 @@ u:
 	git checkout master
 	git pull
 
+min:
+	rm source/blog/201{2,3,4}*
+max:
+	git checkout source/blog/201{2,3,4}*
+
 bootstrap:
 	bundle install
 	gem install image_optim
