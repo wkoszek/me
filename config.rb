@@ -72,6 +72,8 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+activate :similar
+
 activate :drafts do |drafts|
   drafts.build = true if not is_prod
   puts "# Build: #{drafts.build}"
