@@ -8,6 +8,8 @@ test:
 dependencies:
   pre:
     - make bootstrap
+    - make b
+    - bundle exec middleman sitemap_ping
     # In case image_optim_pack doesn't work, one can use this:
     #- sudo apt-get install -y advancecomp gifsicle jhead jpegoptim libjpeg-progs optipng pngcrush pngquant
 

@@ -34,6 +34,10 @@ dbg("------------ site building started -----------")
 set :url_root, 'http://www.koszek.com'
 activate :search_engine_sitemap, default_priority: 0.5, default_change_frequency: "weekly"
 
+activate :sitemap_ping do |config|
+  config.host         = 'http://www.koszek.com' # (required) Host of your website
+  config.after_build  = false                      # (optional, default: true)        Run automatically after build?
+end
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
