@@ -35,6 +35,11 @@
 			<% end %>
 		<% end %>
 
+
+		<% if current_page.metadata[:page].try(:[], 'keywords') %>
+		<meta name="keywords" content="<%= current_page.metadata[:page]['keywords'].join(", ") %>" />
+		<% end %>
+
 		<meta property="og:type" content="article" />
 		<meta property="article:author" content="https://www.koszek.com/about" />
 		<meta property="article:publisher" content="https://www.koszek.com/" />
