@@ -29,6 +29,12 @@
 		<link rel="icon" type="image/png" href="/img/favicon.ico">
 		<title>Wojciech Koszek<%= ' - ' + current_article.title unless current_article.nil? %></title>
 
+		<% ["image", "title", "site_name", "url", "audio", "video", "description"].each do |og| %>
+			<% if current_page.metadata[:page].try(:[], og) %>
+		<meta property="og:<%= og %>" content="<%= current_page.metadata[:page][og] %>" />
+			<% end %>
+		<% end %>
+
 		<meta property="og:title" content="<%= current_article.title unless current_article.nil? %>" />
 		<meta property="og:site_name" content="Wojciech Koszek personal website"/>
 		<meta property="og:type" content="article" />
