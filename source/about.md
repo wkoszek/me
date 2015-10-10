@@ -1,4 +1,6 @@
 ---
+title: About me
+description: Personal notes on my work and experience.
 pageable: true
 per_page: 10
 layout: layout_book

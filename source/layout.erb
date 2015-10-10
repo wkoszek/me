@@ -31,27 +31,31 @@
 		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 		<link rel="icon" type="image/png" href="/img/favicon.ico">
-		<% got_title = 0 %>
-		<% ["title", "description", "image", "site_name", "url", "audio", "video"].each do |og| %>
+		<% title = data.site.title.titleize %>
+		<% description = data.site.description %>
+	 	<% ["title", "description", "image", "site_name", "url", "audio", "video"].each do |og| %>
+			<% prefix = "" %>
 			<% if current_page.metadata[:page].try(:[], og) %>
 				<% if og == "title" %>
-					<title>Wojciech Adam Koszek <%= '- ' + current_page.metadata[:page][og].titleize %></title>
-					<meta property="og:<%= og %>" content="Wojciech Adam Koszek - <%= current_page.metadata[:page][og].titleize %>" />
-					<% got_title = 1 %>
-					<% next %>
+					<% title = current_page.metadata[:page][og].titleize %>
+					<% prefix = "Wojciech A. Koszek - " %>
 				<% end %>
-				<meta property="og:<%= og %>" content="<%= current_page.metadata[:page][og] %>" />
+				<% if og == "description" %>
+					<% description = current_page.metadata[:page][og] %>
+				<% end %>
+				<meta property="og:<%= og %>" content="<%= prefix + current_page.metadata[:page][og] %>" />
 			<% end %>
 		<% end %>
-		<% if got_title == 0 then %>
-			<title>Wojciech Adam Koszek <%= '- ' + data.site.site.title.titleize %></title>
-			<meta property="og:title" content="Wojciech Adam Koszek - <%= data.site.site.title.titleize %>" />
-		<% end %>
-
+		<title>Wojciech Adam Koszek <%= '- ' + title %></title>
+		<meta name="description" content="<%= description %>" />
 
 		<% if current_page.metadata[:page].try(:[], 'keywords') %>
 		<meta name="keywords" content="<%= current_page.metadata[:page]['keywords'].join(", ") %>" />
 		<% end %>
+
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@<%= data.site.twitter %>" />
+		<meta name="twitter:creator" content="@<%= data.site.twitter %>" />
 
 		<meta property="og:type" content="article" />
 		<meta property="article:author" content="https://www.koszek.com/about" />
