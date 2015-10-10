@@ -4,6 +4,7 @@ tags:	article
 read:	2015-10-05
 published: true
 layout:	layout_book
+image: https://www.djerfy.com/wp-content/uploads/2014/12/Pastebin-simple.png
 ads:
 - 
 ---
