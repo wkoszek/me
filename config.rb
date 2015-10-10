@@ -61,6 +61,10 @@ activate :imageoptim do |options|
   options.svgo      = false # {}
 end
 
+set :url_root, 'http://www.koszek.com'
+activate :search_engine_sitemap, default_priority: 0.5, default_change_frequency: "weekly"
+
+
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
   blog.prefix = "blog"

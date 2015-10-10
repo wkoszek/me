@@ -2,6 +2,7 @@
 pageable: true
 per_page: 10
 layout: layout_book
+priority: 0.6
 tags:
 ---
 

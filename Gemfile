@@ -12,6 +12,7 @@ gem "middleman-gh-pages"
 gem "middleman-syntax"
 gem 'middleman-spellcheck', '~> 0.8.0'
 gem 'middleman-imageoptim'
+gem 'middleman-search_engine_sitemap'
 
 # HTML/CSS stuff.
 gem 'bourbon'
