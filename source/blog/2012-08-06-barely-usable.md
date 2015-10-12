@@ -1,5 +1,6 @@
 ---
 title:	'Random notes on "Barely usable"'
+description: "Usability insights right after reading 'Don't make me think'"
 auth:	Wojciech Koszek
 tags:	article
 layout: layout_book

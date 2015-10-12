@@ -1,5 +1,6 @@
 ---
 title:	"Unfriendly IT, or how to get Perforce diffs e-mailed to you"
+description: "Short HOWTO on how to make Perforce send patches to you."
 auth:	Wojciech Koszek
 tags:	article
 layout: layout_book

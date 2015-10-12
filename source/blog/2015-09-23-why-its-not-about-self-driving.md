@@ -1,5 +1,6 @@
 ---
 title:	"Why it's not about self-driving"
+description: "My prediction that self-driving technology won't be a real value in itself."
 tags:	article
 read:	2015-09-23
 published: true

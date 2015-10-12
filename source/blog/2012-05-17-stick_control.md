@@ -1,5 +1,6 @@
 ---
 title:	"01001011, or on the art of snare drum patterns"
+description: "Some insights into the relationship between code and drums."
 auth:	Wojciech Koszek
 tags:	article
 layout: layout_book

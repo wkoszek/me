@@ -1,5 +1,6 @@
 ---
 title:	"Almost usable &mdash; Sharp MFP printer menu"
+description: "Some usability insights from using Sharp printers."
 auth:	Wojciech Koszek
 tags:	article
 layout: layout_book

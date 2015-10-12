@@ -1,5 +1,6 @@
 ---
 title:	"Google Summer of Code &mdash; how proposals are evaluated"
+description: "The background behind decision making on submitted proposals during Google Summer of Code."
 auth:	"Wojciech Koszek"
 tags:	article
 layout: layout_book

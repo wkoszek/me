@@ -1,5 +1,6 @@
 ---
 title:	'Fixing Middleman-spellcheck'
+description: "From the battle-field description on fixing Middleman plugin."
 auth:	Wojciech Koszek
 read:	2015-06-20
 tags:	article

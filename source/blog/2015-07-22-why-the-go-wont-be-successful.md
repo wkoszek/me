@@ -1,5 +1,6 @@
 ---
 title:	"Why the Go Language Won't Be Successful"
+description: "Things which frustrated me about Go bootstrapping."
 tags:	article
 read:	2015-07-22
 published: true

@@ -1,5 +1,6 @@
 ---
 title:	"Optimize for the Developer’s Time, Not the Machine’s"
+description: "Modern look on tradeoffs in software development."
 tags:	article
 read:	2015-07-28
 published: true

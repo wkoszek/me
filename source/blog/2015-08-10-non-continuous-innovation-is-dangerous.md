@@ -1,5 +1,6 @@
 ---
-title:	'﻿Non-continuous innovation = dangerous or “Amazon Ad Platform Cleanups”'
+title:	'Non-continuous innovation = dangerous or “Amazon Ad Platform Cleanups”'
+description: "My take on making continous and non-continuous innovation."
 tags:	article
 read:	2015-08-10
 published: true

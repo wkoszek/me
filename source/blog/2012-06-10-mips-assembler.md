@@ -1,5 +1,6 @@
 ---
 title:	"Cross-compile GNU assembler for MIPS"
+description: "Building and using cross-compiled MIPS toolchain."
 auth:	Wojciech Koszek
 tags:	article
 layout: layout_book
