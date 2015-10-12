@@ -28,6 +28,9 @@ sed -i "" 's,\\~,~,g' _.md	# unbackslash stuff
 sed -i "" 's,\\',',g' _.md	# remove \`
 sed -i "" 's,\[\*,\[,g' _.md	# [* -> [
 sed -i "" 's,\*\],\],g' _.md	# *] -> ]
+sed -i "" 's,```,\~\~\~,g' _.md	# my confusion
+sed -i "" 's,gt;,>,g' _.md
+sed -i "" 's,lt;,<,g' _.md
 
 TITLE_CUR=`head -1 _.txt`
 echo "Enter title [${TITLE_CUR}] <ENTER/custom title>"
