@@ -16,6 +16,11 @@ use real data
 https://designschool.canva.com/blog/design-rules/
 does it have vector graphics?
 
+do you have "share" part
+do you have a visit counter?
+do you have analytics?
+do you have blocking JS/CSS/
+is your website compressed
 
 1. Does it open on mobile?
 
@@ -32,4 +37,5 @@ If it's ugly, nothing will help.
 Use Google WebPageTest and Pagespeed to test your website.
 
 4. 
+
 
