@@ -5,13 +5,14 @@ tags:	article
 read:	2015-10-28
 published: true
 layout:	layout_book
+image: http://layered.typepad.com/antidote_to_burnout/images/2007/10/06/4b14310b020017cf.gif
 keywords:
 - programming
 - development
 - printf
 - unix
 ads:
-- image: http://layered.typepad.com/antidote_to_burnout/images/2007/10/06/4b14310b020017cf.gif
+-
 ---
 
 I'm working on polishing my `mini_printf` implementation and making a final,
