@@ -19,6 +19,8 @@ verified and documented code release, and the thing I made work in the past
 and something that stopped working when I moved to MacOSX was a randomized
 stress-test.
 
+[https://github.com/wkoszek/mini_printf](https://github.com/wkoszek/mini_printf)
+
 It's pretty neat: it uses its own PRNG generator to achieve repeatability
 and uses its numbers to construct randomized format strings which are then
 played against OSes `printf()` and my `mini_printf()` API. Both versions are
