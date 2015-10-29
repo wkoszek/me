@@ -72,3 +72,8 @@ Makefile drives the build and testing. Order:
   mirroring etc.
 - Take logs from HTTP and re-play them via Capybara. This will
   render all user-visible websites to PNG files.
+
+# Author
+
+- Wojciech Adam Koszek, [wojciech@koszek.com](mailto:wojciech@koszek.com)
+- [http://www.koszek.com](http://www.koszek.com)
