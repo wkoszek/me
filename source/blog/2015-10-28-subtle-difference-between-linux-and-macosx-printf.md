@@ -1,5 +1,5 @@
 ---
-title:	'Subtle difference between MacOSX and Linux printf'
+title:	'Subtle difference between FreeBSD, MacOSX and Linux printf'
 description: 'Small differences in API behavior always start to be show up during stress-testing. Example comes from my mini_printf stress-test'
 tags:	article
 read:	2015-10-28
@@ -56,6 +56,6 @@ to elegantly solve it, and preferably without any `#defines`.
 	vagrant@vagrant-ubuntu-trusty-64:/vagrant/mini_printf$ ./p
 	%k%k%k
 
-## MacOSX
+## MacOSX and FreeBSD
 	wk:/w/repos/mini_printf> ./p
 	kkk
