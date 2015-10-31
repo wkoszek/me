@@ -1,65 +1,48 @@
-s:
+all:
 	(cd source && middleman server)
-
-doit: b vmup tl tr vmdown
-
-# normal build
-b:
+build:
 	middleman build --verbose
-
-# production build
-p:
+pub:
 	env TGT_KOSZEK_COM=production rake publish
-	make u
-
-d:
+	make update
+dns:
 	dig koszek.com +nostats +nocomments +nocmd
 	@echo "============== checking koszek.com ================="
 	host -a koszek.com
 	@echo "============== checking www.koszek.com ================="
 	host -a www.koszek.com
-
-u:
+update:
 	git checkout gh-pages
 	git pull
 	git checkout master
 	git pull
-
 min:
 	rm source/blog/201{2,3,4}*
 max:
 	git checkout source/blog/201{2,3,4}*
-
 bootstrap:
 	bundle install
 	gem install image_optim
 	gem install image_optim_pack
-
-w:
-	./cleanup.sh
-
-t:	tl tr
-
-tr:
+prepare:
+	rm -rf /tmp/access.log /tmp/error.log
+	mkdir -p /tmp/www
+	cp -rf build/* /tmp/www
+test_spec:
 	rspec spec/website.rb
-tl:
-	linkchecker http://127.0.0.1:8123
-tll:
+test_links:
+	linkchecker http://127.0.0.1:8888
+test_links_prod:
 	linkchecker http://www.koszek.com/
-
-vmup:
-	vagrant up
-	vagrant ssh -c "cd /vagrant; mkdir -p tmp; make http_start"
-vmdown:
-	vagrant ssh -c "cd /vagrant; make http_stop"
-	vagrant halt
-
 http_start: http_stop
-	sudo nginx -c `pwd`/etc/vm_nginx.conf || exit 0
+	nginx -c `pwd`/etc/nginx.conf || exit 0
 http_stop:
-	sudo killall -9 nginx || exit 0
-
+	nginx -c `pwd`/etc/nginx.conf -s stop || exit 0
 clean:
+	./scripts/cleanup.sh
 	rm -rf build
 	find * -name ".DS_Store" | xargs -n 1 rm -rf
 	rm -rf tmp scripts/_.*
+doit:	b prepare http_start test_links test_spec http_stop
+b:	build
+p:	pub
