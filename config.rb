@@ -5,7 +5,10 @@
 tgt_env_var = "TGT_KOSZEK_COM"
 tgt = ENV[tgt_env_var].to_s.downcase
 is_prod = (tgt == "production")
-is_ci_build = (ENV["CIRCLECI"].to_s.downcase == "true")
+is_ci_circle = (ENV["CIRCLECI"].to_s.downcase == "true")
+is_ci_travis = (ENV["TRAVIS"].to_s.downcase == "true")
+is_ci_build = (is_ci_circle || is_ci_travis)
+
 has_spellcheck_v80 = 1
 
 def dbg(*args)
@@ -138,7 +141,7 @@ if has_spellcheck_v80 then
 			page: "blog/*",
 			tags: [ :p, :article ],
 			lang: :en_CA,
-			debug: 0,
+			debug: 1,
 			dontfail: 1,
 			allow: get_words_allowed("./data/words_allowed.txt"),
 			ignored_exts: [".jpg", ".png", ".pdf",
