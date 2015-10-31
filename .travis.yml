@@ -4,3 +4,7 @@ rvm:
 script:
 - make bootstrap
 - make build
+addons:
+  apt:
+    packages:
+    - aspell
