@@ -3,7 +3,7 @@ rvm:
 - 2.2.3
 script:
 - make bootstrap
-- make build
+- make render
 addons:
   apt:
     packages:
