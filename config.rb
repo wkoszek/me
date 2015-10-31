@@ -140,7 +140,7 @@ if has_spellcheck_v80 then
 	activate :spellcheck,
 			page: "blog/*",
 			tags: [ :p, :article ],
-			lang: :en_CA,
+			lang: "en_US.UTF-8",
 			debug: 1,
 			dontfail: 1,
 			allow: get_words_allowed("./data/words_allowed.txt"),
