@@ -1,6 +1,6 @@
 all:
 	(cd source && middleman server)
-build:
+render:
 	middleman build --verbose
 pub:
 	env TGT_KOSZEK_COM=production rake publish
@@ -44,5 +44,5 @@ clean:
 	find * -name ".DS_Store" | xargs -n 1 rm -rf
 	rm -rf tmp scripts/_.*
 doit:	b prepare http_start test_links test_spec http_stop
-b:	build
+b:	render
 p:	pub
