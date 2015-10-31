@@ -141,7 +141,7 @@ if has_spellcheck_v80 then
 			page: "blog/*",
 			tags: [ :p, :article ],
 			lang: "en_US.UTF-8",
-			debug: 1,
+			debug: 0,
 			dontfail: 1,
 			allow: get_words_allowed("./data/words_allowed.txt"),
 			ignored_exts: [".jpg", ".png", ".pdf",
