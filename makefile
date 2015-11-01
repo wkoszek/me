@@ -35,9 +35,9 @@ test_links:
 test_links_prod:
 	linkchecker http://www.koszek.com/
 http_start:
-	nginx -p /tmp -c `pwd`/etc/nginx.conf || exit 0
+	nginx -c `pwd`/etc/nginx.conf || exit 0
 http_stop:
-	nginx -p /tmp -c `pwd`/etc/nginx.conf -s stop || exit 0
+	nginx -c `pwd`/etc/nginx.conf -s stop || exit 0
 clean:
 	./scripts/cleanup.sh
 	rm -rf build
