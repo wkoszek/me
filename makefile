@@ -34,7 +34,7 @@ test_links:
 	linkchecker http://127.0.0.1:8888
 test_links_prod:
 	linkchecker http://www.koszek.com/
-http_start: http_stop
+http_start:
 	nginx -c `pwd`/etc/nginx.conf || exit 0
 http_stop:
 	nginx -c `pwd`/etc/nginx.conf -s stop || exit 0
