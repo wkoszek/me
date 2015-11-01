@@ -4,8 +4,8 @@ rvm:
 script:
 - make bootstrap
 - make doit
-install:
-- pip install linkchecker
+before_install:
+- sudo pip install linkchecker
 addons:
   apt:
     packages:
