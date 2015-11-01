@@ -1,13 +1,38 @@
 require 'capybara/rspec'
+require 'capybara/poltergeist'
 load 'scripts/http_acc_log.rb'
 
+is_headless = false	# headless?
+["TRAVIS", "CIRCLE", "TEST_CI"].each do |ci|
+	if ENV.has_key?(ci) then
+		print "CI system detected #{ci}\n"
+		is_headless = true
+	end
+end
+
 Capybara.run_server = false
-Capybara.current_driver = :selenium
 Capybara.app_host = 'http://127.0.0.1:8888/'
 
-Capybara.register_driver :selenium do |app|
-	Capybara::Selenium::Driver.new(app, :browser => :chrome)
+driver = nil
+if is_headless then
+	options = { :js_errors => false	}
+	driver = :poltergeist
+	Capybara.register_driver :poltergeist do |app|
+		Capybara::Poltergeist::Driver.new(app, options)
+	end
+else
+	options = { :browser => :firefox }
+	driver = :selenium
+	Capybara.register_driver :selenium do |app|
+		Capybara::Selenium::Driver.new(app, options)
+	end
 end
+print "Will use #{driver} driver for testing\n"
+print "  options: #{options}\n"
+
+Capybara.javascript_driver = driver
+Capybara.default_driver = driver
+Capybara.current_driver = driver
 
 g_whitelist = [
 "/blog/2015/08/10/non-continuous-innovation-is-dangerous/"
@@ -36,7 +61,9 @@ end
 
 describe "visit pages", :type => :feature do
 	it "basic links" do
-		page.driver.browser.manage.window.maximize
+		unless is_headless then
+			page.driver.browser.manage.window.maximize
+		end
 
 		#window = Capybara.current_session.driver.browser.manage.window
 		#window.resize_to(1600, 1200) # width, height
