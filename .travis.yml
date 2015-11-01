@@ -10,3 +10,4 @@ addons:
     - aspell
     - aspell-en
     - nginx
+    - linkchecker
