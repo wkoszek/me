@@ -27,4 +27,6 @@ gem "chromedriver-helper", "0.0.6"
 
 # For feed.xml.builder
 gem "builder", "~> 3.0"
-gem 'rspec'
+gem 'rspec'		# spec/ requirement
+gem 'rspec-core'	# spec/ requirement
+gem 'poltergeist'
