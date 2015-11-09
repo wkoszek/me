@@ -11,7 +11,6 @@ keywords:
 - development
 - ruby
 ads:
-
 ---
 
 [Travis Ci](http://www.travis-ci.org) is one of the most essential tools for
