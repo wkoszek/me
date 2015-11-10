@@ -11,6 +11,12 @@ keywords:
 - development
 - ruby
 ads:
+spellcheck-allow:
+- repo
+- UID
+- github
+- nginx
+- exratione
 ---
 
 [Travis Ci](http://www.travis-ci.org) is one of the most essential tools for
@@ -18,7 +24,7 @@ my projects, since it takes a burden of maintaining Jenkins away of me. I
 try to use Travis automation for every boring activity, and having it run
 after each source code change to do some basic tests saves me a lot of time.
 
-Making things work in Travis is typically straighforward, but there are
+Making things work in Travis is typically straightforward, but there are
 cases where a special configuration needs to be applied, since the new
 Travis is based on the container-based architecture. This poses some
 requirements: no `root` access and no `sudo` functionality for your setup

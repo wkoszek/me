@@ -13,6 +13,13 @@ keywords:
 - unix
 ads:
 -
+spellcheck-allow:
+- github
+- printf
+- testbench
+- PRNG
+- repeatability
+
 ---
 
 I'm working on polishing my `mini_printf` implementation and making a final,
@@ -34,7 +41,7 @@ other people. I also made the stress-test work on MacOSX, and I could play
 seconds. But the same code failed miserably on Linux. 
 
 It looks like my stressing testbench found a usability problem between
-Linux'es and MacOSX'es printf. Problem shows up when you decide to use
+Linux and MacOSX printf. Problem shows up when you decide to use
 unsupported format string specifier. While Linux leaves the `%` signs,
 MacOSX doesn't propagate them to the string. I guess I'll have to find a way
 to elegantly solve it, and preferably without any `#defines`.
