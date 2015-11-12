@@ -25,7 +25,7 @@ good. Criticizing person who came up with it is very bad.
 I think this is like Japanese rule of letting people save face: you're not
 supposed to offend anybody, since the fact that people are wrong isn't their
 fault. Well, kinda. Sometimes it is, but you basically have to break this
-wall caused by preferences, stubborness, character etc.
+wall caused by preferences, stubbornness, character etc.
 
 Looks like one of the main points is to starting from finding things which
 2 people agree about. Than, by making your way through them, figuring out

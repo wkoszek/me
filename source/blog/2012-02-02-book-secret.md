@@ -7,6 +7,8 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1582701709" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "Byrne's"
 ---
 
 This is where the story with "new school" Hill-alike books started. This
@@ -41,9 +43,8 @@ Byrne's book:
 So here I was -- being introduced to the 2 big names of all time..
 
 So Rhonda's book was great in terms of its content, however I must honestly
-say introducting me to Napoleon Hill and Earl Nightingale might be the
+say introducing me to Napoleon Hill and Earl Nightingale might be the
 biggest contribution this book did to me. I seem to recall right after
 finishing the book and reading the cover, I found series of video lectures
 on YouTube straight from the Mr Hill, and due to excellent quality of the
 recordings, I soon learned who guru is..
-

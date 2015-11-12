@@ -21,7 +21,7 @@ took place for the FreeBSD project, but please not that people and projects
 vary in how they treat their students and participants. Having said that,
 over the years of GSoC participation I've had a chance to interact with
 other teams, and their experiences and the approach are similar to FreeBSD's
-in how the communitate, help and judge students.
+in how the communicate, help and judge students.
 
 Please note that even within [FreeBSD](http://www.freebsd.org) we always have several
 developers with administrator's roles and they review proposals as well.
@@ -123,4 +123,3 @@ save lots of time to everybody.
 I hope this will help you understand what is important in the proposal for
 2013 Google Summer of Code (there will be next Google Summer of Code,
 right?)
-

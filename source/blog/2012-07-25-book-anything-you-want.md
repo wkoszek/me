@@ -24,7 +24,7 @@ While reading reviews, I've found Derek's name, and after reading about him
 for 5 minutes, I decided I must start following what this guy has to say.
 
 My friend Alan asked me once whether we'll have to work our assess off in
-order to get into the legue of people who claim to know what business is all
+order to get into the league of people who claim to know what business is all
 about, or whether it'd be possible after reading 5 books.
 
 Well, I didn't know the answer back then, but now I feel like you can gain
@@ -51,4 +51,3 @@ business. We could say that Derek's book is one of these American stories
 that happen to be true. You can find proofs by just clicking!
 
 Simply: MUST HAVE.
-

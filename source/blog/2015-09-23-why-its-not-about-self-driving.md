@@ -7,6 +7,19 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "KITT"
+- "Hasselhoff"
+- "CarOS"
+- "ARM's"
+- "upfrontetails"
+- "USD"
+- "Uber"
+- "thecar's"
+- "ths"
+- "AirBnb"
+- "iPhones"
+- "PassangerOS"
 ---
 
 

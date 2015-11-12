@@ -26,7 +26,7 @@ Microsoft recruitment questions can be a bit awkward? By the way, let me
 tell you, hardware industry sometimes uses similar questions as well, so be
 prepared...
 
-Not only is this book for people fresh out of college, or aspiring Googlers,
+Not only is this book for people fresh out of college, or aspiring Google'rs,
 who would love to work in a place where riding a skateboard is permitted in
 a working hours. This book, I feel, is good for hiring managers, who're
 struggling with lots of submitted resumes, out of which 3% are worth looking

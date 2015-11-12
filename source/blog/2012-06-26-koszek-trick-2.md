@@ -52,7 +52,7 @@ Right now you perform:
 
 And your created `ptr.s` suddenly has:
 
-	
+
 		.file	"ptr.c"
 		.section	.rodata
 	.LC0:
@@ -110,4 +110,3 @@ preserved in the intermediate assembly file. Ta-da!
 If you have ever put a code, which has never been executed, or maybe even
 disappeared somewhere deep in the sea of stages of compilation, this
 technique should serve you well!
-

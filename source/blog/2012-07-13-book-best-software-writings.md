@@ -19,7 +19,7 @@ Raymond's Chen "Why not to block apps that rely on undocumented behavior"
 pushed me to get back to his Microsoft blog and ordering his book "The Old
 New Thing".
 
-``ea_spouse`` gave an explanation why Electroc Arts people sometimes look
+``ea_spouse`` gave an explanation why Electronic Arts people sometimes look
 older than other people in the same age.
 
 Graham's "Great Hackers" old proved that he'll be the next person whose

@@ -10,7 +10,7 @@ ads:
 
 Full title: "The Tipping Point: How Little Things Can Make a Big Difference"
 
-Interesting take on spreading epidemies of all sorts.
+Interesting take on spreading epidem ies of all sorts.
 
 This is actually about word-to-mouth communications between connectors
 (people) and mavens (information hubs).

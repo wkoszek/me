@@ -17,7 +17,7 @@ material relationships among wealth Americans.
 
 By wealthy people authors consider $1M--$10M of accumulated wealth. Study
 conducted over several years (since 1980). Book was published 1996, however
-the version I listened to refered to 2005 too, so it was likely an updated edition.
+the version I listened to referred to 2005 too, so it was likely an updated edition.
 
 Immigrants and 1st-generation born US immigrants are most likely to get
 really wealthy. This book states  Russians are 1st on the list of

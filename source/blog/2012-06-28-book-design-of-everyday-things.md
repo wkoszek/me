@@ -105,4 +105,3 @@ the person is on vacation of course, and will come back after you leave. And
 the printout has lots of numbers on it.
 
 I hate printers with a great passion.
-
