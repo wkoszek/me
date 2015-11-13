@@ -9,6 +9,8 @@ ads:
 spellcheck-allow:
 - "swingy"
 - "Ok"
+spellcheck-allow:
+- "Arrillaga's"
 ---
 
 Kawasaki's book I read long time ago, It's a nice little booklet, relatively

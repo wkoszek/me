@@ -9,6 +9,8 @@ ads:
 spellcheck-allow:
 - "Terman's"
 - "Shockey's"
+spellcheck-allow:
+- "Googlers"
 ---
 
 ...or ***Shockey Semiconductor and hiring smart people***

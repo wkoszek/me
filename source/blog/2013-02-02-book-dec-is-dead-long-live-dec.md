@@ -17,6 +17,8 @@ spellcheck-allow:
 - "Adaptec"
 - "Bartz"
 - "Autodesk"
+spellcheck-allow:
+- "de"
 ---
 
 This position was the next one in terms of hi-tech classics. DEC is the

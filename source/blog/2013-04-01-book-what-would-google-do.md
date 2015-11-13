@@ -10,6 +10,8 @@ spellcheck-allow:
 - "GBs"
 - "js"
 - "workoholics"
+spellcheck-allow:
+- "GMail"
 ---
 This is a pure propaganda!
 
@@ -46,7 +48,7 @@ giving you recipes from his observations.
 
 In the new era of Internet it looks like it's all about networking. Started
 from Facebook, there are tons of tons of sites where you can meet selected
-group of people of your interest. Want to meet people growing persian
+group of people of your interest. Want to meet people growing Persian
 hamsters? I'm pretty sure there's a Meetup group for that.
 
 New Internet is about collaboration--instead of selling a product, sell a

@@ -46,7 +46,7 @@ But still -- it's all about left, right, left, right.
 
 The most important work in snare drum studies was done by, today world-recognized, giants of modern
 drumming era. Well known names include George Gladstone, Stanford Moeller, and their students, Jim
-Chaping and Joe Morello.
+Chapin and Joe Morello.
 
 Fortunately for all of us, heritage has been passed in the form of books. I could right now perform
 heavy Amazon-Ad-based advertising and earn millions, but I'll mention just one book -- "Stick

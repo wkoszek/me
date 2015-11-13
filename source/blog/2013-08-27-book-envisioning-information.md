@@ -11,6 +11,8 @@ spellcheck-allow:
 - "TODO"
 - "js"
 - "datasets"
+spellcheck-allow:
+- "WebGL"
 ---
 Edward Tufte's books were on my TODO for 2 years now (I got the 4 pack from
 somebody who apparently participated in the tutorial), but haven't had a

@@ -16,7 +16,7 @@ lack of history knowledge, I believe.
 Not only does the history help you prevent mistakes from the past, but it
 also inspires to reuse some of the ideas of early giants.
 
-"The Soul Of A New Machine" I found on 2010 on the shelfs of unowned books in my
+"The Soul Of A New Machine" I found on 2010 on the shelves of unowned books in my
 company, but I didn't really have a motivation to read it back then. I saved
 a title on my Amazon Wishlist.
 

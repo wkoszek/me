@@ -22,6 +22,15 @@ spellcheck-allow:
 - "PassangerOS"
 spellcheck-allow:
 - "biotech"
+spellcheck-allow:
+- "th"
+- "KITT"
+- "Hasselhoff"
+- "CarOS"
+- "ARM's"
+- "USD"
+- "iPhones"
+- "PassangerOS"
 ---
 
 
@@ -109,7 +118,7 @@ Inside”. This is how popular ARM is and how their business model works.
 It makes sense for the self-driving car to follow this model. Amazon
 Prime costs Amazon a lot, but drives so many customers to Amazon, that
 it makes sense. I feel that self-driving cars will be like that too. Big
-money put upfrontetails a degree of risk, but can result in big returns
+money put upfront increases degree of risk, but can result in big returns
 later. Of course tech maven’s first cars will be just that - cars.
 Expensive, as slick as the first Tesla, but still cars. And to get it
 out to other countries, the price must be right, since the USD exchange
@@ -120,7 +129,7 @@ and that’s happening now.
 
 The equipment for self-driving in Google’s car costs 150k USD. That’s a
 lot of bills for a bunch of electronics. And that price excludes
-thecar’s body, meaning no rims, no windows, not even a nicely padded
+the car’s body, meaning no rims, no windows, not even a nicely padded
 steering wheel. Will the consumers who already own cars get new $200k
 toys? Perhaps. Would they buy $35k self-driving cars? Sure they would!
 The only way to get such a cut in price is scale: if you make a purchase
@@ -162,11 +171,11 @@ thread scheduling, protection and decent performance on your computer.
 That’s why nobody really sells operating systems anymore. It’s what runs
 in the OS that matters, and the CarOS will be the same.
 
-Does ths mean that Google has done the research and Mercedes and BMW
+Does this mean that Google has done the research and Mercedes and BMW
 will just license this technology? Of course not. Every day we can see
 how Bell Labs, AT&T, Verizon, Comcast and others have built a real
 infrastructure: channels, pipes, cables, shafts and all this boring, but
-so necessary stuff. And here comes Uber with 0 material goods, AirBnb
+so necessary stuff. And here comes Uber with 0 material goods, AirBnB
 with 0 material goods and others with 0 material goods who use their
 cables and generate so much money. But just like Apple is buying
 Samsung’s elements for their iPhones and suing them at the same time,
