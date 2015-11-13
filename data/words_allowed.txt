@@ -69,3 +69,14 @@ MicroISV	#	/w/repos/me/source/blog/2013-05-10-book-microisv.md
 AutomatedQA	#	/w/repos/me/source/blog/2013-05-10-book-microisv.md
 Netspace	#	/w/repos/me/source/blog/2013-08-13-book-netscape-time.md
 Tufte's	#	/w/repos/me/source/blog/2013-09-05-book-beautiful-evidence.md
+audiobooks	#	/w/repos/me/source/blog/2015-05-20-book-organized-mind.md
+LinkedIn	#	/w/repos/me/source/blog/2015-05-20-book-organized-mind.md
+fenomena	#	/w/repos/me/source/blog/2015-06-14-book-21-dog-years.md
+Mekka	#	/w/repos/me/source/blog/2015-06-25-book-hard-thing-about-hard-things.md
+Homebrew	#	/w/repos/me/source/blog/2015-07-22-why-the-go-wont-be-successful.md
+StackOverflow	#	/w/repos/me/source/blog/2015-07-28-optimize-for-developers-time.md
+SSD	#	/w/repos/me/source/blog/2015-07-28-optimize-for-developers-time.md
+GoDaddy	#	/w/repos/me/source/blog/2015-08-03-command-line-interface-to-godaddy.md
+CLI	#	/w/repos/me/source/blog/2015-08-03-command-line-interface-to-godaddy.md
+Xilinx	#	/w/repos/me/source/blog/2015-09-08-copyright-screen-of-facebook-paper.md
+Synology	#	/w/repos/me/source/blog/2015-10-04-wget-in-9-lines-of-python-for-hostile-environments.md
