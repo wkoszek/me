@@ -136,6 +136,7 @@ activate :graphviz
 
 # Until we get middleman-spellcheck new version in Gems, we disable for
 # non-local builds
+set :spellcheck_allow_file, "./data/words_allowed.txt"
 if has_spellcheck_v80 then
 	activate :spellcheck,
 			page: "blog/*",
@@ -143,7 +144,6 @@ if has_spellcheck_v80 then
 			lang: "en_US.UTF-8",
 			debug: 0,
 			dontfail: 1,
-			allow: get_words_allowed("./data/words_allowed.txt"),
 			ignored_exts: [".jpg", ".png", ".pdf",
 				".sh", ".ico", ".xml", ".woff",
 				".eot", ".ttf", "*.otf",
