@@ -15,7 +15,7 @@ e-mail about this thing and you wonder: how is that possible ?
 This book shows numerous of cases like that. It does explain why people form
 networks and how knowledge about products flow through the networks.
 
-Ever heard of Derek Sivers? Ever heard how his CDBaby business kept growing?
+Ever heard of Derek Sivers? Ever heard how his CD-Baby business kept growing?
 This is an exact explanation of the whole phenomenon.
 
 Buzz happens for good and bad products. It's better to be identified with

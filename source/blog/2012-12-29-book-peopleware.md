@@ -6,6 +6,9 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0932633439" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "Peopleware"
+- "cubodoidal"
 ---
 Biggest effort in making project happen is figuring out social problems:
 managing people, managing expectations, figuring out issues and disagreements.
@@ -28,11 +31,11 @@ Reading this book and Joel's blog made me happy, since I realized it's not
 only me, the defective one, who doesn't deliver as much in the typical
 cubical (cubodoidal) office space as in his favorite space. I'm pretty sure
 I could have delivered more good stuff in my empty room in my grandmother's
-appartament, where the desk is facing window, door is always closed behind
+apartment, where the desk is facing window, door is always closed behind
 me, nobody is asking me any questions about anything and where I have lots
 of useful books available at a reach of hand.
 
-Danmark has a law stating each worker must have a window assess, and studies
+Denmark has a law stating each worker must have a window assess, and studies
 had shown construction of the buildings is possible to meet this expectation
 without increasing the cost of the building.
 

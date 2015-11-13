@@ -6,6 +6,8 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0060753943" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "OMG"
 ---
 
 High "OMG" factor for me. Price of the book to knowledge "sold" ratio is
@@ -28,7 +30,7 @@ balance".
 Pretty interesting cases are touched, due to the broad scope of GE products.
 Anything from home appliances to jet engines.
 
-Development of new jet engine: 10 year effort costing $1Bn.
+Development of new jet engine: 10 year effort costing $1B.
 
 Modular MRI--example that 1 successful bright idea can beat great
 competitors really quickly.

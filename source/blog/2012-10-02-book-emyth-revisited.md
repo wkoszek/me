@@ -6,6 +6,8 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0887307280" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "quiting"
 ---
 Wow!
 
@@ -43,7 +45,7 @@ who's excellent at baking pies, but very poor at making her company work on
 her.
 
 The difference between having a business and having a job is explained here
-to, and some advices on how to not make former turn to later are given.
+to, and some advises on how to not make former turn to later are given.
 
 Structure of the book was quite interesting: it started as a light-weight
 introduction on how business works and short introduction to "The American

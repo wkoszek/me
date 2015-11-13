@@ -6,6 +6,9 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1591842948" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "Colvin"
+- "WIP"
 ---
 This book delivered a confirmation to my belief. If you have ever played a
 musical instrument, this book will also deliver very solid background on why
@@ -45,7 +48,7 @@ some of the both, but only partially due to them. And maybe I inherited a
 mindset of study and value of knowledge. The rest had to be learned in pain.
 
 Unfortunately I'm amazed how more lean other cultures are. In Poland there's
-this mindset of getting education, good degree, maybe even Ph.D. If work,
+this mindset of getting education, good degree, maybe even PhD. If work,
 then only for the government. If not, then the bigger the company, the
 better. Of course we're talking about people from 2nd and 3rd generation
 behind. New people are more like anywhere else. But the mindset of
@@ -81,4 +84,4 @@ then it seemed interesting but unnecessary. However now it just seems like
 he was having a great time doing things that well. Maybe this was his
 favorite open-source projects? I know he didn't want to touch things until
 he was sure they're ready and he's ready. I think sometimes he might have
-been procractinating--something I inherited unfortunately.
+been procrastinating--something I inherited unfortunately.

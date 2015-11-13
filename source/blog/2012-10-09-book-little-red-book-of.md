@@ -21,7 +21,7 @@ The general message is: as a salesman, you'll have to work your ass off for
 being truly successful.
 
 First time I understood a term "cold calling". I do believe this is
-hard--based on how assertive my grandmother was, I know there'll be people
+hard--based on how assertive my grandmother was, I know there well be people
 not willing to spend 5s on listening to you. I'm included in that group.
 Selling over the phone wouldn't work for me.
 

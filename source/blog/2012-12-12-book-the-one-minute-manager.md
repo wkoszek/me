@@ -12,7 +12,7 @@ This is one of the well recognized corporate classics.
 Perfect beginning, which is true, so I started to read on and continued
 (line by line) up until the end.
 
-Excellent storyline with some good advices about communicating with people
+Excellent storyline with some good advises about communicating with people
 during projects you guys are working on.
 
 Without rewriting portions of the book I can say lots of good points are

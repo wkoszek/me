@@ -6,11 +6,13 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0446698202" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "CCed"
 ---
 I scored 7/23 on "Are you an asshole" scale, which makes me be in a "You
 have to watch yourself" category.
 
-Based on the question in the questionare I think some more questions would
+Based on the question in the questionnaire I think some more questions would
 have to be added, to make this list not overly sensitive.
 
 My company in the context of "Good companies to work for" is mentioned in
@@ -21,7 +23,7 @@ the American companies are "equal opportunity" places, meaning what e.g.:
 using racial comments in an argument with another person is strictly
 prohibited. Thus not sure why activities mentioned in this group sometimes
 become routine for some individuals (on the other hand why do equal
-opportunity employers hand you a "white/black/asian/indian" form at the
+opportunity employers hand you a "White/Black/Asian/Indian" form at the
 beginning of your contract?)
 
 So instead of classifying people as "certified asshole" it should rather
