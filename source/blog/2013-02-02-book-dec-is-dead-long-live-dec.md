@@ -6,11 +6,23 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1576753050" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "accomplishements"
+- "PDP"
+- "Schein"
+- "DEC's"
+- "Lacroute"
+- "Microsystems"
+- "Saviers"
+- "Adaptec"
+- "Bartz"
+- "Autodesk"
 ---
+
 This position was the next one in terms of hi-tech classics. DEC is the
 company that had put significant ground work for many further
-accomplishements. If there were no DEC, there'd be no PDP.. computer line,
-and if there was no PDP, who can know if UNIX would have ever been
+accomplishments. If there were no DEC, there would be no PDP.. computer
+line, and if there was no PDP, who can know if UNIX would have ever been
 developed?
 
 Looks like number of accomplishments coming from DEC are mostly due to the
@@ -84,7 +96,7 @@ microprocessor significance on the computer market. Books says it's Gordon
 Bell who actually had had his graph showing where DEC would have been, had
 it not proceed microprocessors.
 
-DEC legacy includes Ed DeCastro (Data General), Bernie Lacroute (Sun
+DEC legacy includes Ed de Castro (Data General), Bernie Lacroute (Sun
 Microsystems), Dave Cutler (of Windows NT hall of fame), Gordon Bell
 (Microsoft), Grant Saviers (CEO of Adaptec), Carol Bartz (CEO of Autodesk),
 Sam Fuller (head of research at Analog Devices).

@@ -6,6 +6,13 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1612933211" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "wikipedia"
+- "Cz"
+- "stochowa"
+- "nd"
+- "cumulation"
+- "ish"
 ---
 So the beginning reminded me "The 21 immutable laws of marketing", where
 they describe that if other areas of science can have their laws, why
@@ -19,7 +26,8 @@ So how is this book different than other dozen of books that I reviewed
 after my personal studies on wealth?
 
 Well...
-Wattles can be pretty f.....ing aggressive. So if you see this book on your
+
+Wattles can be pretty darn aggressive. So if you see this book on your
 child's desk, first of all you can be somehow proud (not every kid picks
 books on getting rich by themselves), but on the other hand be warned -- I
 smelled a scent of sect in this book.

@@ -6,6 +6,9 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0740718584" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "Sevenfold"
+- "nd"
 ---
 
 Slightly updated version of the previous masterpiece.
@@ -35,7 +38,7 @@ matters, but more important is how much support they get while doing risky
 stuff. There's a "$100 startup" example mentioned too -- husband decides to
 take the risk of not working full-time for some time, while the wife manages
 the home budget and supports the household with her salary. He fails for the
-1st time, but succeeds the 2nd time and they're done. Working wifes help.
+1st time, but succeeds the 2nd time and they're done. Working wives help.
 
 Looks like most of the wealthy people are family guys. Their free time they
 spend with their kids and families, not doing too much fancy stuff.

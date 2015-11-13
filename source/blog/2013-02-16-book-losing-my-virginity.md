@@ -6,6 +6,9 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0307720748" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "Branson"
+- "Branson's"
 ---
 Yet another WOW on my list. Absolute MUST to read for anybody interested in
 business. Once of the examples that real entrepreneurs can be born outside
@@ -22,7 +25,7 @@ Jonas, since Branson's and Jonas' ideas were similar--quite original and
 very similar. Next Branson's story is very similar to Jim Clark's of Silicon
 Valley/Netscape Hall of Fame, since they both struggled with an ordinary
 educational system at the beginning of their lives, to finally strive later.
-And Jack Welch, since lots of the contents of his "GE memoires" and Branson
+And Jack Welch, since lots of the contents of his "GE memoirs" and Branson
 story treat about planes.
 
 What I really like is that it's  a very detailed sketch of author's life,

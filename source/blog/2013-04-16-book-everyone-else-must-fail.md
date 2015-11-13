@@ -10,7 +10,7 @@ ads:
 Think about me whatever you want, I don't care -- I like Larry.
 
 Lets say this: from all the books I've read the common thing between all
-leaders is that they happen (accidently?) business oriented.
+leaders is that they happen (accidentally?) business oriented.
 
 Some people say: Microsoft is sh@t, they never figured out anything by
 themselves, they stole DOS from a company that code fraction of what they
@@ -62,5 +62,5 @@ Book worth reading: shows Amazon-alike model of growth, where you do
 whatever is necessary to ship your unique and innovative project regardless
 of the stage it is in.
 
-If you want to have reacher perspective on the history of the world most
+If you want to have richer perspective on the history of the world most
 famous software companies, I can highly recommend this reading.

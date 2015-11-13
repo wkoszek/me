@@ -6,6 +6,9 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1591840562" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "swingy"
+- "Ok"
 ---
 
 Kawasaki's book I read long time ago, It's a nice little booklet, relatively
@@ -23,7 +26,7 @@ don't and if they fail, starting over.
 
 Anyway, I just want to tell you: nice, sunny Saturday. Errands done. Air
 with a really nice flower smell, right after shower, early morning,
-walking slowly to the Caltrain station I decided to visit Arrilaga's center
+walking slowly to the Caltrain station I decided to visit Arrillaga's center
 Menlo Park library for their amazing bargains on used book and..
 
 My day was destroyed.
@@ -46,7 +49,7 @@ city 10 minutes away from you.
 
 Yes. Pretty bad Saturday.
 
-Next point which is f@ucking wrong: not a single thing teaches you quick
+Next point which is very wrong: not a single thing teaches you quick
 enough thinking. What I should have done was to catch the guy and offer him
 lunch at Stacks.
 

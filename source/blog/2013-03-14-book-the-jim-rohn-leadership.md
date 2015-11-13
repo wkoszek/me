@@ -6,11 +6,17 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B000KJ98PE" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "Rohn"
+- "Zig"
+- "Ziglar"
+- "preachings"
+- "Waitley"
 ---
 By all means this is a great content, which I can highly recommend. Rohn is
 an excellent speaker; very easily to listen and understand. Everything
 taught came from relatively recent materials, thus thing heard from this
-audioprogram are likely to be easily understood by you and your kid.
+audiobook are likely to be easily understood by you and your kid.
 
 Rohn has a very similar speaking style to Zig Ziglar -- along the main
 motivational content and success "preachings", he mentions his influences

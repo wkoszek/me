@@ -6,6 +6,13 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1401309704" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "minimalistic"
+- "dwm"
+- "TODO"
+- "tde"
+- "tdd"
+- "tdc"
 ---
 Leo's book I really enjoyed. I'm not alone in terms of trying to simplify
 things around.
@@ -55,7 +62,7 @@ but basically I feel human being needs some sort of a cache too.
 Things go out of the drawers and boxes and land on desk, since you expect
 "temporary locality" to happen. So you pick thing X, cache it on your desk,
 but due to no flush policy, it remains there. Don't get me wrong--it works
-perfecly well for computers, but doesn't work for desks. What desks need is
+perfectly well for computers, but doesn't work for desks. What desks need is
 periodic flush policy, when things come back to boxes and drawers.
 
 Power of habit is something you're accustomed to if you've played musical

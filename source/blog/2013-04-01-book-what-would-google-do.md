@@ -6,6 +6,10 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0061709697" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "GBs"
+- "js"
+- "workoholics"
 ---
 This is a pure propaganda!
 
@@ -23,11 +27,11 @@ thingies, that designers from other search shops *absolutely* have to add.
 So Google started just from that -- useful search site.
 
 I started to feel like something wrong was going on when Google opened
-Gmail. Its advertising was perfect advertising--service available only to a
+GMail. Its advertising was perfect advertising--service available only to a
 selected group of customers. And only through references. This just makes
 people sweat and spit and choke and fall into brainless loop of thinking,
 who might have some free invites left. I don't remember exactly, but I think
-you could send out only 5 invites in general. So Gmail invite was a crucial
+you could send out only 5 invites in general. So GMail invite was a crucial
 resource.  So yeah--I started to feel like Google's customer. Even though
 you can spot weird thing in getting tons of GBs of free space, nobody could
 resist.
@@ -42,7 +46,7 @@ giving you recipes from his observations.
 
 In the new era of Internet it looks like it's all about networking. Started
 from Facebook, there are tons of tons of sites where you can meet selected
-group of people of your interest. Wanna meet people growing persian
+group of people of your interest. Want to meet people growing persian
 hamsters? I'm pretty sure there's a Meetup group for that.
 
 New Internet is about collaboration--instead of selling a product, sell a
@@ -75,7 +79,7 @@ remember that.
 
 Honestly and transparency is great, however I don't know how it applies to
 Google. Dear Google, I really want "Make sure my e-mails don't appear in
-scriptkiddies search result" button to be implemented. I'd like *not* to get
+script-kiddies search result" button to be implemented. I'd like *not* to get
 personalized ads based on things which I've sent to my friends. Really.
 
 Worth reading to get a breeze of ideas on how to design your "open"
