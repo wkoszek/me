@@ -17,7 +17,6 @@ spellcheck-allow:
 - "Adaptec"
 - "Bartz"
 - "Autodesk"
-spellcheck-allow:
 - "de"
 ---
 

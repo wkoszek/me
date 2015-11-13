@@ -8,29 +8,18 @@ layout:	layout_book
 ads:
 - 
 spellcheck-allow:
-- "KITT"
-- "Hasselhoff"
-- "CarOS"
 - "ARM's"
-- "upfrontetails"
+- "AirBnb"
+- "CarOS"
+- "Hasselhoff"
+- "KITT"
+- "PassangerOS"
 - "USD"
 - "Uber"
-- "thecar's"
-- "ths"
-- "AirBnb"
-- "iPhones"
-- "PassangerOS"
-spellcheck-allow:
 - "biotech"
-spellcheck-allow:
-- "th"
-- "KITT"
-- "Hasselhoff"
-- "CarOS"
-- "ARM's"
-- "USD"
 - "iPhones"
-- "PassangerOS"
+- "th"
+- "thecar's"
 ---
 
 

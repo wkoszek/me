@@ -16,7 +16,6 @@ spellcheck-allow:
 - "iPOD"
 - "subdirectory"
 - "MFP"
-spellcheck-allow:
 - "subdirectories"
 ---
 Boy ooohhh boy! Do I get frustrated by design of some objects of my daily use!

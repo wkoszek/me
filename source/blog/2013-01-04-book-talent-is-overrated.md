@@ -9,7 +9,6 @@ ads:
 spellcheck-allow:
 - "Colvin"
 - "WIP"
-spellcheck-allow:
 - "nd"
 ---
 This book delivered a confirmation to my belief. If you have ever played a

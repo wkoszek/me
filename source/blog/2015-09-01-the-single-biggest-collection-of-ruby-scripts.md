@@ -11,7 +11,6 @@ ads:
 spellcheck-allow:
 - "Rubinius"
 - "JSON"
-spellcheck-allow:
 - "github"
 ---
 

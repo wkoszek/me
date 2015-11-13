@@ -9,7 +9,6 @@ ads:
 spellcheck-allow:
 - "swingy"
 - "Ok"
-spellcheck-allow:
 - "Arrillaga's"
 ---
 

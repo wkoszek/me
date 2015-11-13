@@ -16,7 +16,6 @@ spellcheck-allow:
 - "WTF"
 - "Leffler"
 - "MeetBSD"
-spellcheck-allow:
 - "WordPress"
 ---
 

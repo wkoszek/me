@@ -10,6 +10,7 @@ ads:
 spellcheck-allow:
 - "de"
 - "facto"
+- "Chapin"
 ---
 
 Below is my short experiment on finding an analogy between two of things I

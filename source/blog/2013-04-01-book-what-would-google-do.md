@@ -10,7 +10,6 @@ spellcheck-allow:
 - "GBs"
 - "js"
 - "workoholics"
-spellcheck-allow:
 - "GMail"
 ---
 This is a pure propaganda!

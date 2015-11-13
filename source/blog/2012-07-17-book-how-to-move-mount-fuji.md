@@ -9,7 +9,6 @@ ads:
 spellcheck-allow:
 - "Terman's"
 - "Shockey's"
-spellcheck-allow:
 - "Googlers"
 ---
 
