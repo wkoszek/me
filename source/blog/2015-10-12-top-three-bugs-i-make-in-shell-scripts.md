@@ -12,6 +12,9 @@ keywords:
 ads:
 - 
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Shellshock_or_Bashdoor_Unix_Bash_shell_security_bug.svg/2000px-Shellshock_or_Bashdoor_Unix_Bash_shell_security_bug.svg.png'
+spellcheck-allow:
+- "STDOUT"
+- "STDERR"
 ---
 
 

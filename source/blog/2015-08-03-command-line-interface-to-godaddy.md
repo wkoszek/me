@@ -7,6 +7,20 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "learnt"
+- "PyGodaddy"
+- "GoDaddyCli"
+- "github"
+- "godaddycli"
+- "PyPI"
+- "GoDaddy's"
+- "LastPass"
+- "TXT"
+- "sensorama"
+- "pygodaddy"
+- "CNAME"
+- "MX"
 ---
 
 
@@ -36,7 +50,7 @@ about GoDaddy, but it just works most of the time. One of the things
 which I missed is a command line interface of some sort, and while I
 liked the great [*“If GoDaddy Had a
 CLI”*](http://www.mahdiyusuf.com/post/4394455846/if-go-daddy-had-a-cli),
-which I discovered after searching around, I knew that I woould not get
+which I discovered after searching around, I knew that I would not get
 there quickly. Fortunately there was
 [*PyGodaddy*](https://github.com/observerss/pygodaddy). A couple of
 hours spent on this and GoDaddyCli was born:
@@ -105,5 +119,5 @@ needs to be added to
 [*pygodaddy*](https://pypi.python.org/pypi/pygodaddy) (the underlying
 library for GoDaddy connectivity) to make it work with the
 CNAME/TXT/MX/NS records. With this addition, one could create a single
-script to configure things such as [*Github
+script to configure things such as [*GitHub
 Pages*](https://pages.github.com/) entirely from the command line.

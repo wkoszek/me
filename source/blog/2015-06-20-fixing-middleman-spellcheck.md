@@ -5,6 +5,9 @@ auth:	Wojciech Koszek
 read:	2015-06-20
 tags:	article
 layout: layout_book
+spellcheck-allow:
+- "md"
+- "aspell"
 ---
 
 Sometimes when you make a change to the software, it is interesting to
@@ -17,7 +20,7 @@ description on what went wrong.
 [Middleman plugin infrastructure](https://middlemanapp.com/advanced/custom_extensions/) lets
 one to run a filter on several stages of the build process, and
 Middleman-spellcheck runs at the end, once all files are converted from
-".md" to ".html" files.
+`.md` to `.html` files.
 
 Unfortunately the moment I run Middleman with *Middleman-spellcheck* enabled I
 got many, many valid words recognized as misspelled words.

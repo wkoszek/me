@@ -20,12 +20,14 @@ spellcheck-allow:
 - "AirBnb"
 - "iPhones"
 - "PassangerOS"
+spellcheck-allow:
+- "biotech"
 ---
 
 
 In “How to be Rich” Jean Paul Getty expressed his excitement about
 enormous advances in science and technology at the beginning of the
-20thg century. The 21st century seemed to start in an equally exciting
+20th century. The 21st century seemed to start in an equally exciting
 way, for example the self-driving car is attracting a great deal of
 attention lately. When I was about 14 years old a friend of mine told me
 that if [KITT](https://en.wikipedia.org/wiki/KITT) had existed, she’d
@@ -61,9 +63,9 @@ how these machines were engineered. Those of us who followed the history
 of Google’s self-driving car know that this technology came from sweat
 and pain; beginnings are never easy. It took 10 years to perfect the
 technology, and it will probably take another 5 to 10 years to get the
-cars on the street. Perhaps even more. The prototypes are workin, but
+cars on the street. Perhaps even more. The prototypes are working, but
 with the car needs to come a law, which might be the more difficult part
-of the processt (If the self-driving car crashes and injures somebody,
+of the process (If the self-driving car crashes and injures somebody,
 who’s suing who?) So the question is: Are the Googles and Apples of this
 world willing to wait so long? Maybe. Is it necessary? No.
 
@@ -83,7 +85,7 @@ so. There are other ways to provide a return on investment.
 I had a chance to tour [ARM
 LTD](https://en.wikipedia.org/wiki/ARM_Holdings) during my internship
 at Cambridge University. The company is pretty small, it seemed like two
-buildings and your uncle’s frontyard. The whole company world-wide has
+buildings and your uncle’s front yard. The whole company world-wide has
 3300 people who have helped to make ARM one of the most powerful
 companies around. Why?
 

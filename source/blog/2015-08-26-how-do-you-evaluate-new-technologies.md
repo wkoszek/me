@@ -7,6 +7,15 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "AWS"
+- "Redis"
+- "Memcached"
+- "scriptable"
+- "misconfiguration"
+- "Ubers"
+- "Facebooks"
+- "Xilinx"
 ---
 
 
@@ -78,7 +87,7 @@ For long term products there’s always time allotted to test-drive a
 couple of these solutions and pick the one which is judged to be the
 best. Beware: “the best” is a subjective term. For Open Source
 developers who read forums and hang out on IRC it may indeed lead to
-iselecting the best product out there. (Perhaps that’s why the industry
+selecting the best product out there. (Perhaps that’s why the industry
 likes to pull in open-source people?) If you’re running a startup in the
 Bay Area, “the best” may mean selecting the sexiest, possibly least
 stable technology and letting your crew waste some time on making it

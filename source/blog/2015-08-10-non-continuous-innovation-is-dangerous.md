@@ -7,6 +7,15 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "CMS"
+- "adsystem"
+- "rcm"
+- "config"
+- "releng"
+- "WTF"
+- "Leffler"
+- "MeetBSD"
 ---
 
 
@@ -36,8 +45,8 @@ email:
 > 31, 2015. The links require the following update that can be facilitated
 > through your CMS (content management system). You may make these
 > replacements at whatever scale you are comfortable with.
->  - Find and replace ws.amazon.com with ws-na.amazon-adsystem.com
->  - Find and replace rcm.amazon.com with rcm-na.amazon-adsystem.com
+>  - Find and replace `ws.amazon.com` with `ws-na.amazon-adsystem.com`
+>  - Find and replace `rcm.amazon.com` with `rcm-na.amazon-adsystem.com`
 > 
 > Keep in mind that starting August 1, 2015, any remaining legacy product
 > links (text + image, image-only), banners, and widgets will be served
@@ -56,8 +65,8 @@ replacing a domain from `rcm.amazon.com` to `rcm-na.amazon.com` is
 *really* necessary, but my belief is that we’re probably seeing it in
 this case too.
 
-It makes me wonder what people using platforms such as Wordpress will
-have to do. If one embeds the static links of products in a Wordpress
+It makes me wonder what people using platforms such as WordPress will
+have to do. If one embeds the static links of products in a WordPress
 website, will they have to be updated by hand? I’d rather not know. In
 the Middleman and Jekyll world, we’re quite fortunate:
 

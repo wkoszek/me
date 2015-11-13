@@ -5,6 +5,10 @@ auth:	Wojciech Koszek
 read:	2015-06-20
 tags:	article
 layout: layout_book
+spellcheck-allow:
+- "Biicode"
+- "RVM"
+- "AWS"
 ---
 
 Nothing but the successful result of compilation delivers this unique

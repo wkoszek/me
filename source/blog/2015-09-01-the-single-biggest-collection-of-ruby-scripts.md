@@ -8,6 +8,9 @@ layout:	layout_book
 ads:
 - <a href="http://www.amazon.com/gp/product/1937785491/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1937785491&linkCode=as2&tag=wojcadamkoszh-20&linkId=PHNJA5PM4PDXU2BF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1937785491&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wojcadamkoszh-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&l=as2&o=1&a=1937785491" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+spellcheck-allow:
+- "Rubinius"
+- "JSON"
 ---
 
 ## Quickstart

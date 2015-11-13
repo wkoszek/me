@@ -7,6 +7,21 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "gdrive"
+- "rubygems"
+- "bundler"
+- "ack"
+- "rbenv"
+- "RVM"
+- "npm"
+- "nodejs"
+- "virtualenv"
+- "MacBook"
+- "versa"
+- "fragmentated"
+- "microkernel"
+- "Lua"
 ---
 
 In [my article on Go](http://www.koszek.com/blog/2015/07/22/why-the-go-wont-be-successful/),

@@ -7,6 +7,10 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "github"
+- "synology"
+- "Gists"
 ---
 
 HTTPS seems to be everywhere these days, including GitHub. It’s great to

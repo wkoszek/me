@@ -6,6 +6,11 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "Sensorama"
+- "litigations"
+- "Makefiles"
+- "NFS"
 ---
 
 In the process of working on [Sensorama](http://www.sensorama.org) I
@@ -83,9 +88,9 @@ Open Source.
 At Xilinx there was a license scrubbing script, which made sure that all
 licenses from all pieces of contributed software were collected in one
 place. After spotting some files without copyright information and
-seeing thatr they could accidentally be tagged as proprietary, we got
+seeing that they could accidentally be tagged as proprietary, we got
 little paranoid. In a big corporation once you make such a mistake,
-further analysis is very dificult. Basically: who knows what your next
+further analysis is very difficult. Basically: who knows what your next
 intern will copy & paste to the software product when you are not
 looking?! [1] FreeBSD does the same, so I guess it’s a common industry
 practice.

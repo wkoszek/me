@@ -52,7 +52,7 @@ wkoszek_nas> ./wget2
 : No such file or directory
 ~~~
 
-At first I believed that the script’s frontmatter “#!” was wrong, but
+At first I believed that the script’s front matter “#!” was wrong, but
 even after spending some time on it I still hadn’t figured out what was
 going on; then I saw this:
 

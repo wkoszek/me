@@ -7,12 +7,20 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "untrusted"
+- "toolchain"
+- "CSH"
+- "js"
+- "repaste"
+- "npm"
+- "GOPATH"
 ---
 
 
-The other day I stumbled upon a [Google Drive command line client](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fprasmussen%2Fgdrive&sa=D&sntz=1&usg=AFQjCNGAiYDSR3UBgK6bT9wAoUSUPQrd-A). It’s a software project written in the Go language. It lets you access Google Drive from the command line. I felt it was a great project, and I wanted to give it a shot, so I started reading. Unfortunately, the program is distributed in binary form, and given several problems that Github has had over the past 2 years or so, I’d rather not run binaries from Github on my machine. Makes sense, right?
+The other day I stumbled upon a [Google Drive command line client](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fprasmussen%2Fgdrive&sa=D&sntz=1&usg=AFQjCNGAiYDSR3UBgK6bT9wAoUSUPQrd-A). It’s a software project written in the Go language. It lets you access Google Drive from the command line. I felt it was a great project, and I wanted to give it a shot, so I started reading. Unfortunately, the program is distributed in binary form, and given several problems that GitHub has had over the past 2 years or so, I’d rather not run binaries from GitHub on my machine. Makes sense, right?
 
-Open source security paradox: Binary files on [Github.com](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2F&sa=D&sntz=1&usg=AFQjCNHReqsuKT6C86HcgL4TbSevF24rxQ) are no more or less secure than fetching 10–15 different open source libraries, also from Github.com, coming from authors whom you’ve never heard about nor whose identities you have had a chance to verify. Then you have to run it in a compiler delivered to you by [Homebrew](http://www.google.com/url?q=http%3A%2F%2Fbrew.sh%2F&sa=D&sntz=1&usg=AFQjCNHrrshO8z0224JXLROZjA2WKmARsg), which you too know little to nothing about. And then somehow, upon using this completely untrusted and unprotected toolchain, you end up feeling a sense of accomplishment about doing something the secure way.
+Open source security paradox: Binary files on [GitHub.com](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2F&sa=D&sntz=1&usg=AFQjCNHReqsuKT6C86HcgL4TbSevF24rxQ) are no more or less secure than fetching 10–15 different open source libraries, also from GitHub.com, coming from authors whom you’ve never heard about nor whose identities you have had a chance to verify. Then you have to run it in a compiler delivered to you by [Homebrew](http://www.google.com/url?q=http%3A%2F%2Fbrew.sh%2F&sa=D&sntz=1&usg=AFQjCNHrrshO8z0224JXLROZjA2WKmARsg), which you too know little to nothing about. And then somehow, upon using this completely untrusted and unprotected toolchain, you end up feeling a sense of accomplishment about doing something the secure way.
 
 I’m exactly the same. So instead of fetching a file and running it, I cloned the repository:
 
@@ -26,7 +34,7 @@ and started reading how to build its contents. It all seemed fairly simple:
 go build drive.go
 ~~~
 
-This looked amazing. Go is great, I thought. The file drive.go has some links to Github.com, which I believed were very neat and close to what one would expect would be a reality for a modern programming language: [integration with services](http://golang.org/doc/code.html) that rule in the source engineering world.
+This looked amazing. Go is great, I thought. The file drive.go has some links to GitHub.com, which I believed were very neat and close to what one would expect would be a reality for a modern programming language: [integration with services](http://golang.org/doc/code.html) that rule in the source engineering world.
 
 “Fine,” I said, and I decided to give it a shot. I installed Go:
 

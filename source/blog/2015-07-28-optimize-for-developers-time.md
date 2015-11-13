@@ -7,6 +7,9 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "CPUs"
+- "suboptimal"
 ---
 
 It is sometimes easy to forget how computer engineers in the early days
@@ -35,7 +38,7 @@ fast programs are written in these technologies but also how fast I can
 write such programs, how friendly the developer’s environment is, and
 whether it stands in my way of achieving goals.
 
-[*New Horizons’ space mission is powered by athe 12 MHz
+[*New Horizons’ space mission is powered by the 12 MHz
 CPU*](http://www.forbes.com/sites/erikkain/2015/07/16/the-pluto-spacecraft-is-running-on-an-original-playstation-cpu/),
 but desktop and mobile solutions aren’t space ventures. In 2015, I’d
 expect most of these resource limitations to be abandoned since we moved
