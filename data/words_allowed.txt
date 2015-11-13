@@ -3,3 +3,44 @@ https
 wkoszek
 printf
 
+http	#	/w/repos/me/source/blog/2015-10-05-pastebin-adds-dos-newline-on-snippet.md
+pastebin	#	/w/repos/me/source/blog/2015-10-05-pastebin-adds-dos-newline-on-snippet.md
+ETv	#	/w/repos/me/source/blog/2015-10-05-pastebin-adds-dos-newline-on-snippet.md
+pRjK	#	/w/repos/me/source/blog/2015-10-05-pastebin-adds-dos-newline-on-snippet.md
+weneed	#	/w/repos/me/source/blog/2015-10-05-pastebin-adds-dos-newline-on-snippet.md
+DS	#	/w/repos/me/source/blog/2015-10-05-pastebin-adds-dos-newline-on-snippet.md
+SpaceX	#	/w/repos/me/source/blog/2015-09-23-why-its-not-about-self-driving.md
+Comcast	#	/w/repos/me/source/blog/2015-09-23-why-its-not-about-self-driving.md
+unowned	#	/w/repos/me/source/blog/2012-03-27-book-the-soul-of-a-new-machine.md
+audiobook	#	/w/repos/me/source/blog/2012-04-16-book-the-7-habits.md
+Spolsky	#	/w/repos/me/source/blog/2012-04-20-book-hackers_and_painters.md
+Sivers	#	/w/repos/me/source/blog/2012-04-20-book-hackers_and_painters.md
+Viaweb	#	/w/repos/me/source/blog/2012-04-20-book-hackers_and_painters.md
+FreeBSD	#	/w/repos/me/source/blog/2012-04-26-freebsd_gsoc_proposal.md
+GSOC	#	/w/repos/me/source/blog/2012-04-26-freebsd_gsoc_proposal.md
+GSoC	#	/w/repos/me/source/blog/2012-04-26-freebsd_gsoc_proposal.md
+FreeBSD's	#	/w/repos/me/source/blog/2012-04-27-freebsd_good_proposal.md
+QuarkXPress	#	/w/repos/me/source/blog/2012-04-27-freebsd_good_proposal.md
+NTFS	#	/w/repos/me/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
+filesystem	#	/w/repos/me/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
+Googleplex	#	/w/repos/me/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
+html	#	/w/repos/me/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
+VirtualBox	#	/w/repos/me/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
+architected	#	/w/repos/me/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
+deliverables	#	/w/repos/me/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
+PHP	#	/w/repos/me/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
+CSS	#	/w/repos/me/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
+toolset	#	/w/repos/me/source/blog/2012-05-14-funny_mistake.md
+Moeller	#	/w/repos/me/source/blog/2012-05-17-stick_control.md
+Morello	#	/w/repos/me/source/blog/2012-05-17-stick_control.md
+Berklee	#	/w/repos/me/source/blog/2012-05-17-stick_control.md
+Verilog	#	/w/repos/me/source/blog/2012-05-17-stick_control.md
+RISC	#	/w/repos/me/source/blog/2012-06-10-mips-assembler.md
+broadcasted	#	/w/repos/me/source/blog/2012-07-07-book-the-strangest-secret.md
+MacWorld	#	/w/repos/me/source/blog/2012-07-13-book-best-software-writings.md
+Shockey	#	/w/repos/me/source/blog/2012-07-17-book-how-to-move-mount-fuji.md
+Fairchild	#	/w/repos/me/source/blog/2012-07-17-book-how-to-move-mount-fuji.md
+Spolsky's	#	/w/repos/me/source/blog/2012-07-25-book-anything-you-want.md
+Menlo	#	/w/repos/me/source/blog/2012-08-06-barely-usable.md
+Peet's	#	/w/repos/me/source/blog/2012-08-06-barely-usable.md
+PCBs	#	/w/repos/me/source/blog/2012-08-06-barely-usable.md
