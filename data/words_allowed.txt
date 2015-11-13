@@ -80,3 +80,4 @@ GoDaddy	#	/w/repos/me/source/blog/2015-08-03-command-line-interface-to-godaddy.m
 CLI	#	/w/repos/me/source/blog/2015-08-03-command-line-interface-to-godaddy.md
 Xilinx	#	/w/repos/me/source/blog/2015-09-08-copyright-screen-of-facebook-paper.md
 Synology	#	/w/repos/me/source/blog/2015-10-04-wget-in-9-lines-of-python-for-hostile-environments.md
+Uber	#	/w/repos/me/source/blog/2015-09-23-why-its-not-about-self-driving.md
