@@ -4,6 +4,13 @@ description: 'On connection between the "The Toyota Way" and the UNIX programmin
 auth:	Wojciech Koszek
 tags:	article
 layout: layout_book
+spellcheck-allow:
+- "toyotaway"
+- "nd"
+- "PRIO"
+- "cron"
+- "LSF"
+- "cd"
 ---
 
 This article has a strange mix of UNIX and methodology and mental problems
@@ -61,7 +68,7 @@ and you know upfront you won't make it.
 	}
 
 So this is an example of necessarily the smartest thing, but since the
-surounding code wasn't trivial, this is the fastest way I could solve the
+surrounding code wasn't trivial, this is the fastest way I could solve the
 problem. Randomness almost always helps -- if you need ugly and incredibly
 dark solution that, of course, will produce darker result, use randomness.
 Now: this is not as evil as you may think. I just produce files with known

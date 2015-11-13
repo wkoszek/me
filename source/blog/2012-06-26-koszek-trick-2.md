@@ -10,7 +10,7 @@ ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=020161569X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 ---
 
-Todays post will be very simple, maybe trivial. One of the hacks that I came
+Today's post will be very simple, maybe trivial. One of the hacks that I came
 up with, when I encountered confusing arcane of ANSI C, or when I played
 with assembly for fun and profit.
 
@@ -21,6 +21,7 @@ visual manner.
 So imagine you want to isolate memory reference within ANSI C and figure out
 what the corresponding assembly line is. Assume given portion of the code:
 
+```
 	[ptr.c]
 
 	#include <stdio.h>
@@ -41,6 +42,7 @@ what the corresponding assembly line is. Assume given portion of the code:
 
 		return 0;
 	}
+```
 
 Basically for a fixed literal string `example` you fetch its character `m`, which is
 held in variable `c`. It doesn't make too much sense and isn't too useful,
@@ -52,7 +54,7 @@ Right now you perform:
 
 And your created `ptr.s` suddenly has:
 
-
+```
 		.file	"ptr.c"
 		.section	.rodata
 	.LC0:
@@ -103,9 +105,10 @@ And your created `ptr.s` suddenly has:
 		.size	main, .-main
 		.ident	"GCC: (Ubuntu/Linaro 4.5.2-8ubuntu4) 4.5.2"
 		.section	.note.GNU-stack,"",@progbits
+```
 
 As you can see, the comments placed by us through `__asm__` macro are
-preserved in the intermediate assembly file. Ta-da!
+preserved in the intermediate assembly file. Done!
 
 If you have ever put a code, which has never been executed, or maybe even
 disappeared somewhere deep in the sea of stages of compilation, this

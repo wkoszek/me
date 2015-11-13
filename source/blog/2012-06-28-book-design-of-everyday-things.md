@@ -9,6 +9,13 @@ ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1449379702" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0125184069" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0321767535" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "ooohhh"
+- "Hm"
+- "iHELL"
+- "iPOD"
+- "subdirectory"
+- "MFP"
 ---
 Boy ooohhh boy! Do I get frustrated by design of some objects of my daily use!
 No longer do I feel like a source of problem when encountering a difficulty
@@ -48,13 +55,13 @@ unfiltered water over filter's cover.
 
 **iHELL**
 
-iPOD is ... eh. I think it would require writing a separate blog post.
-Mental model for iPOD is pretty bad, if you're a PC kid like me. Syncing?
+iPod is ... eh. I think it would require writing a separate blog post.
+Mental model for iPod is pretty bad, if you're a PC kid like me. Syncing?
 "What do I sync to -- I have my MP3s on a disk and I want to copy them to
-iPOD -- that's all". I literally didn't know how to use iTunes first time I
+iPod -- that's all". I literally didn't know how to use iTunes first time I
 started it.  Funny thing is that nothing happens in iTunes when you
-connected your iPOD for the 1st time. Not to mention, that as a ^nix system
-user iPOD gen-6 is very unfriendly (read: unusable) And folders? Forget
+connected your iPod for the 1st time. Not to mention, that as a ^nix system
+user iPod gen-6 is very unfriendly (read: unusable) And folders? Forget
 folders. iTunes knows better than you do how to group your songs. So if you
 happen to have MP3s without ID tags -- good luck Robinson.
 
@@ -99,7 +106,7 @@ Anyway - the story with MFP is so much better than my previous experiences.
 Think of an intern in the computer lab with multiple floors, with all
 printers in networked environment present in your "Print..." dialog window,
 choosing "Print" with badly marked destination printer. Of course that's not
-the end, since Murpy's laws would prohibit it. So add to it: selected
+the end, since Murphy's laws would prohibit it. So add to it: selected
 printer is present in a closed room, owned by one of the lab's staff. And
 the person is on vacation of course, and will come back after you leave. And
 the printout has lots of numbers on it.

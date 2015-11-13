@@ -4,6 +4,19 @@ description: "Short HOWTO for writing good Summer of Code Proposals."
 auth:	Wojciech Koszek
 tags:	article
 layout: layout_book
+spellcheck-allow:
+- "sed"
+- "ULE"
+- "zA"
+- "Beastie"
+- "sys"
+- "PRs"
+- "bsdcode"
+- "EFnet"
+- "joelonsoftware"
+- "moreonjoelonsoftware"
+- "Krash"
+- "th"
 ---
 
 Let me keep it short. As short and concrete as your proposal should be.
@@ -62,7 +75,7 @@ can spend on the project. **Be honest**. We all know 8 hours per day of
 actual coding is rare if you have school, assignments and real life. Yes,
 doing what you want ([FreeBSD](http://www.freebsd.org) is what you want,
 right?) makes GSOC fun and you can spend more time on it, but don't make
-this number higher artifically.
+this number higher artificially.
 
 So here is important thing: **I don't know what's the Google's expectation**
 for these numbers. If they expect "8 hours" .... well ... you have to put 8
@@ -108,7 +121,7 @@ well. Mentioning person who I know has an expertise related with your
 proposal means you:
 
 + follow the state-of-an-art work of the project, e.g.: that you
-follow[FreeBSD mailing lists](http://lists.freebsd.org) This is good:
+follow [FreeBSD mailing lists](http://lists.freebsd.org) This is good:
 shows your involvement in the community
 
 + know this person, since you're interested in his/her field and you've

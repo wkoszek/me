@@ -6,6 +6,11 @@ tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1449389554" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+spellcheck-allow:
+- "nd"
+- "ISV"
+- "EDA"
+- "toolkits"
 ---
 I'm catching up with a list of computer classics and reading Graham's **Hackers and painters**
 
@@ -23,10 +28,10 @@ This book is a statement of "Start small" and "growing business".
 ***To remembered***:
 
 + Graham mentions LISP, which was a valuable platform for development of their
-Web store creator. Well, it's the 2nd author of ISV/software
-engineering/business books, except [Joal
+Web store creator. Well, it's the second author of ISV/software
+engineering/business books, except [Joel
 Spolsky](http://www.joelonsoftware.com/) that I've read who mentions LISP.
-This automatically extended my Amazon wishlist queue.
+This automatically extended my Amazon wish-list queue.
 
 + **If your customers won't buy your software
 anyway, you don't loose anything by giving them software for free**. It was
@@ -46,4 +51,5 @@ is something frequently overlooked.
 + **Amount of wealth isn't constant** This is something people from
 ex-socialist countries should read.
 
-In general, I'd made this book mandatory for all CS/EE students.
+In general, I'd made this book mandatory for all Computer Science/Electrical
+Engineering students.

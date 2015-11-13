@@ -4,6 +4,9 @@ description: "Some usability insights from using Sharp printers."
 auth:	Wojciech Koszek
 tags:	article
 layout: layout_book
+spellcheck-allow:
+- "MFP"
+- "SSO"
 ---
 
 I decided to give Sharp MFP printer a try. I'm pretty conservative (lets say I'm radical:
