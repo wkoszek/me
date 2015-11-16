@@ -142,7 +142,7 @@ if has_spellcheck_v80 then
 			page: "blog/*",
 			tags: [ :p, :article ],
 			lang: "en_US.UTF-8",
-			debug: 0,
+			debug: 1,
 			dontfail: 1,
 			ignored_exts: [".jpg", ".png", ".pdf",
 				".sh", ".ico", ".xml", ".woff",
