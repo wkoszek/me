@@ -143,7 +143,7 @@ if has_spellcheck_v80 then
 			tags: [ :p, :article ],
 			lang: "en_US.UTF-8",
 			debug: 0,
-			dontfail: 1,
+			dontfail: 0,
 			ignored_exts: [".jpg", ".png", ".pdf",
 				".sh", ".ico", ".xml", ".woff",
 				".eot", ".ttf", "*.otf",
