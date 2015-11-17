@@ -8,6 +8,7 @@ tags:	books
 layout: layout_book
 spellcheck-allow:
 - "PCBs"
+- "Wishlist"
 ---
 
 Reading about good old days is something I enjoy in my free time.

@@ -10,6 +10,7 @@ spellcheck-allow:
 - "Plex"
 - "Bechtolsheim"
 - "Cheriton"
+- "NSA"
 ---
 
 In The Plex is a very detailed explanation of the insides of Google.

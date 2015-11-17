@@ -9,6 +9,7 @@ ads:
 spellcheck-allow:
 - "Branson"
 - "Branson's"
+- "Clark's"
 ---
 Yet another WOW on my list. Absolute MUST to read for anybody interested in
 business. Once of the examples that real entrepreneurs can be born outside

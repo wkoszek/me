@@ -8,6 +8,7 @@ layout: layout_book
 spellcheck-allow:
 - "md"
 - "aspell"
+- "spellcheck"
 ---
 
 Sometimes when you make a change to the software, it is interesting to

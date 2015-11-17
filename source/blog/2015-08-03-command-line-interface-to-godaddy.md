@@ -8,19 +8,20 @@ layout:	layout_book
 ads:
 - 
 spellcheck-allow:
-- "learnt"
-- "PyGodaddy"
+- "CNAME"
+- "GoDaddy's"
 - "GoDaddyCli"
+- "LastPass"
+- "MX"
+- "PyGodaddy"
+- "PyPI"
+- "TXT"
 - "github"
 - "godaddycli"
-- "PyPI"
-- "GoDaddy's"
-- "LastPass"
-- "TXT"
-- "sensorama"
+- "learnt"
 - "pygodaddy"
-- "CNAME"
-- "MX"
+- "sensorama"
+- "username"
 ---
 
 

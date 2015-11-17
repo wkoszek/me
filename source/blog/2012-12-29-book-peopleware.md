@@ -9,6 +9,7 @@ ads:
 spellcheck-allow:
 - "Peopleware"
 - "cubodoidal"
+- "Joel's"
 ---
 Biggest effort in making project happen is figuring out social problems:
 managing people, managing expectations, figuring out issues and disagreements.

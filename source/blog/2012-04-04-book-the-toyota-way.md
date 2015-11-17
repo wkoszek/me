@@ -9,6 +9,7 @@ ads:
 spellcheck-allow:
 - "genchi"
 - "genbutsu"
+- "Joel's"
 ---
 
 Full title: "The Toyota Way: 14 Management Principles from the World's

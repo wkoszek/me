@@ -11,6 +11,7 @@ spellcheck-allow:
 - "js"
 - "workoholics"
 - "GMail"
+- "Emo"
 ---
 This is a pure propaganda!
 

@@ -11,6 +11,7 @@ spellcheck-allow:
 - "ISV"
 - "EDA"
 - "toolkits"
+- "Graham's"
 ---
 I'm catching up with a list of computer classics and reading Graham's **Hackers and painters**
 

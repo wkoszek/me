@@ -12,6 +12,8 @@ spellcheck-allow:
 - "waaay"
 - "Opsware"
 - "rex"
+- "Horowitz's"
+- "IPO"
 ---
 
 If you were present somewhere close to Bay Area circa 2014--2015, and you've asked

@@ -15,6 +15,7 @@ spellcheck-allow:
 - "Javascript"
 - "Seibel"
 - "LISPy"
+- "Graham's"
 ---
 Full title "Land of Lisp: Learn to Program in Lisp, One Game at a Time!"
 

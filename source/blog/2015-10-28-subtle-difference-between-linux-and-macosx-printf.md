@@ -14,12 +14,10 @@ keywords:
 ads:
 -
 spellcheck-allow:
-- github
-- printf
-- testbench
-- PRNG
-- repeatability
-
+- "refactored"
+- "repeatability"
+- "testbench"
+- "PRNG"
 ---
 
 I'm working on polishing my `mini_printf` implementation and making a final,

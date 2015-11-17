@@ -10,6 +10,7 @@ spellcheck-allow:
 - "swingy"
 - "Ok"
 - "Arrillaga's"
+- "Kawasaki's"
 ---
 
 Kawasaki's book I read long time ago, It's a nice little booklet, relatively

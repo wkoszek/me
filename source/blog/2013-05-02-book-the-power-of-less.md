@@ -13,6 +13,7 @@ spellcheck-allow:
 - "tde"
 - "tdd"
 - "tdc"
+- "bpm"
 ---
 Leo's book I really enjoyed. I'm not alone in terms of trying to simplify
 things around.

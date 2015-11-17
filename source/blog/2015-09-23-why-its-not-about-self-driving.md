@@ -9,8 +9,10 @@ ads:
 - 
 spellcheck-allow:
 - "ARM's"
+- "AirBnB"
 - "AirBnb"
 - "CarOS"
+- "Googles"
 - "Hasselhoff"
 - "KITT"
 - "PassangerOS"
@@ -18,6 +20,9 @@ spellcheck-allow:
 - "Uber"
 - "biotech"
 - "iPhones"
+- "smartphone"
+- "startup"
+- "supersized"
 - "th"
 - "thecar's"
 ---

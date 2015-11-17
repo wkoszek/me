@@ -9,6 +9,7 @@ ads:
 spellcheck-allow:
 - "VCs"
 - "IDT"
+- "IPO"
 ---
 
 Since the first sentence in this book I knew it'd be a very interesting
