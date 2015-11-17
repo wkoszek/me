@@ -134,8 +134,7 @@ activate :directory_indexes
 activate :syntax
 activate :graphviz
 
-# Until we get middleman-spellcheck new version in Gems, we disable for
-# non-local builds
+g_dict_dir = "`pwd`/data/aspell-dict"
 set :spellcheck_allow_file, "./data/words_allowed.txt"
 if has_spellcheck_v80 then
 	activate :spellcheck,
@@ -144,6 +143,7 @@ if has_spellcheck_v80 then
 			lang: "en_US.UTF-8",
 			debug: 0,
 			dontfail: 0,
+			cmdargs: "-a -l en_US.UTF-8 --dict-dir=#{g_dict_dir}",
 			ignored_exts: [".jpg", ".png", ".pdf",
 				".sh", ".ico", ".xml", ".woff",
 				".eot", ".ttf", "*.otf",

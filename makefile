@@ -26,6 +26,7 @@ bootstrap:
 	sudo apt-get install libgmp-dev nodejs
 	gem install json -v '1.8.3'
 	bundle install
+	./scripts/aspell_setup.sh
 spellfix:
 	find source/blog | xargs -I @ -n 50 echo middleman spellcheck @ --fix --inplace > _.fix
 	sh _.fix
