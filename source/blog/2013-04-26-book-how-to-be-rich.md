@@ -9,6 +9,7 @@ ads:
 spellcheck-allow:
 - "IDT"
 - "Getty's"
+- "IPO"
 ---
 From the legend himself.. Basically very unique thing. I really wanted to
 get a book from first person perspective. Previous content I consumed was
