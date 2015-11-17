@@ -22,7 +22,8 @@ Way" is that I'll not only get to know how Toyota solves problems, but I'll
 bring experiences from the book to my problem solving, mental toolset and
 I'll transmute them to my daily job with UNIX systems.
 
-%%inc/toyotaway.html%%
+<a rel="nofollow" href="http://www.amazon.com/gp/product/0071392319/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0071392319&linkCode=as2&tag=wojcadamkoszh-20&linkId=QKE4PQSNGFQJYT3C"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0071392319&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wojcadamkoszh-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&l=as2&o=1&a=0071392319" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 
 It is very funny how sometimes I get trapped with simple stuff.
 
