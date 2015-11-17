@@ -11,11 +11,21 @@ gem "middleman-deploy"
 gem "middleman-livereload"
 gem "middleman-gh-pages"
 gem "middleman-syntax"
-gem "middleman-spellcheck", '~> 0.8.0', :git => "https://github.com/wkoszek/middleman-spellcheck.git", :branch => "frontmatter_spell"
 gem 'middleman-imageoptim'
 gem 'middleman-search_engine_sitemap'
 gem 'middleman-sitemap-ping'
 gem 'middleman-build-reporter'
+
+# Let me do spellcheck development easily.
+if ENV.include?("DEV") then
+  File.delete("middleman-spellcheck")
+  File.symlink("../middleman-spellcheck", "middleman-spellcheck")
+  gem "middleman-spellcheck", '~> 0.8.0', :path => "middleman-spellcheck"
+else
+  gem "middleman-spellcheck", '~> 0.8.0',
+	:git => "https://github.com/wkoszek/middleman-spellcheck.git",
+	:branch => "frontmatter_spell"
+end
 
 # HTML/CSS stuff.
 gem 'bourbon'

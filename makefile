@@ -2,6 +2,8 @@ all:
 	(cd source && middleman server)
 render:
 	middleman build --verbose
+render-dev:
+	env DEV=yes middleman build --verbose
 pub:
 	env TGT_KOSZEK_COM=production rake publish
 	make update
