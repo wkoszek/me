@@ -10,6 +10,7 @@ spellcheck-allow:
 - "quizing"
 - "podcasts"
 - "Allen's"
+- "oversized"
 ---
 
 Sometimes it makes me think how much information XXI century human being can
