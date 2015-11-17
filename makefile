@@ -21,9 +21,13 @@ min:
 max:
 	git checkout source/blog/201{2,3,4}*
 bootstrap:
+	sudo apt-get install libgmp-dev nodejs
+	gem install json -v '1.8.3'
 	bundle install
-	gem install image_optim
-	gem install image_optim_pack
+spellfix:
+	find source/blog | xargs -I @ -n 50 echo middleman spellcheck @ --fix --inplace > _.fix
+	sh _.fix
+	rm -rf _.fix
 prepare:
 	rm -rf /tmp/access.log /tmp/error.log
 	mkdir -p /tmp/www
