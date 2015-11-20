@@ -1,5 +1,7 @@
 # Personal website of Wojciech Koszek
 
+[![Build Status](https://travis-ci.org/wkoszek/me.svg?branch=master)](https://travis-ci.org/wkoszek/me)
+
 My website is built with [Middleman](http://www.middlemanapp.com) and
 various plugins. They let me publish blog articles, keep drafts of articles
 which aren't yet finished, minify the HTML, Javascript and CSS files as well
