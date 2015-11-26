@@ -5,9 +5,9 @@ tags:
 
 # Great Web Fonts
 
-For some time now each time I entered a website whose font I liked I put
-I analyzed it's `font-family` and then analyzed it. Below are some of the
-fonts, starting from the most frequent which I liked to the least frequent.
+For some time now each time I entered a website whose font I liked 
+I analyzed its `font-family`. Below are some of the
+fonts (starting from the ones I liked most often):
 
 ## Font names
 
@@ -28,7 +28,6 @@ fonts, starting from the most frequent which I liked to the least frequent.
 - 1 neutra-face-text
 - 1 museo-sans-1
 - 1 medium-content-serif-font
-- 1 http://www.tylerfinck.com/didactic-webfont/
 - 1 futura
 - 1 freighttext_mediumregular
 - 1 freightsans_probold
@@ -44,7 +43,7 @@ fonts, starting from the most frequent which I liked to the least frequent.
 - 1 Verlag A
 - 1 Ubuntu Mono
 - 1 TiemposTextWeb-Regular
-- 1 SofiaProBlack http://rypress.com/
+- 1 SofiaProBlack
 - 1 Skolar Regular
 - 1 Signika Negative
 - 1 PTSansRegular
@@ -72,7 +71,7 @@ fonts, starting from the most frequent which I liked to the least frequent.
 - 1 Effra
 - 1 ETBembo
 - 1 EB Garamond
-- 1 Droid Serif"
+- 1 Droid Serif
 - 1 Crimson Text
 - 1 AvenirLTStd-Black—7 glyphs
 - 1 Avenir Next LT W01
