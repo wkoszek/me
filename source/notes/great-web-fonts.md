@@ -1,4 +1,9 @@
-# FONTS
+---
+layout: layout_book
+tags:
+---
+
+# Great Web Fonts
 
 For some time now each time I entered a website whose font I liked I put
 I analyzed it's `font-family` and then analyzed it. Below are some of the
