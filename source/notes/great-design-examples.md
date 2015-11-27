@@ -3,6 +3,6 @@ layout: layout_book
 tags:
 ---
 
-# How to use Continuous Integration Systems
+# Great Design Examples
 
-https://www.captaintrain.com/
+- [Captain Train](https://www.captaintrain.com/)
