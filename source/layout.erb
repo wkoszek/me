@@ -62,21 +62,21 @@
 				,"/css/debug.css"
 				,"/css/code.css"
 			];
-			var cb = function() {
-				var i = 0;
-				//for (var i in css_links) {
-				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[0]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
-				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[1]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
-				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[2]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
-				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[3]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
-				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[4]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
-				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[5]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
-				//}
-			};
+			var cb0 = function() { var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[0]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h); };
+			var cb1 = function() { var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[1]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h); };
+			var cb2 = function() { var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[2]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h); };
+			var cb3 = function() { var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[3]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h); };
+			var cb4 = function() { var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[4]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h); };
+			var cb5 = function() { var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[5]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h); };
+
 			var raf = requestAnimationFrame || mozRequestAnimationFrame ||
 			webkitRequestAnimationFrame || msRequestAnimationFrame;
-			if (raf) raf(cb);
-			else window.addEventListener('load', cb);
+			if (raf) raf(cb); else window.addEventListener('load', cb0);
+			if (raf) raf(cb); else window.addEventListener('load', cb1);
+			if (raf) raf(cb); else window.addEventListener('load', cb2);
+			if (raf) raf(cb); else window.addEventListener('load', cb3);
+			if (raf) raf(cb); else window.addEventListener('load', cb4);
+			if (raf) raf(cb); else window.addEventListener('load', cb5);
 		</script>
 
 	<div class="container">
