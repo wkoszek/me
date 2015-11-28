@@ -4,7 +4,7 @@ load 'scripts/http_acc_log.rb'
 
 is_headless = false	# headless?
 ["TRAVIS", "CIRCLE", "TEST_CI"].each do |ci|
-	if ENV.has_key?(ci) then
+	if ENV.has_key?(ci) and not ENV.has_key?("NO_HEADLESS") then
 		print "CI system detected #{ci}\n"
 		is_headless = true
 	end
