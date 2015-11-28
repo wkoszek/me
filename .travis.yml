@@ -1,6 +1,6 @@
 sudo: false
 language: ruby
-cache: bundler
+#cache: bundler
 rvm:
 - 2.2.3
 env:
