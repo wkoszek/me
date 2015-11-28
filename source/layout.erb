@@ -54,21 +54,21 @@
 	</head>
 	<body>
 		<script>
+			var css_links = [
+				,"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"
+				,"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"
+				,"/css/charter/webfonts/stylesheet.css"
+				,"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+				,"/css/debug.css"
+				,"/css/code.css"
+			];
 			var cb = function() {
-				var css_links = [
-					,"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"
-					,"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"
-					,"/css/charter/webfonts/stylesheet.css"
-					,"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
-					,"/css/debug.css"
-					,"/css/code.css"
-				];
-
-				for (var i in css_links) {
+				var i = 0;
+				//for (var i in css_links) {
 					var l = document.createElement('link'); l.rel = 'stylesheet';
 					l.href = css_links[i];
 					var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
-				}
+				//}
 			};
 			var raf = requestAnimationFrame || mozRequestAnimationFrame ||
 			webkitRequestAnimationFrame || msRequestAnimationFrame;
