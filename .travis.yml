@@ -6,6 +6,10 @@ env:
   global:
     - PATH=$HOME/.local/bin:$PATH
 before_install:
+- phantomjs -v
+- npm update
+- npm install phantomjs
+- phantomjs -v
 - openssl aes-256-cbc -K $encrypted_d99751a86d14_key -iv $encrypted_d99751a86d14_iv -in etc/deploy.enc -out $HOME/deploy -d
 - chmod 600 $HOME/deploy
 - pip install --user linkchecker
