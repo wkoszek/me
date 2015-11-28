@@ -23,7 +23,6 @@ min:
 max:
 	git checkout source/blog/201{2,3,4}*
 bootstrap:
-	sudo apt-get install libgmp-dev nodejs
 	gem install json -v '1.8.3'
 	bundle install
 	./scripts/aspell_setup.sh

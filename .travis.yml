@@ -18,3 +18,5 @@ addons:
     - aspell-en
     - nginx
     - linkchecker
+    - libgmp-dev
+    - nodejs
