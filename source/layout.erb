@@ -13,22 +13,11 @@
 
 		<meta name="p:domain_verify" content="35dedfd4f697e6e974b0ae6631ca7351"/>
 
-		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
 		<!-- Latest compiled and minified JavaScript -->
 		<script async src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
 		<%= partial "googlestats" %>
 		<%= partial "search" %>
-
-		<link rel="stylesheet" href="/css/charter/webfonts/stylesheet.css">
-
-		<link rel="stylesheet" href="/css/debug.css">
-
-		<link rel="stylesheet" href="/css/code.css">
-		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
 		<link rel="icon" type="image/png" href="/img/favicon.ico">
 		<% title = data.site.title.titleize %>
@@ -64,6 +53,29 @@
 
 	</head>
 	<body>
+		<script>
+			var cb = function() {
+				var css_links = [
+					,"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"
+					,"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"
+					,"/css/charter/webfonts/stylesheet.css"
+					,"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+					,"/css/debug.css"
+					,"/css/code.css"
+				];
+
+				for (var i in css_links) {
+					var l = document.createElement('link'); l.rel = 'stylesheet';
+					l.href = css_links[i];
+					var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+				}
+			};
+			var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+			webkitRequestAnimationFrame || msRequestAnimationFrame;
+			if (raf) raf(cb);
+			else window.addEventListener('load', cb);
+		</script>
+
 	<div class="container">
 		<div class="hidden-sm hidden-xs row">
 			<div id="debug">
