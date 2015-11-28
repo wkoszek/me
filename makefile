@@ -6,7 +6,6 @@ render-dev:
 	env DEV=yes bundle exec middleman build --verbose
 pub:
 	env TGT_KOSZEK_COM=production bundle exec middleman deploy
-	make update
 dns:
 	dig koszek.com +nostats +nocomments +nocmd
 	@echo "============== checking koszek.com ================="
