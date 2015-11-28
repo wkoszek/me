@@ -65,9 +65,12 @@
 			var cb = function() {
 				var i = 0;
 				//for (var i in css_links) {
-					var l = document.createElement('link'); l.rel = 'stylesheet';
-					l.href = css_links[i];
-					var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[0]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[1]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[2]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[3]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[4]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+				var l = document.createElement('link'); l.rel = 'stylesheet'; l.href = css_links[5]; var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
 				//}
 			};
 			var raf = requestAnimationFrame || mozRequestAnimationFrame ||
