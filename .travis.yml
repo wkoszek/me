@@ -9,6 +9,7 @@ before_install:
 - cd etc && openssl aes-256-cbc -K $encrypted_d99751a86d14_key -iv $encrypted_d99751a86d14_iv -in deploy.enc -out $HOME/deploy -d
 - pip install --user linkchecker
 script:
+- pwd
 - cp etc/ssh_config ~/.ssh/config
 - make bootstrap doit pub
 addons:
