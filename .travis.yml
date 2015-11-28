@@ -1,9 +1,10 @@
+sudo: false
 language: ruby
 rvm:
 - 2.2.3
 before_install:
 - cd etc && openssl aes-256-cbc -K $encrypted_d99751a86d14_key -iv $encrypted_d99751a86d14_iv -in deploy.enc -out deploy -d
-- sudo pip install linkchecker
+- pip install linkchecker
 script:
 - ssh-add ./etc/deploy
 - make bootstrap doit pub
