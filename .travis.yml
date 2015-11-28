@@ -10,6 +10,7 @@ before_install:
 - pip install --user linkchecker
 - git config --global user.email "wojciech@koszek.com"
 - git config --global user.name "Wojciech A. Koszek"
+- git remote add github git@github.com:wkoszek/me.git
 script:
 - cp etc/ssh_config ~/.ssh/config
 - make bootstrap doit pub
