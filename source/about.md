@@ -10,7 +10,7 @@ tags:
 
 # About me
 
-<img style="float: left; padding-right: 3%;" src="/img/small_IMG_1394.jpg">
+<img style="float: left; margin-right: 15px;" src="/img/small_IMG_1394.jpg">
 <!--
 <img style="float: left; padding-right: 3%;" src="/img/small_IMG_1405.jpg">
 <img style="float: left; padding-right: 3%;" src="/img/small_IMG_1440.jpg">
