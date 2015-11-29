@@ -39,6 +39,7 @@ $font-links-indexpage:		$font-body;
 
 body {
 	@include selection(true);
+	border-top: solid 3px $link-color;
 }
 
 ** {
@@ -67,9 +68,6 @@ a.abig { font-family: $font-links-indexpage; }
 .links .ac {
 	padding-bottom: 1%;
 	border-bottom: solid 5px $link-active-color;
-}
-body {
-	border-top: solid 3px black;
 }
 
 .content {
