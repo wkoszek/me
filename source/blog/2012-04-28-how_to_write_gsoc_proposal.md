@@ -85,7 +85,7 @@ hours. Actually 8 might be right.
 4[weeks]x4[days]x8[hours] schedule and steal them to Googleplex later)
 
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/1416596585/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1416596585&linkCode=as2&tag=wojcadamkoszh-20&linkId=ZNF2AF5JRZMPWS7E"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1416596585&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wojcadamkoszh-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&l=as2&o=1&a=1416596585" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1416596585/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1416596585&linkCode=as2&tag=wkoszek-20&linkId=ZNF2AF5JRZMPWS7E"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1416596585&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wkoszek-20&l=as2&o=1&a=1416596585" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 Remember what those 160 hours mean: it means hours on refining the project,
@@ -206,10 +206,10 @@ schedules](http://www.joelonsoftware.com/articles/fog0000000245.html)
 his two books:
 
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/1590593898/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590593898&linkCode=as2&tag=wojcadamkoszh-20&linkId=FTGU3WPKZ2G7452G"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1590593898&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wojcadamkoszh-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&l=as2&o=1&a=1590593898" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1590593898/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1590593898&linkCode=as2&tag=wkoszek-20&linkId=FTGU3WPKZ2G7452G"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1590593898&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wkoszek-20&l=as2&o=1&a=1590593898" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/1430209879/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430209879&linkCode=as2&tag=wojcadamkoszh-20&linkId=WD2OHH7GIWZVCTKF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1430209879&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wojcadamkoszh-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&l=as2&o=1&a=1430209879" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1430209879/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430209879&linkCode=as2&tag=wkoszek-20&linkId=WD2OHH7GIWZVCTKF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1430209879&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=wkoszek-20&l=as2&o=1&a=1430209879" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 Really excellent resources of knowledge, I can highly recommend)

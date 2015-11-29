@@ -5,7 +5,7 @@ read:	2012-07-25
 tags:	books
 layout: layout_book
 ads:
-- <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wojcadamkoszh-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1936719118" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+- <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1936719118" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 spellcheck-allow:
 - "learnt"
 - "Googled"
@@ -21,7 +21,7 @@ with an idea for making my own page, where I could write this and that.
 I knew little about blogs, so I Googled this and that, and found "Technical
 Blogging":
 
-<a href="http://www.amazon.com/gp/product/1934356883/ref=as_li_ss_il?ie=UTF8&tag=wojcadamkoszh-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1934356883"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=1934356883&MarketPlace=US&ID=AsinImage&WS=1&tag=wojcadamkoszh-20&ServiceVersion=20070822" ></a><img src="http://www.assoc-amazon.com/e/ir?t=wojcadamkoszh-20&l=as2&o=1&a=1934356883" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/1934356883/ref=as_li_ss_il?ie=UTF8&tag=wkoszek-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1934356883"><img border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=1934356883&MarketPlace=US&ID=AsinImage&WS=1&tag=wkoszek-20&ServiceVersion=20070822" ></a><img src="http://www.assoc-amazon.com/e/ir?t=wkoszek-20&l=as2&o=1&a=1934356883" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 While reading reviews, I've found Derek's name, and after reading about him
 for 5 minutes, I decided I must start following what this guy has to say.
