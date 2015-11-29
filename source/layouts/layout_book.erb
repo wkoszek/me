@@ -61,15 +61,7 @@
 					<span class="title"><%= current_page.title %></span>
 					<br>
 					<br>
-					<span class="hidden-sm hidden-xs">
-						<!--
-						•
-						<a href="#share">
-						Share&nbsp;&nbsp;&nbsp;
-						<i class="fa fa-share-alt"></i></a>
-						-->
-						<%= partial "_share" %>
-					</span>
+					<%= partial "_share" %>
 					<br>
 					<p>
 						<%= yield %>
@@ -129,7 +121,7 @@
 
 		<div class="col-md-3">
 			<font color="gray">
-				<h3>Notes</h3>
+				<h3 id="notes">Notes</h3>
 				<h4><a href="/notes/software-tools/">Software tools</a></h4>
 				<h4><a href="/notes/great-web-fonts/">Great Web Fonts</a></h4>
 				<h4><a href="/notes/deployment-checklist/">Deployment checklist</a></h4>
