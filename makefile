@@ -36,9 +36,9 @@ prepare:
 test_spec:
 	rspec spec/website.rb
 test_links:
-	env LC_ALL= LANG= linkchecker --cookiefile=etc/statcounter_blocking_cookie http://127.0.0.1:8888
+	linkchecker http://127.0.0.1:8888
 test_links_prod:
-	env LC_ALL= LANG= linkchecker --cookiefile=etc/statcounter_blocking_cookie http://www.koszek.com/
+	linkchecker http://www.koszek.com/
 http_start:
 	nginx -c `pwd`/etc/nginx.conf || exit 0
 http_stop:
