@@ -6,6 +6,15 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "SourceForge"
+- "de"
+- "workspace"
+- "JIRA"
+- "npm"
+- "jira"
+- "jiracmd"
+- "jilla"
 ---
 
 
