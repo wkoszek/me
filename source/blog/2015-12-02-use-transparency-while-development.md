@@ -7,6 +7,10 @@ layout:	layout_book
 ads:
 - 
 image: http://www.koszek.com/img/2015-12-02-use-transparency-while-development/image01.png
+spellcheck-allow:
+- "MacBook"
+- "livereload"
+- "Livereload"
 ---
 
 

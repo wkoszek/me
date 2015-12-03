@@ -26,7 +26,7 @@ bootstrap:
 	bundle install
 	./scripts/aspell_setup.sh
 spellfix:
-	find source/blog | xargs -I @ -n 50 echo middleman spellcheck @ --fix --inplace > _.fix
+	find source/blog | xargs -I @ -n 50 echo bundle exec middleman spellcheck @ --fix --inplace > _.fix
 	sh _.fix
 	rm -rf _.fix
 prepare:
