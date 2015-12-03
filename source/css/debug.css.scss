@@ -39,6 +39,7 @@ $font-links-indexpage:		$font-body;
 
 body {
 	@include selection(true);
+	background-color: $def-bg-color;
 	border-top: solid 3px $link-color;
 }
 
