@@ -6,6 +6,15 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- 'LastPass'
+- 'decrypt'
+- 'decrypting'
+- 'filename'
+- 'lastpass'
+- 'lpass'
+- 'myrepos'
+- 'subfolder'
 ---
 
 
@@ -28,7 +37,7 @@ ssh-agent and key adding.
 
 ## How to use it?
 
-Before we start, full disclosure: Lastpass has had 2
+Before we start, full disclosure: LastPass has had 2
 [security](https://blog.lastpass.com/2011/05/lastpass-security-notification.html/)
 [incidents](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/)
 that I know about, plus [they’ve been
