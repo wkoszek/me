@@ -18,7 +18,6 @@ spellcheck-allow:
 ---
 
 
-
 Passwords are a terrible authentication mechanism. Even though this
 mechanism exists in computer systems for years, frankly there aren’t too
 many solutions to address the password problem. If you’ve dealt with
@@ -34,6 +33,11 @@ is used for increased security. If your master password is weak, you’re
 baked. Upon decryption you have an access to all your passwords,
 including SSH passphrases. The script automates the management of
 ssh-agent and key adding.
+
+## Quickstart
+
+Visit the:
+[https://github.com/wkoszek/lastpass-ssh](https://github.com/wkoszek/lastpass-ssh)
 
 ## How to use it?
 
