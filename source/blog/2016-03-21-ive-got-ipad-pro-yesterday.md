@@ -6,6 +6,17 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "nd"
+- "Mea"
+- "culpa"
+- "Specswise"
+- "Wi"
+- "fi"
+- "workspace"
+- "Wunderlist"
+- "waaay"
+- "brainer"
 ---
 
 When iPad Pro came out, I got really excited. The price was fairly high, but
@@ -30,7 +41,7 @@ I considered Surface Pro 4, but didn't like the keyboard. Stylus was fine,
 but somehow I felt there was less apps which could take advantage of it.
 Frankly, when Surface Pro 4 came out, Microsoft store I went to had 0
 drawing apps to try the stylus with. I ended up drawing some doodles in
-Powerpoint.
+PowerPoint.
 
 I also didn't like the idea of using Windows, since it'd make things more
 complex too me, as I'm already using some of Apple stuff.
@@ -51,7 +62,7 @@ which makes me dizzy, always.
 So yes, paper is still around, and it seems like we haven't yet figured out
 that PDFs could in fact be formatted for a different screen sizes to deliver
 something readable for the user. So here I am -- instead of buying compact
-tablet where everything I read would fit nicely, I go with hyper-resulution
+tablet where everything I read would fit nicely, I go with hyper-resolution
 monster.
 
 ## Buying iPad Pro
@@ -120,8 +131,8 @@ The Apple Keyboard is difficult to use at first, but after couple of hours
 of writing on it, I'm getting used to it. In fact, this article was written
 on an iPad.
 
-My biggest problem is openess, of course. I'd really like being able to use
-an external medium to transfer files, but I guess that's not happing anytime
+My biggest problem is openness, of course. I'd really like being able to use
+an external medium to transfer files, but I guess that's not happening anytime
 soon in the workshop of uncle Apple.
 
 I have an iPad for 2 weeks, and I can't come up with reasons to criticize
@@ -150,14 +161,14 @@ astigmatism.
 
 First thing I wanted to try is to use Pro's screen along with Macbook Air. I
 installed Duet Display and it started to work, but unfortunately I have
-failed to get an opimal resultion configured. It has always been blurry and
+failed to get an optimal resolution configured. It has always been blurry and
 didn't take advantage of the full power of the Retina screen. Slightly
 disappointed. Reported the problem to the authors. Time will show.
 
 ## Notes
 
 This app is kicking. Not only one can write, but you can also put drawings
-along with the text, and everything seems to work seemlessly. I haven't been
+along with the text, and everything seems to work nicely. I haven't been
 using Notes much yet in my workflow, but I may consider doing so.
 
 Notes work great in stylus, and if Apple keeps making progress on it, we'll
@@ -185,7 +196,7 @@ correct background/fonts and nicely structured layout plus functional
 export, it does the job. Pretty depressing is that for $20 you get pretty
 much something you'd have gotten for free on a PC. My biggest buyers remorse
 is here, I guess. Additionally Pages on iOS are pretty pathetic, since I
-can't find a way to set inverted colorscheme there.
+can't find a way to set inverted color scheme there.
 
 ## HipChat
 
@@ -198,7 +209,7 @@ I don't know how and why, but once I experienced the feeling of control with
 touch-based interface, I installed the Complete Anatomy right away. Man,
 this is fun. It's a pity the free version is limited, and more
 fully-featured requires monthly plan. Will explore Essential Anatomy as
-well, since it seems like it's a fixed-price, waaay cheapter version.
+well, since it seems like it's a fixed-price, waaay cheaper version.
 
 # iPad Pro alternatives
 
@@ -211,5 +222,5 @@ you don't have strong ties to Apple, I'd consider Surface.
 # Summary
 
 Is iPad Pro for you? I suggest you go through your wishlist and figure out
-whethere Pro meets your needs. Feel free to send me an e-mail about your
+whether Pro meets your needs. Feel free to send me an e-mail about your
 findings and experiences with your iPad Pro.

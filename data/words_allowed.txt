@@ -96,3 +96,10 @@ login	#	/vagrant/source/blog/2012-04-28-how_to_write_gsoc_proposal.md
 Murphy's	#	/vagrant/source/blog/2012-05-14-funny_mistake.md
 IEEE	#	/vagrant/source/blog/2013-03-01-book-land-of-list.md
 google	#	/vagrant/source/blog/2013-04-01-book-what-would-google-do.md
+passphrase	#	/w/repos/me/source/blog/2015-12-07-using-lastpass-with-ssh.md
+passphrases	#	/w/repos/me/source/blog/2015-12-07-using-lastpass-with-ssh.md
+PDFs	#	/w/repos/me/source/blog/2016-03-21-ive-got-ipad-pro-yesterday.md
+Logitech	#	/w/repos/me/source/blog/2016-03-21-ive-got-ipad-pro-yesterday.md
+Macbook	#	/w/repos/me/source/blog/2016-03-21-ive-got-ipad-pro-yesterday.md
+iOS	#	/w/repos/me/source/blog/2016-03-21-ive-got-ipad-pro-yesterday.md
+LTE's	#	/w/repos/me/source/blog/2016-03-21-ive-got-ipad-pro-yesterday.md
