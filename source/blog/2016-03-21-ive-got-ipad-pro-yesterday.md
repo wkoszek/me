@@ -40,8 +40,8 @@ And so that's pretty much it about iPad Pro vs the rest of the world. Why
 not iPad Air 2?
 
 When I looked at the tablet vs. document sizes in the recent years, I had
-the feeling we are not getting things right, since most of the PDFs and
-books are still formatted as if they were to be printed. Your API
+the feeling that we are not getting things right, since most of the PDFs and
+books are still formatted as if they were to be printed. Your code's API
 documentation has 700 pages -- of course you're going to just print it!
 
 Right now when I take a random PDF and open it on iPad Air 2, the 2nd
@@ -74,10 +74,11 @@ find in a typical keyboard.
 
 Logitech case pros:
 - mechanical keyboard
-- nicely wraps iPad from top to bottom
+- nicely wraps iPad from top to bottom; protects the back well.
 - has backlit keys
 
 My biggest cons:
+- very heavy.
 - snapping to the magnetic connector didn't work too well. It seemed like
   the grip wasn't strong enough, so if you lie and want to slightly bend the
   keyboard and write on it, it just wasn't working.
@@ -89,7 +90,7 @@ My biggest cons:
   "nice to have", while reading on is probably my top choice. So I didn't
   like it.
 - They placed a "lock" key just above "Delete", which I keep typing all the 
-- it was very heavy.
+- did I mention it's heavy?
 
 And this is how I returned the Logitech case and I went with the Apple one.
 
@@ -101,7 +102,8 @@ Smart Keyboard pros:
 - strong magnetic snapping
 
 Smart Keyboard cons:
-- doesn't protect back of the iPad, when closed
+- no backlit in the keyboard
+- doesn't protect back of the iPad when closed
 - not so good feedback on key press
 
 I suggest you go to the store and play with both keyboards in order to
@@ -125,8 +127,10 @@ the hardware. It's fast and I haven't had any issues. Upon upgrading to iOS
 
 # iOS and Apps for iPad Pro
 
-Eh. That's where I believe we all will have to wait, since a lot of stuff
-seems to be half-baked at the time of writing (MAR-2016).
+Most of the time I don't complain about software. There are cases where I
+open an app (including Apple Apps) and realize that with this huge screen
+the navigation takes like 1% of available space, which is pretty
+frustrating. Other than that, some notes below.
 
 ## iOS 9.3
 
