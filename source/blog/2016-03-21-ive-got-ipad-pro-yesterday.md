@@ -1,5 +1,5 @@
 ---
-title:	'Is the biggest iPad really Pro?'
+title:	"I've got an iPad Pro yesterday"
 tags:	article
 read:	2016-03-20
 published: true
@@ -10,33 +10,50 @@ spellcheck-allow:
 -
 ---
 
-When iPad Pro came out, I got excited. The price was fairly high, but this
-model seemed to include all features I really always wanted from a tablet.
+When iPad Pro came out, I got really excited. The price was fairly high, but
+this model seemed to include all features I always wanted from a
+tablet.
 
-My tablet priorities:
-- big, high resolution screen. I think it means no more eyeballing of
-  A4/American Letter size documents on small screen with scaled down fonts,
-  and also more trees saved on printing down things I'd only read once.
-- pencil for drawing
+My priorities when making a tablet purchase:
+- big, high resolution screen. Should mean no more eyeballing of
+  A4/American Letter size documents on small screen with scaled down fonts;
+  also more trees saved on printing down things I'd only read once.
+- decent pencil for drawing
 - a lot of memory for podcasts, trainings and audiobooks
-- ability to use 
 
-iPad Pro is my first tablet ever. Up until this point I felt like buying a
-tablet would be a total waste of money, since the features from the list are
-pretty essential for my workflow.
+I got iPad Pro. It is my first tablet ever. Up until this point I felt like
+buying a tablet would be a total waste of money, since the features from the
+list are pretty essential for my usual workflow.
 
-When I also looked at the tablets in the recent years I had the feeling we 
-are not getting is right, since most of the documents are in formatted as
-if they were to be printed.
+# Decision process
 
-Yes, paper is still around, but it seems like we haven't yet
-figured out that PDFs could in fact be formatted for a different screen
-sizes to deliver something readable for the user.
+I considered Surface Pro 4, but didn't like the keyboard. Stylus was fine,
+but somehow I felt there was less apps which could take advantage of it.
+Frankly, when Surface Pro 4 came out, Microsoft store I went to had 0
+drawing apps to try the stylus with. I ended up drawing some doodles in
+Powerpoint.
 
-Right now when I take a random PDF and open it on iPad Air  2, the 2nd
+I also didn't like the idea of using Windows, since it'd make things more
+complex too me, as I'm already using some of Apple stuff.
+
+And so that's pretty much it about iPad Pro vs the rest of the world. Why
+not iPad Air 2?
+
+When I looked at the tablet vs. document sizes in the recent years, I had
+the feeling we are not getting things right, since most of the PDFs and
+books are still formatted as if they were to be printed. Your API
+documentation has 700 pages -- of course you're going to just print it!
+
+Right now when I take a random PDF and open it on iPad Air 2, the 2nd
 biggest tablet after Pro, the letters will most likely be small, and
 everything will require swiping the screen and panning the documents around,
-which makes me dizzy always.
+which makes me dizzy, always.
+
+So yes, paper is still around, and it seems like we haven't yet figured out
+that PDFs could in fact be formatted for a different screen sizes to deliver
+something readable for the user. So here I am -- instead of buying compact
+tablet where everything I read would fit nicely, I go with hyper-resulution
+monster.
 
 ## Buying iPad Pro
 
