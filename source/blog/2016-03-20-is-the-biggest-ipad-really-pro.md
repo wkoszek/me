@@ -57,7 +57,8 @@ find in a typical keyboard.
 
 Logitech case pros:
 - mechanical keyboard
-- nicely wraps iPad from top to bottom.
+- nicely wraps iPad from top to bottom
+- has backlit keys
 
 My biggest cons:
 - snapping to the magnetic connector didn't work too well. It seemed like
@@ -77,16 +78,114 @@ And this is how I returned the Logitech case and I went with the Apple one.
 
 Thank you for 14-day return policy, Corporate America.
 
-# So how is the big iPad?
+Smart Keyboard pros:
+- lighter
+- good key placement
+- strong magnetic snapping
 
-As always Apple delivered great hardware. The Apple Keyboard is difficult to
-use at first, but after couple of hours of writing on it, I'm getting used
-to it. In fact, this article was written on an iPad. 
+Smart Keyboard cons:
+- doesn't protect back of the iPad, when closed
+- not so good feedback on key press
 
-I have yet to order a protection for the back of the iPad. Other
+I suggest you go to the store and play with both keyboards in order to
+prevent yourself from surprises. Also note that Pro + Logitech case is
+probably as heavy as Macbook Air.
 
-# Apps for iPad Pro
+# So how is the iPad Pro?
 
-One of the very first apps was Dash.
-- Complete Anatomy
-- Wunderlist
+As always Apple delivered great hardware. Specswise, this a great machine.
+The Apple Keyboard is difficult to use at first, but after couple of hours
+of writing on it, I'm getting used to it. In fact, this article was written
+on an iPad.
+
+My biggest problem is openess, of course. I'd really like being able to use
+an external medium to transfer files, but I guess that's not happing anytime
+soon in the workshop of uncle Apple.
+
+I have an iPad for 2 weeks, and I can't come up with reasons to criticize
+the hardware. It's fast and I haven't had any issues. Upon upgrading to iOS
+9.3 beta I did have hiccups, but that's expected.
+
+# iOS and Apps for iPad Pro
+
+Eh. That's where I believe we all will have to wait, since a lot of stuff
+seems to be half-baked at the time of writing (MAR-2016).
+
+## iOS 9.3
+
+Finally there's some progress on screen dimmers: Night Shift mode. Basically
+your iPad's screen can get more sane colors for working at night. If you've
+ever frowned at night in front of the LCD because it was blasting bright light
+straight into your brain, fear no more. Night Shift may help.
+
+I'm still waiting for an app or update to the iOS so that I can invert the
+colors and get full black background/gray letters, which is the best for
+astigmatism.
+
+## Duet Display
+
+First thing I wanted to try is to use Pro's screen along with Macbook Air. I
+installed Duet Display and it started to work, but unfortunately I have
+failed to get an opimal resultion configured. It has always been blurry and
+didn't take advantage of the full power of the Retina screen. Slightly
+disappointed. Reported the problem to the authors. Time will show.
+
+## Notes
+
+This app is kicking. Not only one can write, but you can also put drawings
+along with the text, and everything seems to work seemlessly. I haven't been
+using Notes much yet in my workflow, but I may consider doing so.
+
+Notes work great in stylus, and if Apple keeps making progress on it, we'll
+no longer have to install custom apps for simple drawing. Very nice.
+
+## Dash
+
+Dash is the first app which I actually paid for. If you're a software
+developer, it's totally worth $10. This gem provides you offline packages of
+documentation to the most popular software projects available around. No
+more stealing of your LTE's plan data, no more frustration because of the
+crappy Wi-fi. You can have your favorite documentation for the vacation
+reading anywhere you go.
+
+## Wunderlist
+
+Nicely looking on iPad; feels like a workspace for your productivity. I wish
+the note taking in Wunderlist would be more fully-featured (at least full
+screen...), then I could do all my editing in here. But since it doesn't..
+
+## Ulysses
+
+It's probably the best writing app on iOS. With an ability of setting
+correct background/fonts and nicely structured layout plus functional
+export, it does the job. Pretty depressing is that for $20 you get pretty
+much something you'd have gotten for free on a PC. My biggest buyers remorse
+is here, I guess. Additionally Pages on iOS are pretty pathetic, since I
+can't find a way to set inverted colorscheme there.
+
+## HipChat
+
+Didn't yet catch-up with iPad I think. Looks like it's displaying the iPhone
+storyboard.
+
+## Complete Anatomy
+
+I don't know how and why, but once I experienced the feeling of control with
+touch-based interface, I installed the Complete Anatomy right away. Man,
+this is fun. It's a pity the free version is limited, and more
+fully-featured requires monthly plan. Will explore Essential Anatomy as
+well, since it seems like it's a fixed-price, waaay cheapter version.
+
+# iPad Pro alternatives
+
+As of writing this article (2016/MAR) I could view Surface as a strong
+competitor. Honestly, I pondered Surface since it makes so much more sense:
+fully featured PC, expandable and can read SD card. However because I write iOS
+software and my phone and computer are Apples, iPad Pro was a no-brainer. If
+you don't have strong ties to Apple, I'd consider Surface.
+
+# Summary
+
+Is iPad Pro for you? I suggest you go through your wishlist and figure out
+whethere Pro meets your needs. Feel free to send me an e-mail about your
+findings and experiences with your iPad Pro.
