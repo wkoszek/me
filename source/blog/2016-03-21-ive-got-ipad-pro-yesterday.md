@@ -139,6 +139,15 @@ I have an iPad for 2 weeks, and I can't come up with reasons to criticize
 the hardware. It's fast and I haven't had any issues. Upon upgrading to iOS
 9.3 beta I did have hiccups, but that's expected.
 
+# How's the pencil?
+
+I tried numerous styluses and Apple Pencil is basically the best. It has the
+sharp tip - like a normal pen, and it reacts very well with the screen. I've
+tried it with "Sketchboo", "Notes" and my favorite app -- Concepts. Nice
+thing is that it saves the vector form of the drawing, so for some simple
+design work I do, it's perfect, since I can cut from analog-to-digital
+vectorization. If you don't get the stylus, you miss a lot.
+
 # iOS and Apps for iPad Pro
 
 Most of the time I don't complain about software. There are cases where I
