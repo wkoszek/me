@@ -6,8 +6,6 @@ published: true
 layout:	layout_book
 ads:
 - 
-spellcheck-allow:
--
 ---
 
 When iPad Pro came out, I got really excited. The price was fairly high, but
@@ -15,6 +13,7 @@ this model seemed to include all features I always wanted from a
 tablet.
 
 My priorities when making a tablet purchase:
+
 - big, high resolution screen. Should mean no more eyeballing of
   A4/American Letter size documents on small screen with scaled down fonts;
   also more trees saved on printing down things I'd only read once.
@@ -73,11 +72,13 @@ shot. The deciding factor was a mechanical keys, similar to something you'd
 find in a typical keyboard.
 
 Logitech case pros:
+
 - mechanical keyboard
 - nicely wraps iPad from top to bottom; protects the back well.
 - has backlit keys
 
 My biggest cons:
+
 - very heavy.
 - snapping to the magnetic connector didn't work too well. It seemed like
   the grip wasn't strong enough, so if you lie and want to slightly bend the
@@ -97,11 +98,13 @@ And this is how I returned the Logitech case and I went with the Apple one.
 Thank you for 14-day return policy, Corporate America.
 
 Smart Keyboard pros:
+
 - lighter
 - good key placement
 - strong magnetic snapping
 
 Smart Keyboard cons:
+
 - no backlit in the keyboard
 - doesn't protect back of the iPad when closed
 - not so good feedback on key press
