@@ -17,6 +17,7 @@ spellcheck-allow:
 - "Wunderlist"
 - "waaay"
 - "brainer"
+- "vectorization"
 ---
 
 When iPad Pro came out, I got really excited. The price was fairly high, but
@@ -143,7 +144,7 @@ the hardware. It's fast and I haven't had any issues. Upon upgrading to iOS
 
 I tried numerous styluses and Apple Pencil is basically the best. It has the
 sharp tip - like a normal pen, and it reacts very well with the screen. I've
-tried it with "Sketchboo", "Notes" and my favorite app -- Concepts. Nice
+tried it with "Sketchbook", "Notes" and my favorite app -- Concepts. Nice
 thing is that it saves the vector form of the drawing, so for some simple
 design work I do, it's perfect, since I can cut from analog-to-digital
 vectorization. If you don't get the stylus, you miss a lot.
