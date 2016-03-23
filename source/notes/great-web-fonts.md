@@ -3,6 +3,12 @@ layout: layout_book
 tags:
 ---
 
+# Some free fonts
+
+- http://practicaltypography.com/charter.html
+- https://github.com/edwardtufte/et-book
+- http://github.rosettatype.com/yrsa-rasa/
+
 # Great Web Fonts
 
 For some time now each time I entered a website whose font I liked 
