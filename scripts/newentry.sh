@@ -5,18 +5,30 @@ if [ "x$1" != "x" ]; then
 	PARNAME=$1
 fi
 
-DRIVE=gdrive
-PARID=`$DRIVE list -q "title = \"${PARNAME}\"" | grep -v ^Id | cut -d " " -f 1`
+DRIVE=~/gopath/bin/gdrive
+PARID=`$DRIVE list -q "name = \"${PARNAME}\"" | grep -v ^Id | cut -d " " -f 1`
+
+echo "PARID: $PARID"
 
 $DRIVE list -q "'$PARID' in parents" | cat -n
 
 echo "Enter ID of doc to convert:"
 read ID
 
-BASENAME=`$DRIVE info -i $ID | grep ^Title: | cut -d " " -f 2-`
+BASENAME=`$DRIVE info $ID | grep ^Name: | cut -d " " -f 2-`
 
-$DRIVE download -i $ID -s --format docx > _.docx
-$DRIVE download -i $ID -s --format txt > _.txt
+(
+	rm -rf _
+	mkdir -p _
+	cd _
+	$DRIVE export $ID --mime application/vnd.openxmlformats-officedocument.wordprocessingml.document --force
+	mv *.docx ../_.docx
+	$DRIVE export $ID --mime text/plain --force
+	mv *.txt ../_.txt
+	cd ..
+	rm -rf _
+)
+
 pandoc --track-changes=accept _.docx -o _.md
 
 (mkdir -p _.r && cd _.r && unzip ../_.docx)
