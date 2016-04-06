@@ -1,3 +1,4 @@
+language: objective-c
 sudo: false
 language: ruby
 #cache: bundler
