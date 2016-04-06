@@ -20,10 +20,9 @@ update:
 min:
 	rm source/blog/201{2,3,4,5}*
 max:
-	git checkout source/blog/201{2,3,4}*
+	git checkout source/blog/201{2,3,4,5}*
 bootstrap:
 	gem install json -v '1.8.3'
-	brew install pandoc
 	bundle install
 	./scripts/aspell_setup.sh
 spellfix:
