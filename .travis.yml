@@ -1,7 +1,5 @@
-language: objective-c
-osx_image: xcode7.3
-#sudo: false
-#language: ruby
+language: ruby
+sudo: false
 #cache: bundler
 rvm:
 - 2.2.3
@@ -30,6 +28,7 @@ script:
 addons:
   apt:
     packages:
+    - pandoc
     - aspell
     - aspell-en
     - nginx
