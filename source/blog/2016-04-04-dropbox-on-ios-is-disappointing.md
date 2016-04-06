@@ -6,6 +6,8 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- "OSX"
 ---
 
 
