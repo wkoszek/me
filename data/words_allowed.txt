@@ -103,3 +103,7 @@ Logitech	#	/w/repos/me/source/blog/2016-03-21-ive-got-ipad-pro-yesterday.md
 Macbook	#	/w/repos/me/source/blog/2016-03-21-ive-got-ipad-pro-yesterday.md
 iOS	#	/w/repos/me/source/blog/2016-03-21-ive-got-ipad-pro-yesterday.md
 LTE's	#	/w/repos/me/source/blog/2016-03-21-ive-got-ipad-pro-yesterday.md
+HOWTO	#	/w/repos/me/source/blog/2016-04-11-dont-document-automate.md
+NAS	#	/w/repos/me/source/blog/2016-04-11-dont-document-automate.md
+AppVeyor	#	/w/repos/me/source/blog/2016-04-11-dont-document-automate.md
+TODO	#	/w/repos/me/source/blog/2016-04-11-dont-document-automate.md
