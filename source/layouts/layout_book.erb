@@ -100,8 +100,16 @@
 					</div>
 				</div>
 				<p>
+					<hr>
+					<h3>Subscribe for updates</h3>
+					<p>
+						<%= partial "mailchimp" %>
+					</p>
+
+					<hr>
 					<b>Liked it? Share it!</b>
 					<%= partial "_share" %>
+
 					<hr>
 					<h3>You may also like:</h3>
 					<ul>
@@ -109,6 +117,7 @@
 						<li><%= link_to article.title, article.url %>
 					<% end %>
 					</ul>
+
 					<hr>
 					<%= partial "_article_footer" %>
 					<%= partial "_disqus" %>
