@@ -6,6 +6,9 @@ published: true
 layout:	layout_book
 ads:
 - 
+spellcheck-allow:
+- wc
+- txt
 ---
 
 This year I want to contribute to Stack Overflow. I've been using this
