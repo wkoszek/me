@@ -40,7 +40,7 @@ My experience is that it'll mostly be fine and you'll get help. However
 some people are harsh and you'll have to deal with it. Below is a simple
 guideline which may help.
 
---------------------------------------------------------------------------------------------------------------------------------
+# Guideline for asking questions on Stack Overflow
 
 Each section is a question which you must know an answer to before
 posting your problem description. Include this data in your post. I give
@@ -89,11 +89,10 @@ I use Mac with Yosemite.
 
 I use bash.
 
-Summary
-=======
+# Summary
 
 When you have problems stated like the example above, it's much easier
 to figure out what the person wants, and she/he gets and how to help
 them. Solution would be to pass `-l` as a flag.
 
-![](2016-04-18-how-to-ask-questions-on-stack-overflow/image01.jpg){width="6.323272090988627in" height="4.444444444444445in"}Guideline for asking questions on Stack Overflow
+![](2016-04-18-how-to-ask-questions-on-stack-overflow/image01.jpg)
