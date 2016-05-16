@@ -107,3 +107,6 @@ HOWTO	#	/w/repos/me/source/blog/2016-04-11-dont-document-automate.md
 NAS	#	/w/repos/me/source/blog/2016-04-11-dont-document-automate.md
 AppVeyor	#	/w/repos/me/source/blog/2016-04-11-dont-document-automate.md
 TODO	#	/w/repos/me/source/blog/2016-04-11-dont-document-automate.md
+transpilers	#	/w/repos/me/source/blog/2016-05-16-use-as-few-tools-as-possible.md
+Counterintuitive	#	/w/repos/me/source/blog/2016-05-16-use-as-few-tools-as-possible.md
+moldable	#	/w/repos/me/source/blog/2016-05-16-use-as-few-tools-as-possible.md
