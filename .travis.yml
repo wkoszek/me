@@ -18,6 +18,8 @@ before_install:
 - sleep 3 # give xvfb some time to start
 - openssl aes-256-cbc -K $encrypted_d99751a86d14_key -iv $encrypted_d99751a86d14_iv -in etc/deploy.enc -out $HOME/deploy -d
 - chmod 600 $HOME/deploy
+- pip install --upgrade pip
+- pip install --upgrade requests
 - pip install --user linkchecker
 - git config --global user.email "wojciech@koszek.com"
 - git config --global user.name "Wojciech A. Koszek"
