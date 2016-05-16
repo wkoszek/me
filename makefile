@@ -50,6 +50,7 @@ clean:
 	rm -rf build
 	find * -name ".DS_Store" | xargs -n 1 rm -rf
 	rm -rf tmp scripts/_.*
-doit:	render prepare http_start test_links test_spec http_stop
+#doit:	render prepare http_start test_links test_spec http_stop
+doit:	render prepare http_start test_spec http_stop
 b:	render
 p:	pub
