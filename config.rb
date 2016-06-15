@@ -148,7 +148,7 @@ if has_spellcheck_v80 then
 				".sh", ".ico", ".xml", ".woff",
 				".eot", ".ttf", "*.otf",
 				".txt", "CNAME",
-				"/papers/", "/software/"
+				"/papers/"
 			]
 end
 
