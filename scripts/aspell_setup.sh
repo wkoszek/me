@@ -6,7 +6,7 @@ URL=ftp://ftp.gnu.org/gnu/aspell/dict/en/${F}
 echo "# setting up Aspell dictionaries!!"
 (
 	cd data
-	wget $URL
+	curl $URL
 	tar xjf $F
 	rm $F
 	ln -s aspell* aspell-dict
