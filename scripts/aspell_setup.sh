@@ -13,7 +13,7 @@ echo "# setting up Aspell dictionaries!!"
 	curl -o $F $URL
 	tar xjf $F
 	rm $F
-	ln -s ${BN} aspell-dict
+	ln -fFs ${BN} aspell-dict
 	cd aspell-dict
 	./configure
 	make
