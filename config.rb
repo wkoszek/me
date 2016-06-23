@@ -9,8 +9,6 @@ is_ci_circle = (ENV["CIRCLECI"].to_s.downcase == "true")
 is_ci_travis = (ENV["TRAVIS"].to_s.downcase == "true")
 is_ci_build = (is_ci_circle || is_ci_travis)
 
-has_spellcheck_v80 = 1
-
 def dbg(*args)
   print "# KC "
   args.each do |a|
@@ -136,21 +134,19 @@ activate :graphviz
 
 g_dict_dir = "`pwd`/data/aspell-dict"
 set :spellcheck_allow_file, "./data/words_allowed.txt"
-if has_spellcheck_v80 then
-	activate :spellcheck,
-			page: "blog/*",
-			tags: [ :p, :article ],
-			lang: "en_US.UTF-8",
-			debug: 0,
-			dontfail: 0,
-			cmdargs: "-a -l en_US.UTF-8 --dict-dir=#{g_dict_dir}",
-			ignored_exts: [".jpg", ".png", ".pdf",
-				".sh", ".ico", ".xml", ".woff",
-				".eot", ".ttf", "*.otf",
-				".txt", "CNAME",
-				"/papers/"
-			]
-end
+activate :spellcheck,
+		page: "blog/*",
+		tags: [ :p, :article ],
+		lang: "en_US.UTF-8",
+		debug: 0,
+		dontfail: 0,
+		cmdargs: "-a -l en_US.UTF-8 --dict-dir=#{g_dict_dir}",
+		ignored_exts: [".jpg", ".png", ".pdf",
+			".sh", ".ico", ".xml", ".woff",
+			".eot", ".ttf", "*.otf",
+			".txt", "CNAME",
+			"/papers/"
+		]
 
 # Fix quotes: https://github.com/middleman/middleman/issues/909
 set :markdown_engine, :kramdown
