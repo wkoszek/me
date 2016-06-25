@@ -231,5 +231,5 @@ activate :deploy do |deploy|
   deploy.method = :git
   deploy.branch = "gh-pages"
   deploy.remote = "git@github.com:wkoszek/me.git"
-  deploy.build_before = true
+  deploy.build_before = false
 end
