@@ -9,7 +9,7 @@ URL=ftp://ftp.gnu.org/gnu/aspell/dict/en/${F}
 
 echo "# setting up Aspell dictionaries!!"
 (
-	cd data
+	cd /tmp
 	curl -o $F $URL
 	tar xjf $F
 	rm $F
