@@ -24,6 +24,8 @@ max:
 bootstrap:
 	gem install json -v '1.8.3'
 	bundle install
+	cd data/ && rm -rf aspell-dict && ln -s aspell6* aspell-dict
+install_dict:
 	./scripts/aspell_setup.sh
 spellfix:
 	find source/blog | xargs -I @ -n 50 echo bundle exec middleman spellcheck @ --fix --inplace > _.fix
