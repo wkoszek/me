@@ -5,11 +5,11 @@ set -e
 
 BN=aspell6-en-2015.04.24-0
 F=${BN}.tar.bz2
-URL=ftp://ftp.gnu.org/gnu/aspell/dict/en/${F}
+URL=http://ftp.gnu.org/gnu/aspell/dict/en/${F}
 
 echo "# setting up Aspell dictionaries!!"
 (
-	cd /tmp
+	cd data
 	curl -o $F $URL
 	tar xjf $F
 	rm $F
