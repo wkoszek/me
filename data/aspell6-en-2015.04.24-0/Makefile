@@ -1,9 +1,9 @@
-ASPELL = /usr/local/bin/aspell
+ASPELL = /usr/bin/aspell
 ASPELL_FLAGS = 
-PREZIP = /usr/local/bin/prezip-bin
+PREZIP = /usr/bin/prezip-bin
 DESTDIR = 
-dictdir = /usr/local/Cellar/aspell/0.60.6.1/lib/aspell-0.60
-datadir = /usr/local/Cellar/aspell/0.60.6.1/lib/aspell-0.60
+dictdir = /usr/lib/aspell
+datadir = /usr/share/aspell
 
 # Generated with Aspell Dicts "proc" script version 0.60.4
 
