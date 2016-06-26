@@ -12,6 +12,7 @@ end
 
 Capybara.run_server = false
 Capybara.app_host = 'http://127.0.0.1:8888/'
+Capybara.default_wait_time = 120
 
 driver = nil
 if is_headless then
