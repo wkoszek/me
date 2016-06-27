@@ -1,6 +1,6 @@
 sudo: required
 group: edge
-language: ruby
+language: c
 services:
   - docker
 
@@ -11,7 +11,8 @@ before_install:
 - git config --global user.name "Wojciech A. Koszek"
 - git remote add github git@github.com:wkoszek/me.git
 script:
+- pwd
 - docker pull wkoszek/me
-- docker run -ti -v .:/me -w /me wkoszek/me
+- docker run -ti -v `pwd`:/me -w /me wkoszek/me
 #- cp etc/ssh_config ~/.ssh/config
 #- make bootstrap doit pub
