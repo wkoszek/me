@@ -1,7 +1,7 @@
 all:
 	(cd source && bundle exec middleman server)
 render:
-	bundle exec middleman build --verbose
+	env TGT_KOSZEK_COM=production bundle exec middleman build --verbose
 render-dev:
 	env DEV=yes bundle exec middleman build --verbose
 pub:
