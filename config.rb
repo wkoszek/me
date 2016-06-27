@@ -76,7 +76,10 @@ end
 activate :similar
 
 activate :drafts do |drafts|
-  drafts.build = true if not is_prod
+  drafts.build = false
+  if not is_prod then
+    drafts.build = true
+  end
   puts "# Build: #{drafts.build}"
 end
 
