@@ -1,4 +1,4 @@
 Host github.com
 	User	 git
 	HostName github.com
-	IdentityFile /home/travis/deploy
+	IdentityFile /me/etc/deploy
