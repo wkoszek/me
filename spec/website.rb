@@ -36,7 +36,8 @@ Capybara.default_driver = driver
 Capybara.current_driver = driver
 
 g_whitelist = [
-"/blog/2015/08/10/non-continuous-innovation-is-dangerous/"
+"/blog/2015/08/10/non-continuous-innovation-is-dangerous/",
+"/blog/2015/09/08/copyright-screen-of-facebook-paper/"
 ]
 
 describe "basic links", :type => :feature do
