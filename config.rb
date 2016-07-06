@@ -37,7 +37,7 @@ activate :search_engine_sitemap, default_priority: 0.5, default_change_frequency
 
 activate :sitemap_ping do |config|
   config.host         = 'http://www.koszek.com' # (required) Host of your website
-  config.after_build  = false                      # (optional, default: true)        Run automatically after build?
+  config.after_build  = true                      # (optional, default: true)        Run automatically after build?
 end
 
 activate :build_reporter do |build|
