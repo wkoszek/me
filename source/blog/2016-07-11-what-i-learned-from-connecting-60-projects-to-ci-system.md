@@ -64,14 +64,12 @@ way.
 
 So my algorithm for fixing my code was this:
 
-```
-for each repo:
-	regardless of what (no exceptions)
-		put README.md in place
-	if it's super trivial and I don't care:
-		skip
-	contigure CI system and see a green badge
-```
+	for each repo:
+		regardless of what (no exceptions)
+			put README.md in place
+		if it's super trivial and I don't care:
+			skip
+		contigure CI system and see a green badge
 
 ## Continuous Integration solutions?
 
