@@ -142,7 +142,7 @@ For me it's often a cycle of:
 
 For sure I've done with CI systems more than I'd have normally do. For
 example
-(testing my Ruby versions)[https://github.com/wkoszek/book-programming-ruby/blob/master/.travis.yml]
+[testing my Ruby versions](https://github.com/wkoszek/book-programming-ruby/blob/master/.travis.yml)
 for your scripts is easy. So is
 [building on 2 operating systems](https://github.com/wkoszek/mini_printf/blob/master/.travis.yml)
 
