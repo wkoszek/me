@@ -1,10 +1,12 @@
 all:
 	(cd source && bundle exec middleman server)
-render:
+lint:
+	scripts/yamllint.rb source/blog/*.md
+render: lint
 	env TGT_KOSZEK_COM=production bundle exec middleman build --verbose
-render-dev:
+render-dev: lint
 	env DEV=yes bundle exec middleman build --verbose
-pub:
+pub: lint
 	env TGT_KOSZEK_COM=production bundle exec middleman deploy
 dns:
 	dig koszek.com +nostats +nocomments +nocmd
