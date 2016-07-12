@@ -5,6 +5,8 @@ read: 2016-06-27
 published: true
 layout: layout_book
 image: http://bit.ly/28ZBw8z
+ads:
+-
 spellcheck-allow:
 - 'virtualization'
 - 'VM'
@@ -106,6 +108,8 @@ Docker Compose explains the whole system in a file called
 `docker-compose.yml`. This is where you can say that Web engine needs a
 memory storage and a database, and Compose will start things for you in a
 correct order.
+
+## Summary
 
 That's pretty much it. Intentionally I kept you away from technical details,
 since Docker documentation does a good job at it.
