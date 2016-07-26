@@ -61,19 +61,19 @@ How does the issue look like?
 Example ([from here](https://travis-ci.org/wkoszek/sensorama-ios/builds/145737758)):
 
 ~~~
-	+scan --workspace Sensorama.xcworkspace --scheme SensoramaTests
-	[08:12:08]: xcrun xcodebuild -list -workspace Sensorama.xcworkspace
-	No output has been received in the last 10m0s, this potentially indicates a
-	stalled build or something wrong with the build itself.
-	The build has been terminated
++scan --workspace Sensorama.xcworkspace --scheme SensoramaTests
+[08:12:08]: xcrun xcodebuild -list -workspace Sensorama.xcworkspace
+No output has been received in the last 10m0s, this potentially indicates a
+stalled build or something wrong with the build itself.
+The build has been terminated
 ~~~
 
 Another one ([from here](https://travis-ci.org/wkoszek/sensorama-ios/builds/146298516)):
 
 ~~~
-	/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk -fasm-bloc
-	The log length has exceeded the limit of 4 MB (this usually means that the test suite is raising the same exception over and over).
-	The job has been terminated
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk -fasm-bloc
+The log length has exceeded the limit of 4 MB (this usually means that the test suite is raising the same exception over and over).
+The job has been terminated
 ~~~
 
 How to deal with this stuff?
@@ -100,18 +100,18 @@ First of all, your config file `.travis.yml` for the `script` entry has to
 call 1 script. So for Sensorama I have:
 
 ~~~
-	language: objective-c
-	osx_image: xcode7.3
-	cache: cocoapods
-	rvm:
-	- 2.2
-	podfile: Sensorama/Podfile
-	script:
-	- ./scripts/travis_script.sh
-	#- ./scripts/script_with_folds
-	addons:
-	  ssh_known_hosts:
-	  - gitlab.com
+language: objective-c
+osx_image: xcode7.3
+cache: cocoapods
+rvm:
+- 2.2
+podfile: Sensorama/Podfile
+script:
+- ./scripts/travis_script.sh
+#- ./scripts/script_with_folds
+addons:
+  ssh_known_hosts:
+  - gitlab.com
 ~~~
 
 If you want to give it a try, use `script_with_folds`, borrowed from here.
@@ -119,25 +119,25 @@ If you want to give it a try, use `script_with_folds`, borrowed from here.
 Then it's pretty easy:
 
 ~~~
-	#!/bin/bash
+#!/bin/bash
 
-	travis_fold() {
-	  local action=$1
-	  local name=$2
-	  echo -en "travis_fold:${action}:${name}\r"
-	}
+travis_fold() {
+  local action=$1
+  local name=$2
+  echo -en "travis_fold:${action}:${name}\r"
+}
 
-	travis_fold start foo
+travis_fold start foo
 
-	echo "This line appears in the fold's 'header'"
+echo "This line appears in the fold's 'header'"
 
-	echo "Stuff inside"
+echo "Stuff inside"
 
-	sleep 2
+sleep 2
 
-	echo "More stuff"
+echo "More stuff"
 
-	travis_fold end foo
+travis_fold end foo
 ~~~
 
 So every fold has to start with `travis_fold:ACTION:name`, where `ACTION` is
@@ -149,37 +149,36 @@ For Sensorama I plan to use output folding a lot, so I've devised a simpler
 way to deal with this stuff:
 
 ~~~
+TMP=/tmp/.travis_fold_name
 
-	TMP=/tmp/.travis_fold_name
+# This is meant to be run from top-level dir. of sensorama-ios
 
-	# This is meant to be run from top-level dir. of sensorama-ios
+travis_fold() {
+  local action=$1
+  local name=$2
+  echo -en "travis_fold:${action}:${name}\r"
+}
 
-	travis_fold() {
-	  local action=$1
-	  local name=$2
-	  echo -en "travis_fold:${action}:${name}\r"
-	}
+travis_fold_start() {
+  travis_fold start $1
+  echo $1
+  /bin/echo -n $1 > $TMP
+}
 
-	travis_fold_start() {
-	  travis_fold start $1
-	  echo $1
-	  /bin/echo -n $1 > $TMP
-	}
-
-	travis_fold_end() {
-	  travis_fold end `cat ${TMP}`
-	}
+travis_fold_end() {
+  travis_fold end `cat ${TMP}`
+}
 ~~~
 
 This is a more elaborate version of what I showed before, but it lets you to
 do:
 
 ~~~
-	(
-	  travis_fold_start BOOSTRAPPING
-	  ./build.sh bootstrap
-	  travis_fold_end
-	)
+(
+  travis_fold_start BOOSTRAPPING
+  ./build.sh bootstrap
+  travis_fold_end
+)
 ~~~
 
 Without worrying whether the start and end tags for the fold are matched.
