@@ -39,9 +39,7 @@ Travis-CI environment in a Docker container).
 # Travis-CI limits for Open Source projects
 
 Travis-CI is entirely free for Open Source, which I find great.
-Even though its run-time limits are pretty generous,  they do exist.
-
-The limits I know about:
+Even though its run-time limits are pretty generous, they do exist:
 
 * time limit on jobs: which currently is set to 30 minutes.
 * 10 minute watchdog: if your job doesn't output anything in this period, it will be killed.
@@ -69,22 +67,119 @@ The job has been terminated
 
 How to deal with this stuff?
 
-# Prettifiers
+# Prettifiers?
 
 For XCode projects just pipe everything what comes from `xcodebuild` through
-`xcpretty`. 
-Pretty short section, as I'm sure each case you encounter 
-
-# Dealing with a lot out output
-
-4MB is a lot of text, I'd typically say. However it's not true when you use
-something like Cocoapods. When I run `pod update`, it can get very chatty. 
-Same for `gem cleanup` and `gem update`. The peak comes with `xcodebuild`
-which starts to print every single thing it does, including compiler
-invocations with all sorts of internal flags in every single line.
+`xcpretty`. If you're using [fastlane](https://github.com/fastlane/fastlane)
+(and if not, you should), then the `xcpretty` is used automatically.
+Normally I don't like the tools which obfuscate real command's output, but
+in this case I had no choice. Also `xcpretty` makes the output
+understandable.
 
 # Output folding
 
-And then you [run into issues
-with testing](LDO) then the output seems to grow, especially if you don't
-pipe your output to `xcpretty`. In this article I 
+Travis-CI has this cool undocumented feature called "output folding". You
+can group lines of output which belong to the same group of commands. You'll
+get them folded together and you don't have to scroll through all the
+output thanks to it.
+
+How to do it?
+
+First of all, your config file `.travis.yml` for the `script` entry has to
+call 1 script. So for Sensorama I have:
+
+```
+language: objective-c
+osx_image: xcode7.3
+cache: cocoapods
+rvm:
+- 2.2
+podfile: Sensorama/Podfile
+script:
+- ./scripts/travis_script.sh
+#- ./scripts/script_with_folds
+addons:
+  ssh_known_hosts:
+  - gitlab.com
+```
+
+If you want to give it a try, use `script_with_folds`, borrowed from here.
+
+Then it's pretty easy:
+
+```
+#!/bin/bash
+
+travis_fold() {
+  local action=$1
+  local name=$2
+  echo -en "travis_fold:${action}:${name}\r"
+}
+
+travis_fold start foo
+
+echo "This line appears in the fold's 'header'"
+
+echo "Stuff inside"
+
+sleep 2
+
+echo "More stuff"
+
+travis_fold end foo
+```
+
+So every fold has to start with `travis_fold:ACTION:name`, where `ACTION` is
+either `start` or `end`, and the `name` is whatever you want.
+
+# Doing folds easily
+
+For Sensorama I plan to use output folding a lot, so I've devised a simpler
+way to deal with this stuff:
+
+```
+TMP=/tmp/.travis_fold_name
+
+# This is meant to be run from top-level dir. of sensorama-ios
+
+travis_fold() {
+  local action=$1
+  local name=$2
+  echo -en "travis_fold:${action}:${name}\r"
+}
+
+travis_fold_start() {
+  travis_fold start $1
+  echo $1
+  /bin/echo -n $1 > $TMP
+}
+
+travis_fold_end() {
+  travis_fold end `cat ${TMP}`
+}
+```
+
+This is a more elaborate version of what I showed before, but it lets you to
+do:
+
+```
+(
+  travis_fold_start BOOSTRAPPING
+  ./build.sh bootstrap
+  travis_fold_end
+)
+```
+
+Without worrying whether the start and end tags for the fold are matched.
+One of the stupid mistakes I've made in one of the commits is that `action`
+and `name` mismatched, and then folding is broken.
+
+# Summary
+
+For optimizing output logging I'd start from trying to limit job output.
+In cases where you can't do it, try to use some output "compressors" and
+prettyfiers. Remember that these things add complexity and can sometimes
+make debugging harder, as they essentially obfuscate the output of original
+commands. At the end use output folding on Travis-CI.
+
+Was this article useful? [Let me know](http://www.twitter.com/wkoszek)
