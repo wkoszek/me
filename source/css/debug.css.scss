@@ -14,10 +14,9 @@ $blockquote-shift:		30px;
 $sel-bg-color:			$link-color !default;	// inverted colors
 $sel-fg-color:			$def-bg-color;
 
-$font-group:			"HelveticaNeue-CondensedBold", "PT Sans",
-				"Futura", "HelveticaNeue", "Helvetica Neue",
-				Helvetica, Arial, sans-serif;
-$font-body:			"charter";
+
+$font-group:			"concourse-t3", "HelveticaNeue-CondensedBold", "PT Sans", "Futura";
+$font-body:			"equity-text-b", "georgia";
 
 $font-links:			$font-group;
 $font-headers:			$font-group;
