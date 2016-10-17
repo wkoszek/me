@@ -45,10 +45,6 @@
 		<title>Wojciech Adam Koszek <%= '- ' + title %></title>
 		<meta name="description" content="<%= description %>" />
 
-		<% if current_page.metadata[:page].try(:[], 'keywords') %>
-		<meta name="keywords" content="<%= current_page.metadata[:page]['keywords'].join(", ") %>" />
-		<% end %>
-
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:site" content="@<%= data.site.twitter %>" />
 		<meta name="twitter:creator" content="@<%= data.site.twitter %>" />
