@@ -61,68 +61,43 @@
 	</head>
 	<body>
 	<div class="container">
-		<div class="hidden-sm hidden-xs row">
-			<div id="debug">
-				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-1">&nbsp;</div>
-
-				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-1">&nbsp;</div>
-
-				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-1">&nbsp;</div>
-			</div>
-		</div>
-
-		<% is_rd = 1 if current_page.url == "/reading/" %>
-		<% is_rd = 1 if current_page.data.tags != nil and current_page.data.tags.include?("books") %>
-		<% is_wr = 1 if current_page.url == "/" %>
-		<% is_wr = 1 if current_page.data.tags != nil and current_page.data.tags.include?("article") %>
-
 		<div class="row"><!-- Header -->
 			<div class="col-md-3 logo">
 				<a href="/">Wojciech Adam Koszek</a>
 			</div>
 			<div class="col-md-9 links hidden-sm hidden-xs"><!-- Desktop menu -->
-				<a class="<%= is_wr ? "ac" : "in" %>" href="/">Blog</a>
-				<a class="<%= is_rd ? "ac" : "in" %>" href="/reading/">Reading</a>
-				<!-- <a class="<%= current_page.url == "/speaking/" ? "ac" : "in" %>" href="/speaking/">Speaking</a> -->
-				<!-- <a class="<%= current_page.url == "/software/" ? "ac" : "in" %>" href="/software/">Software</a> -->
-				<a class="<%= current_page.url == "/papers/" ? "ac" : "in" %>" href="/papers/">Papers</a>
-				<a class="<%= current_page.url == "/about/" ? "ac" : "in" %>" href="/about/">About me</a>
-
+				<a class="in" href="/">Blog</a>
+				<a class="in" href="/reading/">Reading</a>
+				<a class="in" href="/papers/">Papers</a>
+				<a class="in" href="/about/">About me</a>
 				<input type="text" class="st-default-search-input">
 			</div>
 		</div>
-		<div class="row hidden-md hidden-lg links"><!-- Mobile menu, 1st row -->
-			<div class="col-xs-4">
-				<br>
-				<a class="<%= is_wr ? "ac" : "in" %>" href="/">Blog</a>
-			</div>
-			<div class="col-xs-4">
-				<br>
-				<a class="<%= is_rd ? "ac" : "in" %>" href="/reading/">Reading</a>
-			</div>
-			<div class="col-xs-4">
-				<br>
-				<!-- <a class="<%= current_page.url == "/speaking/" ? "ac" : "in" %>" href="/speaking/">Speaking</a> -->
-				<!-- <a class="<%= current_page.url == "/software/" ? "ac" : "in" %>" href="/software/">Software</a> -->
-			</div>
+		<div class="row"><!-- Header -->
+			<hr/>
 		</div>
 		<div class="row hidden-md hidden-lg links"><!-- Mobile menu, 1st row -->
 			<div class="col-xs-4">
 				<br>
-				<a class="<%= current_page.url == "/papers/" ? "ac" : "in" %>" href="/papers/">Papers</a>
+				<a class="in" href="/">Blog</a>
 			</div>
 			<div class="col-xs-4">
 				<br>
-				<a class="<%= current_page.url == "/about/" ? "ac" : "in" %>" href="/about/">About</a>
+				<a class="in" href="/reading/">Reading</a>
+			</div>
+			<div class="col-xs-4">
+				<br>
+				<!-- empty -->
+			</div>
+		</div>
+		<div class="row hidden-md hidden-lg links"><!-- Mobile menu, 2nd row -->
+			<div class="col-xs-4">
+				<br>
+				<a class="in" href="/papers/">Papers</a>
+			</div>
+			<div class="col-xs-4">
+				<br>
+				<a class="in" href="/about/">About</a>
 			</div>
 			<div class="col-xs-4">
 				<br>
@@ -132,12 +107,6 @@
 		<div class="row hidden-md hidden-lg links text-center"><!-- Search -->
 			<br>
 			<input type="text" class="st-default-search-input">
-		</div>
-
-		<div class="row">
-			<div class="col-md-12">
-				<br>
-			</div>
 		</div>
 
 		<%= yield %>
