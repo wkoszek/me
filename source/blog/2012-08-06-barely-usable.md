@@ -1,6 +1,7 @@
 ---
 title:	'Random notes on "Barely usable"'
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 description: "Usability insights right after reading 'Don't make me think'"
 auth:	Wojciech Koszek
 tags:	article

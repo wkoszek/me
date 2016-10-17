@@ -1,6 +1,7 @@
 ---
 title:	"101 Secrets of Highly Effective Speakers"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Caryl Rae Krannich
 read:	2012-12-25
 tags:	books

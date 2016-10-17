@@ -1,6 +1,7 @@
 ---
 title:	"The Lean Startup"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Eric Ries
 read:	2012-05-24
 tags:	books
@@ -12,6 +13,7 @@ spellcheck-allow:
 ---
 Full title: "The Lean Startup -- How Today's Entrepreneurs Use Continuous
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 Innovation to Create Radically Successful Businesses"
 
 The thing is that IMVU's idea was one of the most ridiculous thing I've ever

@@ -1,6 +1,7 @@
 ---
 title:  "The Art of Learning"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 categories: books
 tags:	books
 read:	2015-11-15

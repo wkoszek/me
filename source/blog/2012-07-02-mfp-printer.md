@@ -1,6 +1,7 @@
 ---
 title:	"Almost usable &mdash; Sharp MFP printer menu"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 description: "Some usability insights from using Sharp printers."
 auth:	Wojciech Koszek
 tags:	article

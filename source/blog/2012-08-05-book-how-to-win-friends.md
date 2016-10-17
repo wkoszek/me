@@ -1,6 +1,7 @@
 ---
 title:	"How to win friends and influence people"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Dale Carnegie
 read:	2012-08-05
 tags:	books

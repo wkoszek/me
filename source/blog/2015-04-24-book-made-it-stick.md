@@ -1,6 +1,7 @@
 ---
 title:  "Made it stick"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 categories: books
 tags:	books
 read:	2015-04-24

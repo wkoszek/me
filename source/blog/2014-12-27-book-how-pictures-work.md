@@ -1,6 +1,7 @@
 ---
 title:	"Picture This: How Pictures Work"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Molly Bang
 read:	2014-12-27
 tags:	books

@@ -1,6 +1,7 @@
 ---
 title:	"Six thinking hats"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Edward De Bono
 read:	2013-01-01
 tags:	books

@@ -1,6 +1,7 @@
 ---
 title:	'Facebook Paper and Copyright screens'
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 tags:	article
 read:	2015-09-09
 published: true

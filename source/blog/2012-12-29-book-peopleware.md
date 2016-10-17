@@ -1,6 +1,7 @@
 ---
 title:	"Peopleware"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Marco, Lister
 read:	2012-12-29
 tags:	books

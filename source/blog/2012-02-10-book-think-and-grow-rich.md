@@ -1,6 +1,7 @@
 ---
 title:	"Think and Grow Rich"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Napoleon Hill
 read:	2012-02-10
 ads:

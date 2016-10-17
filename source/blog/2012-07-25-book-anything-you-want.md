@@ -1,6 +1,7 @@
 ---
 title:	"Anything you want"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Derek Sivers
 read:	2012-07-25
 tags:	books

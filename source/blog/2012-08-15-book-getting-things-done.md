@@ -1,6 +1,7 @@
 ---
 title:	"Getting things done"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	David Allen
 read:	2012-08-15
 tags:	books

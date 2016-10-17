@@ -1,6 +1,7 @@
 ---
 title:	"The Tipping Point"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Malcolm Gladwell
 read:	2012-09-07
 tags:	books
@@ -14,6 +15,7 @@ spellcheck-allow:
 
 Full title: "The Tipping Point: How Little Things Can Make a Big Difference"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 
 Interesting take on spreading epidemies of all sorts.
 

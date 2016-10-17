@@ -1,6 +1,7 @@
 ---
 title:	"Positioning"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Al Ries, Jack Trout
 read:	2012-11-17
 tags:	books

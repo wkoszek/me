@@ -1,6 +1,7 @@
 ---
 title:	"No asshole rule"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Robert Sutton
 read:	2012-12-31
 tags:	books

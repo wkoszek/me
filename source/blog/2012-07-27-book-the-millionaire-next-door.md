@@ -1,6 +1,7 @@
 ---
 title:	"The Millionaire Next Door"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Thomas J. Stanley,  William D. Danko
 read:	2012-07-27
 tags:	books

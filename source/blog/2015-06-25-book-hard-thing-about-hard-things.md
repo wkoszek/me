@@ -1,6 +1,7 @@
 ---
 title:  "The Hard Thing About Hard Things"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 categories: books
 auth:	Ben Horowitz 
 tags:	books

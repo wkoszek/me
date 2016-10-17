@@ -1,6 +1,7 @@
 ---
 title:	"Talent code"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Daniel Coyle
 read:	2013-01-31
 tags:	books
@@ -13,6 +14,7 @@ spellcheck-allow:
 ---
 Full title: The Talent Code: Greatness Isn't Born. It's Grown. Here's How.
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 
 As opposed to "Talent is overrated", this book covered topics touching
 scientific parts of talent, like myelin presence, meaning, production and

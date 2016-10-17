@@ -1,6 +1,7 @@
 ---
 title:	"HDL Chip Design"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Douglas Smith
 read:	2012-11-07
 tags:	books
@@ -10,6 +11,7 @@ ads:
 ---
 Full title: "HDL Chip Design: A Practical Guide for Designing, Synthesizing
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 & Simulating ASICs & FPGAs Using VHDL or Verilog"
 
 This is the best book so far from all books I've seen about Verilog.

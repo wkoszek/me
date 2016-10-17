@@ -1,6 +1,7 @@
 ---
 title:	"The real book of real-estate"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Robert T. Kiyosaki
 read:	2014-05-29
 tags:	books

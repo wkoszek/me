@@ -1,6 +1,7 @@
 ---
 title:	"David and Goliath"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Malcolm Gladwell
 read:	2014-06-07
 tags:	books

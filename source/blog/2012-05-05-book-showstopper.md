@@ -1,6 +1,7 @@
 ---
 title:	"Showstopper!"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	G. Pascal Zachary
 read:	2012-05-05
 tags:	books

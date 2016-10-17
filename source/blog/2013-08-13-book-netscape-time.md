@@ -1,6 +1,7 @@
 ---
 title:	"Netscape Time"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Jim Clark
 read:	2013-08-13
 tags:	books
@@ -13,6 +14,7 @@ spellcheck-allow:
 ---
 Full title: "Netscape time: The Making of the Billion-Dollar Start-Up That
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 Took on Microsoft"
 
 Having read "The New New Thing" and later having a chance to meet Jim Clark

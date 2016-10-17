@@ -1,6 +1,7 @@
 ---
 title:	"Land of Lisp"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Conrad Barski
 read:	2013-03-01
 tags:	books

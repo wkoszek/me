@@ -1,6 +1,7 @@
 ---
 title:	'wget in 9 lines of Python For Hostile Environments'
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 description: "wget implementation for environments such as Synology DSM distribution, where wget doesn't have HTTPS support."
 tags:	article
 read:	2015-10-05

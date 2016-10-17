@@ -1,6 +1,7 @@
 ---
 title:	"The Art of Motorcycle Maintenance"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Robert Pirsig
 read:	2012-09-11
 tags:	books

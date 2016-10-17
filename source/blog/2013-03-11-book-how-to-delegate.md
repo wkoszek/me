@@ -1,6 +1,7 @@
 ---
 title:	"How to Delegate"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Dick Lohr
 read:	2013-03-11
 tags:	books
@@ -13,6 +14,7 @@ spellcheck-allow:
 ---
 *Full title: How to Delegate Work and Ensure It's Done Right.*
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 
 I picked one of my weak points and decided to see what other people can tell
 me about it.

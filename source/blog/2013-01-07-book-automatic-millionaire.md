@@ -1,6 +1,7 @@
 ---
 title:	"The Automatic Millionaire"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	David Bach
 read:	2013-01-07
 tags:	books

@@ -1,6 +1,7 @@
 ---
 title:	"JavaScript: The Definitive Guide"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	David Flanagan
 read:	2013-03-24
 tags:	books

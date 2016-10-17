@@ -1,6 +1,7 @@
 ---
 title:	'Subtle difference between FreeBSD, MacOSX and Linux printf'
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 description: 'Small differences in API behavior always start to be show up during stress-testing. Example comes from my mini_printf stress-test'
 tags:	article
 read:	2015-10-28

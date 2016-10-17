@@ -1,6 +1,7 @@
 ---
 title:	"Just for Fun: The Story of an Accidental Revolutionary"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Linus Torvalds, David Diamond
 read:	2012-09-17
 tags:	books

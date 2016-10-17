@@ -1,6 +1,7 @@
 ---
 title:	"More Joel on Software"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Joel Spolsky
 read:	2012-06-10
 tags:	books

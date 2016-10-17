@@ -1,6 +1,7 @@
 ---
 title:	"The Power of Habit"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	 Charles Duhigg
 read:	2014-02-07
 tags:	books

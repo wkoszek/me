@@ -1,6 +1,7 @@
 ---
 title:	"Cross-compile GNU assembler for MIPS"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 description: "Building and using cross-compiled MIPS toolchain."
 auth:	Wojciech Koszek
 tags:	article

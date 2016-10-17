@@ -1,6 +1,7 @@
 ---
 title:	"Made in America"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Sam Walton, John Huey
 read:	2013-08-20
 tags:	books

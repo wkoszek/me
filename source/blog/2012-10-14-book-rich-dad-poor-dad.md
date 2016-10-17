@@ -1,6 +1,7 @@
 ---
 title:	"Rich Dad Poor Dad"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Robert Kiyosaki
 read:	2012-10-14
 tags:	books

@@ -1,6 +1,7 @@
 ---
 title:	"The E-Myth Revisited"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Michael E. Gerber
 read:	2012-10-02
 tags:	books

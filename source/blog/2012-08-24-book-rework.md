@@ -1,6 +1,7 @@
 ---
 title:	"Rework"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 auth:	Jason Fried, David Heinemeier Hansson
 read:	2012-08-24
 tags:	books

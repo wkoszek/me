@@ -1,6 +1,7 @@
 ---
 title:  "Soft Skills: The software developer's life manual"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 categories: books
 tags:	books
 read:	2016-07-18

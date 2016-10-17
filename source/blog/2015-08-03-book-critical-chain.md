@@ -1,6 +1,7 @@
 ---
 title:	"Critical Chain"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 description: "Notes from listening to Critical Chain"
 auth:	Eliyahu M. Goldratt
 read:	2015-08-03

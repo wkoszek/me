@@ -1,6 +1,7 @@
 ---
 title:	"Unfriendly IT, or how to get Perforce diffs e-mailed to you"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 description: "Short HOWTO on how to make Perforce send patches to you."
 auth:	Wojciech Koszek
 tags:	article

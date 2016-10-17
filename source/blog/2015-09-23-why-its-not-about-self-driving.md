@@ -1,6 +1,7 @@
 ---
 title:	"Why it's not about self-driving"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 description: "My prediction that self-driving technology won't be a real value in itself."
 tags:	article
 read:	2015-09-23

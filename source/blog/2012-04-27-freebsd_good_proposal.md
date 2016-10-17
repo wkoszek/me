@@ -1,6 +1,7 @@
 ---
 title:	"Google Summer of Code &mdash; how proposals are evaluated"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 description: "The background behind decision making on submitted proposals during Google Summer of Code."
 auth:	"Wojciech Koszek"
 tags:	article

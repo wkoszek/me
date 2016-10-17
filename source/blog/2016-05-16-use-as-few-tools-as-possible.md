@@ -1,6 +1,7 @@
 ---
 title:	'Use as few tools as possible'
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 tags:	article
 read:	2016-05-16
 published: true

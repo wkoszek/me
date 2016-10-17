@@ -1,6 +1,7 @@
 ---
 title:	'Command Line Interface to GoDaddy.com'
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 description: "How to use GoDaddy from the command line."
 tags:	article
 read:	2015-08-06

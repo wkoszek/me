@@ -1,6 +1,7 @@
 ---
 title:  "Organized mind"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 categories: books
 tags:	books
 read:	2015-05-20

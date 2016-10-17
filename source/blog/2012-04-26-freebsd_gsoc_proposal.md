@@ -1,6 +1,7 @@
 ---
 title:	"Google Summer of Code &mdash; my take"
 author: "Wojciech Adam Koszek"
+address: "East Palo Alto, CA"
 description: "My point of view on Google Summer of Code competition."
 auth:	Wojciech Koszek
 tags:	article

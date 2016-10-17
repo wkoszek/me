@@ -1,6 +1,7 @@
 ---
 title:	"Essential: Essays by The Minimalists"
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 auth:	Joshua Fields Millburn, Ryan Nicodemus
 read:	2014-08-28
 tags:	books

@@ -1,6 +1,7 @@
 ---
 title: 'Dealing with large jobs on Travis-CI'
 author: "Wojciech Adam Koszek"
+address: "Menlo Park, CA"
 tags: article
 read: 2016-07-25
 published: true
