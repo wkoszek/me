@@ -53,16 +53,16 @@
 		<div class="col-md-6 content">
 			<% if current_page.data.tags != nil %>
 				<article>
-					<span class="date"><%= current_page.date.strftime('%b %e, %Y') %></span>
-					<br>
+					<h1 class="title"><%= current_page.title %></h1>
+					<i>by <%= current_page.data.author %>, </i>
+					<i><%= current_page.date.strftime('%b %e, %Y') %>,</i>
+					<i><%= current_page.data.address %></i>
+					<hr/>
+					<%= partial "_share" %>
+					<hr/>
 					<% current_page.tags.each do |tag| %>
 						<!-- <span><%= link_to tag, tag_path(tag) %></span> -->
 					<% end %>
-					<span class="title"><%= current_page.title %></span>
-					<br>
-					<br>
-					<%= partial "_share" %>
-					<br>
 					<p>
 						<%= yield %>
 					</p>
