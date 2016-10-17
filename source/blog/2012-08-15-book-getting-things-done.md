@@ -1,5 +1,6 @@
 ---
 title:	"Getting things done"
+author: "Wojciech Adam Koszek"
 auth:	David Allen
 read:	2012-08-15
 tags:	books

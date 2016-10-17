@@ -1,5 +1,6 @@
 ---
 title:	"How to move mount Fuji"
+author: "Wojciech Adam Koszek"
 auth:	 William Poundstone
 read:	2012-07-17
 tags:	books

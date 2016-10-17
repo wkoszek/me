@@ -1,5 +1,6 @@
 ---
 title:	"The Power of Positive Thinking"
+author: "Wojciech Adam Koszek"
 auth:	Norman Vincent Peale
 read:	2013-03-08
 tags:	books

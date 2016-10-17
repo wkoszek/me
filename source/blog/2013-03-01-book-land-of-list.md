@@ -1,5 +1,6 @@
 ---
 title:	"Land of Lisp"
+author: "Wojciech Adam Koszek"
 auth:	Conrad Barski
 read:	2013-03-01
 tags:	books

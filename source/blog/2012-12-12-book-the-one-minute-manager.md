@@ -1,5 +1,6 @@
 ---
 title:	"The One Minute Manager"
+author: "Wojciech Adam Koszek"
 auth:	Kenneth H. Blanchard, Spencer Johnson
 read:	2012-12-12
 tags:	books

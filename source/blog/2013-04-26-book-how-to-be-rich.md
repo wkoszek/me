@@ -1,5 +1,6 @@
 ---
 title:	"How to Be Rich"
+author: "Wojciech Adam Koszek"
 auth:	 J. Paul Getty
 read:	2013-04-26
 tags:	books

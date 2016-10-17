@@ -1,5 +1,6 @@
 ---
 title:	"Screw business as usual"
+author: "Wojciech Adam Koszek"
 auth:	Richard Branson
 read:	2014-03-14
 tags:	books

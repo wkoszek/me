@@ -1,5 +1,6 @@
 ---
 title:	"How to Stop Worrying and Start Living"
+author: "Wojciech Adam Koszek"
 auth:	Dale Carnegie
 read:	2012-08-12
 tags:	books

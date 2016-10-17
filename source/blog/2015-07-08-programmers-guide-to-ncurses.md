@@ -1,5 +1,6 @@
 ---
 title:	'Source Code from "Programmer Guide to NCurses" by Dan Gookin'
+author: "Wojciech Adam Koszek"
 description: "The collection of examples of ANSI C programs using NCurses library."
 tags:	article
 read:	2015-07-08

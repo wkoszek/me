@@ -1,5 +1,6 @@
 ---
 title:	'How the best companies do Continuous Integration'
+author: "Wojciech Adam Koszek"
 description: "Short summary of 1 hour research session on how great software companies use Continuous Integration."
 auth:	Wojciech Koszek
 read:	2015-06-20

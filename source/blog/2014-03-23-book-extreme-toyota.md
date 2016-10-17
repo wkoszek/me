@@ -1,5 +1,6 @@
 ---
 title:	"Extreme Toyota"
+author: "Wojciech Adam Koszek"
 auth:	Emi Osono, Norihiko Shimizu, Hirotaka Takeuchi
 read:	2014-03-23
 tags:	books

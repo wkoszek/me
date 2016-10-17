@@ -1,5 +1,6 @@
 ---
 title:	"Hackers and painters"
+author: "Wojciech Adam Koszek"
 auth:	Paul Graham
 read:	2012-04-20
 tags:	books

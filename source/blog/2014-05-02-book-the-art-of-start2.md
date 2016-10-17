@@ -1,5 +1,6 @@
 ---
 title:	"The art of start"
+author: "Wojciech Adam Koszek"
 auth:	Guy Kawasaki
 read:	2014-05-02
 tags:	books

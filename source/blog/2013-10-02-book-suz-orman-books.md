@@ -1,5 +1,6 @@
 ---
 title:	"Suze Orman books (9 steps, Courage..., )"
+author: "Wojciech Adam Koszek"
 auth:	Suze Orman
 read:	2013-10-02
 tags:	books

@@ -1,5 +1,6 @@
 ---
 title:	"One Minute Millionaire"
+author: "Wojciech Adam Koszek"
 auth:	Mark Victor Hansen, Robert G. Allen
 read:	2014-08-12
 tags:	books

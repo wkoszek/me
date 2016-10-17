@@ -1,5 +1,6 @@
 ---
 title:	"How to stay motivated"
+author: "Wojciech Adam Koszek"
 auth:	Zig Ziglar
 read:	2013-02-10
 tags:	books

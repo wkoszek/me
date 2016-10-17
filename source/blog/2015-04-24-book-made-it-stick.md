@@ -1,5 +1,6 @@
 ---
 title:  "Made it stick"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2015-04-24

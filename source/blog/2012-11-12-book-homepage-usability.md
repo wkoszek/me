@@ -1,5 +1,6 @@
 ---
 title:	"Homepage Usability: 50 Websites Deconstructed"
+author: "Wojciech Adam Koszek"
 auth:	 Jakob Nielsen, Marie Tahir
 read:	2012-11-12
 tags:	books

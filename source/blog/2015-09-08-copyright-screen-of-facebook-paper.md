@@ -1,5 +1,6 @@
 ---
 title:	'Facebook Paper and Copyright screens'
+author: "Wojciech Adam Koszek"
 tags:	article
 read:	2015-09-09
 published: true

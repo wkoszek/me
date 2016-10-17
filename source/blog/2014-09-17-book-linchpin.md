@@ -1,5 +1,6 @@
 ---
 title:	"Linchpin"
+author: "Wojciech Adam Koszek"
 auth:	Seth Godin
 read:	2014-09-17
 tags:	books

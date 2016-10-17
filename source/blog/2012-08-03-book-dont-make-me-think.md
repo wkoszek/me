@@ -1,5 +1,6 @@
 ---
 title:	"Don't make me think"
+author: "Wojciech Adam Koszek"
 auth:	Steve Krug
 read:	2012-08-03
 tags:	books

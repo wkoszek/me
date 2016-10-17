@@ -1,5 +1,6 @@
 ---
 title:	'How do you evaluate new technologies?'
+author: "Wojciech Adam Koszek"
 description: "Insights into how to evaluate technologies for your next project."
 tags:	article
 read:	2015-08-26

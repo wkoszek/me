@@ -1,5 +1,6 @@
 ---
 title:	"Winning"
+author: "Wojciech Adam Koszek"
 auth:	Jack Welch, Suzy Welch
 read:	2012-11-25
 tags:	books

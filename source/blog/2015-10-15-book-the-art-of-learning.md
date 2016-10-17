@@ -1,5 +1,6 @@
 ---
 title:  "The Art of Learning"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2015-11-15

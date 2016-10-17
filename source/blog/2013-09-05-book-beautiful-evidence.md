@@ -1,5 +1,6 @@
 ---
 title:	"Beautiful evindence"
+author: "Wojciech Adam Koszek"
 auth:	Edward Tufte
 read:	2013-09-05
 tags:	books

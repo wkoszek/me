@@ -1,5 +1,6 @@
 ---
 title:	"More Joel on Software"
+author: "Wojciech Adam Koszek"
 auth:	Joel Spolsky
 read:	2012-06-10
 tags:	books

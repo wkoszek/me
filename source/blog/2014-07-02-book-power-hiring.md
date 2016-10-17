@@ -1,5 +1,6 @@
 ---
 title:	"Power hiring"
+author: "Wojciech Adam Koszek"
 auth:	Lou Adler
 read:	2013-07-02
 tags:	books

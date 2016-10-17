@@ -1,5 +1,6 @@
 ---
 title:	"Ignore Everybody"
+author: "Wojciech Adam Koszek"
 auth:	Hugh MacLeod
 read:	2013-04-03
 tags:	books

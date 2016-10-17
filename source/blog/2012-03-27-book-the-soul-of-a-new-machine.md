@@ -1,5 +1,6 @@
 ---
 title:	"The Soul Of A New Machine"
+author: "Wojciech Adam Koszek"
 auth:	Tracy Kidder
 read:	2012-03-27
 ads:

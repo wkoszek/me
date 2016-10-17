@@ -1,5 +1,6 @@
 ---
 title:	"DEC is dead. Long live DEC"
+author: "Wojciech Adam Koszek"
 auth:	E. Schein, P. Kampas, P. Delisi, M. Sonduck
 read:	2013-01
 tags:	books

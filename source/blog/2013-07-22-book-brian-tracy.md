@@ -1,5 +1,6 @@
 ---
 title:	"Brian Tracy books..."
+author: "Wojciech Adam Koszek"
 auth:	Brian Tracy
 read:	2013-07-22
 tags:	books

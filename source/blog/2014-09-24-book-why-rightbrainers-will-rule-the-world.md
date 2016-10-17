@@ -1,5 +1,6 @@
 ---
 title:	"A Whole New Mind: Why Right-Brainers Will Rule the Future"
+author: "Wojciech Adam Koszek"
 auth:	Daniel H. Pink
 read:	2014-09-24
 tags:	books

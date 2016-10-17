@@ -1,5 +1,6 @@
 ---
 title:	"The Power of Twitter"
+author: "Wojciech Adam Koszek"
 auth:	Joel Comm, Dave Taylor, Guy Kawasaki
 read:	2014-10-19
 tags:	books

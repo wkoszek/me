@@ -1,5 +1,6 @@
 ---
 title:	"The 17 Indisputable Laws of Teamwork"
+author: "Wojciech Adam Koszek"
 auth:	John C. Maxwell
 read:	2014-01-16
 tags:	books

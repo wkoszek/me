@@ -1,5 +1,6 @@
 ---
 title:	"Mind for Numbers"
+author: "Wojciech Adam Koszek"
 description: "My thoughts from Mind for Numbers"
 auth:	"Barbara Oakley"
 read:	2015-09-07

@@ -1,5 +1,6 @@
 ---
 title:	"I've got an iPad Pro yesterday"
+author: "Wojciech Adam Koszek"
 tags:	article
 read:	2016-03-20
 published: true

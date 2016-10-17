@@ -1,5 +1,6 @@
 ---
 title:	"Why the Go Language Won't Be Successful"
+author: "Wojciech Adam Koszek"
 description: "Things which frustrated me about Go bootstrapping."
 tags:	article
 read:	2015-07-22

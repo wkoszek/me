@@ -1,5 +1,6 @@
 ---
 title:	"Funny mistakes and The Toyota Way"
+author: "Wojciech Adam Koszek"
 description: 'On connection between the "The Toyota Way" and the UNIX programming.'
 auth:	Wojciech Koszek
 tags:	article

@@ -1,5 +1,6 @@
 ---
 title:  "The Willpower Instinct"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2015-11-29

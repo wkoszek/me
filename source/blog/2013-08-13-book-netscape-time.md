@@ -1,5 +1,6 @@
 ---
 title:	"Netscape Time"
+author: "Wojciech Adam Koszek"
 auth:	Jim Clark
 read:	2013-08-13
 tags:	books
@@ -11,6 +12,7 @@ spellcheck-allow:
 - "nd"
 ---
 Full title: "Netscape time: The Making of the Billion-Dollar Start-Up That
+author: "Wojciech Adam Koszek"
 Took on Microsoft"
 
 Having read "The New New Thing" and later having a chance to meet Jim Clark

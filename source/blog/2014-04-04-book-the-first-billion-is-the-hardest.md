@@ -1,5 +1,6 @@
 ---
 title:	"The first billion is the hardest"
+author: "Wojciech Adam Koszek"
 auth:	T. Boone Pickens
 read:	2014-04-04
 tags:	books

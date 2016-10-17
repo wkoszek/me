@@ -1,5 +1,6 @@
 ---
 title:	"Ben and Jerry"
+author: "Wojciech Adam Koszek"
 auth:	Fred Lager
 read:	2014-02-21
 tags:	books

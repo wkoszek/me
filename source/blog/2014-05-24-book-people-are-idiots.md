@@ -1,5 +1,6 @@
 ---
 title:	"People Are Idiots and I Can Prove It!"
+author: "Wojciech Adam Koszek"
 auth:	Larry Winget
 read:	2014-05-24
 tags:	books

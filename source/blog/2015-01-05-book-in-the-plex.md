@@ -1,5 +1,6 @@
 ---
 title:  "In the Plex"
+author: "Wojciech Adam Koszek"
 tags: books
 tags:	books
 layout: layout_book

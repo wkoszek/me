@@ -1,5 +1,6 @@
 ---
 title:  "The Hard Thing About Hard Things"
+author: "Wojciech Adam Koszek"
 categories: books
 auth:	Ben Horowitz 
 tags:	books

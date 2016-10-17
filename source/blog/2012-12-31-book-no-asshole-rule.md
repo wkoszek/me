@@ -1,5 +1,6 @@
 ---
 title:	"No asshole rule"
+author: "Wojciech Adam Koszek"
 auth:	Robert Sutton
 read:	2012-12-31
 tags:	books

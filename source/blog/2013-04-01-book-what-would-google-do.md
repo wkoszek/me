@@ -1,5 +1,6 @@
 ---
 title:	"What would Google do?"
+author: "Wojciech Adam Koszek"
 auth:	Jeff Jervis
 read:	2013-04-01
 tags:	books

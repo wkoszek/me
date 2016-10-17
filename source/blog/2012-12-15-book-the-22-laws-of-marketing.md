@@ -1,5 +1,6 @@
 ---
 title:	"The 22 Immutable Laws of Marketing"
+author: "Wojciech Adam Koszek"
 auth:	Al Ries, Jack Trout
 read:	2012-12-15
 tags:	books

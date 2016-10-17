@@ -1,5 +1,6 @@
 ---
 title: 'What I learned from connecting 60 projects to CI system'
+author: "Wojciech Adam Koszek"
 tags: article
 read: 2016-07-11
 published: true

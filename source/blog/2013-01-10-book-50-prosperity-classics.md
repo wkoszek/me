@@ -1,5 +1,6 @@
 ---
 title:	"50 Prosperity Classics"
+author: "Wojciech Adam Koszek"
 auth:	Tom Butler-Bowdon
 read:	2013-01-09
 tags:	books

@@ -1,5 +1,6 @@
 ---
 title:	"Peopleware"
+author: "Wojciech Adam Koszek"
 auth:	Marco, Lister
 read:	2012-12-29
 tags:	books

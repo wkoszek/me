@@ -1,5 +1,6 @@
 ---
 title:	"Effective negotiating"
+author: "Wojciech Adam Koszek"
 auth:	Chester L Karrass
 read:	2013-09-28
 tags:	books

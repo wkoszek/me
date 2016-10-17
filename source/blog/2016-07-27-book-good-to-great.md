@@ -1,5 +1,6 @@
 ---
 title:  "Good to Great"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2016-07-27

@@ -1,5 +1,6 @@
 ---
 title:	"Google Summer of Code &mdash; my take"
+author: "Wojciech Adam Koszek"
 description: "My point of view on Google Summer of Code competition."
 auth:	Wojciech Koszek
 tags:	article

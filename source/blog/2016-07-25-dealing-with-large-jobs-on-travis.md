@@ -1,5 +1,6 @@
 ---
 title: 'Dealing with large jobs on Travis-CI'
+author: "Wojciech Adam Koszek"
 tags: article
 read: 2016-07-25
 published: true

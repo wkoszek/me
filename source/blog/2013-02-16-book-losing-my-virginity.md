@@ -1,5 +1,6 @@
 ---
 title:	"Losing My Virginity"
+author: "Wojciech Adam Koszek"
 auth:	Richard Branson
 read:	2013-02-16
 tags:	books

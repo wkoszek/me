@@ -1,5 +1,6 @@
 ---
 title:	'Do You Have a Favorite Shell Trick?'
+author: "Wojciech Adam Koszek"
 description: "Many times clean code isn't enough to get the job done. Shown is one of these cases where you must use some magic to make things going.."
 tags:	article
 read:	2015-09-28

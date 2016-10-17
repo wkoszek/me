@@ -1,5 +1,6 @@
 ---
 title:	"The Goal"
+author: "Wojciech Adam Koszek"
 auth:	Eliyahu M. Goldratt, Jeff Cox, David Whitford
 read:	2012-12-20
 tags:	books

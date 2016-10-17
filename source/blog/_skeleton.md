@@ -1,5 +1,6 @@
 ---
 title:	
+author: "Wojciech Adam Koszek"
 description: 
 image:
 site_name:

@@ -1,5 +1,6 @@
 ---
 title:	"Titan"
+author: "Wojciech Adam Koszek"
 auth:	Ron Chernow
 read:	2013-04-06
 tags:	books

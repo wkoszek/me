@@ -1,5 +1,6 @@
 ---
 title:	"How to write a good Google Summer of Code Proposals"
+author: "Wojciech Adam Koszek"
 description: "Short HOWTO for writing good Summer of Code Proposals."
 auth:	Wojciech Koszek
 tags:	article

@@ -1,5 +1,6 @@
 ---
 title:	'(Probably) the single biggest collection of Ruby scripts'
+author: "Wojciech Adam Koszek"
 description: "(Probably) the single biggest collection of Ruby scripts"
 tags:	article
 read:	2015-09-01

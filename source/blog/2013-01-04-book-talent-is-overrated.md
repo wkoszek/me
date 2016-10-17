@@ -1,5 +1,6 @@
 ---
 title:	"Talent is overrated"
+author: "Wojciech Adam Koszek"
 auth:	Geoff Colvin
 read:	2013-01-04
 tags:	books

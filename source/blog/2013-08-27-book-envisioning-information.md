@@ -1,5 +1,6 @@
 ---
 title:	"Envisioning information"
+author: "Wojciech Adam Koszek"
 auth:	Edward Tufte
 read:	2013-08-27
 tags:	books

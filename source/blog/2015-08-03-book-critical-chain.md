@@ -1,5 +1,6 @@
 ---
 title:	"Critical Chain"
+author: "Wojciech Adam Koszek"
 description: "Notes from listening to Critical Chain"
 auth:	Eliyahu M. Goldratt
 read:	2015-08-03

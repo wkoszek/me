@@ -1,5 +1,6 @@
 ---
 title:	'Quiz: portability of “find” command'
+author: "Wojciech Adam Koszek"
 tags:	article
 read:	2015-11-29
 published: true

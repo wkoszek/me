@@ -1,5 +1,6 @@
 ---
 title:	"On A Roll"
+author: "Wojciech Adam Koszek"
 auth:	Howard Jonas
 read:	2013-01-05
 tags:	books

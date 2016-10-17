@@ -1,5 +1,6 @@
 ---
 title:	"The Cathedral and the Bazaar"
+author: "Wojciech Adam Koszek"
 auth:	Eric S. Raymond
 read:	2013-04-07
 tags:	books

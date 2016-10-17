@@ -1,5 +1,6 @@
 ---
 title:	'How to ask questions on Stack Overflow?'
+author: "Wojciech Adam Koszek"
 tags:	article
 read:	2016-04-18
 published: true

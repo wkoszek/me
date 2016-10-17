@@ -1,5 +1,6 @@
 ---
 title:	"The Toyota Way"
+author: "Wojciech Adam Koszek"
 auth:	Jeffrey Liker
 read:	2012-04-04
 tags:	books
@@ -13,6 +14,7 @@ spellcheck-allow:
 ---
 
 Full title: "The Toyota Way: 14 Management Principles from the World's
+author: "Wojciech Adam Koszek"
 Greatest Manufacturer"
 
 This is one of the most influential books in my life, honestly speaking.

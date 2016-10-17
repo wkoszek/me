@@ -1,5 +1,6 @@
 ---
 title:	"As I see it."
+author: "Wojciech Adam Koszek"
 auth:	Jean Paul Getty
 read:	2013-09-10
 tags:	books

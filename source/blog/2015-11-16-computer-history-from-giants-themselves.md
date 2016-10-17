@@ -1,5 +1,6 @@
 ---
 title:	'Computer History from Giants Themselves'
+author: "Wojciech Adam Koszek"
 tags:	article
 read:	2015-11-16
 published: true

@@ -1,5 +1,6 @@
 ---
 title:	"The Power of Habit"
+author: "Wojciech Adam Koszek"
 auth:	 Charles Duhigg
 read:	2014-02-07
 tags:	books

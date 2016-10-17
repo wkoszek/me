@@ -1,5 +1,6 @@
 ---
 title:  "Jony Ive: The Genius Behind Apple's Greatest Products"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2015-11-03

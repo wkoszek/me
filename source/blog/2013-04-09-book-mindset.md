@@ -1,5 +1,6 @@
 ---
 title:	"Mindset"
+author: "Wojciech Adam Koszek"
 auth:	Carol Dweck
 read:	2013-04-09
 tags:	books

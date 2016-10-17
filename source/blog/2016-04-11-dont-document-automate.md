@@ -1,5 +1,6 @@
 ---
 title:	"Don't document. Automate!"
+author: "Wojciech Adam Koszek"
 tags:	article
 read:	2016-04-11
 published: true

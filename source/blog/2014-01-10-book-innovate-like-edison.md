@@ -1,5 +1,6 @@
 ---
 title:	"Innovate like Edison"
+author: "Wojciech Adam Koszek"
 auth:	Michael J. Gelb, Sarah Miller Caldicott
 read:	2014-01-10
 tags:	books

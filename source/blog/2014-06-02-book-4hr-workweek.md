@@ -1,5 +1,6 @@
 ---
 title:	"The 4-Hour Workweek"
+author: "Wojciech Adam Koszek"
 auth:	Timothy Ferriss
 read:	2014-06-02
 tags:	books

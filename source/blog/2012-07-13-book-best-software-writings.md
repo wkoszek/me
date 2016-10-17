@@ -1,5 +1,6 @@
 ---
 title:	"The Best Software Writing I"
+author: "Wojciech Adam Koszek"
 auth:	Joel Spolsky and various other authors
 read:	2012-07-19
 tags:	books

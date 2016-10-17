@@ -1,5 +1,6 @@
 ---
 title:	"Starting Forth"
+author: "Wojciech Adam Koszek"
 auth:	Leo Brodie
 read:	2012-10-07
 tags:	books

@@ -1,5 +1,6 @@
 ---
 title:	"I hate people"
+author: "Wojciech Adam Koszek"
 auth:	Jonathan Littman, Marc Hershon
 read:	2014-06-25
 tags:	books

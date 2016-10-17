@@ -1,5 +1,6 @@
 ---
 title:	"Little Red Book of Selling: 12.5 Principles of Sales Greatness"
+author: "Wojciech Adam Koszek"
 auth:	Jeffrey Gitomer
 read:	2012-10-09
 tags:	books

@@ -1,5 +1,6 @@
 ---
 title:  "Just My Type"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2015-05-20

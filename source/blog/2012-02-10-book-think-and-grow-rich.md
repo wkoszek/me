@@ -1,5 +1,6 @@
 ---
 title:	"Think and Grow Rich"
+author: "Wojciech Adam Koszek"
 auth:	Napoleon Hill
 read:	2012-02-10
 ads:

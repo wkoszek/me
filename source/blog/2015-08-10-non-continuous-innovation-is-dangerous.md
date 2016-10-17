@@ -1,5 +1,6 @@
 ---
 title:	'Non-continuous innovation = dangerous or “Amazon Ad Platform Cleanups”'
+author: "Wojciech Adam Koszek"
 description: "My take on making continous and non-continuous innovation."
 tags:	article
 read:	2015-08-10

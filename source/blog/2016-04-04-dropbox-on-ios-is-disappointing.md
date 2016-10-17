@@ -1,5 +1,6 @@
 ---
 title:	'Dropbox on iOS is disappointing'
+author: "Wojciech Adam Koszek"
 tags:	article
 read:	2016-04-05
 published: true

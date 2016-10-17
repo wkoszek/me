@@ -1,5 +1,6 @@
 ---
 title:	"50 Success Classics"
+author: "Wojciech Adam Koszek"
 auth:	Tom Butler-Bowdon
 read:	2013-01-15
 tags:	books

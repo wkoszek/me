@@ -1,5 +1,6 @@
 ---
 title:	"Succeeding as first time manager"
+author: "Wojciech Adam Koszek"
 auth:	Dick Lohr
 read:	2013-04-20
 tags:	books

@@ -1,5 +1,6 @@
 ---
 title:	"Dot.Bomb: My Days and Nights at an Internet Goliath"
+author: "Wojciech Adam Koszek"
 description: "My thoughts from listening about great and curvy story about Value America"
 auth:	"J. David Kuo"
 read:	2015-08-15

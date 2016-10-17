@@ -1,5 +1,6 @@
 ---
 title:  "Twenty-one Dog Years: Doing Time at Amazon.com"
+author: "Wojciech Adam Koszek"
 categories: books
 auth:	Mike Daisey
 tags:	books

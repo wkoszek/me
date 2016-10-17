@@ -1,5 +1,6 @@
 ---
 title:	"Crossing the chasm"
+author: "Wojciech Adam Koszek"
 auth:	Geoffrey A. Moore
 read:	2014-02-17
 tags:	books

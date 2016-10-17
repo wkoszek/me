@@ -1,5 +1,6 @@
 ---
 title:	"Design of everyday things"
+author: "Wojciech Adam Koszek"
 auth:	Donald A. Norman
 read:	2012-06-28
 tags:	books

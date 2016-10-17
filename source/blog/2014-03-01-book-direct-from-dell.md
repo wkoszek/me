@@ -1,5 +1,6 @@
 ---
 title:	"Direct from Dell"
+author: "Wojciech Adam Koszek"
 auth:	"Michael Dell, Catherine Fredman"
 read:	2014-03-01
 tags:	books

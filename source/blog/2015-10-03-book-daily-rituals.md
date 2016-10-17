@@ -1,5 +1,6 @@
 ---
 title:  "Daily Rituals"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2015-10-03

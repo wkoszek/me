@@ -1,5 +1,6 @@
 ---
 title:	"The Billionaire and the Mechanic"
+author: "Wojciech Adam Koszek"
 auth:	Julian Guthrie
 read:	2014-05-14
 tags:	books

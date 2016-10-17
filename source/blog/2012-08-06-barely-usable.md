@@ -1,5 +1,6 @@
 ---
 title:	'Random notes on "Barely usable"'
+author: "Wojciech Adam Koszek"
 description: "Usability insights right after reading 'Don't make me think'"
 auth:	Wojciech Koszek
 tags:	article

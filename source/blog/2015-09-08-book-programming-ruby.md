@@ -1,5 +1,6 @@
 ---
 title:  "Programming Ruby, The Pragmatic Programmer's Guide"
+author: "Wojciech Adam Koszek"
 categories: books
 auth:	Dave Thomas
 tags:	books

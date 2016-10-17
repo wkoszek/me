@@ -1,5 +1,6 @@
 ---
 title:	"JavaScript: The Definitive Guide"
+author: "Wojciech Adam Koszek"
 auth:	David Flanagan
 read:	2013-03-24
 tags:	books

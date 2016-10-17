@@ -1,5 +1,6 @@
 ---
 title:  "Organized mind"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2015-05-20

@@ -1,5 +1,6 @@
 ---
 title:	"Autobiography of Andrew Carnegie"
+author: "Wojciech Adam Koszek"
 auth:	Andrew Carnegie
 read:	2013-08-10
 tags:	books

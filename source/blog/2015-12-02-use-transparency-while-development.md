@@ -1,5 +1,6 @@
 ---
 title:	'How I use transparency during development'
+author: "Wojciech Adam Koszek"
 tags:	article
 read:	2015-12-02
 published: true

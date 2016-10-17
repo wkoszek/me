@@ -1,5 +1,6 @@
 ---
 title:	"Getting to Yes"
+author: "Wojciech Adam Koszek"
 auth:	Roger Fisher, William L. Ury, Bruce Patton
 read:	2012-06-16
 tags:	books

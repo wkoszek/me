@@ -1,5 +1,6 @@
 ---
 title:	"Are you smart enough to work at Google?"
+author: "Wojciech Adam Koszek"
 auth:	William Poundstone
 read:	2014-08-21
 tags:	books

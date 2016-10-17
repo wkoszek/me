@@ -1,5 +1,6 @@
 ---
 title:	"The New New Thing: A Silicon Valley Story"
+author: "Wojciech Adam Koszek"
 auth:	Michael Lewis
 read:	2012-12-02
 tags:	books

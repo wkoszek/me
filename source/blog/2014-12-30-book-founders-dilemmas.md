@@ -1,5 +1,6 @@
 ---
 title:	"The Founder's Dilemmas"
+author: "Wojciech Adam Koszek"
 auth:	Noam Wasserman
 read:	2014-12-30
 tags:	books

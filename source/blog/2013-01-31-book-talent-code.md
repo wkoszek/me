@@ -1,5 +1,6 @@
 ---
 title:	"Talent code"
+author: "Wojciech Adam Koszek"
 auth:	Daniel Coyle
 read:	2013-01-31
 tags:	books
@@ -11,6 +12,7 @@ spellcheck-allow:
 - "JoJo"
 ---
 Full title: The Talent Code: Greatness Isn't Born. It's Grown. Here's How.
+author: "Wojciech Adam Koszek"
 
 As opposed to "Talent is overrated", this book covered topics touching
 scientific parts of talent, like myelin presence, meaning, production and

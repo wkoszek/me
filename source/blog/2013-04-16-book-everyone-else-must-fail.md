@@ -1,5 +1,6 @@
 ---
 title:	"Everyone else must fail"
+author: "Wojciech Adam Koszek"
 auth:	Karen Southwick
 read:	2013-04-27
 tags:	books

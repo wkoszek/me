@@ -1,5 +1,6 @@
 ---
 title: 'What Docker really is'
+author: "Wojciech Adam Koszek"
 tags: article
 read: 2016-06-27
 published: true

@@ -1,5 +1,6 @@
 ---
 title:	"Optimize for the Developer’s Time, Not the Machine’s"
+author: "Wojciech Adam Koszek"
 description: "Modern look on tradeoffs in software development."
 tags:	article
 read:	2015-07-28

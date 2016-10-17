@@ -1,5 +1,6 @@
 ---
 title:  "Procrastination: Why You Do It, What to Do About It Now"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2016-06-15

@@ -1,5 +1,6 @@
 ---
 title:	"Secret"
+author: "Wojciech Adam Koszek"
 tags:	books
 auth:	Rhonda Byrne
 read:	2012-02-02

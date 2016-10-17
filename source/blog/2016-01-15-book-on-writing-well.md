@@ -1,5 +1,6 @@
 ---
 title:  "On writing well"
+author: "Wojciech Adam Koszek"
 categories: books
 tags:	books
 read:	2016-01-15

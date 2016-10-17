@@ -1,5 +1,6 @@
 ---
 title:	"How to Get Rich"
+author: "Wojciech Adam Koszek"
 auth:	Felix Dennis
 read:	2013-04-28
 tags:	books

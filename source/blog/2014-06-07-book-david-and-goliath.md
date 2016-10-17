@@ -1,5 +1,6 @@
 ---
 title:	"David and Goliath"
+author: "Wojciech Adam Koszek"
 auth:	Malcolm Gladwell
 read:	2014-06-07
 tags:	books

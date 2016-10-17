@@ -1,5 +1,6 @@
 ---
 title:	"The real book of real-estate"
+author: "Wojciech Adam Koszek"
 auth:	Robert T. Kiyosaki
 read:	2014-05-29
 tags:	books

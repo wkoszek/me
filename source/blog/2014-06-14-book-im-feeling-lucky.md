@@ -1,5 +1,6 @@
 ---
 title:	"I'm Feeling Lucky"
+author: "Wojciech Adam Koszek"
 auth:	Douglas Edwards
 read:	2014-06-14
 tags:	books

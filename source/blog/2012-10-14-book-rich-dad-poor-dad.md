@@ -1,5 +1,6 @@
 ---
 title:	"Rich Dad Poor Dad"
+author: "Wojciech Adam Koszek"
 auth:	Robert Kiyosaki
 read:	2012-10-14
 tags:	books

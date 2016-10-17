@@ -1,5 +1,6 @@
 ---
 title:	"fpurge() hack &mdash; Koszek trick #1"
+author: "Wojciech Adam Koszek"
 description: "On crude and unsupported fun with fpurge()"
 auth:	Wojciech Koszek
 tags:	article

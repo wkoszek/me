@@ -1,5 +1,6 @@
 ---
 title:	"Accelerated learning techniques"
+author: "Wojciech Adam Koszek"
 auth:	Brian Tracy
 read:	2014-Oct-15
 tags:	books
