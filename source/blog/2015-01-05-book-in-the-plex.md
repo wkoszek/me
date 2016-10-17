@@ -2,7 +2,6 @@
 title:  "In the Plex"
 author: "Wojciech Adam Koszek"
 address: "Menlo Park, CA"
-tags: books
 tags:	books
 layout: layout_book
 read:	2015-01-05

@@ -2,6 +2,10 @@
 title: 'Dealing with large jobs on Travis-CI'
 author: "Wojciech Adam Koszek"
 address: "Menlo Park, CA"
+abstract: >
+  Below I explain problems you may run into when your
+  continuous integration build starts to take a long and I
+  show some simple solutions for deadling with them.
 tags: article
 read: 2016-07-25
 published: true
