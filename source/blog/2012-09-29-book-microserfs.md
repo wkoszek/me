@@ -1,6 +1,7 @@
 ---
 title:	"Microserfs"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Douglas Coupland
 read:	2012-09-29

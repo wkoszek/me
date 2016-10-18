@@ -1,6 +1,7 @@
 ---
 title:	"How to stay motivated"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Zig Ziglar
 read:	2013-02-10

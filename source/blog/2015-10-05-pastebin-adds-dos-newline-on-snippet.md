@@ -1,6 +1,7 @@
 ---
 title:	'Pastebin adds DOS new-line separators at the end snippets'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 description: "What to watch out for while using Pastebin for code and text snippets."
 tags:	article

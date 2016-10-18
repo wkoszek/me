@@ -1,6 +1,7 @@
 ---
 title: 'What Docker really is'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 tags: article
 read: 2016-06-27

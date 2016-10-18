@@ -1,6 +1,7 @@
 ---
 title:  "Twenty-one Dog Years: Doing Time at Amazon.com"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 categories: books
 auth:	Mike Daisey

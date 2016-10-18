@@ -1,6 +1,7 @@
 ---
 title:	
 author: "Wojciech Adam Koszek"
+abstract:
 description: 
 image:
 site_name:

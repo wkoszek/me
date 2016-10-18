@@ -1,6 +1,7 @@
 ---
 title:	"Mindset"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Carol Dweck
 read:	2013-04-09

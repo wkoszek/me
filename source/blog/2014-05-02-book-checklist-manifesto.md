@@ -1,6 +1,7 @@
 ---
 title:	"The checklist manifesto"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Atul Gawande
 read:	2014-05-02

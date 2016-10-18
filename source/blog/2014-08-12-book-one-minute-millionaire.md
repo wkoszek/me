@@ -1,6 +1,7 @@
 ---
 title:	"One Minute Millionaire"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Mark Victor Hansen, Robert G. Allen
 read:	2014-08-12

@@ -1,6 +1,9 @@
 ---
 title:	"Unfriendly IT, or how to get Perforce diffs e-mailed to you"
 author: "Wojciech Adam Koszek"
+abstract: >
+  In this short article I show simple hack for getting Perforce
+  changes e-mailed to you.
 address: "East Palo Alto, CA"
 description: "Short HOWTO on how to make Perforce send patches to you."
 auth:	Wojciech Koszek
@@ -13,15 +16,10 @@ spellcheck-allow:
 - "CRON"
 ---
 
-Work for a big corporation can be very depressing sometimes. This touches me
+Work for a big corporation can be very challenging sometimes. This touches me
 especially when I have to request something, and IT department doesn't
 agree for providing me this functionality. Sometimes things are very simple,
 sometimes are more complex.
-
-Sometimes no time is the problem, sometimes "My request is not important
-enough to dedicate time for it". Sometimes I don't know how to push my
-company further. For now I've just set a "15 business days reminder". We'll
-see.
 
 In this particular case, I tried to provide myself a way to review Perforce
 commits other person working with me was doing. Solution, which we all know to

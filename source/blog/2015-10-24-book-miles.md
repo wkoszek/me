@@ -1,6 +1,7 @@
 ---
 title:  "Miles"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 categories: books
 tags:	books

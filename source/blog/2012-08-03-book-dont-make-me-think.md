@@ -1,6 +1,7 @@
 ---
 title:	"Don't make me think"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Steve Krug
 read:	2012-08-03

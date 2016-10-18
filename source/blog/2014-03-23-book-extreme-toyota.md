@@ -1,6 +1,7 @@
 ---
 title:	"Extreme Toyota"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Emi Osono, Norihiko Shimizu, Hirotaka Takeuchi
 read:	2014-03-23

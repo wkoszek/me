@@ -1,6 +1,7 @@
 ---
 title:	"50 Prosperity Classics"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Tom Butler-Bowdon
 read:	2013-01-09

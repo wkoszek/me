@@ -1,6 +1,7 @@
 ---
 title:	"Starting Forth"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Leo Brodie
 read:	2012-10-07

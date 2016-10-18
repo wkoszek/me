@@ -1,6 +1,7 @@
 ---
 title:  "Good to Great"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 categories: books
 tags:	books

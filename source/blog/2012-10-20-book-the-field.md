@@ -1,6 +1,7 @@
 ---
 title:	"The Field"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Lynne McTaggart
 read:	2012-10-20
@@ -11,6 +12,7 @@ ads:
 ---
 Full title: "The Field--The Quest for the Secret Force of the Universe"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 
 I somehow didn't like this one. I think author is wrong and the fact that

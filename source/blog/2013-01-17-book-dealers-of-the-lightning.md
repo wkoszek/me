@@ -1,6 +1,7 @@
 ---
 title:	"Dealers of Lightning"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Michael A. Hiltzik
 read:	2013-01-17

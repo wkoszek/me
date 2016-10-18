@@ -1,6 +1,7 @@
 ---
 title:	"Father & Son -- my life at IBM"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Thomas J. Watson, Peter Petre
 read:	2014-03-08

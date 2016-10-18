@@ -1,6 +1,7 @@
 ---
 title:	"Are you smart enough to work at Google?"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	William Poundstone
 read:	2014-08-21

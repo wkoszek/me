@@ -1,6 +1,7 @@
 ---
 title:	"The science of getting rich"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Wallace D. Wattles
 read:	2013-04-18

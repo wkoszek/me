@@ -1,6 +1,7 @@
 ---
 title:	"I'm Feeling Lucky"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Douglas Edwards
 read:	2014-06-14

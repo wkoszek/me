@@ -1,6 +1,7 @@
 ---
 title:	'How to ask questions on Stack Overflow?'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 tags:	article
 read:	2016-04-18

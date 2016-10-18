@@ -1,6 +1,7 @@
 ---
 title:  "Procrastination: Why You Do It, What to Do About It Now"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 categories: books
 tags:	books

@@ -1,6 +1,7 @@
 ---
 title:	"Homepage Usability: 50 Websites Deconstructed"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	 Jakob Nielsen, Marie Tahir
 read:	2012-11-12

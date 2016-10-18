@@ -1,6 +1,7 @@
 ---
 title:	"Beautiful evindence"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Edward Tufte
 read:	2013-09-05

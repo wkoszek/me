@@ -1,6 +1,7 @@
 ---
 title:	"Figuring out confusing assembly instructions &mdash; Koszek trick #2"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 description: "Some tips and tricks on understanding how C impacts generated assembler."
 auth:	Wojciech Koszek

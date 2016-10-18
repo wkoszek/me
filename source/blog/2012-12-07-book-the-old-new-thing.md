@@ -1,6 +1,7 @@
 ---
 title:	"The Old New Thing"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Raymond Chen
 read:	2012-12-07

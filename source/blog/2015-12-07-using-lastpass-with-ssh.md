@@ -1,6 +1,7 @@
 ---
 title:	'How to store SSH passphrases in LastPass'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 tags:	article
 read:	2015-12-04

@@ -1,6 +1,7 @@
 ---
 title:	"Titan"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Ron Chernow
 read:	2013-04-06

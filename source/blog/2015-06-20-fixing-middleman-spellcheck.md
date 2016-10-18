@@ -1,6 +1,7 @@
 ---
 title:	'Fixing Middleman-spellcheck'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 description: "From the battle-field description on fixing Middleman plugin."
 auth:	Wojciech Koszek

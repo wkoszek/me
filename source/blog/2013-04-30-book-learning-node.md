@@ -1,6 +1,7 @@
 ---
 title:	"Learning Node"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Shelley Powers
 read:	2013-05-01

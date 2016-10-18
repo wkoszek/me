@@ -1,6 +1,7 @@
 ---
 title:	'My GitHub Wishlist: Consolidate Request'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 tags:	article
 read:	2015-11-29

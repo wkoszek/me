@@ -1,6 +1,7 @@
 ---
 title:	'I wish Ruby and Python stopped changing so much'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 description: "Several things which make writing code in Ruby and Python problematic, long term."
 tags:	article

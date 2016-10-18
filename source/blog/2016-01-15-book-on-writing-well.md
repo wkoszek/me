@@ -1,6 +1,7 @@
 ---
 title:  "On writing well"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 categories: books
 tags:	books

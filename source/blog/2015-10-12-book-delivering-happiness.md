@@ -1,6 +1,7 @@
 ---
 title:  "Delivering happiness"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 categories: books
 tags:	books

@@ -1,6 +1,7 @@
 ---
 title:	"The Millionaire Mind"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Thomas J. Stanley
 read:	2013-05-15

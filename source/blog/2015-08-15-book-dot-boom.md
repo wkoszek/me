@@ -1,6 +1,7 @@
 ---
 title:	"Dot.Bomb: My Days and Nights at an Internet Goliath"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 description: "My thoughts from listening about great and curvy story about Value America"
 auth:	"J. David Kuo"

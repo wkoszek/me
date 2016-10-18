@@ -1,6 +1,7 @@
 ---
 title:	"Succeeding as first time manager"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Dick Lohr
 read:	2013-04-20

@@ -1,6 +1,7 @@
 ---
 title:	"Blink"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Malcolm Gladwell
 read:	2014-02-03

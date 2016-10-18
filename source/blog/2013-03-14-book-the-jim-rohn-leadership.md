@@ -1,6 +1,7 @@
 ---
 title:	"Jim Rohn's weekend leadership event"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Jim Rohn
 read:	2013-03-14

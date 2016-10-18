@@ -1,6 +1,7 @@
 ---
 title:	"Brian Tracy books..."
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Brian Tracy
 read:	2013-07-22

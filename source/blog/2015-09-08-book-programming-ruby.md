@@ -1,6 +1,7 @@
 ---
 title:  "Programming Ruby, The Pragmatic Programmer's Guide"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 categories: books
 auth:	Dave Thomas

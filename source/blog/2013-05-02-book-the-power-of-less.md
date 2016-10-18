@@ -1,6 +1,7 @@
 ---
 title:	"The Power of Less"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	 Leo Babauta
 read:	2013-05-02

@@ -1,6 +1,7 @@
 ---
 title:	"The Master Key System"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Charles F. Haanel
 read:	2013-04-14

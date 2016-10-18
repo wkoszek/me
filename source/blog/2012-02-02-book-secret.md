@@ -1,7 +1,8 @@
 ---
 title:	"Secret"
 author: "Wojciech Adam Koszek"
-address: "East Palo Alto, CA"
+abstract:
+address: "Czestochowa, Poland"
 tags:	books
 auth:	Rhonda Byrne
 read:	2012-02-02

@@ -1,6 +1,7 @@
 ---
 title:	"Ben and Jerry"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Fred Lager
 read:	2014-02-21

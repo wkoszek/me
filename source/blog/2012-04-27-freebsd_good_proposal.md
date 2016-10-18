@@ -1,6 +1,10 @@
 ---
 title:	"Google Summer of Code &mdash; how proposals are evaluated"
 author: "Wojciech Adam Koszek"
+abstract: >
+  This article serves as a help for students wishing to apply to
+  Google Summer of Code and discusses some background in how the
+  submitted project proposals are evaluated.
 address: "East Palo Alto, CA"
 description: "The background behind decision making on submitted proposals during Google Summer of Code."
 auth:	"Wojciech Koszek"

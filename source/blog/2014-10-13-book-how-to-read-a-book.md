@@ -1,6 +1,7 @@
 ---
 title:	"How to read a book?"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Mortimer J. Adler, Charles Van Doren
 read:	2014-10-13

@@ -1,6 +1,7 @@
 ---
 title:	"Guerilla Business School"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Herv Eker
 read:	2013-09-21

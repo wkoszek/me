@@ -1,6 +1,7 @@
 ---
 title:	"Envisioning information"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Edward Tufte
 read:	2013-08-27

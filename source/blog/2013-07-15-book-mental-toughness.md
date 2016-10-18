@@ -1,6 +1,7 @@
 ---
 title:	"Mental toughness training"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	 by James, Loehr, Peter McLaughlin
 read:	2013-07-15

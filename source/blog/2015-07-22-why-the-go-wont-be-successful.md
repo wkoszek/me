@@ -1,6 +1,7 @@
 ---
 title:	"Why the Go Language Won't Be Successful"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 description: "Things which frustrated me about Go bootstrapping."
 tags:	article

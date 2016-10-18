@@ -1,6 +1,7 @@
 ---
 title:	"The 4-Hour Workweek"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Timothy Ferriss
 read:	2014-06-02

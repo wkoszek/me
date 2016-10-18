@@ -1,6 +1,7 @@
 ---
 title:	"Coping with difficult people"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Robert M. Bramson
 read:	2013-09-14

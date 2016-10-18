@@ -1,6 +1,7 @@
 ---
 title:	"Dreaming in code"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Scott Rosenberg
 read:	2014-01-22

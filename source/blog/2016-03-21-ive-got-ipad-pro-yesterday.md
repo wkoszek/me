@@ -1,6 +1,7 @@
 ---
 title:	"I've got an iPad Pro yesterday"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 tags:	article
 read:	2016-03-20

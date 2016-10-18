@@ -1,6 +1,7 @@
 ---
 title:	"The first billion is the hardest"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	T. Boone Pickens
 read:	2014-04-04

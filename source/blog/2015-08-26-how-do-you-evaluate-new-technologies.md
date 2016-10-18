@@ -1,6 +1,7 @@
 ---
 title:	'How do you evaluate new technologies?'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 description: "Insights into how to evaluate technologies for your next project."
 tags:	article

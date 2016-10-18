@@ -1,6 +1,7 @@
 ---
 title:	"Don't document. Automate!"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 tags:	article
 read:	2016-04-11

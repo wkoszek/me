@@ -1,6 +1,7 @@
 ---
 title:	"Optimize for the Developer’s Time, Not the Machine’s"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 description: "Modern look on tradeoffs in software development."
 tags:	article

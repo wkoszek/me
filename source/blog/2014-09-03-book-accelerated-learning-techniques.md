@@ -1,6 +1,7 @@
 ---
 title:	"Accelerated learning techniques"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Brian Tracy
 read:	2014-Oct-15

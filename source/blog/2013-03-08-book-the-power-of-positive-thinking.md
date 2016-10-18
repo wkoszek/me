@@ -1,6 +1,7 @@
 ---
 title:	"The Power of Positive Thinking"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Norman Vincent Peale
 read:	2013-03-08

@@ -1,6 +1,7 @@
 ---
 title:	"Screw business as usual"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Richard Branson
 read:	2014-03-14

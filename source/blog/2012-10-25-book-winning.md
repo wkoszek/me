@@ -1,6 +1,7 @@
 ---
 title:	"Winning"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Jack Welch, Suzy Welch
 read:	2012-11-25

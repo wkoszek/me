@@ -1,6 +1,7 @@
 ---
 title:	"Design of everyday things"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Donald A. Norman
 read:	2012-06-28

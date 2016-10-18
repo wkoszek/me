@@ -1,6 +1,7 @@
 ---
 title:	"The New New Thing: A Silicon Valley Story"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Michael Lewis
 read:	2012-12-02

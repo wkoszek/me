@@ -1,6 +1,7 @@
 ---
 title:	"The Soul Of A New Machine"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Tracy Kidder
 read:	2012-03-27

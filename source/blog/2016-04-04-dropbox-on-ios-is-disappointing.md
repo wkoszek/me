@@ -1,6 +1,7 @@
 ---
 title:	'Dropbox on iOS is disappointing'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 tags:	article
 read:	2016-04-05

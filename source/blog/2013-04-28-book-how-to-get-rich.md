@@ -1,6 +1,7 @@
 ---
 title:	"How to Get Rich"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Felix Dennis
 read:	2013-04-28

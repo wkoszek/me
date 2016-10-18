@@ -1,6 +1,7 @@
 ---
 title:	"From Zero To One"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 description: "My impressions from listening to From Zero to One"
 auth:	Peter Thiel

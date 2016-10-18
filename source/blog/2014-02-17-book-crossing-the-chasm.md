@@ -1,6 +1,7 @@
 ---
 title:	"Crossing the chasm"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Geoffrey A. Moore
 read:	2014-02-17

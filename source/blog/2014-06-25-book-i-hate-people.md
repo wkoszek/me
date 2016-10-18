@@ -1,6 +1,7 @@
 ---
 title:	"I hate people"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Jonathan Littman, Marc Hershon
 read:	2014-06-25

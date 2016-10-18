@@ -1,6 +1,7 @@
 ---
 title:	"Home Buying For Dummies"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Eric Tyson, Ray Brown"
 read:	2013-07-02

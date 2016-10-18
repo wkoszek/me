@@ -1,6 +1,7 @@
 ---
 title:  "Jony Ive: The Genius Behind Apple's Greatest Products"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 categories: books
 tags:	books

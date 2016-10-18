@@ -1,6 +1,7 @@
 ---
 title:	"Effective negotiating"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Chester L Karrass
 read:	2013-09-28

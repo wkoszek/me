@@ -1,6 +1,7 @@
 ---
 title:	"The Strangest Secret"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Earl Nightingale
 read:	2012-07-07

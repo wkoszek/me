@@ -1,6 +1,7 @@
 ---
 title:	"The Anatomy of Buzz"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Emanuel Rosen
 read:	2012-09-20

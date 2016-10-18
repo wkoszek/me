@@ -1,6 +1,7 @@
 ---
 title:	"Linchpin"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Seth Godin
 read:	2014-09-17

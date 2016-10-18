@@ -1,6 +1,7 @@
 ---
 title:	"Conversation Power"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	James K. Van Fleet
 read:	2013-09-25

@@ -1,6 +1,7 @@
 ---
 title:	"The Toyota Way"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Jeffrey Liker
 read:	2012-04-04
@@ -16,6 +17,7 @@ spellcheck-allow:
 
 Full title: "The Toyota Way: 14 Management Principles from the World's
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 Greatest Manufacturer"
 

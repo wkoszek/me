@@ -1,6 +1,7 @@
 ---
 title:	"The 7 habits of highly effective people"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "East Palo Alto, CA"
 auth:	Stephen R. Covey
 read:	2012-04-16

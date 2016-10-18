@@ -1,6 +1,7 @@
 ---
 title:	'How to use nginx on Travis (or other) CI system'
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 description: 'Short article and minimal nginx configuration for container-based infrastructure'
 tags:	article

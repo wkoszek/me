@@ -1,6 +1,7 @@
 ---
 title:	"The Idea Factory"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Jon Gertner
 read:	2014-11-04

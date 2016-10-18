@@ -1,6 +1,7 @@
 ---
 title:  "The Total Recall"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 categories: books
 tags:	books

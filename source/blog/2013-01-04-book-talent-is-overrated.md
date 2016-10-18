@@ -1,6 +1,7 @@
 ---
 title:	"Talent is overrated"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Geoff Colvin
 read:	2013-01-04

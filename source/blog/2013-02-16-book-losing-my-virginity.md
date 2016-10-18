@@ -1,6 +1,7 @@
 ---
 title:	"Losing My Virginity"
 author: "Wojciech Adam Koszek"
+abstract:
 address: "Menlo Park, CA"
 auth:	Richard Branson
 read:	2013-02-16
