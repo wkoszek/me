@@ -9,8 +9,9 @@ test:
     - echo "test running"
 dependencies:
   pre:
+    - mkdir /tmp/me
     - docker pull wkoszek/me
-    - docker run -ti -v `pwd`:/me -w /me wkoszek/me
+    - docker run -ti -v `pwd`:/tmp/me -w /tmp/me wkoszek/me
 #    - make bootstrap
 #    - make b
 #    - bundle exec middleman sitemap_ping
