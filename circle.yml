@@ -2,6 +2,8 @@ machine:
   ruby:
     version:
       2.2.2
+  services:
+    - docker
 test:
   override:
     - echo "test running"
@@ -15,10 +17,6 @@ dependencies:
     # In case image_optim_pack doesn't work, one can use this:
     #- sudo apt-get install -y advancecomp gifsicle jhead jpegoptim libjpeg-progs optipng pngcrush pngquant
 
-#general:
-#  branches:
-#    only:
-#      - master
 general:
   branches:
       ignore:
