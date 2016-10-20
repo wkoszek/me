@@ -1,7 +1,10 @@
 ---
 title: 'Dealing with large jobs on Travis-CI'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  So you've made a commit which greatly extends the output of your build
+  script and you see that it broke your Travis CI process? I've this
+  experience and I show some simple solutions to get over the breakages.
 address: "Menlo Park, CA"
 abstract: >
   Below I explain problems you may run into when your

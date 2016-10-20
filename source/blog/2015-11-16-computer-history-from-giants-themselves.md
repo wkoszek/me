@@ -1,7 +1,10 @@
 ---
 title:	'Computer History from Giants Themselves'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  I don't subscribe to many YouTube channels, but I've subscribed to the
+  Computer History Museum one, since it's a mine on knowledge in my opinion.
+  In here I discuss why I believe it is so.
 address: "Menlo Park, CA"
 tags:	article
 read:	2015-11-16

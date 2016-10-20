@@ -1,7 +1,9 @@
 ---
 title:	"Cross-compile GNU assembler for MIPS"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Technical post which you'll find useful if you study the details of the
+  MIPS architecture, maybe from Patterson and Hennessy books.
 address: "East Palo Alto, CA"
 description: "Building and using cross-compiled MIPS toolchain."
 auth:	Wojciech Koszek

@@ -1,7 +1,9 @@
 ---
 title:	"Hackers and painters"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Paul Graham's classic. Probably must-read if you do anything with
+  computers and programming as your profession.
 address: "East Palo Alto, CA"
 auth:	Paul Graham
 read:	2012-04-20

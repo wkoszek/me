@@ -1,7 +1,8 @@
 ---
 title:	"Funny mistakes and The Toyota Way"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Some of my random thoughts and insights after reading "The Toyota Way"
 address: "East Palo Alto, CA"
 description: 'On connection between the "The Toyota Way" and the UNIX programming.'
 auth:	Wojciech Koszek

@@ -1,7 +1,12 @@
 ---
 title:	"Anything you want"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Derek Sivers is a pretty influential entrepreneur and a coder.
+  I enjoyed reading his words as much as his code, yet this book is a great
+  read, on par with "Lean Startup" and "Rework". Go and read. You won't
+  regret. If I ever make a software startup bootstrapping bible, this book
+  will be somewhere there.
 address: "East Palo Alto, CA"
 auth:	Derek Sivers
 read:	2012-07-25

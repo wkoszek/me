@@ -1,7 +1,10 @@
 ---
 title:	"The Anatomy of Buzz"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This is how modern marketing works like, and how word-to-mouth marketing
+  works like. For a person interested in getting stronger at business this
+  might be a useful addition.
 address: "East Palo Alto, CA"
 auth:	Emanuel Rosen
 read:	2012-09-20

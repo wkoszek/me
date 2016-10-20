@@ -2,7 +2,7 @@
 title:	"Google Summer of Code &mdash; my take"
 author: "Wojciech Adam Koszek"
 abstract: >
-  In this article I share my thoughs about Google Summer of Code
+  I share my thoughs about Google Summer of Code
   and things I've learned while participating in this program
   as a mentor.
 address: "East Palo Alto, CA"

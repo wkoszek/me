@@ -1,7 +1,12 @@
 ---
 title:	"The Soul Of A New Machine"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  If you're a computer geek like myself, and you like reading engineering
+  post-mortems, this book is for you. Hord of people bunched together to
+  work on the complex engineering product. This will be cool for you, unless
+  you work in tech, in which case better stories you'll hear from your lab
+  technicians.
 address: "East Palo Alto, CA"
 auth:	Tracy Kidder
 read:	2012-03-27

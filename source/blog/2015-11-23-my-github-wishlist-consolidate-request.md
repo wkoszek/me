@@ -1,7 +1,10 @@
 ---
 title:	'My GitHub Wishlist: Consolidate Request'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  We all love fork and merge in GitHub, but what I think would be both hard
+  to implement and very beneficial for the Open Source community is:
+  consolidate. In this post I talk about how I'd like it to work.
 address: "Menlo Park, CA"
 tags:	article
 read:	2015-11-29

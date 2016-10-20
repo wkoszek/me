@@ -1,7 +1,11 @@
 ---
 title:	"The Tipping Point"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  I write this review 4 years after reading this book, and I think
+  explanation of mavens/connectors is worth reading. After looking through
+  my library I think this book links fairly well with "Innovator's
+  Dillemma".
 address: "East Palo Alto, CA"
 auth:	Malcolm Gladwell
 read:	2012-09-07
@@ -15,9 +19,6 @@ spellcheck-allow:
 ---
 
 Full title: "The Tipping Point: How Little Things Can Make a Big Difference"
-author: "Wojciech Adam Koszek"
-abstract:
-address: "East Palo Alto, CA"
 
 Interesting take on spreading epidemies of all sorts.
 

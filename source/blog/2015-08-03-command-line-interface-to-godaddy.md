@@ -1,7 +1,11 @@
 ---
 title:	'Command Line Interface to GoDaddy.com'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  People complain about GoDaddy, but for me it just works. I miss the
+  automation and this is my attempt to address that. You get a
+  single-command program to set the records in your domains managed by
+  GoDaddy.
 address: "Menlo Park, CA"
 description: "How to use GoDaddy from the command line."
 tags:	article

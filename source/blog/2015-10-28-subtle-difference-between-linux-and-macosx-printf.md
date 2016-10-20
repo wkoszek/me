@@ -1,7 +1,10 @@
 ---
 title:	'Subtle difference between FreeBSD, MacOSX and Linux printf'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Things you'll find when you try to write a substitute for one of the most
+  basic and rudimentar pieces of UNIX C API. Treat it as "lessons learned"
+  from implementing `mini_printf`.
 address: "Menlo Park, CA"
 description: 'Small differences in API behavior always start to be show up during stress-testing. Example comes from my mini_printf stress-test'
 tags:	article

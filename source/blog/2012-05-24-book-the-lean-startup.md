@@ -1,7 +1,10 @@
 ---
 title:	"The Lean Startup"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Business classic for software startup bootstrapping. I believe
+  if you plan or think about making your side-projects happen and maybe
+  charge money for those, I think you should invest in this book.
 address: "East Palo Alto, CA"
 auth:	Eric Ries
 read:	2012-05-24
@@ -12,6 +15,7 @@ ads:
 spellcheck-allow:
 - "IMVU's"
 ---
+
 Full title: "The Lean Startup -- How Today's Entrepreneurs Use Continuous
 author: "Wojciech Adam Koszek"
 abstract:

@@ -1,7 +1,11 @@
 ---
 title:	"More Joel on Software"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  The "Joel on Software" book and his blog made me order this follow-up.
+  If you read this now or maybe see my other review of "Joel on Software"
+  writings, I think you'll be fine ordering this position too. It's
+  basically a printed collection of posts you'd find on Joel's website for free.
 address: "East Palo Alto, CA"
 auth:	Joel Spolsky
 read:	2012-06-10

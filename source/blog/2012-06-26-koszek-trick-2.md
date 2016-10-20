@@ -1,7 +1,9 @@
 ---
 title:	"Figuring out confusing assembly instructions &mdash; Koszek trick #2"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Useful trick to get from C to assembly and attempt to identify which C
+  parts mapped to which assembly fragments.
 address: "East Palo Alto, CA"
 description: "Some tips and tricks on understanding how C impacts generated assembler."
 auth:	Wojciech Koszek

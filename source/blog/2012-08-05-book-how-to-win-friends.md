@@ -1,7 +1,11 @@
 ---
 title:	"How to win friends and influence people"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This is a good position on soft-skills. Based on the fact that
+  most of the software projects nowadays are too big for a single developer,
+  this is a good book for engineers. It's not what the title claims it to be
+  -- it's more about human interaction.
 address: "East Palo Alto, CA"
 auth:	Dale Carnegie
 read:	2012-08-05

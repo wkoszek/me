@@ -1,7 +1,8 @@
 ---
 title:	"I've got an iPad Pro yesterday"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  My buyers remorse and post-mortem or lack of first or the later.
 address: "Menlo Park, CA"
 tags:	article
 read:	2016-03-20

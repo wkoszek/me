@@ -1,7 +1,10 @@
 ---
 title:	"How to Stop Worrying and Start Living"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Next to Earl Nightingale I've known this guy was a big name in the
+  personal-development world, so I went ahead and read it. So-so. If you're
+  very bored, you won't loose by reading it. Is it a must-have? Nah.
 address: "East Palo Alto, CA"
 auth:	Dale Carnegie
 read:	2012-08-12

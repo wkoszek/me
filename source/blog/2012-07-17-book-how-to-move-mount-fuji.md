@@ -1,7 +1,10 @@
 ---
 title:	"How to move mount Fuji"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  I write this review 4 years after reading this book, and the only
+  thing I remember is that it was a pretty good take on Silicon Valley
+  history. You decide.
 address: "East Palo Alto, CA"
 auth:	 William Poundstone
 read:	2012-07-17

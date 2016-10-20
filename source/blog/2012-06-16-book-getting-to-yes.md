@@ -1,7 +1,11 @@
 ---
 title:	"Getting to Yes"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This book is useful for people weak at negotiating skills. This book
+  would be great for the engineers working on team projects, since
+  sometimes having a lot of very detail oriented hackers in the room isn't
+  great for making ... any steps towards actual problem resolution.
 address: "East Palo Alto, CA"
 auth:	Roger Fisher, William L. Ury, Bruce Patton
 read:	2012-06-16

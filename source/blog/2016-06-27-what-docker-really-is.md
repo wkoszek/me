@@ -1,7 +1,9 @@
 ---
 title: 'What Docker really is'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Easy to understand explanation of Docker. Docker for dummies and normal
+  humans.
 address: "Menlo Park, CA"
 tags: article
 read: 2016-06-27

@@ -1,7 +1,11 @@
 ---
 title:	"Showstopper!"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This book is a great take on the software-engineering, as it explains
+  interactions between people, computers, time and money. If you've ever
+  wondered how hard it is to work on big industry projects, this book might
+  be for you.
 address: "East Palo Alto, CA"
 auth:	G. Pascal Zachary
 read:	2012-05-05

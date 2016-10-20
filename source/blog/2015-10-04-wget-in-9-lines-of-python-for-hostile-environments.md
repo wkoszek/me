@@ -1,7 +1,10 @@
 ---
 title:	'wget in 9 lines of Python For Hostile Environments'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Bootstrapping a system on a UNIX distribution where not all the tools
+  are installed and those installed are out-of-date can be challenging. I've
+  missed `wget` on Synology distro, and I show how you can work-around it.
 address: "Menlo Park, CA"
 description: "wget implementation for environments such as Synology DSM distribution, where wget doesn't have HTTPS support."
 tags:	article

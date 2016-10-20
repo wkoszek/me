@@ -1,7 +1,12 @@
 ---
 title:	"Think and Grow Rich"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This is the classic in the genre of self-help and even though
+  the title could be considered very sketchy, a lot of people know
+  and recognize it. It you want to appear cool on the serious party,
+  don't mention you've read it. Unless it's Silicon Valley -- then you're
+  good.
 address: "East Palo Alto, CA"
 auth:	Napoleon Hill
 read:	2012-02-10

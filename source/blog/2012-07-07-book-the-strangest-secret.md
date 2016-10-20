@@ -1,7 +1,12 @@
 ---
 title:	"The Strangest Secret"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This is definitely a self-improvement position, so be warned if you don't
+  like this kind of stuff. To me this book made a really good positive
+  impact in my life. If you're reading this review on my website (and you
+  should!) do know I'd not have started my website articles without this
+  book.
 address: "East Palo Alto, CA"
 auth:	Earl Nightingale
 read:	2012-07-07

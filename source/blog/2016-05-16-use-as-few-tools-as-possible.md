@@ -1,7 +1,10 @@
 ---
 title:	'Use as few tools as possible'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  My take on the software architecture. When you're building a complex piece
+  of a product, and the vision of using existing tools is very tempting,
+  remember that using them can bring some threats. I explain them here.
 address: "Menlo Park, CA"
 tags:	article
 read:	2016-05-16

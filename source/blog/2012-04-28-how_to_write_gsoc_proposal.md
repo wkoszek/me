@@ -2,8 +2,9 @@
 title:	"How to write a good Google Summer of Code Proposals"
 author: "Wojciech Adam Koszek"
 abstract: >
-  In this article I give some tips on how to write a good
-  Google Summer of Code Proposal.
+  Some tips on how to write a good Google Summer of Code Proposal. Something
+  that you may find useful if you consider applying to Google Code-In of
+  Google Summer of Code.
 address: "East Palo Alto, CA"
 description: "Short HOWTO for writing good Summer of Code Proposals."
 auth:	Wojciech Koszek

@@ -2,8 +2,7 @@
 title:	"Unfriendly IT, or how to get Perforce diffs e-mailed to you"
 author: "Wojciech Adam Koszek"
 abstract: >
-  In this short article I show simple hack for getting Perforce
-  changes e-mailed to you.
+  I show a simple hack for getting Perforce changes e-mailed to you.
 address: "East Palo Alto, CA"
 description: "Short HOWTO on how to make Perforce send patches to you."
 auth:	Wojciech Koszek

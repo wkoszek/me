@@ -1,7 +1,10 @@
 ---
 title:	'Fixing Middleman-spellcheck'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  I liked Middleman for writing my website, I went and fixed up the
+  spell-checking plugin. This piece explains some things step-by-step on how
+  fixing some open source stuff looks like.
 address: "Menlo Park, CA"
 description: "From the battle-field description on fixing Middleman plugin."
 auth:	Wojciech Koszek

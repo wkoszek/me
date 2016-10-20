@@ -1,7 +1,9 @@
 ---
 title:	'Quiz: portability of “find” command'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Another portability issue when moving around the operating systems. How
+  often do you use `find`? Exactly. Interesting for UNIX and macOS people.
 address: "Menlo Park, CA"
 tags:	article
 read:	2015-11-29

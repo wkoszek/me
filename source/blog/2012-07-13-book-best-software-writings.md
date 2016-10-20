@@ -1,7 +1,8 @@
 ---
 title:	"The Best Software Writing I"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Joel Spolsky is back, but this time as a content moderator.
 address: "East Palo Alto, CA"
 auth:	Joel Spolsky and various other authors
 read:	2012-07-19

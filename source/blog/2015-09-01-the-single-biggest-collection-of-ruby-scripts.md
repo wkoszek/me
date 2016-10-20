@@ -1,7 +1,11 @@
 ---
 title:	'(Probably) the single biggest collection of Ruby scripts'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This is a very nice archive with a lot of small Ruby scripts.
+  I use it to evaluate things like Travis-CI, where you have a chance to
+  pick different Ruby interpreters. In here I present the easy-to-access
+  format to this source code. Visit and star GitHub if you like it. 
 address: "Menlo Park, CA"
 description: "(Probably) the single biggest collection of Ruby scripts"
 tags:	article

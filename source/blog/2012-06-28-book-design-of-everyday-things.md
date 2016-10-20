@@ -1,7 +1,11 @@
 ---
 title:	"Design of everyday things"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Classing in the UX/UI world. Also must-read for human-facing software
+  engineers. If you built products, tools or any kind of automation
+  solutions, you'd benefit from this book, as it presents an
+  easy-to-understand take on what usability really is.
 address: "East Palo Alto, CA"
 auth:	Donald A. Norman
 read:	2012-06-28

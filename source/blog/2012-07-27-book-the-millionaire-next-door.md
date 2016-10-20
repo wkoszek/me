@@ -1,7 +1,9 @@
 ---
 title:	"The Millionaire Next Door"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  My interest in investing and personal finance started from this
+  book.
 address: "East Palo Alto, CA"
 auth:	Thomas J. Stanley,  William D. Danko
 read:	2012-07-27

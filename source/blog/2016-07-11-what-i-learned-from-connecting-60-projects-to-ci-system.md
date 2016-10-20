@@ -1,7 +1,9 @@
 ---
 title: 'What I learned from connecting 60 projects to CI system'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  My lessons learned after I went through my GitHub and connected whatever I
+  could to Travis-Ci, Circle CI and AppVeyor to get it built and tested.
 address: "Menlo Park, CA"
 tags: article
 read: 2016-07-11

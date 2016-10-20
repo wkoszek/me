@@ -1,7 +1,10 @@
 ---
 title:	'How to ask questions on Stack Overflow?'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Stack Overflow is probably number one forum for developers. We all consume
+  it, but less people actually produce content there. I present my take on
+  it and why some questions are basically hard to answer.
 address: "Menlo Park, CA"
 tags:	article
 read:	2016-04-18

@@ -1,7 +1,10 @@
 ---
 title:	'I wish Ruby and Python stopped changing so much'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  C program written 30 years ago is likely to compile and just work today,
+  if the OS is more or less similar. Is it the case for Ruby and Python? In
+  this article I'm covering that.
 address: "Menlo Park, CA"
 description: "Several things which make writing code in Ruby and Python problematic, long term."
 tags:	article

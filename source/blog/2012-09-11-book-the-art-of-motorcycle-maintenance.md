@@ -1,7 +1,10 @@
 ---
 title:	"The Art of Motorcycle Maintenance"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Not ready to review it yet, I guess. This is a deep book, with a lot
+  of dual meanings of things, and this book is not the best choice for an
+  audiobook..
 address: "East Palo Alto, CA"
 auth:	Robert Pirsig
 read:	2012-09-11
