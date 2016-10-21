@@ -1,7 +1,10 @@
 ---
 title:	"On A Roll"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Author guides us through his life from a NYC hot-dog stand to going public
+  and then buying back the company back. Really enjoyed it. Get it only if
+  you like biographies and analysis from the battlefield.
 address: "Menlo Park, CA"
 auth:	Howard Jonas
 read:	2013-01-05

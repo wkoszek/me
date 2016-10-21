@@ -1,7 +1,10 @@
 ---
 title:	"Land of Lisp"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This was the very first LISP book I've ever read. Helped me to get started
+  with this weird bracket syntax and general language concepts. Worked fine
+  for me -- the first time LISPer.
 address: "Menlo Park, CA"
 auth:	Conrad Barski
 read:	2013-03-01

@@ -1,7 +1,8 @@
 ---
 title:	"Talent code"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Debunking a myth of "talent"
 address: "Menlo Park, CA"
 auth:	Daniel Coyle
 read:	2013-01-31

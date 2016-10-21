@@ -1,7 +1,11 @@
 ---
 title:	"Positioning"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  If you like watching best TV ads as much as I do, this book would teach
+  you some of the background used by ad film makers. It is also an
+  advertising book to some extent, and I remember having a lot of fun
+  reading it.
 address: "East Palo Alto, CA"
 auth:	Al Ries, Jack Trout
 read:	2012-11-17

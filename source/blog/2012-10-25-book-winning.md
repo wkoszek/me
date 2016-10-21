@@ -1,7 +1,9 @@
 ---
 title:	"Winning"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Probably as important for the future leader as "High Output Management".
+  I remember enjoying this book greatly.
 address: "East Palo Alto, CA"
 auth:	Jack Welch, Suzy Welch
 read:	2012-11-25

@@ -1,7 +1,9 @@
 ---
 title:	"HDL Chip Design"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Worth read, but by no means a comprehensive introduction to chip design or
+  Verilog.
 address: "East Palo Alto, CA"
 auth:	Douglas Smith
 read:	2012-11-07

@@ -1,7 +1,12 @@
 ---
 title:	"The Goal"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This is a very unique book, since the author did a great job at making
+  education fun. He grabbed the Agile practices and wrapped them in a
+  fictional storyline in a way that made it actually a very interesting
+  fiction book. Go and get it if you're interested in agile practices (by
+  the way - if you're not, something isn't right).
 address: "East Palo Alto, CA"
 auth:	Eliyahu M. Goldratt, Jeff Cox, David Whitford
 read:	2012-12-20

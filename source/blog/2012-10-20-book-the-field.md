@@ -1,7 +1,8 @@
 ---
 title:	"The Field"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Didn't like it. Too esoteric and sketchy. Skip this one without feeling bad.
 address: "East Palo Alto, CA"
 auth:	Lynne McTaggart
 read:	2012-10-20

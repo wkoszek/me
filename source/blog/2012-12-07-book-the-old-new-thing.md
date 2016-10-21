@@ -1,7 +1,12 @@
 ---
 title:	"The Old New Thing"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  After Joel Spolsky's writing, Chen writings were among my favorites, as
+  they too gave enough insight into the technical and non-technical stuff.
+  He is a great software engineer and a very good writer too. Can recommend
+  highly enough. By the way -- I enjoyed it even though I'm not a Microsoft
+  software stack person.
 address: "East Palo Alto, CA"
 auth:	Raymond Chen
 read:	2012-12-07

@@ -1,7 +1,10 @@
 ---
 title:	"50 Success Classics"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Another list of books other people found useful. I did that too, but I
+  guess Amazon is a modern way of exploring book resources, so feel free to
+  skip this one.
 address: "Menlo Park, CA"
 auth:	Tom Butler-Bowdon
 read:	2013-01-15

@@ -1,7 +1,12 @@
 ---
 title:	"Starting Forth"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  My interest in Forth started from attending Silicon Valley Forth Interest
+  Group meetups at Stanford, and it continued every since. I always
+  appreciate beautiful minimalistic things that can just do one thing very
+  well and do it with minimal resources. And I think this is what Forth is
+  all about. This book is a very gentle introduction into Forth.
 address: "East Palo Alto, CA"
 auth:	Leo Brodie
 read:	2012-10-07

@@ -1,7 +1,11 @@
 ---
 title:	"Losing My Virginity"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This is a 13+ book, so don't screen if you find it on your kid's
+  bookshelf. Branson's take on this entrepreneurial journey. Found it pretty
+  enjoyable. Unique part about him is that he's British -- most of the other
+  stuff on my list is all Silicon Valley centered.
 address: "Menlo Park, CA"
 auth:	Richard Branson
 read:	2013-02-16

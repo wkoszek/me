@@ -1,7 +1,10 @@
 ---
 title:	"How to stay motivated"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Don't remember exact details when writing this review 4 years after I
+  listened to the book, but I remember having a lot of fun deciphering his
+  accent and jokes.
 address: "Menlo Park, CA"
 auth:	Zig Ziglar
 read:	2013-02-10

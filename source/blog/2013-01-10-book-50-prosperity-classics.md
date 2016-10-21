@@ -1,7 +1,9 @@
 ---
 title:	"50 Prosperity Classics"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Dry in the content, but let me pick some positions which I wouldn't have
+  known if I hadn't read (listened?) to think book.
 address: "Menlo Park, CA"
 auth:	Tom Butler-Bowdon
 read:	2013-01-09

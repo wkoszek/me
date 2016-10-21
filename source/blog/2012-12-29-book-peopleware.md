@@ -1,7 +1,8 @@
 ---
 title:	"Peopleware"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Art and science of keeping people away from the burnout syndrome.
 address: "East Palo Alto, CA"
 auth:	Marco, Lister
 read:	2012-12-29

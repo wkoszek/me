@@ -1,7 +1,10 @@
 ---
 title:	"The One Minute Manager"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  All I remember about this book is that talks about the science and art of
+  delegation, which I think is one of the top factors why some technical
+  contributors fail to properly transition to the role of a manager.
 address: "East Palo Alto, CA"
 auth:	Kenneth H. Blanchard, Spencer Johnson
 read:	2012-12-12

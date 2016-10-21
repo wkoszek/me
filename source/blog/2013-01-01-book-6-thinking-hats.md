@@ -1,7 +1,13 @@
 ---
 title:	"Six thinking hats"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  I was very sceptical, but I've played with some exercises in my head, and
+  I believe there is something to the theory of coldly analysing, gather
+  ideas, then colding analysing, then turning feelings back and
+  criticising etc. The idea of a book which gives you hints to get more
+  creative is something I liked. Looking back, I don't regret having read
+  it.
 address: "Menlo Park, CA"
 auth:	Edward De Bono
 read:	2013-01-01

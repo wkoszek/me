@@ -1,7 +1,10 @@
 ---
 title:	"101 Secrets of Highly Effective Speakers"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Tips and tricks for speakers. Judging by the number of notes I put down
+  after original reading, I suspect I should revisit this book at some
+  point.
 address: "East Palo Alto, CA"
 auth:	Caryl Rae Krannich
 read:	2012-12-25
@@ -20,7 +23,7 @@ Posture, appearance and diction is important to be well understood. Seeing a
 speaker with a suit, or in general: dress well and clean, gives much better
 impression than seeing somebody with a own, worn T-shirt.
 
-Content is what matters. Ever speech should have an objective, and this
+Content is what matters. Every speech should have an objective, and this
 objective should be clearly stated to the audience.
 
 Use of visual aids is permitted, and advised. However too much visual

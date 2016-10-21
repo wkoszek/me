@@ -1,7 +1,11 @@
 ---
 title:	"Little Red Book of Selling: 12.5 Principles of Sales Greatness"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This was the first book on selling that I read. Looking back and reviewing
+  it after 4 years I don't remember it much. I should re-read it probably
+  because I've read more books by the same author. No strong yes, but not
+  definite no.
 address: "East Palo Alto, CA"
 auth:	Jeffrey Gitomer
 read:	2012-10-09

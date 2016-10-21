@@ -1,7 +1,11 @@
 ---
 title:	"Homepage Usability: 50 Websites Deconstructed"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Scrolled through this book, but haven't read it.  Most of the website
+  presented there are out of date with things you no longer see in the web.
+  Haven't learned much, but maybe because it wasn't my first book on
+  usability.
 address: "East Palo Alto, CA"
 auth:	 Jakob Nielsen, Marie Tahir
 read:	2012-11-12
