@@ -1,7 +1,9 @@
 ---
 title:  "The Hard Thing About Hard Things"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Book which I prefer much more than "Zero to One", as it's written by the
+  guy who went through many, many obstacles and try to make it through.
 address: "Menlo Park, CA"
 categories: books
 auth:	Ben Horowitz 

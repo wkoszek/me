@@ -1,7 +1,12 @@
 ---
 title:  "The Phoenix Project"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This book was essentiall what "The Toyota Way" showed me, but more in the
+  high-tech end. So if you feel like you're just starting up with agile or
+  you're not a technical person and you need direct advice wrt. software
+  engineering/IT/support for agile, this book is for you. Value and
+  storytelling are very well done here. Reminded me: "The Goal".
 address: "Menlo Park, CA"
 categories: books
 tags:	books

@@ -1,7 +1,10 @@
 ---
 title:  "On Writing"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Man. This is really damn good book on writing by the master. If you're
+  into blog writing or writing of any kind, buy it. You won't regret. I kept
+  listening to it and greatly enjoyed it.
 address: "Menlo Park, CA"
 categories: books
 tags:	books

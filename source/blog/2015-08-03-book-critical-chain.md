@@ -1,7 +1,10 @@
 ---
 title:	"Critical Chain"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Rephrasing things covered in "The goal". If you've read "The goal" or "The
+  Toyota Way" I don't think you'll learn anything new. If you haven't
+  however, this might be a good position.
 address: "Menlo Park, CA"
 description: "Notes from listening to Critical Chain"
 auth:	Eliyahu M. Goldratt

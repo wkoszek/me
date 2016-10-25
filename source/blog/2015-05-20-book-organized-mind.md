@@ -1,7 +1,8 @@
 ---
 title:  "Organized mind"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Very looong and disorganised book on organised mind.
 address: "Menlo Park, CA"
 categories: books
 tags:	books

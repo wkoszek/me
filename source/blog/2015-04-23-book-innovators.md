@@ -1,7 +1,9 @@
 ---
 title:  "The Innovators"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  How to innovate and issues during innovation process. Very nice book.
+  Classic at this point.
 address: "Menlo Park, CA"
 categories: books
 tags:	books

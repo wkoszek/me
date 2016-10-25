@@ -1,7 +1,11 @@
 ---
 title:  "Daily Rituals"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This is a book worth reading for those of us who'd like to start
+  developing creative habits. What sucked a bit is the lack of essence --
+  the summary. You'll listen through it, but you'll need to summarise it
+  yourself.
 address: "Menlo Park, CA"
 categories: books
 tags:	books

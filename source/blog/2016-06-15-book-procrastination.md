@@ -1,7 +1,12 @@
 ---
 title:  "Procrastination: Why You Do It, What to Do About It Now"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  If you're bothered by the endless projects, or many unfinished tasks on
+  your to-do list, this book is great. It addresses very many types of
+  syndromes our busy minds are dealing with. It's a mediacally-backed book
+  and it gives some good hints on how to deal with procrastination. This
+  booked helped me understand some procrastination elements I noticed in myself.
 address: "Menlo Park, CA"
 categories: books
 tags:	books

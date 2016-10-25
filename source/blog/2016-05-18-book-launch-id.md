@@ -1,7 +1,10 @@
 ---
 title:  "Launch It"
 author: "Wojciech Adam Koszek"
-abstract:
+auth: Jonathan R Taylor
+abstract: >
+  If you're interested in promoting yourself in the Internet through some
+  form of audio/video recordings, this book might be for you.
 address: "Menlo Park, CA"
 categories: books
 tags:	books

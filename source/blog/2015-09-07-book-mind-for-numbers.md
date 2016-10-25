@@ -1,7 +1,8 @@
 ---
 title:	"Mind for Numbers"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  I wish I had known what this book was all about.
 address: "Menlo Park, CA"
 description: "My thoughts from Mind for Numbers"
 auth:	"Barbara Oakley"

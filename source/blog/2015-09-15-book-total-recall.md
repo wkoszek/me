@@ -1,7 +1,10 @@
 ---
 title:  "The Total Recall"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This is absolutely marvelous book on Arnie and if you like biographies of
+  any kind, you'll just love it as much as I did. Wasn't boring at any given
+  time.
 address: "Menlo Park, CA"
 categories: books
 tags:	books

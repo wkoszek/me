@@ -1,7 +1,10 @@
 ---
 title:	"From Zero To One"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This book talk about entrepreneurship in a big sense. How to get from
+  really, really small to gianormous. And how to do it without other people
+  noticing, so that you can be a dominant player.
 address: "Menlo Park, CA"
 description: "My impressions from listening to From Zero to One"
 auth:	Peter Thiel

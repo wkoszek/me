@@ -1,7 +1,8 @@
 ---
 title:	'Facebook Paper and Copyright screens'
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  My amazement with number of modules modern mobile app can consists of.
 address: "Menlo Park, CA"
 tags:	article
 read:	2015-09-09
