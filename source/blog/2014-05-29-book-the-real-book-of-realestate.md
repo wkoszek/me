@@ -1,7 +1,8 @@
 ---
 title:	"The real book of real-estate"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Another book from "The rich dad" franchise. Don't remember much from it.
 address: "Menlo Park, CA"
 auth:	Robert T. Kiyosaki
 read:	2014-05-29

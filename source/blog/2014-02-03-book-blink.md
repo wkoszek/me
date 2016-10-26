@@ -1,7 +1,8 @@
 ---
 title:	"Blink"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  How quick assessment and first impression really does count.
 address: "Menlo Park, CA"
 auth:	Malcolm Gladwell
 read:	2014-02-03

@@ -1,7 +1,9 @@
 ---
 title:	"Screw business as usual"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Great autobiography. Next to "Miles" it's probably one of the most
+  colorful books I've read. Also very good study guide for business people.
 address: "Menlo Park, CA"
 auth:	Richard Branson
 read:	2014-03-14

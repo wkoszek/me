@@ -1,7 +1,9 @@
 ---
 title:	"The Founder's Dilemmas"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Don't remember much of it, but the title seems appealing. Maybe I'll
+  revisit. Read on your own risk.
 address: "Menlo Park, CA"
 auth:	Noam Wasserman
 read:	2014-12-30

@@ -1,7 +1,11 @@
 ---
 title:	"Essential: Essays by The Minimalists"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This was the same thing repeated over and over. I've listened to the
+  audiobook and had a feeling the book was not really well designed. I like
+  these guys and I like the idea, but this book feels like it needs more
+  work.
 address: "Menlo Park, CA"
 auth:	Joshua Fields Millburn, Ryan Nicodemus
 read:	2014-08-28

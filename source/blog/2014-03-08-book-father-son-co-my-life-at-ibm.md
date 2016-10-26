@@ -1,7 +1,9 @@
 ---
 title:	"Father & Son -- my life at IBM"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  On scaling IBM. It's a good read, since many people consider Thomas Watson
+  Jr to be one of the best corporate leaders.
 address: "Menlo Park, CA"
 auth:	Thomas J. Watson, Peter Petre
 read:	2014-03-08

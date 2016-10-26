@@ -1,7 +1,10 @@
 ---
 title:	"How to read a book?"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Sounded cool, but I couldn't really find a good way to summarise it. I
+  don't remember much from this book after two years from reading it. Worth
+  skipping.
 address: "Menlo Park, CA"
 auth:	Mortimer J. Adler, Charles Van Doren
 read:	2014-10-13

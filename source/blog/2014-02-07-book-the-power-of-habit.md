@@ -1,7 +1,11 @@
 ---
 title:	"The Power of Habit"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Great book on achieving success in various domains thanks to the proper
+  habit formation. You figure out the target, you form a habit which gets
+  you to the target closer by small step and you stick to it. And the
+  science behind all that. Worth read.
 address: "Menlo Park, CA"
 auth:	 Charles Duhigg
 read:	2014-02-07

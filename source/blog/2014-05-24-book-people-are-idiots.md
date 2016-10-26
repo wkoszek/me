@@ -1,7 +1,10 @@
 ---
 title:	"People Are Idiots and I Can Prove It!"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Meh. Interesting as audiobook just because it was read by the author and
+  his style was less formal than usual. And because I got it free. 
+  Maybe I'm biased. Not worth reading.
 address: "Menlo Park, CA"
 auth:	Larry Winget
 read:	2014-05-24

@@ -1,10 +1,12 @@
 ---
 title:	"Power hiring"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Don't remember much from this book 3 years after reading it. Might not be
+  worth buying.
 address: "Menlo Park, CA"
 auth:	Lou Adler
-read:	2013-07-02
+read:	2014-07-02
 tags:	books
 layout: layout_book
 ads:

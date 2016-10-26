@@ -1,7 +1,10 @@
 ---
 title:	"Picture This: How Pictures Work"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Great design book. Very nice for dummies like myself. Will teach you more
+  about how image and graphics work for transferring feelings, impressions
+  and content.
 address: "Menlo Park, CA"
 auth:	Molly Bang
 read:	2014-12-27

@@ -1,7 +1,9 @@
 ---
 title:	"The Idea Factory"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This was an extremely long book on Xerox PARC. I felt like it should have
+  been compressed, since in the audiobook format it was really, really long.
 address: "Menlo Park, CA"
 auth:	Jon Gertner
 read:	2014-11-04

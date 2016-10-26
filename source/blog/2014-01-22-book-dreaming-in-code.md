@@ -1,7 +1,9 @@
 ---
 title:	"Dreaming in code"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Two years after reading this book I don't remember anything from it, so
+  I'd think twice before investing your time in it.
 address: "Menlo Park, CA"
 auth:	Scott Rosenberg
 read:	2014-01-22
@@ -12,10 +14,11 @@ ads:
 spellcheck-allow:
 - "Kapor's"
 ---
+
 The full title was: Dreaming in Code: Two Dozen Programmers, Three Years,
-4,732 Bugs, and One Quest for Transcendent Software.
-The book explains the story behind Chandler, Mitch Kapor's open-source pet
-project in which he invested couple of millions of $$$ and it's failure.
+4,732 Bugs, and One Quest for Transcendent Software.  The book explains the
+story behind Chandler, Mitch Kapor's open-source pet project in which he
+invested couple of millions of $$$ and it was failure.
 
 I really expected something different from this book and I really can't tell
 how I feel about it.

@@ -2,6 +2,7 @@
 title:	"I hate people"
 author: "Wojciech Adam Koszek"
 abstract:
+  Office survival guide.
 address: "Menlo Park, CA"
 auth:	Jonathan Littman, Marc Hershon
 read:	2014-06-25
@@ -12,6 +13,7 @@ ads:
 spellcheck-allow:
 - "XKCD"
 ---
+
 The title of a book is probably to boost sales a little, yet I fell is that
 "Office survival guide" would be a better title for this position.
 
