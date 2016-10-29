@@ -1,7 +1,8 @@
 ---
 title:	"How to Gain 2 Extra Hours a Day"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Nah. Read "Getting things done". This book isn't a good investment.
 address: "Menlo Park, CA"
 auth:	Brian Tracy
 read:	2013-08-05

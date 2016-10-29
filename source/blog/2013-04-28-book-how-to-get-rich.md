@@ -1,7 +1,10 @@
 ---
 title:	"How to Get Rich"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This was a biography of Felix Dennis and his creation of his publishing
+  empire. A lot of funny moments, and his epic table with 'comfortably poor'
+  scale.
 address: "Menlo Park, CA"
 auth:	Felix Dennis
 read:	2013-04-28

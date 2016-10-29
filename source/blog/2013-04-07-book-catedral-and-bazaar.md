@@ -1,7 +1,8 @@
 ---
 title:	"The Cathedral and the Bazaar"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Classic for software people.
 address: "Menlo Park, CA"
 auth:	Eric S. Raymond
 read:	2013-04-07

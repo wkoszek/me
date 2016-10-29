@@ -1,7 +1,9 @@
 ---
 title:	"Jack - Straight from the Gut"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This was a real gem. I keep coming back to this book in my head. Should
+  allocate some time and re-read it once again.
 address: "Menlo Park, CA"
 auth:	Jack Welch, John A. Byrne
 read:	2013-05-14

@@ -1,7 +1,8 @@
 ---
 title:	"Guerilla Business School"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Don't remember much from it.
 address: "Menlo Park, CA"
 auth:	Herv Eker
 read:	2013-09-21
@@ -12,6 +13,7 @@ ads:
 spellcheck-allow:
 - "Eker"
 ---
+
 Live recordings from countries other than Poland let me realize how
 different the society is. It's very hard for me to believe such a class
 would have taken place in Poland.

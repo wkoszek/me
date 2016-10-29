@@ -1,7 +1,9 @@
 ---
 title:	"Netscape Time"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Creation of the legendary web browser and a personal take on Clark's life.
+  Really great book--highly recommended.
 address: "Menlo Park, CA"
 auth:	Jim Clark
 read:	2013-08-13

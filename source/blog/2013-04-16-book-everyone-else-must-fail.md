@@ -1,7 +1,8 @@
 ---
 title:	"Everyone else must fail"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This was an interesting take on the creation of Oracle.
 address: "Menlo Park, CA"
 auth:	Karen Southwick
 read:	2013-04-27

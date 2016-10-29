@@ -1,7 +1,8 @@
 ---
 title:	"Made in America"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  One of the best books I've read.
 address: "Menlo Park, CA"
 auth:	Sam Walton, John Huey
 read:	2013-08-20
@@ -14,6 +15,7 @@ spellcheck-allow:
 - "Wal"
 - "persued"
 ---
+
 This book was quite amazing. It's funny that there are people like Sam
 Walton, who decided to leave some heritage and write a piece like that.
 

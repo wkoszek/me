@@ -1,7 +1,9 @@
 ---
 title:	"Titan"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Really great book on Rockefeller. I'm into history of the American
+  business, so not sure if you'd like it. But if you are, I can recommend.
 address: "Menlo Park, CA"
 auth:	Ron Chernow
 read:	2013-04-06

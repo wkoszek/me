@@ -1,7 +1,10 @@
 ---
 title:	"Beautiful evindence"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Similar to "Envisioning information". I'd have to re-read these books once
+  again. I remember reading them one after the other, and they appeared to
+  be very similar.
 address: "Menlo Park, CA"
 auth:	Edward Tufte
 read:	2013-09-05

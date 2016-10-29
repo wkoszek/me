@@ -1,7 +1,11 @@
 ---
 title:	"Autobiography of Andrew Carnegie"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Really long book. Got lost many times during listening of an audiobook.
+  Similar format to "The first tycoon" on Vanderbilt. These books are too
+  long and cover too many things. I feel like it's only interesting if
+  you're a history junkie.
 address: "Menlo Park, CA"
 auth:	Andrew Carnegie
 read:	2013-08-10

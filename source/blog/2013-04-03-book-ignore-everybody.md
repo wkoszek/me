@@ -1,7 +1,8 @@
 ---
 title:	"Ignore Everybody"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Don't remember anything about this one
 address: "Menlo Park, CA"
 auth:	Hugh MacLeod
 read:	2013-04-03

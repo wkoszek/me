@@ -1,7 +1,12 @@
 ---
 title:	"Envisioning information"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  If you're a UX/UI designer, this would be a must-have book. I found its
+  look very appealing. Tufte created a great style for this book. But
+  content I've found hard to digest. I get the concepts, but reading was a
+  chore, since the nomenclature and the way he phrases things is very
+  "liberal arts".
 address: "Menlo Park, CA"
 auth:	Edward Tufte
 read:	2013-08-27
@@ -16,6 +21,7 @@ spellcheck-allow:
 - "datasets"
 - "WebGL"
 ---
+
 Edward Tufte's books were on my TODO for 2 years now (I got the 4 pack from
 somebody who apparently participated in the tutorial), but haven't had a
 chance to actually read them.
@@ -33,7 +39,7 @@ daily job. Needing to present 4 combination of experiments across 5
 temperatures, 5 voltage levels of different types of units, I must say book
 is very inspirational.
 
-With new technologies like WebGL and d3.js the knowledge gained will turn to
+With new technologies like WebGL and `d3.js` the knowledge gained will turn to
 be helpful each time bigger portion of the data has to be "compressed" from
 many dimensions to just 2.
 

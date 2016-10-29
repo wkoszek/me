@@ -1,7 +1,11 @@
 ---
 title:	"The Power of Less"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  This was something between minimalism (and was better than "The
+  minimalists" book) and "Getting things done". Enjoyed it. Looking back on
+  how many comments I wrote on this book, I feel like it's a worth read, as
+  it triggered a lot of thinking.
 address: "Menlo Park, CA"
 auth:	 Leo Babauta
 read:	2013-05-02

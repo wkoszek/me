@@ -1,7 +1,12 @@
 ---
 title:	"Suze Orman books (9 steps, Courage..., )"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Probably the best thing that happened to me was picking up these books,
+  since they talk about investment elements which are different from my
+  native country, Poland. A lot of people claim Orman isn't actually backing
+  her books in the real life, but I never investigated. Nothing in this book
+  is sold to you. To me, it was a very useful read.
 address: "Menlo Park, CA"
 auth:	Suze Orman
 read:	2013-10-02
@@ -16,6 +21,7 @@ ads:
 spellcheck-allow:
 - "HFT"
 ---
+
 If you're a HFT or a Bitcoin trader, these books ARE NOT for you.
 
 However for new to the US financial and investment system, it's something

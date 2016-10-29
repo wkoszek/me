@@ -1,7 +1,8 @@
 ---
 title:	"Coping with difficult people"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Don't remember much from it.
 address: "Menlo Park, CA"
 auth:	Robert M. Bramson
 read:	2013-09-14
@@ -13,10 +14,6 @@ spellcheck-allow:
 - "sherman"
 - "exploders"
 ---
-Title looked appealing to me, since I believe many people in the corporation
-I work for must have real problems with interacting with me. I too sometimes
-experience difficulties and have a chance to observe all sorts of unexpected
-behaviors.
 
 The author puts certain classes of personal characters into categories:
 sherman tanks, snipers, exploders, complainers, silent ones not

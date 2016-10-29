@@ -1,7 +1,11 @@
 ---
 title:	"Long Walk to Freedom"
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Probably one of the best audiobooks I've listened to. Choice of the
+  narrator with a South African accent was excellent. The narrator did an
+  amazing job too. Story is pretty unique and I can highly recommend this
+  book.
 address: "Menlo Park, CA"
 auth:	Nelson Mandela
 read:	2013-05-04

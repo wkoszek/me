@@ -1,7 +1,8 @@
 ---
 title:	"As I see it."
 author: "Wojciech Adam Koszek"
-abstract:
+abstract: >
+  Another really great biography. Can't recommend highly enough.
 address: "Menlo Park, CA"
 auth:	Jean Paul Getty
 read:	2013-09-10
