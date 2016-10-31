@@ -1,41 +1,70 @@
 #!/usr/bin/env ruby
 
+# Copyright 2016 Wojciech Adam Koszek <wojciech@koszek.com>
+# This script takes a static .md files with yaml frontmatter, take the data
+# there and validate the content there according to my own standards.
+
 require 'yaml'
 
-in_fn = ARGV[0]
+def process_one(fin_name)
+	data = []
+	File.open(fin_name, "r") do |f|
+		data = f.read()
+	end
 
-data = []
-File.open(in_fn, "r") do |f|
-	data = f.read()
+	marker_found_times = 0
+	will_add_to_frontmatter = 1
+	frontmatter = ""
+	content = ""
+	data.split("\n").each do |line|
+		if line =~ /^---/ then
+			marker_found_times += 1
+			next
+		end
+		if marker_found_times == 2 then
+			will_add_to_frontmatter = 0
+			marker_found_times = -1
+			next
+		end
+
+		if will_add_to_frontmatter == 1 then
+			frontmatter += line + "\n"
+		else
+			content += line + "\n"
+		end
+	end
+
+	#print "FRONT\n\n", frontmatter
+	#print "CONTENT\n\n", content
+
+	front_data = YAML.load(frontmatter)
+	return front_data
 end
 
-marker_found_times = 0
-will_add_to_frontmatter = 1
-frontmatter = ""
-content = ""
-data.split("\n").each do |line|
-	if line =~ /^---/ then
-		marker_found_times += 1
-		next
-	end
-	if marker_found_times == 2 then
-		will_add_to_frontmatter = 0
-		marker_found_times = -1
-		next
+def validate_one(data, file)
+	ab_len = data["abstract"].length
+	if ab_len <= 0 then
+		printf "WARN %s %d\n", file, ab_len
 	end
 
-	if will_add_to_frontmatter == 1 then
-		frontmatter += line + "\n"
-	else
-		content += line + "\n"
+	# must have address (maybe change to where?)
+	# must have author
+	# must have title
+	# must have tags
+	# must have layout
+
+	if file =~ /book/ then
+		# must have auth
+		# must have read
 	end
+	return 0
 end
 
-#print "FRONT\n\n", frontmatter
-#print "CONTENT\n\n", content
+result_sum = 0
+ARGV.each do |file|
+	data_one = process_one(file)
+	result = validate_one(data_one, file)
+	result_sum += result
+end
 
-front_data = YAML.load(frontmatter)
-
-print "# " + front_data["title"] + "\n\n"
-print " "
-print content
+exit result_sum
