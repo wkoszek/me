@@ -2,7 +2,8 @@
 title:	"The Art of Start"
 author: "Wojciech Adam Koszek"
 abstract: >
-  
+  Not sure about this one. Didn't remember much from it. It's short, so
+  maybe you can read it through your public library first?
 address: "Menlo Park, CA"
 auth:	Guy Kawasaki
 read:	2013-04-23
