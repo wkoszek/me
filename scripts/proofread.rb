@@ -42,9 +42,20 @@ def process_one(fin_name)
 end
 
 def validate_one(data, file)
-	ab_len = data["abstract"].length
-	if ab_len <= 0 then
-		printf "WARN %s %d\n", file, ab_len
+	rc = 0
+
+	if not data.include?("abstract") then
+		print "# doesn't have 'abstract' keyword"
+		rc += 1
+	else
+		abs = data["abstract"]
+		if abs == nil then
+			print "# #{file} doesn't have abstract!\n"
+			rc += 1
+		elsif abs.length <= 0 then
+			printf "# WARN %s %d\n", file, abs.length
+			rc += 1
+		end
 	end
 
 	# must have address (maybe change to where?)
@@ -57,7 +68,8 @@ def validate_one(data, file)
 		# must have auth
 		# must have read
 	end
-	return 0
+
+	return rc
 end
 
 result_sum = 0
