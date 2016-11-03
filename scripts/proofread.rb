@@ -44,6 +44,8 @@ end
 def validate_one(data, file)
 	rc = 0
 
+	# make sure we have 1 value of each name
+
 	if not data.include?("abstract") then
 		print "# doesn't have 'abstract' keyword"
 		rc += 1
