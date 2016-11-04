@@ -79,7 +79,7 @@ Things I'll be exploring:
 Writing as I go. Work on
 [Sensorama](http://www.sensorama.org) led to a lot of studying and
 discovering, and I feel like I'll have to review the
-[https://www.github.com/wkoszek/sensorama-ios](GitHub repo) to come back to
+[GitHub repo](https://www.github.com/wkoszek/sensorama-ios) to come back to
 some of the ideas and conclussions I've reached during writing of it.
 
 It's just November, but these are my reflections.
