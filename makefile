@@ -1,6 +1,7 @@
 all:
 	(cd source && bundle exec middleman server)
 lint:
+	locale
 	echo "debugging lint"
 	pwd
 	ls
