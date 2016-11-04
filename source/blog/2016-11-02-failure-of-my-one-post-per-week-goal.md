@@ -44,8 +44,8 @@ Any of these reasons is valid and holds true and I fell into the trap. So as
 of today, my statistics look like this:
 
 ```
-$ la 2016-0* | grep -v book | wc -l
-       8
+	$ la 2016-0* | grep -v book | wc -l
+	       8
 ```
 
 **How to read this:** this year not counting books I've written 8 blog
@@ -60,8 +60,8 @@ thing](http://blog.pankajmore.in/static-site-generators-focus-on-the-wrong-thing
 If you didn't know, the way I write this blog post is by opening a simple
 notepad, writing text, and then using this thing called
 [Middleman](https://middlemanapp.com/). And this file later turns into the
-website. This works well until you have 200 pages (which I do -- check the
-http://www.koszek.com/reading section). Then it takes a long time..
+website. This works well until you have 200 pages (which I do -- check my
+[reading section](http://www.koszek.com/reading)). Then it takes a long time..
 
 Other than that I need to tie myself with a schedule for writing. As of now
 I'm ignoring my Wednesday reminder "To write!" and my Saturday's reminder to
