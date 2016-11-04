@@ -5,7 +5,7 @@ lint:
 	echo "debugging lint"
 	pwd
 	ls
-	scripts/proofread.rb source/blog/*.md
+	#scripts/proofread.rb source/blog/*.md
 render: lint
 	env TGT_KOSZEK_COM=production bundle exec middleman build --verbose
 render-dev: lint
