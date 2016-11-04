@@ -14,10 +14,6 @@ spellcheck-allow:
 - "Lohr's"
 - "Whooo"
 ---
-*Full title: How to Delegate Work and Ensure It's Done Right.*
-author: "Wojciech Adam Koszek"
-abstract:
-address: "Menlo Park, CA"
 
 I picked one of my weak points and decided to see what other people can tell
 me about it.

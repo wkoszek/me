@@ -1,7 +1,10 @@
 all:
 	(cd source && bundle exec middleman server)
 lint:
-	#scripts/proofread.rb source/blog/*.md
+	echo "debugging lint"
+	pwd
+	ls
+	scripts/proofread.rb source/blog/*.md
 render: lint
 	env TGT_KOSZEK_COM=production bundle exec middleman build --verbose
 render-dev: lint

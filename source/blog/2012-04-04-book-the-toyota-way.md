@@ -20,12 +20,6 @@ spellcheck-allow:
 - "Joel's"
 ---
 
-Full title: "The Toyota Way: 14 Management Principles from the World's
-author: "Wojciech Adam Koszek"
-abstract:
-address: "East Palo Alto, CA"
-Greatest Manufacturer"
-
 This is one of the most influential books in my life, honestly speaking.
 
 Concept of lean manufacturing can be spread to pretty much anything, and

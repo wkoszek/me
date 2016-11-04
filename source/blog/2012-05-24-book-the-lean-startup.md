@@ -16,12 +16,6 @@ spellcheck-allow:
 - "IMVU's"
 ---
 
-Full title: "The Lean Startup -- How Today's Entrepreneurs Use Continuous
-author: "Wojciech Adam Koszek"
-abstract:
-address: "East Palo Alto, CA"
-Innovation to Create Radically Successful Businesses"
-
 The thing is that IMVU's idea was one of the most ridiculous thing I've ever
 heard. But it's only because I don't buy ideas with virtual reality. I'm a
 retarded alien who just enjoys fresh air and nature. So ... I expected this
