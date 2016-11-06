@@ -8,48 +8,22 @@
 				<br>
 				<br>
 			<% end %>
-
-			<!--
-			<div class="ads">
-			</div>
-			-->
+			<!-- <div class="ads"> </div> -->
 
 			<h4>Contact</h4>
-			<a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a>
-			<br>
-
-			<a href="http://twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a>
-			<br>
-
-			<a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a>
-			<br>
-
-			<a href="http://github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a>
-			<br>
-
-			<!--
-			<a href="http://meta.stackoverflow.com/users/3822499/wojciech-a-koszek"><i class="fa fa-stack-overflow"></i>&nbsp;&nbsp;Stack Overflow</a>
-			<br>
-			-->
-
-			<br>
-			<h4>RSS</h4>
-			<p>
-				<a href="http://www.koszek.com/feed.xml"><i class="fa fa-rss"></i>&nbsp;RSS</a>
-			</p>
-
-			<br>
-			<h4>Subscribe for updates</h4>
-			<p>
-				<%= partial "mailchimp" %>
-			</p>
-
-			<br>
-			<h4>Tags</h4>
+			<a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a><br>
+			<a href="http://twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a><br>
+			<a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a><br>
+			<a href="http://github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a><br>
+			<!-- stack overflow -->
+			<br><h4>RSS</h4> <p> <a href="http://www.koszek.com/feed.xml"><i class="fa fa-rss"></i>&nbsp;RSS</a> </p>
+			<br><h4>Subscribe for updates</h4><p> <%= partial "mailchimp" %></p>
+			<br><h4>Tags</h4>
 			<% blog.tags.each do |tag, articles| %>
 				<%= link_to "#{tag}", tag_path(tag) %><br>
 			<% end %>
 		</div>
+
 		<div class="col-md-6 content">
 			<% if current_page.data.tags != nil %>
 				<article>
