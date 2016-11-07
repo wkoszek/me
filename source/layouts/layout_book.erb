@@ -1,28 +1,9 @@
 <% wrap_layout :layout do %>
     <div class="row"><!-- center -->
-        <div class="col-md-3 leftpanel hidden-xs hidden-sm">
-            <% if current_page.data.ads != nil %>
-                <% current_page.data.ads.each do |ad| %>
-                    <%= ad %>
-                <% end %>
-                <br>
-                <br>
-            <% end %>
-            <!-- <div class="ads"> </div> -->
-
-            <h4>Contact</h4>
-            <a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a><br>
-            <a href="http://twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a><br>
-            <a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a><br>
-            <a href="http://github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a><br>
-            <!-- stack overflow -->
-            <br><h4>RSS</h4> <p> <a href="http://www.koszek.com/feed.xml"><i class="fa fa-rss"></i>&nbsp;RSS</a> </p>
-            <br><h4>Subscribe for updates</h4><p> <%= partial "mailchimp" %></p>
-            <br><h4>Tags</h4>
-            <% blog.tags.each do |tag, articles| %>
-                <%= link_to "#{tag}", tag_path(tag) %><br>
-            <% end %>
+	<!--
+        <div class="col-md-1 leftpanel hidden-xs hidden-sm">
         </div>
+	-->
 
         <div class="col-md-6 content">
             <% if current_page.data.tags != nil %>
@@ -105,7 +86,31 @@
             <% end %>
         </div>
 
+        <div class="col-md-1">
+	</div>
+
         <div class="col-md-3">
+            <% if current_page.data.ads != nil %>
+                <% current_page.data.ads.each do |ad| %>
+                    <%= ad %>
+                <% end %>
+                <br>
+                <br>
+            <% end %>
+            <!-- <div class="ads"> </div> -->
+
+            <br><h4>Subscribe for updates</h4><p> <%= partial "mailchimp" %></p>
+            <br><h4>RSS</h4> <p> <a href="http://www.koszek.com/feed.xml"><i class="fa fa-rss"></i>&nbsp;RSS</a> </p>
+            <h4>Contact</h4>
+            <a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a><br>
+            <a href="http://twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a><br>
+            <a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a><br>
+            <a href="http://github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a><br>
+            <!-- stack overflow -->
+            <br><h4>Tags</h4>
+            <% blog.tags.each do |tag, articles| %>
+                <%= link_to "#{tag}", tag_path(tag) %><br>
+            <% end %>
             <font color="gray">
                 <h3 id="links">Links</h3>
                 <h4><a target="_blank" href="http://www.barelyusable.com">Barely Usable</a></h4>
