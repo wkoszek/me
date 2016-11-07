@@ -186,34 +186,36 @@ configure :build do
     activate :minify_html
 
     # Time.zone = "UTC"
-    activate :imageoptim do |options|
-      # Use a build manifest to prevent re-compressing images between builds
-      options.manifest = false
+    if false then
+      activate :imageoptim do |options|
+        # Use a build manifest to prevent re-compressing images between builds
+        options.manifest = false
 
-      # Silence problematic image_optim workers
-      options.skip_missing_workers = true
+        # Silence problematic image_optim workers
+        options.skip_missing_workers = true
 
-      # Cause image_optim to be in shouty-mode
-      options.verbose = false
+        # Cause image_optim to be in shouty-mode
+        options.verbose = false
 
-      # Setting these to true or nil will let options determine them (recommended)
-      options.nice = true
-      options.threads = true
+        # Setting these to true or nil will let options determine them (recommended)
+        options.nice = true
+        options.threads = true
 
-      # Image extensions to attempt to compress
-      options.image_extensions = %w(.png .jpg .gif .svg)
+        # Image extensions to attempt to compress
+        options.image_extensions = %w(.png .jpg .gif .svg)
 
-      # Compressor worker options, individual optimisers can be disabled by passing
-      # false instead of a hash
-      options.advpng    = { :level => 4 }
-      options.gifsicle  = { :interlace => false }
-      options.jpegoptim = { :strip => ['all'], :max_quality => 100 }
-      options.jpegtran  = { :copy_chunks => false,
-                            :progressive => true, :jpegrescan => true }
-      options.optipng   = { :level => 6, :interlace => false }
-      options.pngcrush  = { :chunks => ['alla'], :fix => false, :brute => false }
-      options.pngout    = false # { :copy_chunks => false, :strategy => 0 }
-      options.svgo      = false # {}
+        # Compressor worker options, individual optimisers can be disabled by passing
+        # false instead of a hash
+        options.advpng    = { :level => 4 }
+        options.gifsicle  = { :interlace => false }
+        options.jpegoptim = { :strip => ['all'], :max_quality => 100 }
+        options.jpegtran  = { :copy_chunks => false,
+                              :progressive => true, :jpegrescan => true }
+        options.optipng   = { :level => 6, :interlace => false }
+        options.pngcrush  = { :chunks => ['alla'], :fix => false, :brute => false }
+        options.pngout    = false # { :copy_chunks => false, :strategy => 0 }
+        options.svgo      = false # {}
+      end
     end
   else
     dbg("development build!!!")
