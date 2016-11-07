@@ -1,130 +1,130 @@
 <% wrap_layout :layout do %>
-	<div class="row"><!-- center -->
-		<div class="col-md-3 leftpanel hidden-xs hidden-sm">
-			<% if current_page.data.ads != nil %>
-				<% current_page.data.ads.each do |ad| %>
-					<%= ad %>
-				<% end %>
-				<br>
-				<br>
-			<% end %>
-			<!-- <div class="ads"> </div> -->
+    <div class="row"><!-- center -->
+        <div class="col-md-3 leftpanel hidden-xs hidden-sm">
+            <% if current_page.data.ads != nil %>
+                <% current_page.data.ads.each do |ad| %>
+                    <%= ad %>
+                <% end %>
+                <br>
+                <br>
+            <% end %>
+            <!-- <div class="ads"> </div> -->
 
-			<h4>Contact</h4>
-			<a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a><br>
-			<a href="http://twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a><br>
-			<a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a><br>
-			<a href="http://github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a><br>
-			<!-- stack overflow -->
-			<br><h4>RSS</h4> <p> <a href="http://www.koszek.com/feed.xml"><i class="fa fa-rss"></i>&nbsp;RSS</a> </p>
-			<br><h4>Subscribe for updates</h4><p> <%= partial "mailchimp" %></p>
-			<br><h4>Tags</h4>
-			<% blog.tags.each do |tag, articles| %>
-				<%= link_to "#{tag}", tag_path(tag) %><br>
-			<% end %>
-		</div>
+            <h4>Contact</h4>
+            <a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a><br>
+            <a href="http://twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a><br>
+            <a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a><br>
+            <a href="http://github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a><br>
+            <!-- stack overflow -->
+            <br><h4>RSS</h4> <p> <a href="http://www.koszek.com/feed.xml"><i class="fa fa-rss"></i>&nbsp;RSS</a> </p>
+            <br><h4>Subscribe for updates</h4><p> <%= partial "mailchimp" %></p>
+            <br><h4>Tags</h4>
+            <% blog.tags.each do |tag, articles| %>
+                <%= link_to "#{tag}", tag_path(tag) %><br>
+            <% end %>
+        </div>
 
-		<div class="col-md-6 content">
-			<% if current_page.data.tags != nil %>
-				<article>
-					<h1 class="title"><%= current_page.title %></h1>
-					<i>by <%= current_page.data.author %>, </i>
-					<i><%= current_page.date.strftime('%b %e, %Y') %>,</i>
-					<i><%= current_page.data.address %></i>
-					<br/>
-					<br/>
-					<b><%= current_page.data.abstract %></b>
-					<hr/>
-					<%= partial "_share" %>
-					<hr/>
-					<% current_page.tags.each do |tag| %>
-						<!-- <span><%= link_to tag, tag_path(tag) %></span> -->
-					<% end %>
-					<p>
-						<%= yield %>
-					</p>
-				</article>
+        <div class="col-md-6 content">
+            <% if current_page.data.tags != nil %>
+                <article>
+                    <h1 class="title"><%= current_page.title %></h1>
+                    <i>by <%= current_page.data.author %>, </i>
+                    <i><%= current_page.date.strftime('%b %e, %Y') %>,</i>
+                    <i><%= current_page.data.address %></i>
+                    <br/>
+                    <br/>
+                    <b><%= current_page.data.abstract %></b>
+                    <hr/>
+                    <%= partial "_share" %>
+                    <hr/>
+                    <% current_page.tags.each do |tag| %>
+                        <!-- <span><%= link_to tag, tag_path(tag) %></span> -->
+                    <% end %>
+                    <p>
+                        <%= yield %>
+                    </p>
+                </article>
 
-				<% pages = sitemap.resources.find_all{|p| p.source_file.match(/.*book.*\.md$/)} %>
-				<% prev_page = nil %>
-				<% next_page = nil %>
-				<% pages.each_with_index do |p, index| %>
-					<% if p.url == current_page.url %>
-						<% next_page = pages[index+1]  %>
-						<% prev_page = pages[index-1] %>
-					<% end %>
-				<% end %>
+                <% pages = sitemap.resources.find_all{|p| p.source_file.match(/.*book.*\.md$/)} %>
+                <% prev_page = nil %>
+                <% next_page = nil %>
+                <% pages.each_with_index do |p, index| %>
+                    <% if p.url == current_page.url %>
+                        <% next_page = pages[index+1]  %>
+                        <% prev_page = pages[index-1] %>
+                    <% end %>
+                <% end %>
 
-				<div class="row">
-					<br>
-					<div class="col-md-6 text-left">
-						<% unless prev_page %>
-						<% else %>
-							<i class="fa fa-arrow-left"></i>
-							<a href="<%= prev_page.url %>"><span>Previous</span></a>
-							<br>
-							&ldquo;<%= prev_page.data.title %>&rdquo;
-						<% end %>
-					</div>
-					<div class="col-md-6 text-right">
-						<% if next_page == nil %>
-						<% else %>
-							<a href="<%= next_page.url %>"><span>Next</span></a>
-							<i class="fa fa-arrow-right"></i>
-							<br>
-							&ldquo;<%= next_page.data.title %>&rdquo;
-						<% end %>
-					</div>
-				</div>
-				<p>
-					<hr>
-					<h3>Subscribe for updates</h3>
-					<p>
-						<%= partial "mailchimp" %>
-					</p>
+                <div class="row">
+                    <br>
+                    <div class="col-md-6 text-left">
+                        <% unless prev_page %>
+                        <% else %>
+                            <i class="fa fa-arrow-left"></i>
+                            <a href="<%= prev_page.url %>"><span>Previous</span></a>
+                            <br>
+                            &ldquo;<%= prev_page.data.title %>&rdquo;
+                        <% end %>
+                    </div>
+                    <div class="col-md-6 text-right">
+                        <% if next_page == nil %>
+                        <% else %>
+                            <a href="<%= next_page.url %>"><span>Next</span></a>
+                            <i class="fa fa-arrow-right"></i>
+                            <br>
+                            &ldquo;<%= next_page.data.title %>&rdquo;
+                        <% end %>
+                    </div>
+                </div>
+                <p>
+                    <hr>
+                    <h3>Subscribe for updates</h3>
+                    <p>
+                        <%= partial "mailchimp" %>
+                    </p>
 
-					<hr>
-					<b>Liked it? Share it!</b>
-					<%= partial "_share" %>
+                    <hr>
+                    <b>Liked it? Share it!</b>
+                    <%= partial "_share" %>
 
-					<hr>
-					<h3>You may also like:</h3>
-					<ul>
-					<% current_article.similar_articles.first(5).each do |article| %>
-						<li><%= link_to article.title, article.url %>
-					<% end %>
-					</ul>
+                    <hr>
+                    <h3>You may also like:</h3>
+                    <ul>
+                    <% current_article.similar_articles.first(5).each do |article| %>
+                        <li><%= link_to article.title, article.url %>
+                    <% end %>
+                    </ul>
 
-					<hr>
-					<%= partial "_article_footer" %>
-					<%= partial "_disqus" %>
-				</p>
+                    <hr>
+                    <%= partial "_article_footer" %>
+                    <%= partial "_disqus" %>
+                </p>
 
-			<% else %>
-				<%= yield %>
-			<% end %>
-		</div>
+            <% else %>
+                <%= yield %>
+            <% end %>
+        </div>
 
-		<div class="col-md-3">
-			<font color="gray">
-				<h3 id="links">Links</h3>
-				<h4><a target="_blank" href="http://www.barelyusable.com">Barely Usable</a></h4>
-				(My UX/UI website)
+        <div class="col-md-3">
+            <font color="gray">
+                <h3 id="links">Links</h3>
+                <h4><a target="_blank" href="http://www.barelyusable.com">Barely Usable</a></h4>
+                (My UX/UI website)
 
-				<h3 id="notes">Notes</h3>
-				<h4><a target="_blank" href="/notes/software-tools/">Software tools</a></h4>
-				<h4><a target="_blank" href="/notes/great-web-fonts/">Great Web Fonts</a></h4>
-				<h4><a target="_blank" href="/notes/deployment-checklist/">Deployment checklist</a></h4>
-				<h4><a target="_blank" href="/notes/great-design-examples/">Great design examples</a></h4>
-				<!--
-				<h3>Checklists</h3>
-				<h4><a href="/r/software-change-checklist/">Software Change Checklist</a></h4>
-				<h3>Algorithms</h3>
-				<h4><a href="randomized-data-structures/">Randomized data structures</a></h4>
-				<h3>Software process</h3>
-				<h4><a href="continuous-integration-systems/">How to use Continuous Integration</a></h4>
-				-->
-			</font>
-		</div>
-	</div><!-- content -->
+                <h3 id="notes">Notes</h3>
+                <h4><a target="_blank" href="/notes/software-tools/">Software tools</a></h4>
+                <h4><a target="_blank" href="/notes/great-web-fonts/">Great Web Fonts</a></h4>
+                <h4><a target="_blank" href="/notes/deployment-checklist/">Deployment checklist</a></h4>
+                <h4><a target="_blank" href="/notes/great-design-examples/">Great design examples</a></h4>
+                <!--
+                <h3>Checklists</h3>
+                <h4><a href="/r/software-change-checklist/">Software Change Checklist</a></h4>
+                <h3>Algorithms</h3>
+                <h4><a href="randomized-data-structures/">Randomized data structures</a></h4>
+                <h3>Software process</h3>
+                <h4><a href="continuous-integration-systems/">How to use Continuous Integration</a></h4>
+                -->
+            </font>
+        </div>
+    </div><!-- content -->
 <% end %>

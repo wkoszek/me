@@ -1,119 +1,119 @@
 <!doctype html>
 <% if false then %>
-	<!-- vim:set tw=1000: -->
+    <!-- vim:set tw=1000: -->
 <% end %>
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
-		<meta name="author" content="Wojciech Adam Koszek">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+        <meta name="author" content="Wojciech Adam Koszek">
 
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<meta name="p:domain_verify" content="35dedfd4f697e6e974b0ae6631ca7351"/>
+        <meta name="p:domain_verify" content="35dedfd4f697e6e974b0ae6631ca7351"/>
 
-		<link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-		<link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-		<link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="/css/1406-fonts.css">
-		<link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="/css/debug.css">
-		<link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="/css/code.css">
-		<link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="/css/1406-fonts.css">
+        <link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="/css/debug.css">
+        <link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="/css/code.css">
+        <link rel="stylesheet" media="none" onload="if(media!='all')media='all'" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-		<!-- Latest compiled and minified JavaScript -->
-		<script async src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+        <!-- Latest compiled and minified JavaScript -->
+        <script async src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
-		<%= partial "googlestats" %>
-		<%= partial "search" %>
+        <%= partial "googlestats" %>
+        <%= partial "search" %>
 
-		<link rel="icon" type="image/png" href="/img/favicon.ico">
-		<% title = data.site.title.titleize %>
-		<% description = data.site.description %>
-	 	<% ["title", "description", "image", "site_name", "url", "audio", "video"].each do |og| %>
-			<% prefix = "" %>
-			<% if current_page.metadata[:page].try(:[], og) %>
-				<% if og == "title" %>
-					<% title = current_page.metadata[:page][og].titleize %>
-					<% prefix = "Wojciech A. Koszek - " %>
-				<% end %>
-				<% if og == "description" %>
-					<% description = current_page.metadata[:page][og] %>
-				<% end %>
-				<meta property="og:<%= og %>" content="<%= prefix + current_page.metadata[:page][og] %>" />
-			<% end %>
-		<% end %>
-		<title>Wojciech Adam Koszek <%= '- ' + title %></title>
-		<meta name="description" content="Wojciech Adam Koszek<%= description ? (" - " + description) : ""%>" />
+        <link rel="icon" type="image/png" href="/img/favicon.ico">
+        <% title = data.site.title.titleize %>
+        <% description = data.site.description %>
+         <% ["title", "description", "image", "site_name", "url", "audio", "video"].each do |og| %>
+            <% prefix = "" %>
+            <% if current_page.metadata[:page].try(:[], og) %>
+                <% if og == "title" %>
+                    <% title = current_page.metadata[:page][og].titleize %>
+                    <% prefix = "Wojciech A. Koszek - " %>
+                <% end %>
+                <% if og == "description" %>
+                    <% description = current_page.metadata[:page][og] %>
+                <% end %>
+                <meta property="og:<%= og %>" content="<%= prefix + current_page.metadata[:page][og] %>" />
+            <% end %>
+        <% end %>
+        <title>Wojciech Adam Koszek <%= '- ' + title %></title>
+        <meta name="description" content="Wojciech Adam Koszek<%= description ? (" - " + description) : ""%>" />
 
-		<meta name="twitter:card" content="summary" />
-		<meta name="twitter:site" content="@<%= data.site.twitter %>" />
-		<meta name="twitter:creator" content="@<%= data.site.twitter %>" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@<%= data.site.twitter %>" />
+        <meta name="twitter:creator" content="@<%= data.site.twitter %>" />
 
-		<meta property="og:type" content="article" />
-		<meta property="article:author" content="https://www.koszek.com/about" />
-		<meta property="article:publisher" content="https://www.koszek.com/" />
-		<%= feed_tag :atom, "/feed.xml", title: "Atom Feed" %>
+        <meta property="og:type" content="article" />
+        <meta property="article:author" content="https://www.koszek.com/about" />
+        <meta property="article:publisher" content="https://www.koszek.com/" />
+        <%= feed_tag :atom, "/feed.xml", title: "Atom Feed" %>
 
-	</head>
-	<body>
-	<div class="container">
-		<div class="row"><!-- Header -->
-			<div class="col-md-3 logo">
-				<a href="/">Wojciech Adam Koszek</a>
-			</div>
-			<div class="col-md-9 links hidden-sm hidden-xs"><!-- Desktop menu -->
-				<a class="in" href="/">Blog</a>
-				<a class="in" href="/reading/">Reading</a>
-				<a class="in" href="/papers/">Papers</a>
-				<a class="in" href="/about/">About me</a>
-				<input type="text" class="st-default-search-input">
-			</div>
-		</div>
-		<div class="row"><!-- Header -->
-			<hr/>
-		</div>
-		<div class="row hidden-md hidden-lg links"><!-- Mobile menu, 1st row -->
-			<div class="col-xs-4">
-				<br>
-				<a class="in" href="/">Blog</a>
-			</div>
-			<div class="col-xs-4">
-				<br>
-				<a class="in" href="/reading/">Reading</a>
-			</div>
-			<div class="col-xs-4">
-				<br>
-				<!-- empty -->
-			</div>
-		</div>
-		<div class="row hidden-md hidden-lg links"><!-- Mobile menu, 2nd row -->
-			<div class="col-xs-4">
-				<br>
-				<a class="in" href="/papers/">Papers</a>
-			</div>
-			<div class="col-xs-4">
-				<br>
-				<a class="in" href="/about/">About</a>
-			</div>
-			<div class="col-xs-4">
-				<br>
-				<a class="hidden-lg hidden-md" href="#notes">Notes</a>
-			</div>
-		</div>
-		<div class="row hidden-md hidden-lg links text-center"><!-- Search -->
-			<br>
-			<input type="text" class="st-default-search-input">
-		</div>
+    </head>
+    <body>
+    <div class="container">
+        <div class="row"><!-- Header -->
+            <div class="col-md-3 logo">
+                <a href="/">Wojciech Adam Koszek</a>
+            </div>
+            <div class="col-md-9 links hidden-sm hidden-xs"><!-- Desktop menu -->
+                <a class="in" href="/">Blog</a>
+                <a class="in" href="/reading/">Reading</a>
+                <a class="in" href="/papers/">Papers</a>
+                <a class="in" href="/about/">About me</a>
+                <input type="text" class="st-default-search-input">
+            </div>
+        </div>
+        <div class="row"><!-- Header -->
+            <hr/>
+        </div>
+        <div class="row hidden-md hidden-lg links"><!-- Mobile menu, 1st row -->
+            <div class="col-xs-4">
+                <br>
+                <a class="in" href="/">Blog</a>
+            </div>
+            <div class="col-xs-4">
+                <br>
+                <a class="in" href="/reading/">Reading</a>
+            </div>
+            <div class="col-xs-4">
+                <br>
+                <!-- empty -->
+            </div>
+        </div>
+        <div class="row hidden-md hidden-lg links"><!-- Mobile menu, 2nd row -->
+            <div class="col-xs-4">
+                <br>
+                <a class="in" href="/papers/">Papers</a>
+            </div>
+            <div class="col-xs-4">
+                <br>
+                <a class="in" href="/about/">About</a>
+            </div>
+            <div class="col-xs-4">
+                <br>
+                <a class="hidden-lg hidden-md" href="#notes">Notes</a>
+            </div>
+        </div>
+        <div class="row hidden-md hidden-lg links text-center"><!-- Search -->
+            <br>
+            <input type="text" class="st-default-search-input">
+        </div>
 
-		<%= yield %>
+        <%= yield %>
 
-		<div class="row">
-			<div class="col-md-12 footer">
-				<i>&copy; 2015 Wojciech Adam Koszek (<a href="http://www.twitter.com/wkoszek/">@wkoszek</a>)</i>
-				<br>
-				Visits so far: <%= partial "stats" %>
-			</div>
-		</div>
-	</div><!--container-->
+        <div class="row">
+            <div class="col-md-12 footer">
+                <i>&copy; 2015 Wojciech Adam Koszek (<a href="http://www.twitter.com/wkoszek/">@wkoszek</a>)</i>
+                <br>
+                Visits so far: <%= partial "stats" %>
+            </div>
+        </div>
+    </div><!--container-->
 </body>
 </html>
