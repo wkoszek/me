@@ -1,5 +1,5 @@
 all:
-	(cd source && bundle exec middleman server)
+	(cd source && bundle exec middleman server --bind-address=0.0.0.0)
 lint:
 	locale
 	echo "debugging lint"
