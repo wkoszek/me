@@ -6,8 +6,9 @@ abstract: >
   if the OS is more or less similar. Is it the case for Ruby and Python? In
   this article I'm covering that.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "Several things which make writing code in Ruby and Python problematic, long term."
-tags:	article
 read:	2015-08-17
 published: true
 layout:	layout_book

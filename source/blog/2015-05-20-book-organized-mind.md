@@ -4,8 +4,9 @@ author: "Wojciech Adam Koszek"
 abstract: >
   Very looong and disorganised book on organised mind.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-05-20
 layout: layout_book
 ads:

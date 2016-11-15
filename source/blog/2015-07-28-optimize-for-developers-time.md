@@ -7,8 +7,9 @@ abstract: >
   write that most of the time it's no longer necessary. What's really
   necessary is writing human-readable and usable software.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "Modern look on tradeoffs in software development."
-tags:	article
 read:	2015-07-28
 published: true
 layout:	layout_book

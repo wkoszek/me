@@ -4,9 +4,10 @@ author: "Wojciech Adam Koszek"
 abstract: >
   Some of my random thoughts and insights after reading "The Toyota Way"
 address: "East Palo Alto, CA"
+tags:
+- article
 description: 'On connection between the "The Toyota Way" and the UNIX programming.'
 auth:	Wojciech Koszek
-tags:	article
 layout: layout_book
 spellcheck-allow:
 - "toyotaway"

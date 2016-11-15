@@ -4,10 +4,11 @@ author: "Wojciech Adam Koszek"
 abstract: >
   I wish I had known what this book was all about.
 address: "Menlo Park, CA"
+tags:
+- books
 description: "My thoughts from Mind for Numbers"
 auth:	"Barbara Oakley"
 read:	2015-09-07
-tags:	books
 published: true
 layout: layout_book
 keywords:

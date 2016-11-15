@@ -5,9 +5,10 @@ abstract: >
   Book which I prefer much more than "Zero to One", as it's written by the
   guy who went through many, many obstacles and try to make it through.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
 auth:	Ben Horowitz 
-tags:	books
 read:	2015-05-20
 layout: layout_book
 ads:

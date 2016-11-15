@@ -5,10 +5,11 @@ abstract: >
   Topic of continuous integration interests me a lot, and this is my
   collection of writings I've found around. Consider it a currated content.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "Short summary of 1 hour research session on how great software companies use Continuous Integration."
 auth:	Wojciech Koszek
 read:	2015-06-20
-tags:	article
 layout: layout_book
 spellcheck-allow:
 - "Biicode"

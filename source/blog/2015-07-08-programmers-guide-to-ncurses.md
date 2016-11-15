@@ -6,8 +6,9 @@ abstract: >
   world, and I've just made it easier to access. If you like to write your
   own, little crude tools, and do all of this in C, this is a good resource.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "The collection of examples of ANSI C programs using NCurses library."
-tags:	article
 read:	2015-07-08
 published: true
 layout: layout_book

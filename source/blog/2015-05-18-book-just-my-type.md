@@ -4,8 +4,9 @@ author: "Wojciech Adam Koszek"
 abstract: >
   Very nice and compact introduction to typography.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-05-20
 layout: layout_book
 ads:

@@ -6,9 +6,10 @@ abstract: >
   that you may find useful if you consider applying to Google Code-In of
   Google Summer of Code.
 address: "East Palo Alto, CA"
+tags:
+- article
 description: "Short HOWTO for writing good Summer of Code Proposals."
 auth:	Wojciech Koszek
-tags:	article
 layout: layout_book
 spellcheck-allow:
 - "sed"

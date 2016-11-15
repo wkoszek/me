@@ -8,9 +8,10 @@ abstract: >
   her books in the real life, but I never investigated. Nothing in this book
   is sold to you. To me, it was a very useful read.
 address: "Menlo Park, CA"
+tags:
+- books
 auth:	Suze Orman
 read:	2013-10-02
-tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=030734584X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

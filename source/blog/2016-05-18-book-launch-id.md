@@ -6,8 +6,9 @@ abstract: >
   form of audio/video recordings, this book might be for you.
 auth: Jonathan R Taylor
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2016-05-18
 layout: layout_book
 ads:

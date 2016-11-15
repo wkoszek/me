@@ -4,7 +4,8 @@ author: "Wojciech Adam Koszek"
 abstract: >
   My buyers remorse and post-mortem or lack of first or the later.
 address: "Menlo Park, CA"
-tags:	article
+tags:
+- article
 read:	2016-03-20
 published: true
 layout:	layout_book

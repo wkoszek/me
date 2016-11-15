@@ -5,9 +5,10 @@ abstract: >
   Don't remember much, but it was a bootstrapping guide. Nothing else to add
   after two years from reading it.
 address: "Menlo Park, CA"
+tags:
+- books
 auth:	Guy Kawasaki
 read:	2014-05-02
-tags:	books
 layout: layout_book
 spellcheck-allow:
 - "swingy"

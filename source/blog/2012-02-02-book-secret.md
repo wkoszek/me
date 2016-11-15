@@ -7,7 +7,8 @@ abstract: >
   in the personal development field. In my opinion this book changed my
   life for a plus. Check it out. But be critical.
 address: "Czestochowa, Poland"
-tags:	books
+tags:
+- books
 auth:	Rhonda Byrne
 read:	2012-02-02
 layout: layout_book

@@ -4,8 +4,9 @@ author: "Wojciech Adam Koszek"
 abstract: >
   How to study effectively.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-04-24
 layout: layout_book
 ads:

@@ -5,9 +5,10 @@ abstract: >
   Cool book on Ruby. If you intend to write in Ruby, just get it. You won't
   regret.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
 auth:	Dave Thomas
-tags:	books
 read:	2015-09-08
 layout: layout_book
 ads:

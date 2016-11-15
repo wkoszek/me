@@ -6,7 +6,8 @@ abstract: >
   flows out don't make it easier for others? In this piece I explain what my
   take on it is.
 address: "Menlo Park, CA"
-tags:	article
+tags:
+- article
 read:	2016-04-11
 published: true
 layout:	layout_book

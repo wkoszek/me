@@ -6,8 +6,9 @@ abstract: >
   any kind, you'll just love it as much as I did. Wasn't boring at any given
   time.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-09-15
 layout: layout_book
 ads:

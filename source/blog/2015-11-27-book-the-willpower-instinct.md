@@ -4,8 +4,9 @@ author: "Wojciech Adam Koszek"
 abstract: >
   1 year after listening to this book I don't really remember it..
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-11-29
 layout: layout_book
 ads:

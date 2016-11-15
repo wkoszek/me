@@ -6,8 +6,9 @@ abstract: >
   world envies. It was cool to learn more about him in a structured form. If
   you're a design junkie, you'll like this one.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-11-03
 layout: layout_book
 ads:

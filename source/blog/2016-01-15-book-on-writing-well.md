@@ -7,8 +7,9 @@ abstract: >
   how I communicate. You'll learn a lot of secrets on making your writing
   more interesting thanks to this book.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2016-01-15
 layout: layout_book
 ads:

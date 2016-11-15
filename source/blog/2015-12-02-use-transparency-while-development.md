@@ -5,7 +5,8 @@ abstract: >
   Short hint on how transparency in Terminal can be useful while working
   on web stuff.
 address: "Menlo Park, CA"
-tags:	article
+tags:
+- article
 read:	2015-12-02
 published: true
 layout:	layout_book

@@ -5,7 +5,8 @@ abstract: >
   My lessons learned after I went through my GitHub and connected whatever I
   could to Travis-Ci, Circle CI and AppVeyor to get it built and tested.
 address: "Menlo Park, CA"
-tags: article
+tags:
+- article
 read: 2016-07-11
 published: true
 layout: layout_book

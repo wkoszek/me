@@ -4,7 +4,8 @@ author: "Wojciech Adam Koszek"
 abstract: >
   My summary of why writing even one blog a week is fairly hard.
 address: "Menlo Park, CA"
-tags: article
+tags:
+- article
 published: true
 layout: layout_book
 image: 

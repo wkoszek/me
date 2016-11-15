@@ -4,8 +4,9 @@ author: "Wojciech Adam Koszek"
 abstract: >
   Things to shy away from when working on shell scripting.
 address: "Menlo Park, CA"
+tags:
+- article
 description: 'Description and explanation of the top 3 bugs which I commit when I work on scripting.'
-tags:	article
 read:	2015-10-12
 published: true
 layout:	layout_book

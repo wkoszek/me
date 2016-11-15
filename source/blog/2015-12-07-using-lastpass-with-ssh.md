@@ -5,7 +5,8 @@ abstract: >
   LassPass improved my flow for passwords, and in this article I present how
   to make it work for SSH keys and their passphrases.
 address: "Menlo Park, CA"
-tags:	article
+tags:
+- article
 read:	2015-12-04
 published: true
 layout:	layout_book

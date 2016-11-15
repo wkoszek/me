@@ -7,8 +7,9 @@ abstract: >
   the summary. You'll listen through it, but you'll need to summarise it
   yourself.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-10-03
 layout: layout_book
 ads:

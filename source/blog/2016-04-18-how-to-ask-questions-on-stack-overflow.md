@@ -6,7 +6,8 @@ abstract: >
   it, but less people actually produce content there. I present my take on
   it and why some questions are basically hard to answer.
 address: "Menlo Park, CA"
-tags:	article
+tags:
+- article
 read:	2016-04-18
 published: true
 layout:	layout_book

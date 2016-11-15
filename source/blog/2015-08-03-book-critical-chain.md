@@ -6,10 +6,11 @@ abstract: >
   Toyota Way" I don't think you'll learn anything new. If you haven't
   however, this might be a good position.
 address: "Menlo Park, CA"
+tags:
+- books
 description: "Notes from listening to Critical Chain"
 auth:	Eliyahu M. Goldratt
 read:	2015-08-03
-tags:	books
 published: true
 layout: layout_book
 keywords:

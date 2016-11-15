@@ -6,11 +6,12 @@ abstract: >
   script and you see that it broke your Travis CI process? I've this
   experience and I show some simple solutions to get over the breakages.
 address: "Menlo Park, CA"
+tags:
+- article
 abstract: >
   Below I explain problems you may run into when your
   continuous integration build starts to take a long time and I
   show some simple solutions for deadling with them.
-tags: article
 read: 2016-07-25
 published: true
 layout: layout_book

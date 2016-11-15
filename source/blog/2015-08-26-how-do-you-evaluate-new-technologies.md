@@ -6,8 +6,9 @@ abstract: >
   your project happen, and there are five possible solutions? Here I mention
   things worth paying attention to.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "Insights into how to evaluate technologies for your next project."
-tags:	article
 read:	2015-08-26
 published: true
 layout:	layout_book

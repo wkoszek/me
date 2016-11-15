@@ -6,7 +6,8 @@ abstract: >
   of a product, and the vision of using existing tools is very tempting,
   remember that using them can bring some threats. I explain them here.
 address: "Menlo Park, CA"
-tags:	article
+tags:
+- article
 read:	2016-05-16
 published: true
 layout:	layout_book

@@ -4,9 +4,10 @@ author: "Wojciech Adam Koszek"
 abstract: >
   This was useful for better negotiating skills.
 address: "Menlo Park, CA"
+tags:
+- books
 auth:	Chester L Karrass
 read:	2013-09-28
-tags:	books
 layout: layout_book
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B000J3JPVI" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

@@ -5,9 +5,10 @@ abstract: >
   Very funny take on one person's career at Amazon from the time of its
   hypergrowth.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
 auth:	Mike Daisey
-tags:	books
 read:	2015-06-14
 layout: layout_book
 ads:

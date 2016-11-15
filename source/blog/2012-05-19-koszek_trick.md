@@ -4,9 +4,10 @@ author: "Wojciech Adam Koszek"
 abstract: >
   Dirty, ugly and terribly useful trick that works sometimes.
 address: "East Palo Alto, CA"
+tags:
+- article
 description: "On crude and unsupported fun with fpurge()"
 auth:	Wojciech Koszek
-tags:	article
 layout: layout_book
 ---
 

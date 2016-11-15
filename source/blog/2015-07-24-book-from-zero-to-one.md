@@ -6,10 +6,11 @@ abstract: >
   really, really small to gianormous. And how to do it without other people
   noticing, so that you can be a dominant player.
 address: "Menlo Park, CA"
+tags:
+- books
 description: "My impressions from listening to From Zero to One"
 auth:	Peter Thiel
 read:	2015-08-24
-tags:	books
 published: true
 layout: layout_book
 keywords:

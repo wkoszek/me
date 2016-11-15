@@ -8,8 +8,9 @@ abstract: >
   engineering/IT/support for agile, this book is for you. Value and
   storytelling are very well done here. Reminded me: "The Goal".
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-11-17
 layout: layout_book
 ads:

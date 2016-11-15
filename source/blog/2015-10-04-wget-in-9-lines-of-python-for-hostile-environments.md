@@ -6,8 +6,9 @@ abstract: >
   are installed and those installed are out-of-date can be challenging. I've
   missed `wget` on Synology distro, and I show how you can work-around it.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "wget implementation for environments such as Synology DSM distribution, where wget doesn't have HTTPS support."
-tags:	article
 read:	2015-10-05
 published: true
 layout:	layout_book

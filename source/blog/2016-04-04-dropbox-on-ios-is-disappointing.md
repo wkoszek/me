@@ -4,7 +4,8 @@ author: "Wojciech Adam Koszek"
 abstract: >
   My take on iOS Dropbox usability at the time of writing this article.
 address: "Menlo Park, CA"
-tags:	article
+tags:
+- article
 read:	2016-04-05
 published: true
 layout:	layout_book

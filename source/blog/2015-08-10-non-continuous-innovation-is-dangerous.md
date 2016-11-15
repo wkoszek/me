@@ -6,8 +6,9 @@ abstract: >
   In this article I discuss making changes to your products in a
   non-continuous ways and possible impacts it can have.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "My take on making continous and non-continuous innovation."
-tags:	article
 read:	2015-08-10
 published: true
 layout:	layout_book

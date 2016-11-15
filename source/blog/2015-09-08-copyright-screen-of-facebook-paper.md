@@ -4,7 +4,8 @@ author: "Wojciech Adam Koszek"
 abstract: >
   My amazement with number of modules modern mobile app can consists of.
 address: "Menlo Park, CA"
-tags:	article
+tags:
+- books
 read:	2015-09-09
 published: true
 layout:	layout_book

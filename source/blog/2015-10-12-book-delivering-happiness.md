@@ -5,8 +5,9 @@ abstract: >
   Tony delivers his idea for Zappos--what it means for him, how he built it
   and how he kept good people around. I liked it.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2016-10-12
 layout: layout_book
 ads:

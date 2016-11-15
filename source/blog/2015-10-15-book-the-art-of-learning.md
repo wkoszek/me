@@ -7,8 +7,9 @@ abstract: >
   you keep recalling/using them often. You'll be a better learner after
   reading this book for sure.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-11-15
 layout: layout_book
 ads:

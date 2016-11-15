@@ -5,9 +5,10 @@ abstract: >
   After reading the "Design of Everyday Things" I share some insights on
   things I've noticed in the office.
 address: "East Palo Alto, CA"
+tags:
+- article
 description: "Some usability insights from using Sharp printers."
 auth:	Wojciech Koszek
-tags:	article
 layout: layout_book
 spellcheck-allow:
 - "MFP"

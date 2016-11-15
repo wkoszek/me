@@ -6,8 +6,9 @@ abstract: >
   into blog writing or writing of any kind, buy it. You won't regret. I kept
   listening to it and greatly enjoyed it.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-10-21
 layout: layout_book
 ads:

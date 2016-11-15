@@ -4,9 +4,10 @@ author: "Wojciech Adam Koszek"
 abstract: >
   Nah. Read "Getting things done". This book isn't a good investment.
 address: "Menlo Park, CA"
+tags:
+- books
 auth:	Brian Tracy
 read:	2013-08-05
-tags:	books
 layout: layout_book
 ads:
 - <iframe width="480" height="360" src="//www.youtube.com/embed/PSGiUiMo_ZE" frameborder="0" allowfullscreen></iframe>

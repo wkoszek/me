@@ -6,10 +6,11 @@ abstract: >
   spell-checking plugin. This piece explains some things step-by-step on how
   fixing some open source stuff looks like.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "From the battle-field description on fixing Middleman plugin."
 auth:	Wojciech Koszek
 read:	2015-06-20
-tags:	article
 layout: layout_book
 spellcheck-allow:
 - "md"

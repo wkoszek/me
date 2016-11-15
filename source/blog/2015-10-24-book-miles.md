@@ -6,8 +6,9 @@ abstract: >
   I've heard. I have this book in my mind everyday. So will you, if you get
   it.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-10-24
 layout: layout_book
 ads:

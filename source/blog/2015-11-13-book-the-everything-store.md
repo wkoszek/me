@@ -4,8 +4,9 @@ author: "Wojciech Adam Koszek"
 abstract: >
   Dark background behind Amazon and its success. I liked it.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-10-21
 layout: layout_book
 ads:

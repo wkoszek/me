@@ -5,8 +5,9 @@ abstract: >
   My take on Go usability from the perspective of the 1st time user.
   My most-read article so far.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "Things which frustrated me about Go bootstrapping."
-tags:	article
 read:	2015-07-22
 published: true
 layout:	layout_book

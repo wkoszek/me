@@ -5,7 +5,8 @@ abstract: >
   Easy to understand explanation of Docker. Docker for dummies and normal
   humans.
 address: "Menlo Park, CA"
-tags: article
+tags:
+- article
 read: 2016-06-27
 published: true
 layout: layout_book

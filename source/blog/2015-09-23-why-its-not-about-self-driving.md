@@ -7,8 +7,9 @@ abstract: >
   very interesting and I explain why I believe why it's so. If you wonder
   why the Internet search company bothers with cars, read on.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "My prediction that self-driving technology won't be a real value in itself."
-tags:	article
 read:	2015-09-23
 published: true
 layout:	layout_book

@@ -5,8 +5,9 @@ abstract: >
   Ouch. This bit me really hard, so I've made a warning sign out of this
   post so that other guys don't hit that.
 address: "Menlo Park, CA"
+tags:
+- article
 description: "What to watch out for while using Pastebin for code and text snippets."
-tags:	article
 read:	2015-10-05
 published: true
 layout:	layout_book
@@ -43,7 +44,6 @@ And I pasted it to PasteBin:
 [http://pastebin.com/ETv4pRjK](http://pastebin.com/ETv4pRjK)
 
 On the Synology I fetched it through a “raw” mode, which presents you
-with just clean data from a snippet, with no HTML tags:
 
 ~~~shell
 wget -O wget2 "http://pastebin.com/raw.php?i=ETv4pRjK"

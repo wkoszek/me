@@ -7,8 +7,9 @@ abstract: >
   pick different Ruby interpreters. In here I present the easy-to-access
   format to this source code. Visit and star GitHub if you like it. 
 address: "Menlo Park, CA"
+tags:
+- article
 description: "(Probably) the single biggest collection of Ruby scripts"
-tags:	article
 read:	2015-09-01
 published: true
 layout:	layout_book

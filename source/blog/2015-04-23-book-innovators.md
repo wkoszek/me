@@ -5,8 +5,9 @@ abstract: >
   How to innovate and issues during innovation process. Very nice book.
   Classic at this point.
 address: "Menlo Park, CA"
+tags:
+- books
 categories: books
-tags:	books
 read:	2015-04-23
 layout: layout_book
 ads:
