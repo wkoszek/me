@@ -89,18 +89,18 @@
         <div class="col-md-1">
 	</div>
 
-        <div class="col-md-3">
+        <div class="col-md-4">
             <% if current_page.data.ads != nil %>
                 <% current_page.data.ads.each do |ad| %>
                     <%= ad %>
+		    <br>
+		    <br>
                 <% end %>
-                <br>
-                <br>
             <% end %>
             <!-- <div class="ads"> </div> -->
 
-            <br><h4>Subscribe for updates</h4><p> <%= partial "mailchimp" %></p>
-            <br><h4>RSS</h4> <p> <a href="http://www.koszek.com/feed.xml"><i class="fa fa-rss"></i>&nbsp;RSS</a> </p>
+            <br><h4>Subscribe for updates</h4><p><%= partial "mailchimp" %></p>
+            <br><h4>RSS</h4><p><a href="http://www.koszek.com/feed.xml"><i class="fa fa-rss"></i>&nbsp;RSS</a></p>
             <h4>Contact</h4>
             <a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a><br>
             <a href="http://twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a><br>
@@ -111,25 +111,23 @@
             <% blog.tags.each do |tag, articles| %>
                 <%= link_to "#{tag}", tag_path(tag) %><br>
             <% end %>
-            <font color="gray">
-                <h3 id="links">Links</h3>
-                <h4><a target="_blank" href="http://www.barelyusable.com">Barely Usable</a></h4>
-                (My UX/UI website)
+            <h4>Links</h4>
+            <a target="_blank" href="http://www.barelyusable.com">Barely Usable</a><br>
+            (My UX/UI website)
 
-                <h3 id="notes">Notes</h3>
-                <h4><a target="_blank" href="/notes/software-tools/">Software tools</a></h4>
-                <h4><a target="_blank" href="/notes/great-web-fonts/">Great Web Fonts</a></h4>
-                <h4><a target="_blank" href="/notes/deployment-checklist/">Deployment checklist</a></h4>
-                <h4><a target="_blank" href="/notes/great-design-examples/">Great design examples</a></h4>
-                <!--
-                <h3>Checklists</h3>
-                <h4><a href="/r/software-change-checklist/">Software Change Checklist</a></h4>
-                <h3>Algorithms</h3>
-                <h4><a href="randomized-data-structures/">Randomized data structures</a></h4>
-                <h3>Software process</h3>
-                <h4><a href="continuous-integration-systems/">How to use Continuous Integration</a></h4>
-                -->
-            </font>
+            <h4>Notes</h4>
+            <a target="_blank" href="/notes/software-tools/">Software tools</a><br>
+            <a target="_blank" href="/notes/great-web-fonts/">Great Web Fonts</a><br>
+            <a target="_blank" href="/notes/deployment-checklist/">Deployment checklist</a><br>
+            <a target="_blank" href="/notes/great-design-examples/">Great design examples</a><br>
+            <!--
+            <h3>Checklists</h3>
+            <h4><a href="/r/software-change-checklist/">Software Change Checklist</a></h4>
+            <h3>Algorithms</h3>
+            <h4><a href="randomized-data-structures/">Randomized data structures</a></h4>
+            <h3>Software process</h3>
+            <h4><a href="continuous-integration-systems/">How to use Continuous Integration</a></h4>
+            -->
         </div>
     </div><!-- content -->
 <% end %>
