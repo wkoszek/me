@@ -58,7 +58,6 @@
                     </div>
                 </div>
                 <p>
-                    <hr>
                     <h3>Subscribe for updates</h3>
                     <p>
                         <%= partial "mailchimp" %>
@@ -92,9 +91,11 @@
         <div class="col-md-4">
             <% if current_page.data.ads != nil %>
                 <% current_page.data.ads.each do |ad| %>
+		  <% if ad then %>
                     <%= ad %>
 		    <br>
 		    <br>
+		  <% end %>
                 <% end %>
             <% end %>
             <!-- <div class="ads"> </div> -->
