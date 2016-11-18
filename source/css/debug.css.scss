@@ -49,7 +49,7 @@ body {
 .links a { font-family: $font-links; }
 .leftpanel a { font-family: $font-links-leftpanel; }
 .content a { font-weight: bold; }
-a.abig { font-family: $font-links-indexpage; }
+a.abig { font-family: $font-links-indexpage; font-size: 150%;}
 
 .content h1,
 .content h2,
@@ -86,7 +86,6 @@ a.abig { font-family: $font-links-indexpage; }
         font-family: $font-date-time;
 	font-size: 65%;
 	color: gray;
-	font-weight: bold;
 }
 .title {
 	font-family: $font-title;
