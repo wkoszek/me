@@ -111,7 +111,155 @@
             <input type="text" class="st-default-search-input">
         </div>
 
-        <%= yield %>
+        <div class="row"><!-- center -->
+        	<!--
+                <div class="col-md-1 leftpanel hidden-xs hidden-sm">
+                </div>
+        	-->
+    
+            <div class="col-md-7 content">
+                <% if current_page.data.tags != nil %>
+                    <article>
+                        <h1 class="title"><%= current_page.title %></h1>
+                        <i>by <%= current_page.data.author %>, </i>
+                        <i><%= current_page.date.strftime('%b %e, %Y') %>,</i>
+                        <i><%= current_page.data.address %></i>
+                        <br/>
+                        <br/>
+                        <b><%= current_page.data.abstract %></b>
+                        <hr/>
+                        <%= partial "_share" %>
+                        <hr/>
+                        <% current_page.tags.each do |tag| %>
+                            <!-- <span><%= link_to tag, tag_path(tag) %></span> -->
+                        <% end %>
+                        <p>
+                            <%= yield %>
+                        </p>
+                    </article>
+    
+                    <% pages = sitemap.resources.find_all{|p| p.source_file.match(/.*book.*\.md$/)} %>
+                    <% prev_page = nil %>
+                    <% next_page = nil %>
+                    <% pages.each_with_index do |p, index| %>
+                        <% if p.url == current_page.url %>
+                            <% next_page = pages[index+1]  %>
+                            <% prev_page = pages[index-1] %>
+                        <% end %>
+                    <% end %>
+    
+                    <div class="row">
+                        <br>
+                        <div class="col-md-6 text-left">
+                            <% unless prev_page %>
+                            <% else %>
+                                <i class="fa fa-arrow-left"></i>
+                                <a href="<%= prev_page.url %>"><span>Previous</span></a>
+                                <br>
+                                &ldquo;<%= prev_page.data.title %>&rdquo;
+                            <% end %>
+                        </div>
+                        <div class="col-md-6 text-right">
+                            <% if next_page == nil %>
+                            <% else %>
+                                <a href="<%= next_page.url %>"><span>Next</span></a>
+                                <i class="fa fa-arrow-right"></i>
+                                <br>
+                                &ldquo;<%= next_page.data.title %>&rdquo;
+                            <% end %>
+                        </div>
+                    </div>
+                    <p>
+                        <hr>
+                        <h3>Subscribe for updates</h3>
+                        <p>
+                            <%= partial "mailchimp" %>
+                        </p>
+    
+                        <hr>
+                        <b>Liked it? Share it!</b>
+                        <%= partial "_share" %>
+    
+                        <hr>
+                        <h3>You may also like:</h3>
+                        <ul>
+                        <% current_article.similar_articles.first(5).each do |article| %>
+                            <li><%= link_to article.title, article.url %>
+                        <% end %>
+                        </ul>
+    
+                        <hr>
+                        <%= partial "_article_footer" %>
+                        <%= partial "_disqus" %>
+                    </p>
+    
+                <% else %>
+                    <%= yield %>
+                <% end %>
+            </div>
+    
+            <div class="col-md-1">
+    	</div>
+    
+            <div class="col-md-3">
+                <% if current_page.data.ads != nil %>
+                    <% current_page.data.ads.each do |ad| %>
+    		  <% if ad then %>
+                        <%= ad %>
+    		    <br>
+    		    <br>
+    		  <% end %>
+                    <% end %>
+                <% end %>
+                <!-- <div class="ads"> </div> -->
+    
+                <br><h4>Subscribe for updates</h4><p><%= partial "mailchimp" %></p>
+                <br><h4>RSS feed</h4><p><a href="http://www.koszek.com/feed.xml"><i class="fa fa-rss"></i>&nbsp;RSS</a></p>
+                <h4>Contact</h4>
+                <a href="mailto:wojciech@koszek.com"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;wojciech@koszek.com</a><br>
+                <a href="http://twitter.com/wkoszek/"><i class="fa fa-twitter"></i>&nbsp;&nbsp;@wkoszek</a><br>
+                <a href="http://www.linkedin.com/in/wkoszek/"><i class="fa fa-linkedin"></i>&nbsp;&nbsp;LinkedIn</a><br>
+                <a href="http://github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a><br>
+                <!-- stack overflow -->
+                <br><h4>Tags</h4>
+                <% blog.tags.each do |tag, articles| %>
+                <a href=""><i class="fa fa-tag" aria-hidden="true"></i>&nbsp;&nbsp;<%= tag %></a><br>
+                <% end %>
+                <h4>Links</h4>
+                <a target="_blank" href="http://www.barelyusable.com">
+                <i class="fa fa-link" aria-hidden="true"></i>&nbsp;
+                Barely Usable
+                </a><br>
+                <i class="fa fa-fw">&nbsp;</i>(My UX/UI website)
+    
+                <h4>Notes</h4>
+    
+                <a target="_blank" href="/notes/software-tools/">
+                <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+                &nbsp;Software tools</a><br>
+    
+                <a target="_blank" href="/notes/great-web-fonts/">
+                <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+                &nbsp;Great Web Fonts</a><br>
+    
+                <a target="_blank" href="/notes/deployment-checklist/">
+                <i class="fa fa-sticky-note" aria-hidden="true"></i>
+                &nbsp;Deployment checklist</a><br>
+    
+                <a target="_blank" href="/notes/great-design-examples/">
+                <i class="fa fa-sticky-note-o" aria-hidden="true"></i>
+                &nbsp;Great design examples</a><br>
+    
+                <!--
+                <h3>Checklists</h3>
+                <h4><a href="/r/software-change-checklist/">Software Change Checklist</a></h4>
+                <h3>Algorithms</h3>
+                <h4><a href="randomized-data-structures/">Randomized data structures</a></h4>
+                <h3>Software process</h3>
+                <h4><a href="continuous-integration-systems/">How to use Continuous Integration</a></h4>
+                -->
+            </div>
+        </div><!-- content -->
 
         <div class="row">
             <div class="col-md-12 footer">

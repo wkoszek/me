@@ -9,7 +9,6 @@ tags:
 - books
 auth:	Guy Kawasaki
 read:	2014-05-02
-layout: layout_book
 spellcheck-allow:
 - "swingy"
 - "Ok"

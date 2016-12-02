@@ -11,7 +11,6 @@ description: "My thoughts from listening about great and curvy story about Value
 auth:	"J. David Kuo"
 read:	2015-08-15
 published: true
-layout: layout_book
 keywords:
 - business
 - startups

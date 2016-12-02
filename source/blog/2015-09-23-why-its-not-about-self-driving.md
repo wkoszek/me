@@ -12,7 +12,6 @@ tags:
 description: "My prediction that self-driving technology won't be a real value in itself."
 read:	2015-09-23
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

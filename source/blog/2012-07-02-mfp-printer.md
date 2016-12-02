@@ -9,7 +9,6 @@ tags:
 - article
 description: "Some usability insights from using Sharp printers."
 auth:	Wojciech Koszek
-layout: layout_book
 spellcheck-allow:
 - "MFP"
 - "SSO"

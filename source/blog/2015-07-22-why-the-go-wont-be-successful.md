@@ -10,7 +10,6 @@ tags:
 description: "Things which frustrated me about Go bootstrapping."
 read:	2015-07-22
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

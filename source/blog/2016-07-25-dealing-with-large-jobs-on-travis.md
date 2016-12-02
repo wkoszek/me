@@ -14,7 +14,6 @@ abstract: >
   show some simple solutions for deadling with them.
 read: 2016-07-25
 published: true
-layout: layout_book
 image: 
 ads:
 -

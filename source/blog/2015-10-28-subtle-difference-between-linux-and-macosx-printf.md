@@ -11,7 +11,6 @@ tags:
 description: 'Small differences in API behavior always start to be show up during stress-testing. Example comes from my mini_printf stress-test'
 read:	2015-10-28
 published: true
-layout:	layout_book
 image: http://layered.typepad.com/antidote_to_burnout/images/2007/10/06/4b14310b020017cf.gif
 keywords:
 - programming

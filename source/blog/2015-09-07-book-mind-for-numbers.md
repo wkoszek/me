@@ -10,7 +10,6 @@ description: "My thoughts from Mind for Numbers"
 auth:	"Barbara Oakley"
 read:	2015-09-07
 published: true
-layout: layout_book
 keywords:
 - business
 - startups

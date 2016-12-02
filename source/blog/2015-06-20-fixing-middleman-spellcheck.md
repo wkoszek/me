@@ -11,7 +11,6 @@ tags:
 description: "From the battle-field description on fixing Middleman plugin."
 auth:	Wojciech Koszek
 read:	2015-06-20
-layout: layout_book
 spellcheck-allow:
 - "md"
 - "aspell"

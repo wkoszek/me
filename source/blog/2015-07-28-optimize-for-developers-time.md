@@ -12,7 +12,6 @@ tags:
 description: "Modern look on tradeoffs in software development."
 read:	2015-07-28
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

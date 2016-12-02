@@ -11,7 +11,6 @@ tags:
 description: "Several things which make writing code in Ruby and Python problematic, long term."
 read:	2015-08-17
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

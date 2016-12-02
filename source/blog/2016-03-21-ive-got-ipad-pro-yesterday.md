@@ -8,7 +8,6 @@ tags:
 - article
 read:	2016-03-20
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

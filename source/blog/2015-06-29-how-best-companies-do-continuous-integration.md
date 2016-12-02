@@ -10,7 +10,6 @@ tags:
 description: "Short summary of 1 hour research session on how great software companies use Continuous Integration."
 auth:	Wojciech Koszek
 read:	2015-06-20
-layout: layout_book
 spellcheck-allow:
 - "Biicode"
 - "RVM"

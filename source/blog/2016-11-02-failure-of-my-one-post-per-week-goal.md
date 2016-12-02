@@ -7,7 +7,6 @@ address: "Menlo Park, CA"
 tags:
 - article
 published: true
-layout: layout_book
 image: 
 ads:
 -

@@ -11,7 +11,6 @@ tags:
 description: "wget implementation for environments such as Synology DSM distribution, where wget doesn't have HTTPS support."
 read:	2015-10-05
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

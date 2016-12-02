@@ -10,7 +10,6 @@ tags:
 description: 'Short article and minimal nginx configuration for container-based infrastructure'
 read:	2015-11-01
 published: true
-layout:	layout_book
 image: https://c2.staticflickr.com/8/7270/7018342079_9271fec335_b.jpg
 keywords:
 - programming

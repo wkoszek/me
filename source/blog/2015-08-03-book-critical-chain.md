@@ -12,7 +12,6 @@ description: "Notes from listening to Critical Chain"
 auth:	Eliyahu M. Goldratt
 read:	2015-08-03
 published: true
-layout: layout_book
 keywords:
 - business
 - startups

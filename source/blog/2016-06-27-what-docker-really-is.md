@@ -9,7 +9,6 @@ tags:
 - article
 read: 2016-06-27
 published: true
-layout: layout_book
 image: http://bit.ly/28ZBw8z
 ads:
 -

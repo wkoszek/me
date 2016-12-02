@@ -10,7 +10,6 @@ tags:
 - article
 read:	2016-04-11
 published: true
-layout:	layout_book
 image: https://c1.staticflickr.com/9/8332/8120096647_b65df3d4c7.jpg
 ads:
 - 

@@ -9,7 +9,6 @@ tags:
 - article
 read:	2015-11-29
 published: true
-layout:	layout_book
 ads:
 - 
 ---

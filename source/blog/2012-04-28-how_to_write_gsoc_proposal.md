@@ -10,7 +10,6 @@ tags:
 - article
 description: "Short HOWTO for writing good Summer of Code Proposals."
 auth:	Wojciech Koszek
-layout: layout_book
 spellcheck-allow:
 - "sed"
 - "ULE"

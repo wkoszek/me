@@ -12,7 +12,6 @@ description: "My impressions from listening to From Zero to One"
 auth:	Peter Thiel
 read:	2015-08-24
 published: true
-layout: layout_book
 keywords:
 - business
 - startups

@@ -9,7 +9,6 @@ tags:
 - article
 read:	2015-12-04
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

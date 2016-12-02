@@ -9,7 +9,6 @@ tags:
 - article
 read: 2016-07-11
 published: true
-layout: layout_book
 image: http://2.bp.blogspot.com/-44jlMkK-3Fg/UULyQyB35fI/AAAAAAAABLM/YH9PDQ4cROw/s1600/infinity_black.png
 ads:
 -

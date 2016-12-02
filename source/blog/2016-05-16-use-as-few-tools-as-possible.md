@@ -10,7 +10,6 @@ tags:
 - article
 read:	2016-05-16
 published: true
-layout:	layout_book
 image: https://pixabay.com/static/uploads/photo/2015/02/06/01/12/tools-625620_960_720.jpg
 ads:
 - 

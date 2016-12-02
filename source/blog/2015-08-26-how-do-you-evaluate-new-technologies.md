@@ -11,7 +11,6 @@ tags:
 description: "Insights into how to evaluate technologies for your next project."
 read:	2015-08-26
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

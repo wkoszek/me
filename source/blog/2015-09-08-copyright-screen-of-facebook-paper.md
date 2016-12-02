@@ -8,7 +8,6 @@ tags:
 - books
 read:	2015-09-09
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

@@ -8,7 +8,6 @@ tags:
 - article
 description: 'On connection between the "The Toyota Way" and the UNIX programming.'
 auth:	Wojciech Koszek
-layout: layout_book
 spellcheck-allow:
 - "toyotaway"
 - "nd"

@@ -8,7 +8,6 @@ tags:
 - article
 description: "On crude and unsupported fun with fpurge()"
 auth:	Wojciech Koszek
-layout: layout_book
 ---
 
 A friend of mine asked me once:

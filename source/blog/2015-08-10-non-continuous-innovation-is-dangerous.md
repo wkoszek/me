@@ -11,7 +11,6 @@ tags:
 description: "My take on making continous and non-continuous innovation."
 read:	2015-08-10
 published: true
-layout:	layout_book
 ads:
 - 
 spellcheck-allow:

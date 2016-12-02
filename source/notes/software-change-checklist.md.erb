@@ -1,5 +1,4 @@
 ---
-layout: layout_book
 tags:
 ---
 

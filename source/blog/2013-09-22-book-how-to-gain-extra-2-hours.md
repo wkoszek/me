@@ -8,7 +8,6 @@ tags:
 - books
 auth:	Brian Tracy
 read:	2013-08-05
-layout: layout_book
 ads:
 - <iframe width="480" height="360" src="//www.youtube.com/embed/PSGiUiMo_ZE" frameborder="0" allowfullscreen></iframe>
 spellcheck-allow:
