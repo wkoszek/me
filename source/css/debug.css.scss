@@ -2,18 +2,13 @@
 
 $def-bg-color:			white;
 $link-color:			brown !default;
-$link-active-color:		$link-color;
 $blockquote-border-color:	black;
-$link-fg-color:			$link-color;
-$link-bg-color:			$def-bg-color;
-$link-fg-hover-color:		darkgray;
-$link-bg-hover-color:		$def-bg-color;
+$link-hover-color:		darkgray;
 
 $blockquote-shift:		30px;
 
 $sel-bg-color:			$link-color !default;	// inverted colors
 $sel-fg-color:			$def-bg-color;
-
 
 $font-group:			"concourse-t3", "HelveticaNeue-CondensedBold", "PT Sans", "Futura";
 $font-body:			"equity-text-b", "georgia";
@@ -49,7 +44,7 @@ a.abig { font-family: $font-group; font-size: 150%;}
 }
 .links .ac {
 	padding-bottom: 1%;
-	border-bottom: solid 5px $link-active-color;
+	border-bottom: solid 5px $link-color;
 }
 .rightpanel {
 	font-family: $font-group;
@@ -111,7 +106,7 @@ a.abig { font-family: $font-group; font-size: 150%;}
 }
 
 a {
-  color: $link-fg-color;  background: $link-bg-color;
+  color: $link-color;
   -o-transition:color .1s ease-out, background 0.2s ease-in;
   -ms-transition:color .1s ease-out, background 0.2s ease-in;
   -moz-transition:color .1s ease-out, background 0.2s ease-in;
@@ -119,7 +114,7 @@ a {
   /* ...and now override with proper CSS property */
   transition:color .2s ease-out, background 0.2s ease-in;
 }
-a:hover { color: $link-fg-hover-color; background: $link-bg-hover-color; }
+a:hover { color: $link-hover-color; }
 .container {
   max-width: 1200px;
 }
