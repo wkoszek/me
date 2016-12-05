@@ -25,3 +25,5 @@ Center for Computation & Technology (LA, USA), Ericsson and HIIT (Helsinki,
 Finland) and Xilinx (San Jose, CA).
 
 Since 2011 I live and work in Bay Area, CA.
+
+<span hidden id="active_page_name">about</span>

@@ -68,10 +68,10 @@
                 <a href="/">Wojciech Adam Koszek</a>
             </div>
             <div class="col-md-9 links hidden-sm hidden-xs"><!-- Desktop menu -->
-                <a class="in" href="/">Blog</a>
-                <a class="in" href="/reading/">Reading</a>
-                <a class="in" href="/papers/">Papers</a>
-                <a class="in" href="/about/">About me</a>
+                <a class="in" id="blog" href="/">Blog</a>
+                <a class="in" id="reading" href="/reading/">Reading</a>
+                <a class="in" id="papers" href="/papers/">Papers</a>
+                <a class="in" id="about" href="/about/">About me</a>
                 <input type="text" class="st-default-search-input">
             </div>
         </div>
@@ -269,5 +269,10 @@
             </div>
         </div>
     </div><!--container-->
+    <script type="text/javascript">
+        var active_page_name = document.getElementById('active_page_name').textContent;
+        var active_page_link = document.getElementById(active_page_name);
+        active_page_link.className = "ac";
+    </script>
 </body>
 </html>
