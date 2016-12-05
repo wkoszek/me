@@ -52,12 +52,7 @@ body {
 .content a { font-weight: bold; }
 a.abig { font-family: $font-links-indexpage; font-size: 150%;}
 
-.content h1,
-.content h2,
-.content h3,
-.content h4,
-.content h5,
-.content h6 {
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
   font-family: $font-headers;
 }
 .links a {
