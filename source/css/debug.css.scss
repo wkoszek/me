@@ -18,19 +18,6 @@ $sel-fg-color:			$def-bg-color;
 $font-group:			"concourse-t3", "HelveticaNeue-CondensedBold", "PT Sans", "Futura";
 $font-body:			"equity-text-b", "georgia";
 
-$font-links:			$font-group;
-$font-headers:			$font-group;
-$font-links-leftpanel:		$font-group;
-$font-content:			$font-body;
-$font-footer:			$font-body;
-$font-blockquote:		$font-body;
-$font-date-time:		$font-group;
-$font-title:			$font-group;
-$font-logo:			$font-group;
-$font-body:			$font-group;
-$font-update:			$font-group;
-$font-links-indexpage:		$font-body;
-
 @include selection {
 	background-color: $sel-bg-color;
 	color: $sel-fg-color;
@@ -47,27 +34,29 @@ body {
 	border: dotted 1px gray;
 }
 
-.links a { font-family: $font-links; }
-.leftpanel a { font-family: $font-links-leftpanel; }
 .content a { font-weight: bold; }
-a.abig { font-family: $font-links-indexpage; font-size: 150%;}
+a.abig { font-family: $font-group; font-size: 150%;}
 
 .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
-  font-family: $font-headers;
+  font-family: $font-group;
 }
 .links a {
 	margin-right: 4%;
+	font-family: $font-group;
 }
-.links a, .leftpanel a {
+.links a {
 	font-size: 150%;
 }
 .links .ac {
 	padding-bottom: 1%;
 	border-bottom: solid 5px $link-active-color;
 }
+.rightpanel {
+	font-family: $font-group;
+}
 
 .content {
-	font-family: $font-content;
+	font-family: $font-body;
 	font-size: 140%;
 }
 
@@ -79,12 +68,12 @@ a.abig { font-family: $font-links-indexpage; font-size: 150%;}
 	border: solid 1px white;
 }
 .date, .title {
-        font-family: $font-date-time;
+        font-family: $font-group;
 	font-size: 65%;
 	color: gray;
 }
 .title {
-	font-family: $font-title;
+	font-family: $font-group;
 	font-size: 200%;
 	color: black;
 }
@@ -99,13 +88,10 @@ a.abig { font-family: $font-links-indexpage; font-size: 150%;}
 
 .footer {
 	text-align: center;
-	font-family: $font-footer;
+	font-family: $font-body;
 	font-style: italic;
 }
 
-.leftpanel a {
-	font-size: 100%;
-}
 .links {
 	font-size: 100%;
 }
@@ -113,7 +99,7 @@ a.abig { font-family: $font-links-indexpage; font-size: 150%;}
 
 /* LOGO */
 .logo a {
-        font-family: $font-logo;
+        font-family: $font-group;
 	color: black;
 	font-size: 150%;
 	font-style: normal;
@@ -159,7 +145,7 @@ font-size: 16px;
 
 blockquote {
 font-size: 100%;
-font-family: $font-blockquote;
+font-family: $font-body;
 font-weight: bold;
 padding-left: $blockquote-shift;
 margin-left: -$blockquote-shift;
@@ -171,7 +157,7 @@ font-size: 80%;
 .update {
 font-size: 100%;
 background: lightyellow;
-font-family: $font-update;
+font-family: $font-group;
 border: solid 1px orange;
 }
 
