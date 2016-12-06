@@ -3,6 +3,8 @@
 source 'http://rubygems.org'
 
 gem "middleman"
+gem "middleman-cli"
+gem "middleman-core"
 gem "middleman-blog"
 gem "middleman-blog-drafts"
 gem 'middleman-blog-similar'
