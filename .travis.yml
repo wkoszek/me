@@ -14,5 +14,5 @@ before_install:
 script:
 - pwd
 - docker pull wkoszek/me
-- docker run -ti -w /me wkoszek/me
+- docker run -ti -w /me -v etc/deploy:/me/etc/deploy wkoszek/me
 #- docker run -ti -v `pwd`:/me -w /me wkoszek/me
