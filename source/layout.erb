@@ -222,7 +222,7 @@
                 <a href="http://github.com/wkoszek/"><i class="fa fa-github"></i>&nbsp;&nbsp;Github</a><br>
                 <!-- stack overflow -->
                 <br><h4>Tags</h4>
-                <% blog.tags.each do |tag, articles| %>
+                <% blog("wkoszek").tags.each do |tag, articles| %>
                 <a href=""><i class="fa fa-tag" aria-hidden="true"></i>&nbsp;&nbsp;<%= tag %></a><br>
                 <% end %>
                 <h4>Links</h4>

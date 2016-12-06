@@ -3,13 +3,14 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   site_url = "http://www.koszek.com/"
   xml.title "Wojciech Adam Koszek"
   xml.subtitle "Software. Business. Design."
-  xml.id URI.join(site_url, blog.options.prefix.to_s)
-  xml.link "href" => URI.join(site_url, blog.options.prefix.to_s)
+  bwk = blog("wkoszek")
+  xml.id URI.join(site_url, bwk.options.prefix.to_s)
+  xml.link "href" => URI.join(site_url, bwk.options.prefix.to_s)
   xml.link "href" => URI.join(site_url, current_page.path), "rel" => "self"
-  xml.updated(blog.articles.first.date.to_time.iso8601) unless blog.articles.empty?
+  xml.updated(bwk.articles.first.date.to_time.iso8601) unless bwk.articles.empty?
   xml.author { xml.name "Wojciech Adam Koszek" }
 
-  blog.articles[0..15].each do |article|
+  bwk.articles[0..15].each do |article|
     xml.entry do
       xml.title article.title
       xml.link "rel" => "alternate", "href" => URI.join(site_url, article.url)

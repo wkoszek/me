@@ -74,6 +74,15 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+activate :blog do |blog|
+  # This will add a prefix to all links, template references and source paths
+  blog.prefix = "books"
+  blog.name = "wkoszek_books"
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
+  blog.publish_future_dated = true
+end
+
 activate :similar
 
 page "/feed.xml", layout: false

@@ -9,7 +9,7 @@ tags:
 
 # Blog
 
-<% blog.articles.each do |article| %>
+<% blog("wkoszek").articles.each do |article| %>
 <% next if article.tags.include?("books") %>
 <%= link_to article.data.title, article, :class => 'abig' %><br>
 <span class="date"><%= article.date.strftime('%b %e, %Y') %></span><br>
