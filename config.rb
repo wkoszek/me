@@ -76,14 +76,6 @@ end
 
 activate :similar
 
-activate :drafts do |drafts|
-  drafts.build = false
-  if not is_prod then
-    drafts.build = true
-  end
-  puts "# Build: #{drafts.build}"
-end
-
 page "/feed.xml", layout: false
 
 ignore /papers_new*/

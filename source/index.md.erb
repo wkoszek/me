@@ -9,13 +9,6 @@ tags:
 
 # Blog
 
-<% if drafts.any? %>
-<% drafts.each do |article| %>
-<span class="date"><%= article.date.strftime('%b %e, %Y') %></span><br>
-<%= link_to article.title, article, :class => 'abig' %><br>
-<% end %>
-<% end %>
-
 <% blog.articles.each do |article| %>
 <% next if article.tags.include?("books") %>
 <%= link_to article.data.title, article, :class => 'abig' %><br>
