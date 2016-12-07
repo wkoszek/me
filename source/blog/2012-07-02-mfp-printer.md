@@ -6,7 +6,7 @@ abstract: >
   things I've noticed in the office.
 address: "East Palo Alto, CA"
 tags:
-- article
+- "usability"
 description: "Some usability insights from using Sharp printers."
 auth:	Wojciech Koszek
 spellcheck-allow:

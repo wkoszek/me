@@ -5,7 +5,7 @@ abstract: >
   Things to shy away from when working on shell scripting.
 address: "Menlo Park, CA"
 tags:
-- article
+- "software engineering"
 description: 'Description and explanation of the top 3 bugs which I commit when I work on scripting.'
 read:	2015-10-12
 published: true

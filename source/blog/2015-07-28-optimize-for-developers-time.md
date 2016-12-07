@@ -8,7 +8,8 @@ abstract: >
   necessary is writing human-readable and usable software.
 address: "Menlo Park, CA"
 tags:
-- article
+- "entrepreneurship"
+- "software engineering"
 description: "Modern look on tradeoffs in software development."
 read:	2015-07-28
 published: true

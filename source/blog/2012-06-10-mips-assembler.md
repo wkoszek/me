@@ -6,7 +6,8 @@ abstract: >
   MIPS architecture, maybe from Patterson and Hennessy books.
 address: "East Palo Alto, CA"
 tags:
-- article
+- "software engineering"
+- "tools"
 description: "Building and using cross-compiled MIPS toolchain."
 auth:	Wojciech Koszek
 ads:

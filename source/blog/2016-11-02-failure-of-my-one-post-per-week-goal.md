@@ -5,7 +5,7 @@ abstract: >
   My summary of why writing even one blog a week is fairly hard.
 address: "Menlo Park, CA"
 tags:
-- article
+- "miscellaneous"
 published: true
 image: 
 ads:

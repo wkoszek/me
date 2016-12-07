@@ -5,7 +5,7 @@ abstract: >
   Improvised use of Verilog and C and blending it with my drumset interests.
 address: "East Palo Alto, CA"
 tags:
-- article
+- "software engineering"
 description: "Some insights into the relationship between code and drums."
 auth:	Wojciech Koszek
 ads:

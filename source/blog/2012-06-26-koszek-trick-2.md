@@ -6,7 +6,8 @@ abstract: >
   parts mapped to which assembly fragments.
 address: "East Palo Alto, CA"
 tags:
-- article
+- "software engineering"
+- "tools"
 description: "Some tips and tricks on understanding how C impacts generated assembler."
 auth:	Wojciech Koszek
 ads:

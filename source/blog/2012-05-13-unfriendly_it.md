@@ -5,7 +5,8 @@ abstract: >
   I show a simple hack for getting Perforce changes e-mailed to you.
 address: "East Palo Alto, CA"
 tags:
-- article
+- "software engineering"
+- "tools"
 description: "Short HOWTO on how to make Perforce send patches to you."
 auth:	Wojciech Koszek
 ads:

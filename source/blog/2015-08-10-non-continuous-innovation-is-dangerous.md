@@ -7,7 +7,7 @@ abstract: >
   non-continuous ways and possible impacts it can have.
 address: "Menlo Park, CA"
 tags:
-- article
+- "entrepreneurship"
 description: "My take on making continous and non-continuous innovation."
 read:	2015-08-10
 published: true

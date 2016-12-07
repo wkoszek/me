@@ -6,7 +6,7 @@ abstract: >
   often do you use `find`? Exactly. Interesting for UNIX and macOS people.
 address: "Menlo Park, CA"
 tags:
-- article
+- "tools"
 read:	2015-11-29
 published: true
 ads:

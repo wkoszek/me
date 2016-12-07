@@ -8,7 +8,7 @@ abstract: >
   why the Internet search company bothers with cars, read on.
 address: "Menlo Park, CA"
 tags:
-- article
+- "entrepreneurship"
 description: "My prediction that self-driving technology won't be a real value in itself."
 read:	2015-09-23
 published: true

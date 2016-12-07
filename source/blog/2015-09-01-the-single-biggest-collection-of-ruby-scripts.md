@@ -8,7 +8,7 @@ abstract: >
   format to this source code. Visit and star GitHub if you like it. 
 address: "Menlo Park, CA"
 tags:
-- article
+- "programming"
 description: "(Probably) the single biggest collection of Ruby scripts"
 read:	2015-09-01
 published: true

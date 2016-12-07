@@ -5,7 +5,7 @@ abstract: >
   My take on iOS Dropbox usability at the time of writing this article.
 address: "Menlo Park, CA"
 tags:
-- article
+- "usability"
 read:	2016-04-05
 published: true
 ads:

@@ -7,7 +7,8 @@ abstract: >
   own, little crude tools, and do all of this in C, this is a good resource.
 address: "Menlo Park, CA"
 tags:
-- article
+- "software engineering"
+- "programming"
 description: "The collection of examples of ANSI C programs using NCurses library."
 read:	2015-07-08
 published: true

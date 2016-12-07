@@ -7,7 +7,7 @@ abstract: >
   Google Summer of Code.
 address: "East Palo Alto, CA"
 tags:
-- article
+- "open source"
 description: "Short HOWTO for writing good Summer of Code Proposals."
 auth:	Wojciech Koszek
 spellcheck-allow:

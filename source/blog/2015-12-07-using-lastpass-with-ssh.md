@@ -6,7 +6,8 @@ abstract: >
   to make it work for SSH keys and their passphrases.
 address: "Menlo Park, CA"
 tags:
-- article
+- "software engineering"
+- "tools"
 read:	2015-12-04
 published: true
 ads:

@@ -5,7 +5,7 @@ abstract: >
   Dirty, ugly and terribly useful trick that works sometimes.
 address: "East Palo Alto, CA"
 tags:
-- article
+- "software engineering"
 description: "On crude and unsupported fun with fpurge()"
 auth:	Wojciech Koszek
 ---

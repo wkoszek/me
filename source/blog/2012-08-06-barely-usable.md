@@ -5,7 +5,7 @@ abstract: >
   This are my thoughts and insights after reading "Don't make me think"
 address: "East Palo Alto, CA"
 tags:
-- article
+- "usability"
 description: "Usability insights right after reading 'Don't make me think'"
 auth:	Wojciech Koszek
 ads:

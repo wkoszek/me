@@ -7,7 +7,7 @@ abstract: >
   things worth paying attention to.
 address: "Menlo Park, CA"
 tags:
-- article
+- "entrepreneurship"
 description: "Insights into how to evaluate technologies for your next project."
 read:	2015-08-26
 published: true

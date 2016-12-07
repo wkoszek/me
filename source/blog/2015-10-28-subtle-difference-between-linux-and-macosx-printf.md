@@ -7,7 +7,8 @@ abstract: >
   from implementing `mini_printf`.
 address: "Menlo Park, CA"
 tags:
-- article
+- "software engineering"
+- "freebsd"
 description: 'Small differences in API behavior always start to be show up during stress-testing. Example comes from my mini_printf stress-test'
 read:	2015-10-28
 published: true

@@ -7,7 +7,7 @@ abstract: >
   missed `wget` on Synology distro, and I show how you can work-around it.
 address: "Menlo Park, CA"
 tags:
-- article
+- "programming"
 description: "wget implementation for environments such as Synology DSM distribution, where wget doesn't have HTTPS support."
 read:	2015-10-05
 published: true

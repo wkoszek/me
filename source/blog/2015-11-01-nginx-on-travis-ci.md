@@ -6,7 +6,7 @@ abstract: >
   the two and let your CI scripts use `nginx` during testing.
 address: "Menlo Park, CA"
 tags:
-- article
+- "software engineering"
 description: 'Short article and minimal nginx configuration for container-based infrastructure'
 read:	2015-11-01
 published: true

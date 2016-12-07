@@ -8,7 +8,8 @@ abstract: >
   to look for to make your application successful.
 address: "East Palo Alto, CA"
 tags:
-- article
+- "freebsd"
+- "open source"
 description: "The background behind decision making on submitted proposals during Google Summer of Code."
 auth:	"Wojciech Koszek"
 ads:

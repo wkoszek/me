@@ -7,7 +7,8 @@ abstract: >
   experience and I show some simple solutions to get over the breakages.
 address: "Menlo Park, CA"
 tags:
-- article
+- "software engineering"
+- "tools"
 abstract: >
   Below I explain problems you may run into when your
   continuous integration build starts to take a long time and I

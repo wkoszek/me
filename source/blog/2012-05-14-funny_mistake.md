@@ -5,7 +5,8 @@ abstract: >
   Some of my random thoughts and insights after reading "The Toyota Way"
 address: "East Palo Alto, CA"
 tags:
-- article
+- "usability"
+- "tools"
 description: 'On connection between the "The Toyota Way" and the UNIX programming.'
 auth:	Wojciech Koszek
 spellcheck-allow:

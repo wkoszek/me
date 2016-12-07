@@ -7,7 +7,7 @@ abstract: >
   In here I discuss why I believe it is so.
 address: "Menlo Park, CA"
 tags:
-- article
+- "entrepreneurship"
 read:	2015-11-16
 published: true
 ads:

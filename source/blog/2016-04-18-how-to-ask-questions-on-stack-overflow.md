@@ -7,7 +7,7 @@ abstract: >
   it and why some questions are basically hard to answer.
 address: "Menlo Park, CA"
 tags:
-- article
+- "tools"
 read:	2016-04-18
 published: true
 ads:

@@ -6,7 +6,7 @@ abstract: >
   My most-read article so far.
 address: "Menlo Park, CA"
 tags:
-- article
+- "programming"
 description: "Things which frustrated me about Go bootstrapping."
 read:	2015-07-22
 published: true

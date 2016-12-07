@@ -8,7 +8,8 @@ abstract: >
   GoDaddy.
 address: "Menlo Park, CA"
 tags:
-- article
+- tools
+- programming
 description: "How to use GoDaddy from the command line."
 read:	2015-08-06
 published: true

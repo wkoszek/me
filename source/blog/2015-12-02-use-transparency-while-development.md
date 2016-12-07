@@ -6,7 +6,7 @@ abstract: >
   on web stuff.
 address: "Menlo Park, CA"
 tags:
-- article
+- "tools"
 read:	2015-12-02
 published: true
 ads:

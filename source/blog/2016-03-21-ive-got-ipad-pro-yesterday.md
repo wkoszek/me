@@ -5,7 +5,7 @@ abstract: >
   My buyers remorse and post-mortem or lack of first or the later.
 address: "Menlo Park, CA"
 tags:
-- article
+- "usability"
 read:	2016-03-20
 published: true
 ads:

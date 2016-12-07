@@ -6,7 +6,7 @@ abstract: >
   post so that other guys don't hit that.
 address: "Menlo Park, CA"
 tags:
-- article
+- "tools"
 description: "What to watch out for while using Pastebin for code and text snippets."
 read:	2015-10-05
 published: true

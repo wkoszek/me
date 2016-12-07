@@ -7,7 +7,7 @@ abstract: >
   consolidate. In this post I talk about how I'd like it to work.
 address: "Menlo Park, CA"
 tags:
-- article
+- "tools"
 read:	2015-11-29
 published: true
 ads:

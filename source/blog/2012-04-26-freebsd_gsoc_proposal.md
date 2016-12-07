@@ -7,7 +7,8 @@ abstract: >
   as a mentor.
 address: "East Palo Alto, CA"
 tags:
-- article
+- "freebsd"
+- "open source"
 description: "My point of view on Google Summer of Code competition."
 auth:	Wojciech Koszek
 ads:

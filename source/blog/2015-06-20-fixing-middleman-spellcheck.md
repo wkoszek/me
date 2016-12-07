@@ -7,7 +7,8 @@ abstract: >
   fixing some open source stuff looks like.
 address: "Menlo Park, CA"
 tags:
-- article
+- "software engineering"
+- "tools"
 description: "From the battle-field description on fixing Middleman plugin."
 auth:	Wojciech Koszek
 read:	2015-06-20

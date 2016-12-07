@@ -6,7 +6,7 @@ abstract: >
   humans.
 address: "Menlo Park, CA"
 tags:
-- article
+- "tools"
 read: 2016-06-27
 published: true
 image: http://bit.ly/28ZBw8z

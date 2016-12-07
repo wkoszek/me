@@ -6,7 +6,7 @@ abstract: >
   could to Travis-Ci, Circle CI and AppVeyor to get it built and tested.
 address: "Menlo Park, CA"
 tags:
-- article
+- "software engineering"
 read: 2016-07-11
 published: true
 image: http://2.bp.blogspot.com/-44jlMkK-3Fg/UULyQyB35fI/AAAAAAAABLM/YH9PDQ4cROw/s1600/infinity_black.png
