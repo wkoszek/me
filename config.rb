@@ -40,10 +40,10 @@ activate :sitemap_ping do |config|
   config.after_build  = true                      # (optional, default: true)        Run automatically after build?
 end
 
-activate :build_reporter do |build|
-  build.reporter_file = 'build'
-  build.reporter_file_formats = ['yaml', 'json']
-end
+#activate :build_reporter do |build|
+#  build.reporter_file = 'build'
+#  build.reporter_file_formats = ['yaml', 'json']
+#end
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
@@ -53,7 +53,7 @@ activate :blog do |blog|
   blog.permalink = "{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
   # blog.sources = "{year}-{month}-{day}-{title}.html"
-  # blog.taglink = "tags/{tag}.html"
+  blog.taglink = "tags/{tag}.html"
   # blog.layout = "layout"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
@@ -62,7 +62,7 @@ activate :blog do |blog|
   # blog.day_link = "{year}/{month}/{day}.html"
   # blog.default_extension = ".markdown"
 
-  blog.tag_template = "tag.html"
+  #blog.tag_template = "blog/tag.html"
   blog.calendar_template = "calendar.html"
 
   # Future blog post.
@@ -73,6 +73,7 @@ activate :blog do |blog|
   # blog.per_page = 10
   # blog.page_link = "page/{num}"
 end
+page "blog/tags/*", :layout => :layout
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
@@ -83,7 +84,7 @@ activate :blog do |blog|
   blog.publish_future_dated = true
 end
 
-activate :similar
+#activate :similar
 
 page "/feed.xml", layout: false
 
@@ -135,23 +136,22 @@ ignore "/articles/*"
 activate :livereload
 activate :directory_indexes
 activate :syntax
-activate :graphviz
 
 g_dict_dir = "`pwd`/data/aspell-dict"
-set :spellcheck_allow_file, "./data/words_allowed.txt"
-activate :spellcheck,
-		page: "blog/*",
-		tags: [ :p, :article ],
-		lang: "en_US.UTF-8",
-		debug: 0,
-		dontfail: 0,
-		cmdargs: "-a -l en_US.UTF-8 --dict-dir=#{g_dict_dir}",
-		ignored_exts: [".jpg", ".png", ".pdf",
-			".sh", ".ico", ".xml", ".woff",
-			".eot", ".ttf", "*.otf",
-			".txt", "CNAME",
-			"/papers/"
-		]
+#set :spellcheck_allow_file, "./data/words_allowed.txt"
+#activate :spellcheck,
+#		page: "blog/*",
+#		tags: [ :p, :article ],
+#		lang: "en_US.UTF-8",
+#		debug: 0,
+#		dontfail: 0,
+#		cmdargs: "-a -l en_US.UTF-8 --dict-dir=#{g_dict_dir}",
+#		ignored_exts: [".jpg", ".png", ".pdf",
+#			".sh", ".ico", ".xml", ".woff",
+#			".eot", ".ttf", "*.otf",
+#			".txt", "CNAME",
+#			"/papers/"
+#		]
 
 # Fix quotes: https://github.com/middleman/middleman/issues/909
 set :markdown_engine, :kramdown
@@ -235,7 +235,7 @@ end
 
 # To deploy to a remote branch via git (e.g. gh-pages on github):
 activate :deploy do |deploy|
-  deploy.method = :git
+  deploy.deploy_method = :git
   deploy.branch = "gh-pages"
   deploy.remote = "git@github.com:wkoszek/me.git"
   deploy.build_before = false

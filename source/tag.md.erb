@@ -1,9 +1,7 @@
 ---
 pageable: true
 per_page: 12
-tags:
 ---
-# Articles tagged &ldquo;<%= tagname %>&rdquo;
 
 <% if paginate && num_pages > 1 %>
   <p>Page <%= page_number %> of <%= num_pages %></p>
@@ -13,7 +11,7 @@ tags:
   <% end %>
 <% end %>
 
-<% page_articles.each_with_index do |article, i| %>
+<% blog("wkoszek").articles.each_with_index do |article, i| %>
 <span class="date"><%= article.date.strftime('%b %e, %Y') %></span><br>
 <%= link_to article.title, article %>
 <br><br>
