@@ -22,17 +22,7 @@ gem 'middleman-imageoptim'
 gem 'middleman-search_engine_sitemap'
 gem 'middleman-sitemap-ping'
 gem 'middleman-build-reporter'
-
-## Let me do spellcheck development easily.
-#if ENV.include?("DEV") then
-#  File.delete("middleman-spellcheck")
-#  File.symlink("../middleman-spellcheck", "middleman-spellcheck")
-#  gem "middleman-spellcheck", '~> 0.9.2', :path => "middleman-spellcheck"
-#else
-#  gem "middleman-spellcheck", '~> 0.9.2',
-#	:git => "https://github.com/wkoszek/middleman-spellcheck.git",
-#	:branch => "nil_words_fix"
-#end
+#gem "middleman-spellcheck"
 
 # HTML/CSS stuff.
 gem 'bourbon'
