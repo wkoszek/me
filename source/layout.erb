@@ -180,13 +180,12 @@
                         <b>Liked it? Share it!</b>
                         <%= partial "_share" %>
     
+			<!--
                         <hr>
                         <h3>You may also like:</h3>
                         <ul>
-                        <% current_article.similar_articles.first(5).each do |article| %>
-                            <li><%= link_to article.title, article.url %>
-                        <% end %>
                         </ul>
+			-->
     
                         <hr>
                         <%= partial "_article_footer" %>
