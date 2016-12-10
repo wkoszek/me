@@ -13,7 +13,6 @@ gem 'middleman', '>= 4.0.0'
 gem 'middleman-livereload'
 
 gem "middleman-blog"
-#gem 'middleman-blog-similar'
 gem "middleman-minify-html"
 gem "middleman-deploy", '~> 2.0.0.pre.alpha'
 gem "middleman-gh-pages"
@@ -22,6 +21,7 @@ gem 'middleman-imageoptim'
 gem 'middleman-search_engine_sitemap'
 gem 'middleman-sitemap-ping'
 gem 'middleman-build-reporter'
+#gem 'middleman-blog-similar'
 #gem "middleman-spellcheck"
 
 # HTML/CSS stuff.
