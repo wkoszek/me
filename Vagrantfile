@@ -48,7 +48,7 @@ Vagrant.configure(2) do |config|
   #   vb.gui = true
   #
   #   # Customize the amount of memory on the VM:
-     vb.memory = "2024"
+     vb.memory = "2048"
      vb.cpus = 4
    end
   #
@@ -69,10 +69,5 @@ Vagrant.configure(2) do |config|
      sudo apt-get update
      sudo apt-get install -y nginx
      sudo service nginx stop
-     curl -sSL https://rvm.io/mpapis.asc | sudo gpg --import -
-     sudo curl -sSL https://get.rvm.io | bash -s stable --ruby
-     source /usr/local/rvm/scripts/rvm
-     cd /vagrant
-     bundle install
   SHELL
 end
