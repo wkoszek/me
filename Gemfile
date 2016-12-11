@@ -23,6 +23,7 @@ gem 'middleman-sitemap-ping'
 gem 'middleman-build-reporter'
 #gem 'middleman-blog-similar'
 #gem "middleman-spellcheck"
+#gem "middleman-blog-similar", '>= 0.9.2', :path => "../middleman-blog-similar"
 
 # HTML/CSS stuff.
 gem 'bourbon'
