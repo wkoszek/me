@@ -13,8 +13,8 @@ tags:
 <% next if article.tags.include?("books") %>
 <%= link_to article.data.title, article, :class => 'abig' %><br>
 <span class="date"><%= article.date.strftime('%b %e, %Y') %></span><br>
-<% if article.data.abstract? %>
-<%= article.data.abstract %>
+<% if article.data.description? %>
+<%= article.data.description %>
 <% end %>
 <br>
 <br>
