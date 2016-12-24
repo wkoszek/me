@@ -31,23 +31,17 @@
         <%= partial "search" %>
 
         <link rel="icon" type="image/png" href="/img/favicon.ico">
-        <% title = data.site.title.titleize %>
-        <% description = data.site.description %>
-         <% ["title", "description", "image", "site_name", "url", "audio", "video"].each do |og| %>
-            <% prefix = "" %>
-            <% if current_page.metadata[:page].try(:[], og) %>
-                <% if og == "title" %>
-                    <% title = current_page.metadata[:page][og].titleize %>
-                    <% prefix = "Wojciech A. Koszek - " %>
-                <% end %>
-                <% if og == "description" %>
-                    <% description = current_page.metadata[:page][og] %>
-                <% end %>
-                <meta property="og:<%= og %>" content="<%= prefix + current_page.metadata[:page][og] %>" />
-            <% end %>
-        <% end %>
-        <title>Wojciech Adam Koszek <%= '- ' + title %></title>
-        <meta name="description" content="Wojciech Adam Koszek<%= description ? (" - " + description) : ""%>" />
+
+        <title>Wojciech Adam Koszek | <%= current_page.data.title  %></title>
+        <meta property="og:title" content="Wojciech Adam Koszek | <%= current_page.data.title %>" />
+
+        <meta name="description" content="Wojciech Adam Koszek | <%= current_page.data.description %>" />
+        <meta property="og:description" content="Wojciech Adam Koszek | <%= current_page.data.description %>" />
+
+	<% if current_page.data.image %>
+		<meta property="og:image" content="<%= current_page.data.image %>" />
+	<% end %>
+
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@<%= data.site.twitter %>" />
@@ -56,6 +50,7 @@
         <meta property="og:type" content="article" />
         <meta property="article:author" content="https://www.koszek.com/about" />
         <meta property="article:publisher" content="https://www.koszek.com/" />
+
         <%= feed_tag :atom, "/feed.xml", title: "Atom Feed" %>
 
     </head>
