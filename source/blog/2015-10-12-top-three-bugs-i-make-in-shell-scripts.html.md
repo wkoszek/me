@@ -1,12 +1,11 @@
 ---
 title:	'Top 3 bugs I make in shell scripts'
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Things to shy away from when working on shell scripting.
 address: "Menlo Park, CA"
 tags:
 - "software engineering"
-description: 'Description and explanation of the top 3 bugs which I commit when I work on scripting.'
 read:	2015-10-12
 published: true
 keywords:

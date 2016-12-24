@@ -1,14 +1,13 @@
 ---
 title:	'Non-continuous innovation = dangerous or “Amazon Ad Platform Cleanups”'
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Amazon went ahead and changes their advertising links, which impacted me.
   In this article I discuss making changes to your products in a
   non-continuous ways and possible impacts it can have.
 address: "Menlo Park, CA"
 tags:
 - "entrepreneurship"
-description: "My take on making continous and non-continuous innovation."
 read:	2015-08-10
 published: true
 ads:

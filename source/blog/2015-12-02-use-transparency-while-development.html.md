@@ -1,7 +1,7 @@
 ---
 title:	'How I use transparency during development'
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Short hint on how transparency in Terminal can be useful while working
   on web stuff.
 address: "Menlo Park, CA"

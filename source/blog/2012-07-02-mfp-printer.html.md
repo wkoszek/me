@@ -1,13 +1,12 @@
 ---
 title:	"Almost usable &mdash; Sharp MFP printer menu"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   After reading the "Design of Everyday Things" I share some insights on
   things I've noticed in the office.
 address: "East Palo Alto, CA"
 tags:
 - "usability"
-description: "Some usability insights from using Sharp printers."
 auth:	Wojciech Koszek
 spellcheck-allow:
 - "MFP"

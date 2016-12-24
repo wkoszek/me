@@ -1,7 +1,7 @@
 ---
 title:	'Source Code from "Programmer Guide to NCurses" by Dan Gookin'
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Dan Gookin did a good job with getting some NCurses examples out in the
   world, and I've just made it easier to access. If you like to write your
   own, little crude tools, and do all of this in C, this is a good resource.
@@ -9,7 +9,6 @@ address: "Menlo Park, CA"
 tags:
 - "software engineering"
 - "programming"
-description: "The collection of examples of ANSI C programs using NCurses library."
 read:	2015-07-08
 published: true
 ads:

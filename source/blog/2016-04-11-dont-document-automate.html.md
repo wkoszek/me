@@ -1,7 +1,7 @@
 ---
 title:	"Don't document. Automate!"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Have you ever wondered why people who write great posts and figure complex
   flows out don't make it easier for others? In this piece I explain what my
   take on it is.

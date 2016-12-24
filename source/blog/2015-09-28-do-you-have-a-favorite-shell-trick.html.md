@@ -1,12 +1,11 @@
 ---
 title:	'Do You Have a Favorite Shell Trick?'
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Something for Bash geeks.
 address: "Menlo Park, CA"
 tags:
 - "programming"
-description: "Many times clean code isn't enough to get the job done. Shown is one of these cases where you must use some magic to make things going.."
 read:	2015-09-28
 published: true
 ads:

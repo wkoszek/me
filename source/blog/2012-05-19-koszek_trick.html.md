@@ -1,12 +1,11 @@
 ---
 title:	"fpurge() hack &mdash; Koszek trick #1"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Dirty, ugly and terribly useful trick that works sometimes.
 address: "East Palo Alto, CA"
 tags:
 - "software engineering"
-description: "On crude and unsupported fun with fpurge()"
 auth:	Wojciech Koszek
 ---
 

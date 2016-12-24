@@ -1,7 +1,7 @@
 ---
 title:	"Building an Open Source iOS app: lessons learned"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   In this post I share my links, materials and videos for the talk I gave at
   Silicon Valley Mobile Developers and Designers Meetup.
 address: "Menlo Park, CA"
@@ -9,7 +9,6 @@ tags:
 - "ios"
 - "open source"
 - "software engineering"
-description: "Building an Open Source iOS app"
 auth:	Wojciech Koszek
 ads:
 - 

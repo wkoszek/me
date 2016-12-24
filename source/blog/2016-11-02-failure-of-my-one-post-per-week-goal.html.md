@@ -1,7 +1,7 @@
 ---
 title: "Failure of my one post per week goal"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   My summary of why writing even one blog a week is fairly hard.
 address: "Menlo Park, CA"
 tags:

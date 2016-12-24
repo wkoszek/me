@@ -1,7 +1,7 @@
 ---
 title:	"Why it's not about self-driving"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Self-driving technology is something I never believed would happen in my
   life-time. Looking at the race to build and improve this technology is
   very interesting and I explain why I believe why it's so. If you wonder
@@ -9,7 +9,6 @@ abstract: >
 address: "Menlo Park, CA"
 tags:
 - "entrepreneurship"
-description: "My prediction that self-driving technology won't be a real value in itself."
 read:	2015-09-23
 published: true
 ads:

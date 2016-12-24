@@ -1,7 +1,7 @@
 ---
 title:	'Computer History from Giants Themselves'
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   I don't subscribe to many YouTube channels, but I've subscribed to the
   Computer History Museum one, since it's a mine on knowledge in my opinion.
   In here I discuss why I believe it is so.

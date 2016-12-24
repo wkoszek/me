@@ -1,13 +1,12 @@
 ---
 title:	"Why the Go Language Won't Be Successful"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   My take on Go usability from the perspective of the 1st time user.
   My most-read article so far.
 address: "Menlo Park, CA"
 tags:
 - "programming"
-description: "Things which frustrated me about Go bootstrapping."
 read:	2015-07-22
 published: true
 ads:

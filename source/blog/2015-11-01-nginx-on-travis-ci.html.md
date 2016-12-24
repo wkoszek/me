@@ -1,13 +1,12 @@
 ---
 title:	'How to use nginx on Travis (or other) CI system'
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Travis-Ci is cool, and so is `nginx`. In here I share some stuff to marry
   the two and let your CI scripts use `nginx` during testing.
 address: "Menlo Park, CA"
 tags:
 - "software engineering"
-description: 'Short article and minimal nginx configuration for container-based infrastructure'
 read:	2015-11-01
 published: true
 image: https://c2.staticflickr.com/8/7270/7018342079_9271fec335_b.jpg

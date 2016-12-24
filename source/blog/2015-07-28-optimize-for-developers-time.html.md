@@ -1,7 +1,7 @@
 ---
 title:	"Optimize for the Developer’s Time, Not the Machine’s"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   In the age where CPU cycles are getting cheaper and cheaper, many people
   still shift and crank bells and whisles in the software. In the piece I
   write that most of the time it's no longer necessary. What's really
@@ -10,7 +10,6 @@ address: "Menlo Park, CA"
 tags:
 - "entrepreneurship"
 - "software engineering"
-description: "Modern look on tradeoffs in software development."
 read:	2015-07-28
 published: true
 ads:

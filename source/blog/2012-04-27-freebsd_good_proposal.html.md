@@ -1,7 +1,7 @@
 ---
 title:	"Google Summer of Code &mdash; how proposals are evaluated"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Short piece to serve as a help for students wishing to apply to
   Google Summer of Code. I discuss some background in how the
   open-source project evaluates submitted project proposals and what
@@ -10,7 +10,6 @@ address: "East Palo Alto, CA"
 tags:
 - "freebsd"
 - "open source"
-description: "The background behind decision making on submitted proposals during Google Summer of Code."
 auth:	"Wojciech Koszek"
 ads:
 - <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=031609997X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

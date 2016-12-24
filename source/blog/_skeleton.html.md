@@ -1,9 +1,8 @@
 ---
 title:	
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Normal abstract goes here.
-description: 
 image:
 site_name:
 url:
