@@ -33,10 +33,10 @@
         <link rel="icon" type="image/png" href="/img/favicon.ico">
 
         <title>Wojciech Adam Koszek | <%= current_page.data.title  %></title>
-        <meta property="og:title" content="Wojciech Adam Koszek | <%= current_page.data.title %>" />
-
         <meta name="description" content="Wojciech Adam Koszek | <%= current_page.data.description %>" />
-        <meta property="og:description" content="Wojciech Adam Koszek | <%= current_page.data.description %>" />
+
+        <meta property="og:title" content="<%= current_page.data.title %> | Wojciech Adam Koszek" />
+        <meta property="og:description" content="<%= current_page.data.description %>" />
 
 	<% if current_page.data.image %>
 		<meta property="og:image" content="<%= current_page.data.image %>" />
