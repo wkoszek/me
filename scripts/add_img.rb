@@ -36,7 +36,7 @@ print "# #{md_file_name} #{img_path}\n"
 img_scales = [5, 10, 15 ] # in percent of original
 img_scales.each do |s|
 	print "# scaling #{s}\n"
-	`convert -resize #{s}% #{img_fn} #{img_path}/#{img_no_ext}_#{s}p.#{ext}\n`
+	`convert -type Grayscale -resize #{s}% #{img_fn} #{img_path}/#{img_no_ext}_#{s}p.#{ext}\n`
 end
 
 File.open(post_fn, 'a') { |f|
