@@ -7,7 +7,7 @@ address: "Menlo Park, CA"
 tags:
 - "software engineer"
 published: true
-image: 
+image: /img/2017-01-17-reading-for-software-engineers/8muutamcwu4-jez-timms_10p.jpg
 ads:
 -
 spellcheck-allow:
@@ -21,6 +21,8 @@ And most of their time, they do waste *some* time too.
 Very few of us solve unique problems. You're probably not the lucky guy either.
 
 In my opinion, you won't be very good and well respected, unless you read.
+
+![alt_text_0](/img/2017-01-17-reading-for-software-engineers/8muutamcwu4-jez-timms_10p.jpg "Image_text_0")
 
 ## Motivation
 
@@ -40,6 +42,8 @@ This made me think.
 
 Not the first time technical author expresses a worry that topics in
 computers change rapidly, and they can't keep up with writing the material.
+
+![alt_text_0](/img/2017-01-17-reading-for-software-engineers/3wygakaeqc-simson-petrol_10p.jpg "Image_text_0")
 
 But here's the secret: it's 10% true.
 
