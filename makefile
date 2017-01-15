@@ -24,7 +24,7 @@ update:
 	git checkout master
 	git pull
 min:
-	rm source/{blog,books}/201{2,3,4,5}*
+	rm -rf source/{blog,books}/201{2,3,4,5,6}*
 max:
 	git checkout -f source/{books,blog}
 bootstrap:
