@@ -24,9 +24,9 @@ update:
 	git checkout master
 	git pull
 min:
-	rm -rf source/{blog,books}/201{2,3,4,5,6}*
+	rm -rf source/{blog,books}/201{2,3,4,5,6}*.md
 max:
-	git checkout -f source/{books,blog}
+	git checkout -f source/{blog,books}
 bootstrap:
 	gem install json -v '1.8.3'
 	bundle install
