@@ -44,7 +44,7 @@ sed -i "" 's,```,\~\~\~,g' _.md	# my confusion
 sed -i "" 's,gt;,>,g' _.md
 sed -i "" 's,lt;,<,g' _.md
 
-TITLE_CUR=`head -1 _.txt`
+TITLE_CUR=`head -1 _.md`
 echo "Enter title [${TITLE_CUR}] <ENTER/custom title>"
 read TITLE_ANSWER
 if [ "x${TITLE_ANSWER}" = "x" ]; then
@@ -79,11 +79,11 @@ fi
 
 (
 	echo "---"
-	echo "title:	'$TITLE'"
-	echo "tags:	$TAGS"
-	echo "read:	$DATE"
+	echo "title:'$TITLE'"
+	echo "tags: $TAGS"
+	echo "read: $DATE"
 	echo "published: true"
-	echo "layout:	layout_book"
+	echo "layout: layout_book"
 	echo "ads:"
 	echo "- "
 	echo "---"
