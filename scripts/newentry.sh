@@ -68,23 +68,22 @@ else
 	read DATE
 fi
 
-
-echo "Tags [a/b] a:"
-read TAGS_ANSWER
-
-TAGS="article"
-if [ "x$TAGS_ANSWER" = "xb" ]; then
-	TAGS="books"
-fi
-
 (
 	echo "---"
 	echo "title:'$TITLE'"
-	echo "tags: $TAGS"
-	echo "read: $DATE"
+	echo "author: \"Wojciech Adam Koszek\""
+	echo "description: >"
+	echo "  Description goes here"
+	echo "address: \"Menlo Park, CA\""
+	echo "tags:"
+	echo "- \"tools\""
+	echo "- \"software engineering\""
 	echo "published: true"
-	echo "layout: layout_book"
+	echo "read: $DATE"
+	echo "image: URL"
 	echo "ads:"
+	echo "- "
+	echo "spellcheck-allow:"
 	echo "- "
 	echo "---"
 	echo
