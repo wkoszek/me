@@ -9,7 +9,7 @@ tags:
 auth:	Brian Tracy
 read:	2013-07-22
 ads:
-- <a target="_blank" href="http://www.amazon.com/Brian-Tracy/e/B001H6OMRI/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&qid=1375163486&sr=8-2-ent&tag=wkoszek-20">Brian Tracy @ Amazon</a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- <a target="_blank" href="http://www.amazon.com/Brian-Tracy/e/B001H6OMRI/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&qid=1375163486&sr=8-2-ent&tag=wojcadamkoszh-20">Brian Tracy @ Amazon</a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 spellcheck-allow:
 - "nd"
 ---
