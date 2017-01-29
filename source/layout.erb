@@ -123,9 +123,7 @@
                         <hr/>
                         <%= partial "_share" %>
                         <hr/>
-                        <p>
-                            <%= yield %>
-                        </p>
+                        <%= yield %>
                     </article>
     
                     <% pages = sitemap.resources.find_all{|p| p.source_file.match(/.*book.*\.md$/)} %>
