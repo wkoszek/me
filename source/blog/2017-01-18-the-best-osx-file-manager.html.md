@@ -28,7 +28,10 @@ You miss a bit if you don't use these tools, since they're huge time savers.
 There isn't similar functionality built in the OSX, so you'll have to do
 your homework. You can use Finder, of course, and I do like Finder and it's
 preview feature. Also the the embedded image editor is very useful. However
-for shuffling files Finder is terrible. You must admit it.
+for shuffling files Finder is terrible. You must play with tabs, select
+files which somes get unselected. You select many files and want to move it
+to the directory on the very bottom of the current screen? Good luck. For
+file-system management, Finder sucks. You must admit it.
 
 So I started from [the page on file managers][] on Wikipedia, and learned
 about Orthodox File Managers".
