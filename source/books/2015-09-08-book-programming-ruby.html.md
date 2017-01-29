@@ -1,7 +1,7 @@
 ---
 title:  "Programming Ruby, The Pragmatic Programmer's Guide"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Cool book on Ruby. If you intend to write in Ruby, just get it. You won't
   regret.
 address: "Menlo Park, CA"

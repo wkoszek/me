@@ -1,7 +1,7 @@
 ---
 title:	"The first billion is the hardest"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't remember this one. Title is definitely sketchy, even for my taste.
   Unclear.
 address: "Menlo Park, CA"

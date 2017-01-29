@@ -1,7 +1,7 @@
 ---
 title:  "Made it stick"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   How to study effectively.
 address: "Menlo Park, CA"
 tags:

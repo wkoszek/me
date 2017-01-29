@@ -1,7 +1,7 @@
 ---
 title:	"The Lean Startup"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Business classic for software startup bootstrapping. I believe
   if you plan or think about making your side-projects happen and maybe
   charge money for those, I think you should invest in this book.

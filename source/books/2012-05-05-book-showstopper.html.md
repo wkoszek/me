@@ -1,7 +1,7 @@
 ---
 title:	"Showstopper!"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This book is a great take on the software-engineering, as it explains
   interactions between people, computers, time and money. If you've ever
   wondered how hard it is to work on big industry projects, this book might

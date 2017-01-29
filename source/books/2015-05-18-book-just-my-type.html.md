@@ -1,7 +1,7 @@
 ---
 title:  "Just My Type"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Very nice and compact introduction to typography.
 address: "Menlo Park, CA"
 tags:

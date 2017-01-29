@@ -1,7 +1,7 @@
 ---
 title:	"Extreme Toyota"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This is "The Toyota Way" rephrased. I think the general rule is: pick just
   want book about Toyota production system and you're good to go.
 address: "Menlo Park, CA"

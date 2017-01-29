@@ -1,7 +1,7 @@
 ---
 title:	"50 Success Classics"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Another list of books other people found useful. I did that too, but I
   guess Amazon is a modern way of exploring book resources, so feel free to
   skip this one.

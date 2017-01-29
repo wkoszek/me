@@ -1,7 +1,7 @@
 ---
 title:	"The 4-Hour Workweek"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Tim had a very successful company selling suplements, and wrote a book how
   to live once you get wealthy. Many people like this book, but I didn't get
   it. Valuable thing was talking about trying to automate tedious tasks in

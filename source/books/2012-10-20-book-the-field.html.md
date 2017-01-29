@@ -1,7 +1,7 @@
 ---
 title:	"The Field"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Didn't like it. Too esoteric and sketchy. Skip this one without feeling bad.
 address: "East Palo Alto, CA"
 tags:

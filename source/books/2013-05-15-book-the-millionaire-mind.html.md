@@ -1,7 +1,7 @@
 ---
 title:	"The Millionaire Mind"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Very interesting take on the finances in the USA. Mentions approaches used
   by financially capable people to retain wealth. Interesting read.
 address: "Menlo Park, CA"

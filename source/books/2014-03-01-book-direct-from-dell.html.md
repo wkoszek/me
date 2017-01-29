@@ -1,7 +1,7 @@
 ---
 title:	"Direct from Dell"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Interesting read on how one of the biggest companies went from 0 to
   getting public. Funny to read all about this effort and knowing Dell went back private
   not so long ago. Book was cool -- two years after reading it I sometimes

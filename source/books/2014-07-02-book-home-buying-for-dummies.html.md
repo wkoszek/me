@@ -1,7 +1,7 @@
 ---
 title:	"Home Buying For Dummies"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Title is pretty accurate and sums it all.
 address: "Menlo Park, CA"
 tags:

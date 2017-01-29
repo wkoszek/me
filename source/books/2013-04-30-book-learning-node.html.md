@@ -1,7 +1,7 @@
 ---
 title:	"Learning Node"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   My detour to understand Node more. I have a mixed feeling about this book.
   I feel like too many topics and frameworks have been touched in this text,
   so it's more of a breath read than a depth read.

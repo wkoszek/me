@@ -1,7 +1,7 @@
 ---
 title:	"Teach yourself Ruby in 21 days"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Cool thing. Get it if you like Ruby
 address: "Menlo Park, CA"
 tags:

@@ -1,7 +1,7 @@
 ---
 title:	"Mental toughness training"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   The only thing I remember from this book is how sports can be mentally
   challenging, since as you get closer to winning, you're more stressed out
   about loosing. And that's when the control comes into the play for people

@@ -1,7 +1,7 @@
 ---
 title:	"Envisioning information"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   If you're a UX/UI designer, this would be a must-have book. I found its
   look very appealing. Tufte created a great style for this book. But
   content I've found hard to digest. I get the concepts, but reading was a

@@ -1,7 +1,7 @@
 ---
 title:	"Rich Dad Poor Dad"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Classic.
 address: "East Palo Alto, CA"
 tags:

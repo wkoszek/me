@@ -1,7 +1,7 @@
 ---
 title:	"Succeeding as first time manager"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Nice little book. Title matches what the content is about.
 address: "Menlo Park, CA"
 tags:

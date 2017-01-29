@@ -1,7 +1,7 @@
 ---
 title:	"MicroISV"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't remember much from this book 3 years after reading it.
 address: "Menlo Park, CA"
 tags:

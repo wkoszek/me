@@ -1,7 +1,7 @@
 ---
 title:	"More Joel on Software"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   The "Joel on Software" book and his blog made me order this follow-up.
   If you read this now or maybe see my other review of "Joel on Software"
   writings, I think you'll be fine ordering this position too. It's

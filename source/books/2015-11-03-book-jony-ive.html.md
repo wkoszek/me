@@ -1,7 +1,7 @@
 ---
 title:  "Jony Ive: The Genius Behind Apple's Greatest Products"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Jony Ive is someone who I, as a amateur designer, envy. And the design
   world envies. It was cool to learn more about him in a structured form. If
   you're a design junkie, you'll like this one.

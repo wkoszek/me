@@ -1,7 +1,7 @@
 ---
 title:	"Are you smart enough to work at Google?"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This was a book on Google values, but don't remember the details.
 address: "Menlo Park, CA"
 tags:

@@ -1,7 +1,7 @@
 ---
 title:	"Crossing the chasm"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This book is similar to "The Innovator's Dillema". Basically what is the
   life-cycle of the high-tech product and how it's getting adopted.
 address: "Menlo Park, CA"

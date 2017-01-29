@@ -1,7 +1,7 @@
 ---
 title:	"The science of getting rich"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This is a sketchy book and a sketchy title.
 address: "Menlo Park, CA"
 tags:

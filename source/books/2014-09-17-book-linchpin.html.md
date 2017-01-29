@@ -1,7 +1,7 @@
 ---
 title:	"Linchpin"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't remember anything from this book. I think you may skip it.
 address: "Menlo Park, CA"
 tags:

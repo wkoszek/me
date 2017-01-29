@@ -1,7 +1,7 @@
 ---
 title:	"A Whole New Mind: Why Right-Brainers Will Rule the Future"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Very cool book, highly recommended. If you've ever wondered where the
   software engineering is going and what's the connection between engineers
   and designers, this book might be for you.

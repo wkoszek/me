@@ -1,7 +1,7 @@
 ---
 title:	"DEC is dead. Long live DEC"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Another chunk of the corporate history. This time about DEC.
 address: "Menlo Park, CA"
 tags:

@@ -1,7 +1,7 @@
 ---
 title:	"101 Secrets of Highly Effective Speakers"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Tips and tricks for speakers. Judging by the number of notes I put down
   after original reading, I suspect I should revisit this book at some
   point.

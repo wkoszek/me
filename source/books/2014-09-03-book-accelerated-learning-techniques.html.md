@@ -1,7 +1,7 @@
 ---
 title:	"Accelerated learning techniques"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't like things from Brian Tracy, but this book was interesting. If
   you're a learning geek, get it.
 address: "Menlo Park, CA"

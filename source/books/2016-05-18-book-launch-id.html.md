@@ -1,7 +1,7 @@
 ---
 title:  "Launch It"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   If you're interested in promoting yourself in the Internet through some
   form of audio/video recordings, this book might be for you.
 auth: Jonathan R Taylor

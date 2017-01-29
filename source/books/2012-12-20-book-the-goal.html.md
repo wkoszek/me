@@ -1,7 +1,7 @@
 ---
 title:	"The Goal"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This is a very unique book, since the author did a great job at making
   education fun. He grabbed the Agile practices and wrapped them in a
   fictional storyline in a way that made it actually a very interesting

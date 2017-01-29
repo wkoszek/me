@@ -1,7 +1,7 @@
 ---
 title:	"Dealers of Lightning"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Terribly long take on Xerox. Corporate history.
 address: "Menlo Park, CA"
 tags:

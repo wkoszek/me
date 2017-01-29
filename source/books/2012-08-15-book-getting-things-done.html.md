@@ -1,7 +1,7 @@
 ---
 title:	"Getting things done"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This book has helped me with achieving my personal goals and projects.
   If you have growing Agile board, growing TODO and messy desks and cabinets
   and you'll like change some (all?) of those things, I think this book is

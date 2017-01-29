@@ -1,7 +1,7 @@
 ---
 title:  "The Willpower Instinct"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   1 year after listening to this book I don't really remember it..
 address: "Menlo Park, CA"
 tags:

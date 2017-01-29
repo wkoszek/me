@@ -1,7 +1,7 @@
 ---
 title:  "The Everything Store"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Dark background behind Amazon and its success. I liked it.
 address: "Menlo Park, CA"
 tags:

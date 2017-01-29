@@ -1,7 +1,7 @@
 ---
 title:	"Mindset"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't remember this book at all.
 address: "Menlo Park, CA"
 tags:

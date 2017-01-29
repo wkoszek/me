@@ -1,7 +1,7 @@
 ---
 title:  "Procrastination: Why You Do It, What to Do About It Now"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   If you're bothered by the endless projects, or many unfinished tasks on
   your to-do list, this book is great. It addresses very many types of
   syndromes our busy minds are dealing with. It's a mediacally-backed book

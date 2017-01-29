@@ -1,7 +1,7 @@
 ---
 title:	"Ben and Jerry"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Take on how ice-cream we all like got made. From 0 to Cookie Dough
   icecream!
 address: "Menlo Park, CA"

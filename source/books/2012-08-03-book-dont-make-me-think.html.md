@@ -1,7 +1,7 @@
 ---
 title:	"Don't make me think"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This is probably 2nd most important book for UX/UI designers.
   If you do anything with human-related software and product design,
   go and read it. It's a worth investment.

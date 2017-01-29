@@ -1,7 +1,7 @@
 ---
 title:	"The Old New Thing"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   After Joel Spolsky's writing, Chen writings were among my favorites, as
   they too gave enough insight into the technical and non-technical stuff.
   He is a great software engineer and a very good writer too. Can recommend

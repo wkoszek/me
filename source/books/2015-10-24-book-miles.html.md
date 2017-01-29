@@ -1,7 +1,7 @@
 ---
 title:  "Miles"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Probably the best audiobook I've listened. One of the best life stories
   I've heard. I have this book in my mind everyday. So will you, if you get
   it.

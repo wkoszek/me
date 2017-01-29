@@ -1,7 +1,7 @@
 ---
 title:	"Design of everyday things"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Classing in the UX/UI world. Also must-read for human-facing software
   engineers. If you built products, tools or any kind of automation
   solutions, you'd benefit from this book, as it presents an

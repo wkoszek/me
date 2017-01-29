@@ -1,7 +1,7 @@
 ---
 title:	"The 17 Indisputable Laws of Teamwork"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   After 2 years from reading I don't remember anything from this book. I
   guess it wasn't that valuable.
 address: "Menlo Park, CA"

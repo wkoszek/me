@@ -1,7 +1,7 @@
 ---
 title:	"Talent is overrated"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Explanation why hard and systematic work is really what matters more than
   "talent"
 address: "Menlo Park, CA"

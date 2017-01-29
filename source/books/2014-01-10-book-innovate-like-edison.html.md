@@ -1,7 +1,7 @@
 ---
 title:	"Innovate like Edison"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Funny. This book shows Edison like a true grand master of innovation.
   I guess it's well deserved, yet a lot of people know that Tesla was
   invention hero. Ready this book, but read something on Tesla too.

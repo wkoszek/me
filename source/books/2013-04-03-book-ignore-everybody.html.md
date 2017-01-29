@@ -1,7 +1,7 @@
 ---
 title:	"Ignore Everybody"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't remember anything about this one
 address: "Menlo Park, CA"
 tags:

@@ -1,7 +1,7 @@
 ---
 title:	"Suze Orman books (9 steps, Courage..., )"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Probably the best thing that happened to me was picking up these books,
   since they talk about investment elements which are different from my
   native country, Poland. A lot of people claim Orman isn't actually backing

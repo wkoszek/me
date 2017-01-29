@@ -1,7 +1,7 @@
 ---
 title:	"Guerilla Business School"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't remember much from it.
 address: "Menlo Park, CA"
 tags:
