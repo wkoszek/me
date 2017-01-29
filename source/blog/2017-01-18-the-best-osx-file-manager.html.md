@@ -48,7 +48,7 @@ were paid and not looking very good.
 
 muCommander looks simple, but is pretty powerful.
 
-![MuCommander screenshot](/img/2017-01-16-the-best-osx-file-manager/mucommander_75p.jpg "MuCommander")
+![MuCommander screenshot](/img/2017-01-18-the-best-osx-file-manager/mucommander_75p.jpg "MuCommander")
 
 My mental model is: left pane is source, right pane is destination. It's
 simple for files and directories, and comes handy when you make a backup to
@@ -56,7 +56,7 @@ your external harddrive (you do backup, don't you?)
 
 It has a support for modern stuff too: S3, HDFS and HTTP:
 
-![alt_text_14](/img/2017-01-16-the-best-osx-file-manager/mucommander_functions_75p.jpg "Image_text_14")
+![MuCommander screenshot 2](/img/2017-01-18-the-best-osx-file-manager/mucommander_functions_75p.jpg "MuCommander 2")
 
 You should start playing with it and I think you'll like it.
 
