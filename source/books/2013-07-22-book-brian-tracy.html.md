@@ -1,7 +1,7 @@
 ---
 title:	"Brian Tracy books..."
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't remember them much. I don't think these are worth reading.
 address: "Menlo Park, CA"
 tags:

@@ -1,7 +1,7 @@
 ---
 title:	"The Tipping Point"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   I write this review 4 years after reading this book, and I think
   explanation of mavens/connectors is worth reading. After looking through
   my library I think this book links fairly well with "Innovator's

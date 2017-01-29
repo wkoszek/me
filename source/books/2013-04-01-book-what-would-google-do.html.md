@@ -1,7 +1,7 @@
 ---
 title:	"What would Google do?"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Yet another Google book
 address: "Menlo Park, CA"
 tags:

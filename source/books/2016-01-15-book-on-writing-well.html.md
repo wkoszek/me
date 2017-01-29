@@ -1,7 +1,7 @@
 ---
 title:  "On writing well"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   On my blog and through these recommendations I try to practice English,
   and the "On writing well" was very helpful for improving how I write and
   how I communicate. You'll learn a lot of secrets on making your writing

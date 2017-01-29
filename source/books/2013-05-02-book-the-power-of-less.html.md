@@ -1,7 +1,7 @@
 ---
 title:	"The Power of Less"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This was something between minimalism (and was better than "The
   minimalists" book) and "Getting things done". Enjoyed it. Looking back on
   how many comments I wrote on this book, I feel like it's a worth read, as

@@ -1,7 +1,7 @@
 ---
 title:	"Starting Forth"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   My interest in Forth started from attending Silicon Valley Forth Interest
   Group meetups at Stanford, and it continued every since. I always
   appreciate beautiful minimalistic things that can just do one thing very

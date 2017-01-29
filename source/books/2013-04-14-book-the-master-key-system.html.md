@@ -1,7 +1,7 @@
 ---
 title:	"The Master Key System"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Nothing special.
 address: "Menlo Park, CA"
 tags:

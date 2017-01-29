@@ -1,7 +1,7 @@
 ---
 title:	"The E-Myth Revisited"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This is probably one of the best entrepreneurial books you can get. If
   you're thinking about starting an enterprise of any sort on your own, go
   and get this one. If I make a list of the most influential entrepreneurial

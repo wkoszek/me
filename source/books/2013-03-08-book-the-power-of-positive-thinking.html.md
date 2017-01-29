@@ -1,7 +1,7 @@
 ---
 title:	"The Power of Positive Thinking"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   A lot of people recommend it, but I didn't like it.
 address: "Menlo Park, CA"
 tags:

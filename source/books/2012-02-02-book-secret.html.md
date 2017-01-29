@@ -1,7 +1,7 @@
 ---
 title:	"Secret"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Dan Harris of ABC News summarized this genre of books accurately, and
   I think all of us would agree.. Slightly esoteric, but got me started
   in the personal development field. In my opinion this book changed my

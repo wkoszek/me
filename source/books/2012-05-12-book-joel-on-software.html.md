@@ -1,7 +1,7 @@
 ---
 title:	"Joel on Software"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Spolsky made his mark on the Internet and the software industry with
   his writing, and there are two ways to access it: his blog or this
   book. The book has the same stuff, but comes in a handy form. Get it,

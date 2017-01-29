@@ -1,7 +1,7 @@
 ---
 title:  "On Writing"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Man. This is really damn good book on writing by the master. If you're
   into blog writing or writing of any kind, buy it. You won't regret. I kept
   listening to it and greatly enjoyed it.

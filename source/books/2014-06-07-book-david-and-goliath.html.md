@@ -1,7 +1,7 @@
 ---
 title:	"David and Goliath"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   How smaller competitors can win the fight over the product/market. Worth
   read.
 address: "Menlo Park, CA"

@@ -1,7 +1,7 @@
 ---
 title:	"The New New Thing: A Silicon Valley Story"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This is a must if you're interested in a Silicon Valley history.
 address: "East Palo Alto, CA"
 tags:

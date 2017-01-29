@@ -1,7 +1,7 @@
 ---
 title:	"Dot.Bomb: My Days and Nights at an Internet Goliath"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Having read it 1 year ago I must say I don't remember anything from this
   book. Probably not really worth reading.
 address: "Menlo Park, CA"

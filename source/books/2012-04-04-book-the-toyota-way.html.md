@@ -1,7 +1,7 @@
 ---
 title:	"The Toyota Way"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This book is probably the best introduction in the Agile practices
   there is. It talks about cars, but everything that you read here will
   make sense for high-tech products. If you substitute "car" with

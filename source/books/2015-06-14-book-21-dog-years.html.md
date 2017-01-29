@@ -1,7 +1,7 @@
 ---
 title:  "Twenty-one Dog Years: Doing Time at Amazon.com"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Very funny take on one person's career at Amazon from the time of its
   hypergrowth.
 address: "Menlo Park, CA"

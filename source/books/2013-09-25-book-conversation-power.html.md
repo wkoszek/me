@@ -1,7 +1,7 @@
 ---
 title:	"Conversation Power"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't remember this one.
 address: "Menlo Park, CA"
 tags:

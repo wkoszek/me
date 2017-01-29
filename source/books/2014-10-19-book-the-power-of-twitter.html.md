@@ -1,7 +1,7 @@
 ---
 title:	"The Power of Twitter"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Book is good if you want to get better at using Twitter and figuring out
   the dynamics and what it's all about.
 address: "Menlo Park, CA"

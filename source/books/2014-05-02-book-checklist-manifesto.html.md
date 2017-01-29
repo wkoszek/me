@@ -1,7 +1,7 @@
 ---
 title:	"The checklist manifesto"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   How using a checklist can be a good way of solving problems in difficult
   moments. Used some techniques from this book in the software development
   and it turned out to be very effective.

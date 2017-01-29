@@ -1,7 +1,7 @@
 ---
 title:	"Losing My Virginity"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This is a 13+ book, so don't screen if you find it on your kid's
   bookshelf. Branson's take on this entrepreneurial journey. Found it pretty
   enjoyable. Unique part about him is that he's British -- most of the other

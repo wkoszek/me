@@ -1,7 +1,7 @@
 ---
 title:	"People Are Idiots and I Can Prove It!"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Meh. Interesting as audiobook just because it was read by the author and
   his style was less formal than usual. And because I got it free. 
   Maybe I'm biased. Not worth reading.

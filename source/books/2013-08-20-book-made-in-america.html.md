@@ -1,7 +1,7 @@
 ---
 title:	"Made in America"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   One of the best books I've read.
 address: "Menlo Park, CA"
 tags:

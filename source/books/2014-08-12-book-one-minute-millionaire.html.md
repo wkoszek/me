@@ -1,7 +1,7 @@
 ---
 title:	"One Minute Millionaire"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Don't remember anything from this book. I don't even know if I finished
   it.
 address: "Menlo Park, CA"

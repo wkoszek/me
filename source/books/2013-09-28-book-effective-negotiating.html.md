@@ -1,7 +1,7 @@
 ---
 title:	"Effective negotiating"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This was useful for better negotiating skills.
 address: "Menlo Park, CA"
 tags:

@@ -1,7 +1,7 @@
 ---
 title:	"How to Delegate"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   How to be a good manger.
 address: "Menlo Park, CA"
 tags:

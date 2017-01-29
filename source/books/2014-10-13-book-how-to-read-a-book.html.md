@@ -1,7 +1,7 @@
 ---
 title:	"How to read a book?"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Sounded cool, but I couldn't really find a good way to summarise it. I
   don't remember much from this book after two years from reading it. Worth
   skipping.

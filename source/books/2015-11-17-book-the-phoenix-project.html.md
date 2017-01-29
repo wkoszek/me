@@ -1,7 +1,7 @@
 ---
 title:  "The Phoenix Project"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This book was essentiall what "The Toyota Way" showed me, but more in the
   high-tech end. So if you feel like you're just starting up with agile or
   you're not a technical person and you need direct advice wrt. software

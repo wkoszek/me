@@ -1,7 +1,7 @@
 ---
 title:	"Jack - Straight from the Gut"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This was a real gem. I keep coming back to this book in my head. Should
   allocate some time and re-read it once again.
 address: "Menlo Park, CA"

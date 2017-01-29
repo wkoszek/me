@@ -1,7 +1,7 @@
 ---
 title:	"How to Gain 2 Extra Hours a Day"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Nah. Read "Getting things done". This book isn't a good investment.
 address: "Menlo Park, CA"
 tags:

@@ -1,7 +1,7 @@
 ---
 title:	"The 22 Immutable Laws of Marketing"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Must read for everybody. I keep coming back to lessons learned from this
   book several years after having read it originally.
 address: "East Palo Alto, CA"

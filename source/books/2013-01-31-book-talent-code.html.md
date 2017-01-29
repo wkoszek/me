@@ -1,7 +1,7 @@
 ---
 title:	"Talent code"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Debunking a myth of "talent"
 address: "Menlo Park, CA"
 tags:

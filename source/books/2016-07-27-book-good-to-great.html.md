@@ -1,7 +1,7 @@
 ---
 title:  "Good to Great"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Deep analysis on how normal and average companies become outstanding
   companies. Lots of numbers; this book is researched-based.
 address: "Menlo Park, CA"

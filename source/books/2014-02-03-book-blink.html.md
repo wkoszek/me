@@ -1,7 +1,7 @@
 ---
 title:	"Blink"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   How quick assessment and first impression really does count.
 address: "Menlo Park, CA"
 tags:

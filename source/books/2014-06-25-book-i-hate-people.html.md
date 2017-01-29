@@ -1,7 +1,7 @@
 ---
 title:	"I hate people"
 author: "Wojciech Adam Koszek"
-abstract:
+description:
   Office survival guide.
 address: "Menlo Park, CA"
 tags:

@@ -1,7 +1,7 @@
 ---
 title:	"Rework"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   I highly recommend you skip this book, since I want to be ahead of you.
 address: "East Palo Alto, CA"
 tags:

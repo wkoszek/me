@@ -1,7 +1,7 @@
 ---
 title:	"Six thinking hats"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   I was very sceptical, but I've played with some exercises in my head, and
   I believe there is something to the theory of coldly analysing, gather
   ideas, then colding analysing, then turning feelings back and

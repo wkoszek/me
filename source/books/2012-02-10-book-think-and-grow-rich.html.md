@@ -1,7 +1,7 @@
 ---
 title:	"Think and Grow Rich"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This is the classic in the genre of self-help and even though
   the title could be considered very sketchy, a lot of people know
   and recognize it. It you want to appear cool on the serious party,

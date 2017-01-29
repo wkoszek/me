@@ -1,7 +1,7 @@
 ---
 title:  "In the Plex"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Details on Google intestines.
 address: "Menlo Park, CA"
 tags:

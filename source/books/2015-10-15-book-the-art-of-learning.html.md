@@ -1,7 +1,7 @@
 ---
 title:  "The Art of Learning"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   After 1 year of listening to it I still remember good stuff from this
   book. Like imersing yourself with things you study about and making sure
   you keep recalling/using them often. You'll be a better learner after

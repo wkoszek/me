@@ -1,7 +1,7 @@
 ---
 title:	"How to Be Rich"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   This was a really, really great book from one of the America's best
   entrepreneurs of that time and the founder of the "Getty's Museum".
   Enjoyed every single minute of it.

@@ -1,7 +1,7 @@
 ---
 title:	"The Billionaire and the Mechanic"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   I really liked this gem. The title reflects it all.
 address: "Menlo Park, CA"
 tags:

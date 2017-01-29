@@ -1,7 +1,7 @@
 ---
 title:	"The 7 habits of highly effective people"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Apparently this a standard item in the Bay Area big corporation'
   book-shelf. Some people told me it was handed to them as a standard
   reading at the new hire training. Are we doomed enough to need books that
