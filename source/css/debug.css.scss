@@ -24,6 +24,10 @@ body {
 	border-top: solid 3px $link-color;
 	padding-top: 1%;
 }
+body, article {
+	color: #333;
+}
+
 
 ** {
 	border: dotted 1px gray;
