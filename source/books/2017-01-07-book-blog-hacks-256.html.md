@@ -1,7 +1,7 @@
 ---
 title:  "256 blog hacks"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   My first gig as a full-book book reviewer. You can learn what my opinion
   on Yegor's book is.
 address: "Menlo Park, CA"

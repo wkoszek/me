@@ -1,7 +1,7 @@
 ---
 title:  "Ogilvy on Advertising"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Book by the master. I learned about Ogilvy from YouTube; by complete
   accident. Immediately after I order this book. Read what I learned.
 address: "Menlo Park, CA"

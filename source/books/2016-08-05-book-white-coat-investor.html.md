@@ -1,7 +1,7 @@
 ---
 title:  "White Coat Investor"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Originally targeted towards medical profession, this book seemed
   interested, so I ordered an audiobook. Did I regret? You can read the
   review to find out.

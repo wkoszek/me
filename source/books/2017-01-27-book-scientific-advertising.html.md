@@ -1,7 +1,7 @@
 ---
 title:  "Scientific Advertising"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   A lot of people from the marketing/advertising community recommend this
   book, so I read it to figure out if I can apply some lessons to promote my
   software.

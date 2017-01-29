@@ -1,7 +1,7 @@
 ---
 title:  "King of Madison Avenue"
 author: "Wojciech Adam Koszek"
-abstract: >
+description: >
   Executive of one of the biggest advertising agencies telling the story of
   one of the most important figures of modern advertising in the XX century.
 address: "Menlo Park, CA"
