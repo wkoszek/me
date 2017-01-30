@@ -61,6 +61,12 @@ It has a support for modern stuff too: S3, HDFS and HTTP:
 
 ![MuCommander screenshot 2](/img/2017-01-18-the-best-osx-file-manager/mucommander_functions_75p.jpg "MuCommander 2")
 
+If you're a normal user and you only care about files, it won't be fun for
+you, but nerds should try "HTTP". You can type a website address there and
+muCommander will fetch and analyze the site and show its resources as files.
+So if there's a reference to `style.css` it'll show it to you and you can
+copy the file to the local filesystem. It's pretty cool.
+
 You should start playing with it and I think you'll like it.
 
 [This is a great thread]: http://apple.stackexchange.com/questions/10097/what-orthodox-file-manager-for-os-x-could-i-use
