@@ -9,7 +9,7 @@ address: "Menlo Park, CA"
 tags:
 - "software engineering"
 published: true
-image: 
+image: /img/2017-01-28-why-you-should-start-programming-on-unix/unix_75p.jpg
 ads:
 -
 spellcheck-allow:
@@ -73,3 +73,5 @@ programming. There's just too much stuff for you to filter through, in my
 opinion.
 
 Let me know how it goes.
+
+![unix](/img/2017-01-28-why-you-should-start-programming-on-unix/unix_75p.jpg "unix")
