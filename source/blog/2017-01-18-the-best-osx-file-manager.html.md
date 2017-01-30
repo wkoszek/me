@@ -9,7 +9,7 @@ address: "Menlo Park, CA"
 tags:
 - "tools"
 published: true
-image: 
+image: /img/2017-01-18-the-best-osx-file-manager/mucommander_75p.jpg
 ads:
 -
 spellcheck-allow:
