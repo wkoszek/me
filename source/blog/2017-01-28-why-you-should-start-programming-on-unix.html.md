@@ -9,7 +9,7 @@ address: "Menlo Park, CA"
 tags:
 - "software engineering"
 published: true
-image: /img/2017-01-28-why-you-should-start-programming-on-unix/unix_75p.jpg
+image: http://www.koszek.com/img/2017-01-28-why-you-should-start-programming-on-unix/unix_75p.jpg
 ads:
 -
 spellcheck-allow:

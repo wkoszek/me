@@ -7,7 +7,7 @@ address: "Menlo Park, CA"
 tags:
 - "software engineer"
 published: true
-image: /img/2017-01-17-reading-for-software-engineers/8muutamcwu4-jez-timms_10p.jpg
+image: http://www.koszek.com/img/2017-01-17-reading-for-software-engineers/8muutamcwu4-jez-timms_10p.jpg
 ads:
 -
 spellcheck-allow:
