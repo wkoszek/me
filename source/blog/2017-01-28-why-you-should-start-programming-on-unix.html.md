@@ -59,7 +59,7 @@ can write it from memory, most of the time. It is maybe 200 functions,
 which if you read something like UNIX deamon source code, you can pretty
 much understand.
 
-To compare this: iOS API has 80 *framework*. And framework is basically API
+To compare this: iOS API has 80 *frameworks*. And framework is basically API
 subset, sometimes very complex. Of course not all apps use every framework,
 but even using 5 of them means a lot of reading.
 
