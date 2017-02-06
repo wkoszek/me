@@ -1,5 +1,5 @@
 ---
-title: "Single Command Principle--being productive in a command line"
+title: "Single Command Principle, and how to follow it"
 author: "Wojciech Adam Koszek"
 description: >
   In this article I discuss the background behind how I work with the
@@ -14,6 +14,17 @@ ads:
 -
 spellcheck-allow:
 ---
+
+In ["Don't document. Automate"][] I talked about the importance of automating
+steps for your workflow. Boring process should be automated as early as
+possible,
+
+I think I don't need to make you realize that 5
+minutes wasted every day for 
+People value things easy to use.
+By default everybody's 
+
+["Don't document. Automate"]: asd
 
 I work with command line tools a lot.
 If you write and deploy modern software for the cloud, you're probably the
