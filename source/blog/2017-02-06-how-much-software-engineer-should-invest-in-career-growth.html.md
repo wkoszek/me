@@ -160,8 +160,7 @@ equipment (I've purchased a camera to make videos for [my
 YouTube channel](http://www.youtube.com/user/wkoszek)) and you'll
 need to start planning your expenses like a company would.
 Be frugal, but don't underspend.
-
-I would be interested in hearing how you spend on your career growth.
+**I would be interested in hearing how you spend on your career growth.**
 
 [Code School]: https://www.codeschool.com
 [Coursera]: https://www.coursera.org
@@ -177,10 +176,3 @@ I would be interested in hearing how you spend on your career growth.
 [research and development]: https://en.wikipedia.org/wiki/Research_and_development
 [Affinity Photo]: https://affinity.serif.com/en-us/photo/
 [Sketch]: https://www.sketchapp.com
-
-**Mailing list.** Every 30 days I send a digest of articles I wrote in
-this particular month. Subscribe:
-<form>
-<input value="your e-mail" type="">
-<input type="submit">
-</form>
