@@ -155,6 +155,11 @@ font-family: $font-group;
 border: solid 1px orange;
 }
 
+td,th {
+padding-left: 2%;
+padding-right: 2%;
+}
+
 p {
 margin-top: 5%;
 }
