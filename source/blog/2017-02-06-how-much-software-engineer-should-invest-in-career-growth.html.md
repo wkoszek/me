@@ -77,7 +77,7 @@ You must start thinking with the same pattern if you want to be successful.
 Because you get what you pay for.
 Great free resources for software engineers do exist.
 I talked about how you can [learn from giants][] for example.
-There is [Coursera][] and [edX][]), but some topics aren't covered there.
+There is [Coursera][] and [edX][], but some topics aren't covered there.
 And I haven't met a person who finished the whole Coursera class.
 I think it's because it's free content.
 Dropping out doesn't cost anything.
