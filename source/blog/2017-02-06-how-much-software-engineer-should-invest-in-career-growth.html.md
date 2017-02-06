@@ -147,7 +147,7 @@ So while I did watch [Stanford 193P class][] and delivered
 [Design+Code][] and [Fundamentals of Design][] from [Code School][].
 With a bit of experience you'll know what is worth buying.
 
-# Summary
+# Balance sheet
 
 Whatever I showed you here works for me.
 $280/month is pretty easy to reach if you include software.
