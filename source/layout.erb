@@ -56,7 +56,8 @@
     </head>
     <body>
     <div class="container">
-        <div class="row"><!-- Header -->
+
+        <div class="row noprint"><!-- Header -->
             <div class="col-md-3 logo">
                 <a href="/">Wojciech Adam Koszek</a>
             </div>
@@ -68,10 +69,10 @@
                 <input type="text" class="st-default-search-input">
             </div>
         </div>
-        <div class="row"><!-- Header -->
+        <div class="row noprint"><!-- Header -->
             <hr/>
         </div>
-        <div class="row hidden-md hidden-lg links"><!-- Mobile menu, 1st row -->
+        <div class="row hidden-md hidden-lg links noprint"><!-- Mobile menu, 1st row -->
             <div class="col-xs-4">
                 <br>
                 <a class="in" href="/">Blog</a>
@@ -85,7 +86,7 @@
                 <!-- empty -->
             </div>
         </div>
-        <div class="row hidden-md hidden-lg links"><!-- Mobile menu, 2nd row -->
+        <div class="row hidden-md hidden-lg links noprint"><!-- Mobile menu, 2nd row -->
             <div class="col-xs-4">
                 <br>
                 <a class="in" href="/papers/">Papers</a>
@@ -99,7 +100,7 @@
                 <a class="hidden-lg hidden-md" href="#notes">Notes</a>
             </div>
         </div>
-        <div class="row hidden-md hidden-lg links text-center"><!-- Search -->
+        <div class="row hidden-md hidden-lg links text-center noprint"><!-- Search -->
             <br>
             <input type="text" class="st-default-search-input">
         </div>
@@ -114,15 +115,17 @@
                 <% if current_page.data.tags != nil %>
                     <article>
                         <h1 class="title"><%= current_page.title %></h1>
-                        <i>by <%= current_page.data.author %>, </i>
-                        <i><%= current_page.date.strftime('%b %e, %Y') %>,</i>
+                        <i>by <%= current_page.data.author %></i>
+                        &nbsp;&nbsp;&sdot;&nbsp;&nbsp;
+                        <i><%= current_page.date.strftime('%b %e, %Y') %></i>
+                        &nbsp;&nbsp;&sdot;&nbsp;&nbsp;
                         <i><%= current_page.data.address %></i>
                         <br/>
                         <br/>
                         <b><%= current_page.data.description %></b>
-                        <hr/>
+                        <hr class="noprint"/>
                         <%= partial "_share" %>
-                        <hr/>
+                        <hr class="noprint"/>
                         <%= yield %>
                     </article>
     
@@ -136,7 +139,7 @@
                         <% end %>
                     <% end %>
     
-                    <div class="row">
+                    <div class="row noprint">
                         <br>
                         <div class="col-md-6 text-left">
                             <% unless prev_page %>
@@ -157,38 +160,38 @@
                             <% end %>
                         </div>
                     </div>
-                    <p>
+
+                    <span class="noprint">
                         <hr>
                         <h3>Subscribe for updates</h3>
                         <p>
                             <%= partial "mailchimp" %>
                         </p>
-    
+
                         <hr>
                         <b>Liked it? Share it!</b>
                         <%= partial "_share" %>
-    
 			<!--
                         <hr>
                         <h3>You may also like:</h3>
                         <ul>
                         </ul>
 			-->
-    
+
                         <hr>
                         <%= partial "_article_footer" %>
                         <%= partial "_disqus" %>
                     </p>
-    
+
                 <% else %>
                     <%= yield %>
                 <% end %>
             </div>
-    
+
             <div class="col-md-1">
-    	</div>
-    
-            <div class="col-md-3 rightpanel">
+            </div>
+
+            <div class="col-md-3 rightpanel noprint">
                 <% if current_page.data.ads != nil %>
                     <% current_page.data.ads.each do |ad| %>
     		  <% if ad then %>
@@ -222,7 +225,7 @@
             </div>
         </div><!-- content -->
 
-        <div class="row">
+        <div class="row noprint">
             <div class="col-md-12 footer">
                 <i>&copy; 2015 Wojciech Adam Koszek (<a href="http://www.twitter.com/wkoszek/">@wkoszek</a>)</i>
                 <br>
