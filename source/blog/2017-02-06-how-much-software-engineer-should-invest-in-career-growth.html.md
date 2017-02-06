@@ -72,25 +72,6 @@ Your R&D is learning, your books, magazines, software you've purchased and
 your side projects, 
 You must start thinking with the same pattern if you want to be successful.
 
-## Why
-
-Because you get what you pay for.
-Great free resources for software engineers do exist.
-I talked about how you can [learn from giants][] for example.
-There is [Coursera][] and [edX][], but some topics aren't covered there.
-And I haven't met a person who finished the whole Coursera class.
-I think it's because it's free content.
-Dropping out doesn't cost anything.
-It's less rare for people to drop the paid university class.
-I'm highly confident you'll be more focused and more motivated if
-you treat yourself with a high quality content, either in form of
-books, video training or audiobooks.
-Money spent is a great motivator, believe me.
-So while I did watch [Stanford 193P class][] and delivered
-[most of the assignments][], for study of iOS design I purchased
-[Design+Code][] and [Fundamentals of Design][] from [Code School][].
-With a bit of experience you'll know what is worth buying.
-
 ## "So how much?"
 
 I looked at the [R&D expenditures][] of big companies. For simplicity I put
@@ -147,7 +128,40 @@ will be much bigger: you'll go to school, attend a bootcamp or ask someone
 to mentor you.  If you are somehow experienced already, in my opinion a
 range 5%--15% on your own development is fine. 
 
-How much have you spent recently on your development?
+## Why
+
+Because you get what you pay for.
+Great free resources for software engineers do exist.
+I talked about how you can [learn from giants][] for example.
+There is [Coursera][] and [edX][], but some topics aren't covered there.
+And I haven't met a person who finished the whole Coursera class.
+I think it's because it's free content.
+Dropping out doesn't cost anything.
+It's less rare for people to drop the paid university class.
+I'm highly confident you'll be more focused and more motivated if
+you treat yourself with a high quality content, either in form of
+books, video training or audiobooks.
+Money spent is a great motivator, believe me.
+So while I did watch [Stanford 193P class][] and delivered
+[most of the assignments][], for study of iOS design I purchased
+[Design+Code][] and [Fundamentals of Design][] from [Code School][].
+With a bit of experience you'll know what is worth buying.
+
+# Summary
+
+Whatever I showed you here works for me.
+$280/month is pretty easy to reach if you include software.
+Last year I purchased [Affinity Photo][] and [Sketch][]
+which help me with publishing on this website and with UI prototyping.
+As software engineer you will also need services, such us a backup storage
+and several VMs running in the cloud.
+Count the value of my phone, computer and
+equipment (I've purchased a camera to make videos for [my
+YouTube channel](http://www.youtube.com/user/wkoszek)) and you'll
+need to start planning your expenses like a company would.
+Be frugal, but don't underspend.
+
+I would be interested in hearing how you spend on your career growth.
 
 [Code School]: https://www.codeschool.com
 [Coursera]: https://www.coursera.org
@@ -161,6 +175,8 @@ How much have you spent recently on your development?
 [learn from giants]: http://www.koszek.com/blog/2015/11/16/computer-history-from-giants-themselves/
 [most of the assignments]: https://github.com/wkoszek/cs193p
 [research and development]: https://en.wikipedia.org/wiki/Research_and_development
+[Affinity Photo]: https://affinity.serif.com/en-us/photo/
+[Sketch]: https://www.sketchapp.com
 
 **Mailing list.** Every 30 days I send a digest of articles I wrote in
 this particular month. Subscribe:
