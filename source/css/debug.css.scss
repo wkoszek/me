@@ -163,3 +163,12 @@ padding-right: 2%;
 p {
 margin-top: 5%;
 }
+
+// http://stackoverflow.com/questions/355313/how-do-i-hide-an-element-when-printing-a-web-page
+@media print
+{
+	.noprint, .noprint *
+	{
+		display: none !important;
+	}
+}
