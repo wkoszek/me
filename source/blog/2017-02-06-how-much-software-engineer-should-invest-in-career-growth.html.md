@@ -24,7 +24,7 @@ yourself as a single-person company. Why? It's not because I want you to go
 and become a freelancer and be on your own, but becuase it's easier to
 understand how to make decent financial decisions that way.  Let's talk
 about this.  For the purposes of our discussion let's assume that if your
-name is David Roberts, the name of name your company is "David Roberts LLC".
+name is David Roberts, the name of your company is "David Roberts LLC".
 Write it down, if it helps you: "David Roberts, CEO of David Roberts LLC".
 You're in a company mindset now. We can understand what it really means now.
 
@@ -58,7 +58,7 @@ you didn't fortfeit it") and you'll automatically get less next time.
 
 ## Where money goes
 
-Some departments require fixed amount of cash. Your kitchen stays the same.
+Some departments require fixed amount of cash. Your kitchen money stay the same.
 Cost of your entertainment and vacation stay at the similar level too, and
 are required to keep you healthy. One thing to know is that these
 departments don't bring much levarage, as it's unlikely you'll get ahead of
@@ -69,7 +69,7 @@ ahead are: product, sales and [research and development][].
 To move ahead and grow, the company needs constant flow of new developments.
 New inventions. This is what R&D is doing.
 Your R&D is learning, your books, magazines, software you've purchased and
-your side projects, 
+your side projects.
 You must start thinking with the same pattern if you want to be successful.
 
 ## "So how much?"
@@ -99,7 +99,7 @@ companies spend more.
 
 There's an interesting corellation here, because old and well established
 companies earn more and spend more, a pattern which you're likely going to
-see in your career too. So even through Volkswagen spends only 5.2% (as
+see in your career too. So even though Volkswagen spends only 5.2% (as
 compared to Intel's 20.1%) they top the list of R&D spenders ($13.5B vs
 $10.6B). As you become more senior, your salary will likely grow to the
 point where you will be able to have a significant R&D budget. So what's the
