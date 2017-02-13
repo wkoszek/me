@@ -10,6 +10,7 @@ tags:
 - "productivity"
 - "software engineering"
 auth:	Wojciech Koszek
+image: http://www.koszek.com/img/2017-02-13-learn-programming-self-study-guide/4sqbziu_imq-joseph-yates_10p.jpg
 ads:
 - 
 ---
