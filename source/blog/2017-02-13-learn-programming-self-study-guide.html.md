@@ -224,3 +224,8 @@ and get criticized.
 That's all. It's read, write, repeat loop from now on. If you've tried this
 self-study approach, I'd like to hear from you and learn what the result
 was.
+
+**You may also like:**
+["How much engineer should invest in career growth"](http://www.koszek.com/blog/2017/02/06/how-much-software-engineer-should-invest-in-career-growth/),
+["Reading 101 for software engineer"](http://www.koszek.com/blog/2017/01/17/reading-for-software-engineers/),
+["Why you should start programming on UNIX"](http://www.koszek.com/blog/2017/01/28/why-you-should-start-programming-on-unix/).
