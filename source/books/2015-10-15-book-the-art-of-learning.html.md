@@ -2,10 +2,8 @@
 title:  "The Art of Learning"
 author: "Wojciech Adam Koszek"
 description: >
-  After 1 year of listening to it I still remember good stuff from this
-  book. Like imersing yourself with things you study about and making sure
-  you keep recalling/using them often. You'll be a better learner after
-  reading this book for sure.
+  Great reference for study nerds and people interested in effective study
+  methodologies.
 address: "Menlo Park, CA"
 tags:
 - books
@@ -16,4 +14,11 @@ ads:
 spellcheck-allow:
 - 
 ---
+
+It's at least two years now that I've listened to it, but I I still remember
+good stuff from this book. Like imersing yourself with things you study
+about and making sure you keep recalling/using them often. You'll be a
+better learner after reading this book for sure. This comes from a person
+who mastered more than one field and carefully gathered notes on what it
+meant and how he did it.
 
