@@ -15,6 +15,23 @@ ads:
 spellcheck-allow:
 ---
 
+Just give me the darn command to run.
+I don't want your documentation or explanations.
+I don't want your manual pages.
+Just let me run the damn thing.
+Yes, it's very insecure, but I can open it in Vim, look through it and if
+it looks reasonable, I'll just execute it.
+I will go, retype or repaste the damn command, and guess what?
+With all the exploits that hide and are there to jump on me.
+Repaste.
+And afterwards I'll just hit ENTER.
+Just like that.
+Little, silly, careless ENTER.
+Click.
+ENTER pressed.
+Pum.
+No way back.
+
 In ["Don't document. Automate"][] I talked about the importance of automating
 steps for your workflow. Boring process should be automated as early as
 possible,
