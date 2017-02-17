@@ -2,9 +2,10 @@
 title: "Single Command Principle, and how to follow it"
 author: "Wojciech Adam Koszek"
 description: >
-  In this article I discuss the background behind how I work with the
-  command line interfaces for complex systems tasks. Hints I show can speed
-  up your daily tasks in the command line.
+  Make functional and reliable software with usable interface, and you have
+  a high chance of gaining fast user adoption. Let's talk how to do it,
+  targetting a specialized field of batch processing: command line execution
+  and automation scripts.
 address: "Menlo Park, CA"
 tags:
 - "devops"
