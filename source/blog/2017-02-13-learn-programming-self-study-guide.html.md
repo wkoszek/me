@@ -192,7 +192,7 @@ will familiarize you with handling mistakes as well, since you'll make
 typos and be faced with finding and fixing them. It's fine - it's also a big part
 of the learning process.
 
-# Cristalizing
+# Crystalizing
 
 At this point I think you see the pattern. All these things are here to
 stimulate your brain to recall what learn. So invent your own exercises: if
