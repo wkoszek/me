@@ -18,12 +18,32 @@ tags:
 
 I was born in 1987 in Czestochowa, Poland.
 I graduated in 2011 with MSc in Computer Science and Engineering degree from
-Czestochowa University of Technology.
-My experience I gained from work at Czestochowa Metropolitan Area Network
-(CzestMAN) and internships (Poznan Supercomputer and Networking Center),
-Center for Computation & Technology (LA, USA), Ericsson and HIIT (Helsinki,
-Finland) and Xilinx (San Jose, CA).
+[Czestochowa University of Technology](http://www.pcz.pl/en/).
 
-Since 2011 I live and work in Bay Area, CA.
+My first experience I got from using
+[FreeBSD](http://www.freebsd.org) and installing it wherver I could.
+I had eleven customers, run several local area networks with shared Internet,
+and administered [my highschool](http://www.norwid.net) FreeBSD server.
+
+This resulted in many bug fixes and submissions to the FreeBSD repository.
+I became a FreeBSD developer around 2006, where I was active for several
+years, working on kernel/userspace bug fixes.
+
+During my studies I worked part-time at
+[Czestochowa Metropolitan Area Network (CzestMAN)](http://k2.pcz.czest.pl),
+and took many internships in
+[Poznan Supercomputer and Networking Center](http://www.man.poznan.pl/online/en/),
+[Center for Computation & Technology, Louisiana](https://www.cct.lsu.edu),
+[Ericsson Nomadic Lab](https://www.ericsson.com/fi),
+and [HIIT](https://www.hiit.fi) (Helsinki, Finland) and
+[Xilinx](http://www.xilinx.com) (San Jose, CA).
+
+Xilinx re-hired me full-time in 2011. I worked on an operating system for
+randomized stress testing of ARM and ARM64 CPUs, and later, on Single-Event
+Upset characterization. Since then I've moved up in the software ladder and worked at
+[Twin&nbsp;Prime](http://www.twinprime.com) where we've built a technology for
+mobile Internet acceleration.
+
+I live and work in Bay Area, CA.
 
 <span hidden id="active_page_name">about</span>
