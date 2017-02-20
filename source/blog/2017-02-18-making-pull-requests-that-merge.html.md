@@ -28,6 +28,13 @@ judgement of a software architect.
 To bring your code into the project upstream, there are two angles
 you'll be evaluated from: technical and social.
 
+![alt_text_1](/img/2017-02-18-making-pull-requests-that-merge/stephen-crowley-110321_15p.jpg "Image_text_1")
+<br>
+<small><small><small>
+*(Photo by [https://unsplash.com/@crowleystephen](Stephen Crowley) via [https://www.unsplash.com](Unsplash))*
+</small></small></small>
+
+
 Social angle isn't very complex, as we're talking
 about communicating clearly with the project leaders, and explaining why you
 want to make a code change. Sometimes it's clear and obvious, for example, when
@@ -64,9 +71,9 @@ I must handle code change requests promptly. For the Open Source software I
 can say that if the contributor took the effort to make a pull request, it's
 possible that the code change is fine. Maybe one percent of people do it.
 
-*Note we can possibly talk about some bias here.  I'd love to see someone
-make an experiment, and remove contributors names whatsoever. You'd receive
-a request for code review, but without know who it is.*
+> Note we can possibly talk about some bias here.  I'd love to see someone
+> make an experiment, and remove contributors names whatsoever. You'd receive
+> a request for code review, but without know who it is.
 
 ## Why keeping small size is important?
 
@@ -89,6 +96,12 @@ inconsistency makes the software hard to maintain, and the software
 maintainance is the most expensive, as it lasts the longest. Do not make the
 maintenance hard, ever, and the authors will appreciate you.
 
+![alt_text_1](/img/2017-02-18-making-pull-requests-that-merge/markus-spiske-109588_10p.jpg "Image_text_1")
+<br>
+<small><small><small>
+*(Photo by [https://unsplash.com/@markusspiske](Markus Spiske) via [https://www.unsplash.com](Unsplash))*
+</small></small></small>
+
 If you bring many lines with mismatched style, this would make project worse
 as a result, and I can't bring your change it. Style to some extent can be
 verified automatically, with an external tool, like `indent` for ANSI C, of
@@ -105,7 +118,8 @@ Previous conditions I have explained in detail, but they may
 translate to first ten seconds of work required. The next ninenty
 nine percent will involve thinking through the your code.
 Easy changes will take a minute or less: one or two `if` conditions added.
-This is the type of change I'd receive for some of my hobby pet projects
+This is the type of change I'd receive for some of
+[my hobby pet projects](http://github.com/wkoszek)
 available over GitHub.
 Complex changes can take me hours to analyze.
 
@@ -117,7 +131,9 @@ results. First I'll check whether the change does what you say.
 I will try to match the intention of your code (the social part) to the code
 (technical part).
 
-Well-managed projects will use continuous integration for testing,
+Well-managed projects will use
+[continuous integration](https://en.wikipedia.org/wiki/Continuous_integration)
+for testing,
 so this stage will be automatic. If automatic tests don't pass, I don't look at your change.
 You must ensure that everything passes (so called: "build is green") to get
 attention.
@@ -137,6 +153,21 @@ indication of functionality I use, but when I don't know how to invoke it.
 Always remember that for one writer there are one hundreds readers of code,
 and they will thank you for providing them hints of the functionality. Do
 it, and once again -- chances of "Merge" button being pressed grow rapidly.
+
+## Summary
+
+Comments included here will make you a better expert. I believe that
+by following these suggestions, your pull requests will be merged faster,
+and you'll progress faster in your career too. **Let me know how it goes and
+whether you think anything is missing from this list**
+
+**You may also like**
+
+* "[How best companies do continuous integration](http://www.koszek.com/blog/2015/06/29/how-best-companies-do-continuous-integration)"
+* "[Optimize for developer's, not machine's time](http://www.koszek.com/blog/2015/07/28/optimize-for-developers-time)"
+* "[Don't document. Automate!](http://www.koszek.com/blog/2016/04/11/dont-document-automate)"
+* "[How much software engineer should invest in career growth](http://www.koszek.com/blog/2017/02/06/how-much-software-engineer-should-invest-in-career-growth)"
+
 
 [Code Complete]: http://amzn.to/2kzYGqO
 [Clean Code]: http://amzn.to/2lVSSbe
