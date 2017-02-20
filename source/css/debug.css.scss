@@ -137,14 +137,29 @@ ol, ul {
 font-size: 16px;
 }
 
+p {
+padding-top: 5%;
+}
+
 blockquote {
 font-size: 100%;
 font-family: $font-body;
-font-weight: bold;
-padding-left: $blockquote-shift;
-margin-left: -$blockquote-shift;
-border-left: solid 3px $blockquote-border-color;
+font-weight: italic;
+font-style: italic;
+
+border-top: solid 1px #FFF0F0;
+border-bottom: solid 1px #FFF0F0;
+background-color: #f0f0e0;
+margin: 0 0 0 0;
+padding: 10px 10px 10px 10px;
+border-left: solid 3px white;
 }
+blockquote p {
+padding-top: 2%;
+padding-bottom: 2%;
+}
+
+
 code {
 font-size: 80%;
 }
@@ -158,10 +173,6 @@ border: solid 1px orange;
 td,th {
 padding-left: 2%;
 padding-right: 2%;
-}
-
-p {
-margin-top: 5%;
 }
 
 // http://stackoverflow.com/questions/355313/how-do-i-hide-an-element-when-printing-a-web-page
