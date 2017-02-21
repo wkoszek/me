@@ -234,7 +234,8 @@
         </div>
     </div><!--container-->
     <script type="text/javascript">
-        var active_page_name = document.getElementById('active_page_name').textContent;
+        var active_page_elem = document.getElementById('active_page_name')
+        var active_page_name = (active_page_elem != null ? active_page_elem.textContent : "blog");
         var active_page_link = document.getElementById(active_page_name);
         active_page_link.className = "ac";
     </script>
