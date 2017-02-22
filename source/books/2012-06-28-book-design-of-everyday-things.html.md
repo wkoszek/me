@@ -12,10 +12,10 @@ tags:
 auth:	Donald A. Norman
 read:	2012-06-28
 ads:
-- <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=073571102X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-- <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1449379702" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-- <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0125184069" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-- <iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0321767535" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+- <iframe src="https://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=073571102X" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+- <iframe src="https://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=1449379702" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+- <iframe src="https://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0125184069" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+- <iframe src="https://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0321767535" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 spellcheck-allow:
 - "ooohhh"
 - "Hm"
@@ -42,7 +42,7 @@ which I personally always wanted to read. Norman provides an insight on
 human behavior and the relation between how human beings work and how
 things surrounding us are designed.
 
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0465067107" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="https://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0465067107" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 Not being alone with frustration with usability of daily stuff feels better.
 So let me try to criticize some more.
@@ -102,7 +102,7 @@ attention on reading referrals. If I had read Amazon comments, I could have
 save some $$$ (since I acquire used book, $$$ fortunately is in the range of
 $0.99 -- $5).
 
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0465067107" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="https://rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&npa=1&bg1=FFFFFF&fc1=000000&lc1=FF0000&t=wkoszek08-20&o=1&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=0465067107" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 As I was writing this post, my company got some new babies: Sharp MFP
 printers.  It was pretty interesting experience, so I wrote a separate post
