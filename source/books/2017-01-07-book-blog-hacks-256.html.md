@@ -44,13 +44,13 @@ deal: you make notes which you’d make anyway, but you are heard by an
 author, who may care more than when the book is finished and in print. And
 you get a free book of $40 value. 
 
-**General opinion** If you buy this book for $40,
+**General opinion.** If you buy this book for $40,
 you'll be among 1% of experts who care about the quality of the
 content which they produce. People like that like to bounce ideas from
 each other, and read books, articles, magazines and then share this
 knowledge. Read the book, and share the knowledge with me and others.
 
-**Longer take on a book** You'll learn about modern realities of technical
+**Longer take on a book.** You'll learn about modern realities of technical
 blogging from Yegor. He is successful with blogging, getting around
 2000 visitors a day. I think it's a good number to strive for. It would be
 cool to get some screenshots of his audience and the cross-section about who
@@ -63,7 +63,7 @@ multiple times.  It's because often authors like to "bump up" their profile
 in front of each other, and while I don't know if this touches Yegor too, I
 do believe the book would benefit from more factual proofs and information
 deep-down into the details of how it actually looks like from the author's
-side. *I'm waiting for this in the next edition of the book*
+side. *I'm waiting for this in the next edition of the book.*
 
 Yegor explains some of his tricks: paid Twitter Ads to get users to subscribe
 to his mailing list, and no success with Facebook Ads. 
@@ -110,5 +110,5 @@ Another really great take on writing you can find in Stephen King's [On
 writing](https://www.koszek.com/books/2015/10/21/book-on-writing/).
 I haven't read any of King's books, but like the guy during interviews on YouTube.
 
-**Summary** You won't regret buying "256 blog hacks" and I feel like it'll
+**Summary.** You won't regret buying "256 blog hacks" and I feel like it'll
 supercharge your blogging. Let me know how it goes.
