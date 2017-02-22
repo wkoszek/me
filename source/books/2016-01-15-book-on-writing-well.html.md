@@ -17,3 +17,21 @@ spellcheck-allow:
 - 
 ---
 
+This book is similar in nature to other guides, but it's fairly packed.
+It's a very useful little title that I picked up, since as a non-native
+speaker, you naturally "miss" things other people may find obvious.
+
+This is one of the top bestsellers on books about writing.
+
+Zinsser went though the written English language in points and he explained
+how to remove clutter, simplify your English and bump up your writing. It's
+the first book where I understood that the passive voice weakens your
+expression.
+
+I'm still trying to wrap my head around how to apply it, since there are so
+many suggestions and rules. What I believe I'd need during my second reading
+is a checklist of some sort.
+
+The book is easier to digest than [The Elements of
+Style](http://amzn.to/2lmcnbq), but not as popular, judging by the Amazon
+ratings. Up to you then which one you pick.

@@ -12,7 +12,7 @@ read:	2017-01-07
 ads:
 - <a href="https://www.amazon.com/256-Bloghacks-Yegor-Bugayenko/dp/1537688669/ref=as_li_ss_il?s=books&ie=UTF8&qid=1485649130&sr=1-1-fkmr1&keywords=blog+hacks+256&linkCode=li2&tag=wkoszek08-20&linkId=2d749042a11788d750b6b8152ccb67df" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1537688669&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&l=li2&o=1&a=1537688669" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 spellcheck-allow:
-- 
+- <a href="https://www.amazon.com/Technical-Blogging-Expertise-Remarkable-Presence/dp/1934356883/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=wkoszek08-20&linkId=3443667f5dc66cf352c9f3319e490345" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1934356883&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&l=li2&o=1&a=1934356883" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ---
 
 
@@ -22,72 +22,93 @@ nobody but you is accessing your blog?
 
 Exactly.
 
-I made my blog in 2012, but didn't really think about it much. I restarted
-the efforts in 2015 and 2016, but had moderate success (hundreds visitors
-"spiking" when I published something, and then traffic dying out after 2
-days)
+I made [this blog](https://www.koszek.com) in 2012, but didn't really think
+about it much. I restarted the efforts in 2015 and 2016, but had moderate
+success (hundreds visitors "spiking" when I published something, and then
+traffic dying out after 2 days).
+That's the moment in publishing online where you think: "Really,
+that's all I get by publishing stuff to millions of people?"
 
-So that was my motivation.
+That was my motivation. To learn more.
+I knew my blog isn't yet very well targeted already, and even though I know
+authors like 
+[Dan Luu](https://danluu.com)
+who report
+[very good results](https://danluu.com/blog-ads/)
+with general "blog about software" scheme, I feel like I'd gain more from
+targeting e.g.: authors interested in building cloud services in Go.
 
-When I learned Yegor is writing a book on blogging, I decided to sign up as
-a reviewer. Being reviewer is a very good deal: you make notes which you’d
-make anyway, but you are heard by an author, who may care more than when the
-book is finished and in print. And you get a free book of $40 value. 
+When I saw [Yegor](https://www.yegor256.com) writing a book on
+blogging, I decided to sign up as a reviewer. Being reviewer is a very good
+deal: you make notes which you’d make anyway, but you are heard by an
+author, who may care more than when the book is finished and in print. And
+you get a free book of $40 value. 
 
-General opinion
+**General opinion** If you buy this book for $40,
+you'll be among 1% of experts who care about the quality of the
+content which they produce. People like that like to bounce ideas from
+each other, and read books, articles, magazines and then share this
+knowledge. Read the book, and share the knowledge with me and others.
 
-Book is definitely worth reading. If you buy it for $40, you'll be among 1%
-of people who actually care about the quality of the content which they
-produce, since people like that like to bounce ideas from each other, and
-read books, articles, magazines. If you want to join group of such people,
-go and and get this book on Amazon. I doubt you'll regret it.
+**Longer take on a book** You'll learn about modern realities of technical
+blogging from Yegor. He is successful with blogging, getting around
+2000 visitors a day. I think it's a good number to strive for. It would be
+cool to get some screenshots of his audience and the cross-section about who
+they are. That would complete the value of the book. Even without more
+information on statistics, the book is a good resource.
 
-Longer summary
+My experience tells me to be distant to  information which I can't
+cross-check.  I'm like an untrustful fox, which was caught in a trap
+multiple times.  It's because often authors like to "bump up" their profile
+in front of each other, and while I don't know if this touches Yegor too, I
+do believe the book would benefit from more factual proofs and information
+deep-down into the details of how it actually looks like from the author's
+side. *I'm waiting for this in the next edition of the book*
 
-You'll learn about modern realities of technical blogging from him.  Yegor
-has some success with blogging, getting around 2000 visitors a month. I
-think it's a good number to strive for. It would be cool to get some
-screenshots of his audience and the cross-section about who they are. That
-would be interesting. It's not in a book though. But that's fine.
-
-He used some tricks: tried to use paid Twitter Ads to get users to subscribe
-to his mailing list, and the rest of users he gathered organically. I think
-it's fair, if it really works, i.e.: if these "subscribers" and visitors
-aren't bots and they're real people, then that's fine.
-
-The experience taught me to not rely on information without cross-checking
-and assuming that whatever someone tells you it's 50% true. Think of me as
-an untrustful fox which got caught in a trap multiple times. It's because
-people like to "bump up" their profile in front of each other, and while I
-don't know if this touches Yegor too, I do believe the book would benefit
-from more factual proofs and information deep-down into the details of how
-it actually looks like from the author's side.
+Yegor explains some of his tricks: paid Twitter Ads to get users to subscribe
+to his mailing list, and no success with Facebook Ads. 
+I think it's fair to use these techniques, if it really works, i.e.: 
+if these "subscribers" and visitors
+aren't bots and they're real people, then that's fine. Bots are to the
+engagement metrics what dead code is to software. It's be good to
+understand how much such numbers are skewed.
 
 There are some contradictory pieces in the book, and also a lot of it are
 opinions. Since I've been interested in the topic of growing your audience
-recently, I've researched some other resources on blogging ("Technical
-blogging" for example, and "Simple Programmer" training) before reading
-"Blog hacks 256". Whichever expert you talk to, they all have slightly
+recently, I've researched some other resources on blogging ([Technical
+blogging](http://amzn.to/2lKlRhV) for example, and
+[Softskills](http://amzn.to/2lEvM83) before reading
+"256 blog hacks". Whichever expert you talk to, they all have slightly
 different opinion. Let me skip these differences. The common theme for
-success is: niche Regularity High-quality content Mailing list "Digest" sent
-out every week/2 weeks/month summarizing what you've done
+success is: niche, regularity, high-quality content, mailing list "digest" sent
+out weekly or monthly.
 
 I disagree with Yegor that blogging about software engineering must be done
 "technically", with static generator, debugging of HTML and CSS etc. I don't
 think people care. The best blogs which I benefited from in my career looked
-terrible, in fact. Example: old (pre-2017) version of JoelOnSoftware.com You
-don't have to introduce Joel to anyone in the software community. He wrote
-his blog with a terribly old software he could no longer built on modern
-*Windows*, so he used a VM to access it. It was a technical ghetto, had tons
+terrible, in fact. Example: old (pre-2017) version of
+[Joel on Software](http://www.JoelOnSoftware.com).
+You can read how [Joel struggled](https://www.joelonsoftware.com/2016/12/09/rip-citydesk/)
+with his original platform.
+It was a technical ghetto, had tons
 of ads on the right side of the blog. But I grew up on Internet: my mind has
 an ad blocker built-in, and Joel's content was great. I kept reading post
 after post. I really didn't care whether it's WordPress or Jekyll.
+I couldn't care less about his publishing pain and look: content was
+outstanding.
 
 Funny is that his experience with proofreaders was exactly the same as mine.
-Worked with 2 good people and both of them disappeared pretty much in the
-same time. The difference I'm doing is that I'm trying to get $5/500 words
-deals, paying $10-$15/post for English correction. 
+I've worked with two good people and both of them disappeared pretty much in the
+same time. The difference I'm doing is that I'm trying to get $5 for 500 words
+deals, paying from $10 to $15 per post for English correction. Recently I've
+stopped doing this.
 
-Some of the stuff Yegor mentions about writing is actually from "On Writing
-Well". Another really cool book is "On writing" by Stephen King. I haven't
-read any of his books, but like the guy during interviews on YouTube.
+Some of the stuff Yegor mentions about writing is actually from
+[On Writing Well](https://www.koszek.com/books/2016/01/15/book-on-writing-well/)
+so if you want to boost your writing, maybe pick up this book.
+Another really great take on writing you can find in Stephen King's [On
+writing](https://www.koszek.com/books/2015/10/21/book-on-writing/).
+I haven't read any of King's books, but like the guy during interviews on YouTube.
+
+**Summary** You won't regret buying "256 blog hacks" and I feel like it'll
+supercharge your blogging. Let me know how it goes.

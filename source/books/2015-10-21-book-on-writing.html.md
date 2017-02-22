@@ -2,9 +2,9 @@
 title:  "On Writing"
 author: "Wojciech Adam Koszek"
 description: >
-  Man. This is really damn good book on writing by the master. If you're
-  into blog writing or writing of any kind, buy it. You won't regret. I kept
-  listening to it and greatly enjoyed it.
+  Man. This is really damn good book on writing by the master. 
+  If you need to understand how real professional writer works, this is the
+  book.
 address: "Menlo Park, CA"
 tags:
 - books
@@ -16,3 +16,20 @@ spellcheck-allow:
 - 
 ---
 
+King did us a big favor and published his non-fiction piece. To me it's a
+great book.  Not only this, in the audiobook form, he reads the book.  This
+is what I like about audiobook: they make the form be rich and more colorful
+by adding this another dimension.
+
+There's a great part about writing as compared to telepathy. This was my
+favorite moment in a book. Another one was King's commentary on his own
+accident.
+
+I'm not a big horror or fiction person. In fact, I find these books hard to
+swallow, as I'm more non-fiction hungry reader, but I really enjoyed it.
+
+If you're into blog writing or writing of any kind, buy it. You won't
+regret; it will help and inspire your.
+
+**NOTE** I rarely re-listen to stuff on Audible, but I did this for King's
+book.
