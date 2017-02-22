@@ -3,10 +3,8 @@ title:	"The Goal"
 author: "Wojciech Adam Koszek"
 description: >
   This is a very unique book, since the author did a great job at making
-  education fun. He grabbed the Agile practices and wrapped them in a
-  fictional storyline in a way that made it actually a very interesting
-  fiction book. Go and get it if you're interested in agile practices (by
-  the way - if you're not, something isn't right).
+  education fun. If you want to learn about agile by just reading a story,
+  this is the book for you.
 address: "East Palo Alto, CA"
 tags:
 - books
@@ -18,9 +16,12 @@ ads:
 
 Amazing take on a lean approach of business management. I didn't believe
 it'll be a valuable book, but boy.. was I wrong!
-
 Excellent position. Similar to Toyota concepts, but with so much better
 storyline.
+
+Author grabbed the agile practices and wrapped them in a
+fictional storyline in a way that made it actually a very interesting
+fiction book. 
 
 Reads like a novel, and touches some social aspects of the management.
 
@@ -29,7 +30,8 @@ bottlenecks, definition of success in business. Calculations of efficiency
 and business. Meaning of automation (robots on production line). Continuous
 improvement.
 
-If you've read "The Toyota Way" recently you may not learn lots of new
+If you've read [The Toyota Way](https://www.koszek.com/books/2012/04/04/book-the-toyota-way/)
+recently you may not learn lots of new
 things, however this book is really worth reading because of the ease of
 transferring knowledge. Compared to "The Toyota Way", this books reads
 really lightly.
