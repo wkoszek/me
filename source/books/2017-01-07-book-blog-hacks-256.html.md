@@ -1,5 +1,5 @@
 ---
-title:  "256 blog hacks"
+title:  "256 bloghacks"
 author: "Wojciech Adam Koszek"
 description: >
   My first gig as a full-book book reviewer. You can learn what my opinion
@@ -78,7 +78,7 @@ opinions. Since I've been interested in the topic of growing your audience
 recently, I've researched some other resources on blogging ([Technical
 blogging](http://amzn.to/2lKlRhV) for example, and
 [Softskills](http://amzn.to/2lEvM83) before reading
-"256 blog hacks". Whichever expert you talk to, they all have slightly
+["256 bloghacks"](http://amzn.to/2lBL1N4). Whichever expert you talk to, they all have slightly
 different opinion. Let me skip these differences. The common theme for
 success is: niche, regularity, high-quality content, mailing list "digest" sent
 out weekly or monthly.
@@ -110,5 +110,6 @@ Another really great take on writing you can find in Stephen King's [On
 writing](https://www.koszek.com/books/2015/10/21/book-on-writing/).
 I haven't read any of King's books, but like the guy during interviews on YouTube.
 
-**Summary.** You won't regret buying "256 blog hacks" and I feel like it'll
+**Summary.** You won't regret buying ["256
+bloghacks"](http://amzn.to/2lBL1N4) and I feel like it'll
 supercharge your blogging. Let me know how it goes.
