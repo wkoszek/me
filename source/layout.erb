@@ -120,13 +120,16 @@
                         <i><%= current_page.date.strftime('%b %e, %Y') %></i>
                         &nbsp;&nbsp;&sdot;&nbsp;&nbsp;
                         <i><%= current_page.data.address %></i>
-                        <br/>
-                        <br/>
+                        <br />
+                        <br />
                         <b><%= current_page.data.description %></b>
+                        <br />
                         <hr class="noprint"/>
                         <%= partial "_share" %>
                         <hr class="noprint"/>
-                        <%= yield %>
+                        <div class="article_body">
+                            <%= yield %>
+                        </div>
                     </article>
     
                     <% pages = sitemap.resources.find_all{|p| p.source_file.match(/.*book.*\.md$/)} %>
