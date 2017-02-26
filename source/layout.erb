@@ -105,10 +105,8 @@
         </div>
 
         <div class="row"><!-- center -->
-        	<!--
-                <div class="col-md-1 leftpanel hidden-xs hidden-sm">
+                <div class="col-md-2 leftpanel hidden-xs hidden-sm">
                 </div>
-        	-->
     
             <div class="col-md-7 content">
                 <% if current_page.data.tags != nil %>
@@ -165,8 +163,11 @@
 
                     <span class="noprint">
                         <hr>
-                        <h3>Subscribe for updates</h3>
+                        <h3 id="mailing-list">My mailing list</h3>
                         <p>
+			    Once a month I send updates on the
+			    new content and hints for software
+			    engineers.
                             <%= partial "mailchimp" %>
                         </p>
 
@@ -193,7 +194,7 @@
             <div class="col-md-1">
             </div>
 
-            <div class="col-md-3 rightpanel noprint">
+            <div class="col-md-2 rightpanel noprint">
                 <% if current_page.data.ads != nil %>
                     <% current_page.data.ads.each do |ad| %>
     		  <% if ad then %>
@@ -205,7 +206,9 @@
                 <% end %>
                 <!-- <div class="ads"> </div> -->
     
-                <br><h4>Subscribe for updates</h4><p><%= partial "mailchimp" %></p>
+                <br><h4>Mailing list</h4>
+                <a href="#mailing-list">Subscribe</a>
+
                 <br><h4>RSS feed</h4>
                 <a href="http://www.koszek.com/feed.xml">RSS</a>
 
@@ -215,7 +218,7 @@
                 <a href="https://www.linkedin.com/in/wkoszek/">LinkedIn</a><br>
                 <a href="https://github.com/wkoszek/">Github</a><br>
 
-                <br><h4>Tags</h4>
+                <h4>Tags</h4>
                 <span class="tag">
 		  <a href="/blog/tags/software-engineering">software engineering</a>
 		</span>
@@ -241,7 +244,7 @@
 
         <div class="row noprint">
             <div class="col-md-12 footer">
-                <i>&copy;2012&emdash;2017 Wojciech Adam Koszek (<a href="https://www.twitter.com/wkoszek/">@wkoszek</a>)</i>
+                <i>&copy;&nbsp;2012&dash;2017 Wojciech Adam Koszek (<a href="https://www.twitter.com/wkoszek/">@wkoszek</a>)</i>
                 <br>
                 Visits so far: <%= partial "stats" %>
             </div>
