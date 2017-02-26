@@ -9,6 +9,15 @@ tags:
 
 # Reading
 
+**I like to read**. Below you have books which I've read or listened. I don't
+write a review and notes immediately. Typically
+after the lecture, I take two or three week break. Then I jot down my
+notes. Because of this approach, you can see which books are really valuable, and
+which were a wrong time investment, since they will have scarce or no notes
+whatsoever. Nothing stuck in my mind after reading whose.
+
+<hr />
+
 <% blog("wkoszek_books").articles.each do |article| %>
 <% if article.tags.include?("books") %>
 <%= link_to article.title, article %><br>

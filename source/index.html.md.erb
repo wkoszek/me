@@ -7,8 +7,6 @@ priority: 1.0
 tags:
 ---
 
-# Blog
-
 <% blog("wkoszek").articles.each do |article| %>
 <% next if article.tags.include?("books") %>
 <%= link_to article.data.title, article, :class => 'abig' %><br>
