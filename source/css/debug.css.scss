@@ -29,9 +29,8 @@ body, article {
 }
 
 
-** {
-	border: dotted 1px gray;
-}
+
+
 
 .content a { font-weight: bold; }
 a.abig { font-family: $font-group; font-size: 150%;}
@@ -185,4 +184,12 @@ padding-right: 2%;
 	{
 		display: none !important;
 	}
+}
+.social {
+font-size: 80%;
+font-family: "concourse-t3";
+border-top: solid 1px lightgray;
+border-bottom: solid 1px lightgray;
+margin: 10px 0px 30px 0px;
+padding: 10px 0px 10px 0px;
 }
