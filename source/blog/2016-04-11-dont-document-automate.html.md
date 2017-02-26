@@ -19,15 +19,16 @@ spellcheck-allow:
 
 When I go to an article or a GitHub page it sometimes amazes me how good
 stuff people produce. I'm building an sensor platform recently, and a lot of
-problems I solve by using software other people wrote and made it free. This
+problems I solve by using software others wrote and made it free. This
 is great. But there's one pattern which I need to criticize: people write
 way to much.
 
 What do I mean by that?
 
 The normal flow of getting software to work is typing a series of steps. For
-example it may require typing 10 commands in the shell. And these command
-for 90% of people will likely be the same. For the rest 10% they'll be
+example it may require typing 10 commands in the command line. And these
+commands for ninety five percent of people will likely be the same.
+For the rest 10% they'll be
 slightly customized, but not much. Nothing that couldn't be achieved with
 10-line shell script consuming 1-2 parameters.
 
@@ -53,7 +54,7 @@ more and automate. Here is a little set of rules I made for myself:
 - if it's Windows, write `.bat` script.
 - if there's a chance script must be run remotely, wrap it in Ansible.
 
-I try to follow those for all [of my projects][2]. To give you some
+I try to follow these for all [of my projects][2]. To give you some
 examples, in the last several months I've automated most of my complex
 flows. Some of them:
 
