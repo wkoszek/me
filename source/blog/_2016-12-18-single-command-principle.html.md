@@ -1,11 +1,10 @@
 ---
-title: "Single Command Principle, and how to follow it"
+title: "How to make your software better with Single Command Principle"
 author: "Wojciech Adam Koszek"
 description: >
-  Make functional and reliable software with usable interface, and you have
+  Make functional and reliable scripts with usable interface, and you have
   a high chance of gaining fast user adoption. Let's talk how to do it,
-  targetting a specialized field of batch processing: command line execution
-  and automation scripts.
+  targetting a command line scripts.
 address: "Menlo Park, CA"
 tags:
 - "devops"
@@ -16,14 +15,20 @@ ads:
 spellcheck-allow:
 ---
 
-Want it or not, a large portion of the professional software developer flow
-happens in the command line.
+I want to coin an idea here. I called it a "Single Command Principle", the
+idea that would let a new user execute your software with a single command.
+Assume you make "./run.sh" command which would do all the magic.
+This command would take care of your 
 
-  Your software and automation scripts must be easy to use
-  to be really successful. We discuss how to make 
-  I discuss the background behind how I work with the
-  command line interfaces for complex systems tasks. Hints I show can speed
-  up your daily tasks in the command line.
+In ["Don't document. Automate"][] I talked about the importance of automating
+steps for your workflow.
+Here I want to push it further: make the most
+common flow be available with a single command.
+
+When we build software, we see all the problems and parameters. Sometimes 
+Boring process should be automated as early as possible.
+
+How do I know?
 
 Just give me the darn command to run.
 I don't want your documentation or explanations.
@@ -41,16 +46,3 @@ Click.
 ENTER pressed.
 Pum.
 No way back.
-
-In ["Don't document. Automate"][] I talked about the importance of automating
-steps for your workflow. Boring process should be automated as early as
-possible,
-
-Heck, even Microsoft adopted all possible commmand-line interfaces.
-Why? Well, it's a known truth that automating GUI is hard. If one window pops
-up in the center, then we send 1 and press Enter, and then another window
-shows up, we press X+CTRL and send ENTER. The problem comes up when your
-system upgrade popup dialog shows up, the mouse pointer and keyboard cursor
-get focuces on the new window, and your automation starts sending stuff to a
-unknown application.
-
