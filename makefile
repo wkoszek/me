@@ -30,7 +30,7 @@ max:
 bootstrap:
 	gem install json -v '1.8.3'
 	bundle install
-	cd data/ && rm -rf aspell-dict && ln -s aspell6* aspell-dict
+	#cd data/ && rm -rf aspell-dict && ln -s aspell6* aspell-dict
 install_dict:
 	./scripts/aspell_setup.sh
 spellfix:
