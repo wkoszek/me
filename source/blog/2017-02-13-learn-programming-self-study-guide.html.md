@@ -43,7 +43,7 @@ programming language X? Why do you want to learn at all?
 ![alt_text_0](/img/2017-02-13-learn-programming-self-study-guide/4sqbziu_imq-joseph-yates_10p.jpg "Image_text_0")
 <br>
 <small><small><small>
-*(Photo by [Joseph Yates](https://unsplash.com/@josephyates\_) via [Unsplash](https://www.unsplash.com]))*
+*(Photo by [Joseph Yates](https://unsplash.com/@josephyates\_) via [Unsplash](https://www.unsplash.com))*
 </small></small></small>
 
 
