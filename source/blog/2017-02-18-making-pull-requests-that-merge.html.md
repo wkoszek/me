@@ -31,7 +31,7 @@ you'll be evaluated from: technical and social.
 ![alt_text_1](/img/2017-02-18-making-pull-requests-that-merge/stephen-crowley-110321_15p.jpg "Image_text_1")
 <br>
 <small><small><small>
-*(Photo by [https://unsplash.com/@crowleystephen](Stephen Crowley) via [https://www.unsplash.com](Unsplash))*
+*(Photo by [Stephen Crowley](https://unsplash.com/@crowleystephen) via [Unsplash](https://www.unsplash.com))*
 </small></small></small>
 
 
@@ -99,7 +99,7 @@ maintenance hard, ever, and the authors will appreciate you.
 ![alt_text_1](/img/2017-02-18-making-pull-requests-that-merge/markus-spiske-109588_10p.jpg "Image_text_1")
 <br>
 <small><small><small>
-*(Photo by [https://unsplash.com/@markusspiske](Markus Spiske) via [https://www.unsplash.com](Unsplash))*
+*(Photo by [Markus Spiske](https://unsplash.com/@markusspiske) via [Unsplash](https://www.unsplash.com))*
 </small></small></small>
 
 If you bring many lines with mismatched style, this would make project worse

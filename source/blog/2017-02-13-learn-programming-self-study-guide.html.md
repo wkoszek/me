@@ -43,7 +43,7 @@ programming language X? Why do you want to learn at all?
 ![alt_text_0](/img/2017-02-13-learn-programming-self-study-guide/4sqbziu_imq-joseph-yates_10p.jpg "Image_text_0")
 <br>
 <small><small><small>
-*(Photo by [https://unsplash.com/@josephyates\_](Joseph Yates) via [https://www.unsplash.com](Unsplash))*
+*(Photo by [Joseph Yates](https://unsplash.com/@josephyates\_) via [Unsplash](https://www.unsplash.com]))*
 </small></small></small>
 
 
@@ -82,7 +82,7 @@ new pieces on your table.
 ![alt_text_6](/img/2017-02-13-learn-programming-self-study-guide/uuw4psob388-david-siglin_10p.jpg "Image_text_6")
 <br>
 <small><small><small>
-*(Photo by [https://unsplash.com/@dsiglin](David Siglin) via [https://www.unsplash.com](Unsplash))*
+*(Photo by [David Siglin](https://unsplash.com/@dsiglin) via [Unsplash](https://www.unsplash.com))*
 </small></small></small>
 
 Also set your expectation low for results you'll get in the first several
@@ -174,7 +174,7 @@ expected results. That's where you should sit in front of the computer.
 ![alt_text_1](/img/2017-02-13-learn-programming-self-study-guide/fgvxxvxmti8-andrew-neel_10p.jpg "Image_text_1")
 <br>
 <small><small><small>
-*(Photo by [https://unsplash.com/@andrewtneel](Andrew Neel) via [https://www.unsplash.com](Unsplash))*
+*(Photo by [Andrew Neel](https://unsplash.com/@andrewtneel) via [Unsplash](https://www.unsplash.com))*
 </small></small></small>
 
 Fire up the editor, your programming environment and in the book go back all
