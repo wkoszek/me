@@ -41,10 +41,14 @@
 		<meta property="og:image" content="<%= current_page.data.image %>" />
 	<% end %>
 
-
-        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="@<%= data.site.twitter %>" />
         <meta name="twitter:creator" content="@<%= data.site.twitter %>" />
+        <meta name="twitter:title" content="<%= current_page.data.title %>" />
+        <meta name="twitter:description" content="<%= current_page.data.description %>" />
+        <% if current_page.data.image %>
+            <meta name="twitter:image" content="<%= current_page.data.image %>" />
+        <% end %>
 
         <meta property="og:type" content="article" />
         <meta property="article:author" content="https://www.koszek.com/about" />
