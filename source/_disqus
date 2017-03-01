@@ -4,8 +4,8 @@
 <script>
 
 var disqus_config = function () {
-this.page.url = "https://www.koszek.com/";  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = "koszek"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.url = document.location.href.split('?')[0].split('#')[0];
+this.page.identifier = this.page.url;
 };
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
