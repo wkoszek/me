@@ -26,34 +26,7 @@ It will run in production, and serve a large amount of live customer
 traffic.
 Its lifespan may look like this:
 
-|--------------------------------
-| Month&nbsp;&nbsp;&nbsp; | Stage | Cost
-|:---|:---------|:------
-| Jan, '17| Idea | 1
-| Feb, '17| Design | 1
-| Mar, '17| Planning | 1
-| Apr, '17| Development | 2
-| May, '17| Development | 2
-| Jun, '17| Deployment | 2
-| Jul, '17| Maintenance | 1
-| Aug, '17| Maintenance | 1
-| Sep, '17| Maintenance | 1
-| Oct, '17| Maintenance | 1
-| Nov, '17| Maintenance | 1
-| Dec, '17| Maintenance | 1
-| Jan, '18| Development | 2
-| Feb, '18| Maintenance | 1
-| Mar, '18| Maintenance | 1
-| Apr, '18| Maintenance | 1
-| May, '18| Maintenance | 1
-| Jun, '18| Maintenance | 1
-| Jul, '18| Development | 2
-| Aug, '18| Maintenance | 1
-| Sep, '18| Maintenance | 1
-| Oct, '18| Maintenance | 1
-| Nov, '18| Maintenance | 1
-| Dec, '18| Maintenance | 1
-|===================================
+![alt_text_3](/img/2017-02-28-whats-the-most-expensive-stage-of-software-engineering/sw_graph_50p.jpg "Image_text_3")
 
 If this cycle of maintenance is long enough, it can overweight the cost of
 all previous stages. I [do have projects](https://travis-ci.org/wkoszek/)
@@ -63,7 +36,7 @@ But for the most part, the software story is a little different: it'll
 always be a recipe, but the kitchen, ingredients, pans or people will change over
 time. These adjustments cost money.
 
-My guess is that with the majority of production software, the table from above is true.
+My guess is that with the majority of production software, the graph from above is true.
 We put a lot of effort upfront and make something that works well. And then we
 keep running it, patching bugs, enhancing it, patching bugs in these
 enhancements, and so on. We do it forever. Or at least, for a very long time.
