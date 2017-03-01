@@ -1,5 +1,5 @@
 ---
-title: "What's the most expensive in software?"
+title: "What's the most expensive stage of software engineering?"
 author: "Wojciech Adam Koszek"
 description: >
   In this article I explain where the real cost of software
@@ -22,7 +22,9 @@ spellcheck-allow:
 </small></small></small>
 
 Imagine we're starting a software project together this year.
-Its lifespan will probably look like this:
+It will run in production, and serve a large amount of live customer
+traffic.
+Its lifespan may look like this:
 
 |--------------------------------
 | Month&nbsp;&nbsp;&nbsp; | Stage | Cost
@@ -54,18 +56,28 @@ Its lifespan will probably look like this:
 |===================================
 
 If this cycle of maintenance is long enough, it can overweight the cost of
-all previous stages. My guess is that with most of the software, this is the
-case. We put a lot of effort upfront, make something that works, and then we
+all previous stages. I [do have projects](https://travis-ci.org/wkoszek/)
+which are considered "finished": all the features are there, and as much as
+you can't make a hammer any better, neither can I any of these projects.
+But for the most part, the software story is a little different: it'll
+always be a recipe, but the kitchen, ingredients, pans or people will change over
+time. These adjustments cost money.
+
+My guess is that with the majority of production software, the table from above is true.
+We put a lot of effort upfront and make something that works well. And then we
 keep running it, patching bugs, enhancing it, patching bugs in these
 enhancements, and so on. We do it forever. Or at least, for a very long time.
+People who wrote the code may not be around anymore, so you need to train
+new people. [Not only NASA](http://www.popularmechanics.com/space/a17991/voyager-1-voyager-2-retiring-engineer/)
+has this problem.
+
 The [NetBSD](http://www.netbsd.org) and [FreeBSD](http://www.freebsd.org)
 repositories you can see that people patch bugs which are fifteen year old.
-
-
+How much money do you think it'd take to add a new feature in PostgresSQL?
 
 In that sense software is a complete opposite to computer hardware. 
 A supercomputer [can cost $100M](http://techland.time.com/2012/06/19/what-exactly-is-a-supercomputer/),
-but energy to keep it alive is $10M/yr. You only run it for maybe three years, it becomes too slow and you
+but energy to keep it alive is $10M a year. You only run it for maybe three years, it becomes too slow and you
 decommission it. Supercomputer lifespan ruled by the aging of the silicon is
 the same as your smartphone. Two years and we get bored.
 
