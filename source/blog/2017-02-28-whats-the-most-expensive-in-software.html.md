@@ -15,7 +15,11 @@ spellcheck-allow:
 -
 ---
 
-![alt_text_0](/img/2017-02-28-whats-the-most-expensive-in-software/pandu-agus-wismoyo-196366_10p.jpg "Image_text_0")
+![alt_text_0](/img/2017-02-28-whats-the-most-expensive-in-software/pandu-agus-wismoyo-196366_10p.jpg "worker")
+<br>
+<small><small><small>
+*(Photo by [Yatesndu Agus Wismoyo](https://unsplash.com/@kangterbang) via [Unsplash](https://www.unsplash.com))*
+</small></small></small>
 
 Imagine we're starting a software project together this year.
 Its lifespan will probably look like this:
