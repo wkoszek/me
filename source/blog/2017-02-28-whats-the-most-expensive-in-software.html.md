@@ -8,7 +8,7 @@ address: "Menlo Park, CA"
 tags:
 - "software engineering"
 published: true
-image: http://www.koszek.com/img/2017-02-28-whats-the-most-expensive-in-software/pandu-agus-wismoyo-196366_10p.jpg
+image: https://www.koszek.com/img/2017-02-28-whats-the-most-expensive-in-software/pandu-agus-wismoyo-196366_10p.jpg
 ads:
 -
 spellcheck-allow:
