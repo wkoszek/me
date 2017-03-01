@@ -83,3 +83,9 @@ Life expectancy: till 2070.
 Next time you stick five incoherent lines into your code with hopes that "we
 will fix it later", imagine how "later" will feel like for someone who will
 look at your code. Fifteen years from now. Or fifty.
+
+### You may also like
+
+* [Pull requests that merge](https://www.koszek.com/blog/2017/02/18/making-pull-requests-that-merge/)
+* [Reading 101 for software engineers](https://www.koszek.com/blog/2017/01/17/reading-for-software-engineers/)
+* [Use as few tools as possible](https://www.koszek.com/blog/2016/05/16/use-as-few-tools-as-possible/)
