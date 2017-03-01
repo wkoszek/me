@@ -67,8 +67,6 @@ the same as your smartphone. Two years and we get bored.
 
 > You should focus on optimizing maintenance
 
-<br>
-
 [Joint Stike Fighter](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II)
 is close to what software maintenance is about.
 The cost estimate for the JSF program is $1.508T dollars, where $379B is development. The
@@ -80,4 +78,4 @@ Life expectancy: till 2070.
 
 Next time you stick five incoherent lines into your code with hopes that "we
 will fix it later", imagine how "later" will feel like for someone who will
-look at your code. Fifteen years from now.
+look at your code. Fifteen years from now. Or fifty.
