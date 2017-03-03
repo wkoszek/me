@@ -16,18 +16,46 @@ spellcheck-allow:
 - 
 ---
 
-King did us a big favor and published his non-fiction piece. To me it's a
-great book.  Not only this, in the audiobook form, he reads the book.  This
-is what I like about audiobook: they make the form be rich and more colorful
+Audiobook format of "On writing" was excellent.
+King read it himself.
+This is what I like about audiobook: they make the form be rich and more colorful
 by adding this another dimension.
+This might be one of the few positions where I can *recommend* the audiobook
+over a paper book.
+
+First of all books are great.
+I believe you'll have the same while reading or listening to King.
 
 There's a great part about writing as compared to telepathy. This was my
 favorite moment in a book. Another one was King's commentary on his own
 accident.
 
-I'm not a big horror or fiction person. In fact, I find these books hard to
-swallow, as I'm more non-fiction hungry reader, but I really enjoyed it.
+King did us a big favor and published his non-fiction piece.
+He explained all the inner-workings of the professional, world-class
+writer.
+One could compare it to Donald Knuth's books, where he explains how he
+thinks about the problem.
 
+
+I'm not a big horror or fiction person. In fact, I find these books hard to
+swallow.
+You can appreciate the storytelling and all the made up 
+as I'm more non-fiction hungry reader, but I really enjoyed it.
+My confession: I haven't read any of King's books.
+
+It's partially a autobiography, and partially the suggestion guide. But not
+same style as [The Elements of Style](http://amzn.to/2lkwaK4), which I found
+valuable, but dry and boring. Listening to "On writing" was a pure pleasure,
+since it's entertaining and interesting, and the storyline interleaves the
+suggestions and advises.
+
+Second part of the book is mostly a guide for writers. Phrased King's way,
+they are more memorable than "20 steps to better writing" or lists like
+that.
+
+I wish someone did similar book for non-fiction.
+But even for my purposes (technical writing, essays on software) this book
+will be very usable.
 If you're into blog writing or writing of any kind, buy it. You won't
 regret; it will help and inspire your.
 
