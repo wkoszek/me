@@ -16,7 +16,9 @@ spellcheck-allow:
 - 
 ---
 
-Audiobook format of "On writing" was excellent.
+Audiobook format of
+["On writing"](http://amzn.to/2mMaaEW)
+was excellent.
 King read it himself.
 This is what I like about audiobook: they make the form be rich and more colorful
 by adding this another dimension.
