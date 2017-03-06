@@ -9,7 +9,7 @@ tags:
 - "software engineering"
 - "security"
 published: true
-image: /img/2017-03-05-how-to-use-ansible-vault-with-lastpass/james-sutton-187816_10p.jpg
+image: https://www.koszek.com/img/2017-03-05-how-to-use-ansible-vault-with-lastpass/james-sutton-187816_10p.jpg
 ads:
 -
 spellcheck-allow:
