@@ -109,6 +109,7 @@ most convenient.
 
 ## Summary
 
+**Shoot me an email if this flow worked for you**.
 I used a shell-based equivalent of this flow for some time and it worked all
 right.  The `lastpass-ansible` is my attempt to bring it to more people to
 help with productivity. My hope is to improve this method by
