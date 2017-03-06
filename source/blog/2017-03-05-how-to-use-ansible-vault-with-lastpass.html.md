@@ -45,6 +45,10 @@ This is a sister-tool to [lastpass-ssh][] which does the same thing for SSH
 key passphrases.
 
 ![alt_text_0](/img/2017-03-05-how-to-use-ansible-vault-with-lastpass/james-sutton-187816_10p.jpg "Image_text_0")
+<br>
+<small><small><small>
+*(Photo by [James Sutton](https://unsplash.com/@jamessutton_photography) via [Unsplash](https://www.unsplash.com))*
+</small></small></small>
 
 ## Quick description of lastpass-ansible?
 
