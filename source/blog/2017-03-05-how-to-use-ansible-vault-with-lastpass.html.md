@@ -50,65 +50,62 @@ key passphrases.
 *(Photo by [James Sutton](https://unsplash.com/@jamessutton_photography) via [Unsplash](https://www.unsplash.com))*
 </small></small></small>
 
-## Quick description of lastpass-ansible?
+## How to install
 
-It's maintained in this GitHub repository:
+You install the tool in the terminal:
 
-[https://github.com/wkoszek/lastpass-ansible](https://github.com/wkoszek/lastpass-ansible)
+	gem install lastpass-ansible
 
-Script `lastpass-ansible` in this project will let you unlock [Ansible
-Vault][] with the password stored in [LastPass][]. This means you'll be able
-to run `ansible-playbook` and `ansible-vault` commands without being
-prompted for the password: it'll be taken from LastPass automatically.
+## How to use
 
-## How to use?
+You must point Ansible to use `lastpass-ansible`:
 
-Install the tool in the terminal:
+	export ANSIBLE_VAULT_PASSWORD_FILE=`command -v lastpass-ansible`
 
-~~~shell
-gem install lastpass-ansible
-~~~
+Now assume you're in your web application directory:
 
-To use it:
+	cd ~/Projects/my_web_app
 
-1. Generate a password in Ansible by adding a new site or secure note
-2. Give it a name and save it.
-3. Put the name of this site in `.lastpass-ansible.conf`
+To initialize everything, do:
 
-## Example
+	lastpass-ansible --init
 
-Let's create a "site" with a separate password:
+This will create a new 30-character long password and put it in
+`Ansible_Vault/my_web_app` LastPass hierarchy. If you want to "transfer" your vault
+file `secrets.yml` to `lastpass-ansible`, copy the new password to clipboard:
 
-![screenshot](/img/2017-03-05-how-to-use-ansible-vault-with-lastpass/lastpass_ansible.png)
+	lpass show -c -p Ansible_Vault/my_web_app
 
-In the top directory of your project:
+And just re-key (change password) for your existing vault:
 
-~~~shell
-$ pwd
-/Users/wk/r/lnkr_xyz
-~~~
+	ansible-vault rekey secrets.yml
 
-You'd do:
+Type your old password, and paste your new password.
 
-~~~shell
-echo ansible_vault_lnkr_xyz > .lastpass-ansible.conf
-git add .lastpass-ansible.conf
-git commit -m "Add lastpass-ansible config to the project" .lastpass-ansible.conf
-~~~
+File `.lastpass-ansible.conf` has been created along with the password. You
+can remove this file if the hierarchy `Ansible_Vault/....` is fine with you.
 
-The `lastpass-ansible` will take this name, and use `lpass` (the
-LastPass [command line client][] utility) and lookup its database of password, then
-pass it to Vault and unlock it.
+## More details and custom settings
 
-If you don't want to use a file-based approach for some reason, you can pass
-the name of the LastPass entry in the `LASTPASS_ANSIBLE_NAME` environment
-variable. So for the example above you'd need to do:
+If you're a picky person and you don't like `Ansible_Vault` OR you want to
+point `lastpass-ansible` to an existing hierarchy of your passwords, just stick it
+to `.lastpass-ansible.conf`.  It's format is very easy:
 
-~~~shell
-export LASTPASS_ANSIBLE_NAME=ansible_vault_lnkr_xyz
-~~~
+	# lastpass-ansible configuration file. For more details read:
+	# https://github.com/wkoszek/lastpass-ansible
+	MyWebSites/my_web_app
 
-somewhere in your flow. Let me know if it worked for you.
+The order of lookup for this LastPass site name is:
+
+1. `.lastpass-ansible.conf` file
+2. `LASTPASS_ANSIBLE_NAME` environment variable
+3. Name guessed based on a directory: "Ansible_Vault" + name
+
+It should be safe to commit `.lastpass-ansible.conf` to your repository.
+If you're paranoid, just use `LASTPASS_ANSIBLE_NAME` environment variable
+for passing this name. Otherwise just use the guessed name. I think it's the
+most convenient.
+
 
 ## Summary
 
@@ -117,6 +114,14 @@ right.  The `lastpass-ansible` is my attempt to bring it to more people to
 help with productivity. My hope is to improve this method by
 exposing it to people and getting some criticism. Let me know if you find
 bugs or issues here.
+
+## GitHub
+
+It's maintained in this GitHub repository:
+
+[https://github.com/wkoszek/lastpass-ansible](https://github.com/wkoszek/lastpass-ansible)
+
+[![Build Status](https://travis-ci.org/wkoszek/lastpass-ansible.svg?branch=master)](https://travis-ci.org/wkoszek/lastpass-ansible)
 
 [Ansible Vault]: http://docs.ansible.com/ansible/playbooks_vault.html
 [Ansible]: https://www.ansible.com
