@@ -15,9 +15,13 @@ ads:
 spellcheck-allow:
 ---
 
-You should follow the "Single Command Principle" rule in your software. Your
-customer takes your software from the repository, looks at directory listing and
+A customer takes your software from the repository, looks at directory listing and
 runs one command. 
+It bootstraps whatever is necessary on the client's computer and your
+software runs.
+This is the experience you should strive for.
+
+I call it a follow the "Single Command Principle" rule in your software. 
 Command so descriptive you can't miss it. Make it
 "runit.sh" or whatever else you want. If it's there, I'll likely notice it
 and maybe it'll all just work.
