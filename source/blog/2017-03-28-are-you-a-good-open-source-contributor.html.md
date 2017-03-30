@@ -28,48 +28,50 @@ community of Open Source is structured. Where do you fall in it?
 
 By community you can understand several things, but to simplify things:
 think of [GitHub](https://www.github.com).
-Don't worry too much GitHub is actually a company.
+Don't worry too much GitHub is an actual company.
 In your head [Git](https://git-scm.com) and GitHub are synonyms of the Open Source already,
 because they have
 the biggest number of software repositories, the biggest number of users, and
 they provide everything that a modern software project needs.
+Their community is the most vibrant, and they host the most important OSS projects.
 
-So here let's split your advancement in the Open Source to levels.
+Let's refer to your advancement in the Open Source as levels.
 Let's discuss good and bad sides of each level,
-and let's talk about steps which will lead you from one level to another.
+and let's talk about steps which will lead you from one to another.
 
-## You are unaware user of Open Source (level 0)
+## You are an unaware user of Open Source (level 0)
 
 You don't know you're using Open
 Source. You start Open Source programs like
 [Firefox](https://www.mozilla.org/en-US/firefox),
 and often go to
-Wikipedia, but have no slightest idea what that is, how and who makes it.
+[Wikipedia](https://www.wikipedia.org),
+but have not a slightest idea what that is, how and who makes it.
 
 Is it terrible?
 
 People can't ask you for help.
 You aren't bothered.
 Good thing, right?
-Not really -- developers can't really make your own tool better.
+Not really -- developers can't make your own tool better.
 It's like sabotaging your own house you'll live in for twenty years.
 
-If someone asks you for money, you can go away: brand loyalty is low for unaware
-users, in my opinion. 
-We are all greedy, so you and I like free stuff. We don't come up with random thoughts
-about things like that, and then go to donate. We need to be **forced** to
+If someone asks you for money to support their project, you can go away; user loyalty is low for unaware users. 
+We are all greedy, so you and I like free stuff.
+We don't just throw money out for donations
+We need to be **forced** to
 donate. You and I sometimes forget that running an Open Source project may
 incur fees. Hosting, domains, bandwidth, CPU cycles all cost money. We're
-just blind. We don't want to see it.
+just blind. We don't want to see that cost.
 
 If you're reading this post and you're at 0th level, you've just earned
 yourself a pass to level 1. You may read Wikipedia pages about Open Source,
 [FreeBSD](https://www.freebsd.org), [GNU](https://www.gnu.org) and
 [Linux](https://www.kernel.org) and get to know them more.
 
-## You become aware user (level 1)
+## You become an aware user (level 1)
 
-You've reached a status of a silent Open Source user. Congratulations!
+You've reached a status of an aware user of Open Source Software. Congratulations!
 Think of it as picking the right pill when you're being offered one by a guy
 in dark glasses.
 
@@ -81,7 +83,7 @@ submitted a bug report, never participated in a discussion, never argued,
 and never had to convince anybody about anything when it comes to software.
 That's fine on this stage.
 
-Perhaps you know how to program, but you've never starred a GitHub project,
+Perhaps you know how to program, but you've never "starred" a GitHub project,
 never **liked** any users/developers, never followed or thanked them?
 
 No e-mail with "thanks" has been sent from your account. At least none that
@@ -89,7 +91,7 @@ you know of.
 
 This is a good start for planting in your head that Open Source is made by
 humans for humans, and that at some people want to get compensated.
-Somehow. Compensation isn't about money. I know very small number of people
+Somehow. Compensation isn't only about money. I know very small number of people
 who started doing Open Source for money. Consulting or just working
 full-time job are far better ways to achieve that.
 
@@ -110,7 +112,7 @@ famous they feel they'll become.
 
 You're not there yet, but might get there one day.
 
-To get you out of this state you must take an active step. Right now, as you
+To get you out of this state you must take an active step. Yes. Right now, as you
 read this article.
 
 Nothing prevents you from showing appreciation for stuff you like
@@ -124,9 +126,8 @@ Store around ten percent of people bother to leave the review.
 He did a really successful app; it was in top-20 best selling apps in the US
 at some point for a short time. [Other people report much worse numbers](https://www.quora.com/What-percentage-of-iPhone-app-users-leave-reviews-in-the-App-Store)
 
-Review it's
-more work than clicking a button, but I'd be surprised to see that this
-number would be bigger than 10--15%. Getting a star there is nice, since I
+Review means more work than clicking a button, but I'd be surprised to see that this
+number would be bigger than 10--15%. Getting a star next to your project is nice, since I
 like to imagine that for every `N` stars I had potentially `10N` users who
 inspected and evaluated the repository and maybe used the code.
 
@@ -135,9 +136,9 @@ pretty simple: for each visited repository, if you like it, press the "star"
 on GitHub. If you don't like something, e-mail the author. If you do it
 three times, you can read on.
 
-## You became engaged user (level 2)
+## You became an engaged user (level 2)
 
-Engaged user is a great user, and you just became one. You're watching,
+Engaged user is a great OSS user, and you just became one. You're watching,
 communicating with authors and trying to help out. Maybe you've replied
 "Yes, this bug impacts me too" when someone reported the issue on GitHub.
 
@@ -150,7 +151,7 @@ Engaged users are great, since you can throw them an e-mail and
 ask the question.
 Or maybe even ask them to test something.
 Engaged user understands that, in most part, making good software is a
-shitty job, since testing and debugging are often awful.
+shitty job, since testing and debugging are, let's be honest, awful.
 Engaged users take some of this away.
 
 There's nothing terrible about engaged user. You can stay on this level if
@@ -176,17 +177,15 @@ You've made first steps to become not only engaged user, but engaged
 contributor. Well done. But what does it mean?
 
 That you reported an issue? You complained about documentation? Or maybe
-some missing feature?
-
-No. It means that instead of complaining, you've taken a control over the
-situation and decided to step up, roll up your sleeves and do some real dirty
-work.
+some missing feature? No. It means that instead of complaining, you've
+taken a control over the situation and decided to step up, roll up your
+sleeves and do some real dirty work.
 
 Typically you'll get here through finding a problem. There will be a audio or
 graphics or Internet program of some sort, and you'll use it every day. And
 every day you'll hit some annoying issue, where you have to restart some
-chunk of work, because a program crashed. Or something similar--you get the
-point.
+chunk of work, because the program had crashed. Or something similar. Annoying
+pain that pisses you of. You get the point.
 
 Afterwards you'll start to think that instead of dealing with this nonsense,
 you can actually save time and effort and fix the problem once and for all.
@@ -202,19 +201,20 @@ shoot an e-mail to the author:
 > "Projects" on my desktop. I don't have that now, and the program crashes..
 
 This is good stuff. Once you become more advanced you'll start making your
-fixed. You'll go, clone the code, make a branch, make fixes, and commit the
+fixes. You'll go, clone the code, make a branch, make fixes, and commit the
 code. You'll then [make the pull request](https://www.koszek.com/blog/2017/02/18/making-pull-requests-that-merge/) to the original author. Explain why
 you made changes, and then maybe argue a little. Maybe a bit of back and
 forth. But in general: you'll get your code merged in for the benefit of
 future generations.
 
-This is good level to be at. You'll start to feel good here, since you'll
-start getting comfortable with the code, contacting unknown people around
-the world, fixing their code and complaining.
+This is good level to be at. You'll start to feel good here, since 
+getting comfortable with the code is a good experience, since it gives
+you the control. You'll be contacting unknown people around
+the world, collaborating with them and fixing their code.
 
 Contributions sometimes are hit and miss. Not always will your changes be
-merged. But each time this happens, you feel good. You will get a spike of
-good feelings of accomplishment.
+merged. That's fine. Each time this happens, you will feel good.
+You will get a spike of endorfins after your accomplishment.
 
 Well done. I think once you're here, it'll be inevitable to progress to the
 next stage: contributing your own inventions and programs.
@@ -231,30 +231,31 @@ Anything works.
 To be a valued Open Source author you can't however push a total crap in the
 world. Code that doesn't work, doesn't compile, doesn't explain itself is a
 terrible addition to the community. It also isn't very valuable if you don't
-explain through the documentation what your code does.
+explain through the documentation what your code does and how to use it.
 
-So strive for good enough quality. Not perfect, because I think perfection
+Strive for good enough code quality. Not perfect, because I think perfection
 is an enemy of the invention. Try to make it good enough. Something that
-maybe wouldn't give you A+, but maybe around B.
+maybe wouldn't give you A+, but maybe around B+.
 
 This is critical, because getting to A+ is hard for the first time, and is
-likely to lead to not publishing at all. This is good, if the result would
-be crap that doesn't build and just pollutes the GitHub. But in principle is
+likely to lead to not publishing code at all. This is good, if the result would
+be a total crap that doesn't build and just pollutes the GitHub. But in principle it's
 bad, since who knows -- perhaps you've solved a problem many other users
-struggled with?
+struggled had with?
 
-As an author you're almost like a chief of command. Now once your code is
+As an author you're almost like a chief of command. Once your code is
 baked, you must serve it. You should try to make some noise about it.
 Otherwise nobody will know that you've built something. Use LinkedIn,
 Twitter, Facebook, GitHub, mailing lists, IRC. Let interested parties know
-you've built something.
+you've built something and invite them as testers.
 
-And if it gets at least 1 GitHub "star", well done. You've unlocked yourself
+And if it gets at least one GitHub "star", well done. You've unlocked yourself
 gates to the very next, and last, level.
 
 # You're an Open Source maintainer (level 5)
 
-Open Source maintainer. Who would have thought? Unlike other levels, here I
+Open Source maintainer.
+Unlike other levels, here I
 don't know if I should congratulate you, or feel sorry for you.
 This is the most prestigious role which you're punished with.
 
@@ -268,7 +269,7 @@ On purpose I mention the maintainers last, since this stage takes forever.
 expensive, and people doing it for free must get recognition.
 
 Maintenance requires a lot of effort. If you wrote all the code, that's
-easier. Bigger projects are worse. You're read the code written many years
+easier. Bigger collaborative projects are worse. You're read the code written many years
 ago by other people. This is hard, most of the time. No documentation,
 nobody to ask. You're basically exposing yourself to go through the pain
 which the original authors endured. This knowledge isn't captured anywhere
@@ -280,14 +281,14 @@ maintainer does: reply to e-mails, reply to issues and bug reports, review
 code, make sure no regressions are introduced. The last one is especially
 hard, since you don't know who downloaded the code and is using it
 somewhere. This is really bad about the Open Source: usage metrics are hard
-to get.
+to get. You also can't break that code.
 
 In general however I find the maintainer job to have some charm, at the end
 of a day. Why? Because this is where I believe you shine as a software
 engineer. Taking care of the whole stack of issues and finding ways to
 manage them: this to me is the level of performance you should strive for.
 
-This is also where proper methods shine. If you get emails and bug-reports,
+This is also where proper methods excell. If you get emails and bug-reports,
 you'll find that unit test suite actually really helps. And it's nice to
 codifying your knowledge as tests. Got a bug report? Can reproduce it? Great.
 As a part of fixing it, put the unit test reproducing the problem first.
@@ -306,5 +307,6 @@ time.
 I doubt anybody at the 5th level listened to what I had to say here.
 If you did, shoot me an e-mail.
 My hope is that you've found it helpful and maybe got a little bit of
-distress and a bit of motivation, and you'll enter the Open Source ladder
+distress.
+A bit of motivation, and that you'll enter the Open Source ladder
 and start climbing up. Good luck and e-mail me about how it's going.
