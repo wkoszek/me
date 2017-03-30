@@ -10,7 +10,7 @@ tags:
 - "software engineering"
 - "open source"
 published: true
-image: 
+image: https://www.koszek.com/img/2017-03-28-are-you-a-good-open-source-contributor/volkan-olmez-101863_15p.jpg
 ads:
 -
 spellcheck-allow:
@@ -23,6 +23,8 @@ contributor. Most people aren't.
 Let's look at it a bit closer.
 Below you'll find a scale which will give you the sense of how the
 community of Open Source is structured. Where do you fall in it?
+
+![alt_text_7](/img/2017-03-28-are-you-a-good-open-source-contributor/volkan-olmez-101863_15p.jpg "Image_text_7")
 
 By community you can understand several things, but to simplify things:
 think of [GitHub](https://www.github.com).
@@ -70,6 +72,8 @@ yourself a pass to level 1. You may read Wikipedia pages about Open Source,
 You've reached a status of a silent Open Source user. Congratulations!
 Think of it as picking the right pill when you're being offered one by a guy
 in dark glasses.
+
+![alt_text_3](/img/2017-03-28-are-you-a-good-open-source-contributor/513910667_1280x720_50p.jpg "Image_text_3")
 
 You know that Open Source is there. You know which software came
 from it. You like it and you use it. You've never contributed, never
