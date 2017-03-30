@@ -1,0 +1,129 @@
+<!doctype html> <html lang=en> <head> <meta charset=utf-8 /> <meta http-equiv=X-UA-Compatible content='IE=edge;chrome=1'/> <meta name=author content="Wojciech Adam Koszek"> <meta name=viewport content="width=device-width, initial-scale=1"> <meta name="p:domain_verify" content=35dedfd4f697e6e974b0ae6631ca7351 /> <!--[if lt IE 9]><script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script> <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]--> <link rel=stylesheet media=none onload="if(media!='all')media='all'" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> <link rel=stylesheet media=none onload="if(media!='all')media='all'" href="/css/1406-fonts.css"> <link rel=stylesheet media=none onload="if(media!='all')media='all'" href="/css/debug.css"> <link rel=stylesheet media=none onload="if(media!='all')media='all'" href="/css/code.css"> <script src="https://code.jquery.com/jquery-git.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-8027537-3', 'auto');
+  ga('send', 'pageview');
+</script> <script>
+	(function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+	(w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+	e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+	})(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
+	_st('install','_i_CdLX9xwxixHZtjxHu','2.0.0');
+</script> <link rel=icon type="image/png" href="/img/favicon.ico"> <title>Fixing Middleman-spellcheck</title> <meta name=description content="I liked Middleman for writing my website, I went and fixed up the spell-checking plugin. This piece explains some things step-by-step on how fixing some open source stuff looks like. "/> <meta property="og:title" content="Fixing Middleman-spellcheck"/> <meta property="og:description" content="I liked Middleman for writing my website, I went and fixed up the spell-checking plugin. This piece explains some things step-by-step on how fixing some open source stuff looks like. "/> <meta name="twitter:card" content=summary_large_image> <meta name="twitter:site" content="@wkoszek"/> <meta name="twitter:creator" content="@wkoszek"/> <meta name="twitter:title" content="Fixing Middleman-spellcheck"/> <meta name="twitter:description" content="I liked Middleman for writing my website, I went and fixed up the spell-checking plugin. This piece explains some things step-by-step on how fixing some open source stuff looks like. "/> <meta property="og:type" content=article /> <meta property="article:author" content="https://www.koszek.com/about"/> <meta property="article:publisher" content="https://www.koszek.com/"/> <link rel=alternate type="application/atom+xml" title="Atom Feed" href="/feed.xml"/> </head> <body> <div class=container> <div class="row noprint"> <div class="col-md-3 logo"> <a href="/">Wojciech Adam Koszek</a> </div> <div class="col-md-9 links hidden-sm hidden-xs"> <a class=in id=blog href="/">Blog</a> <a class=in id=reading href="/reading/">Reading</a> <a class=in id=papers href="/papers/">Papers</a> <a class=in id=about href="/about/">About me</a> <input class=st-default-search-input> </div> </div> <div class="row noprint"> <hr/> </div> <div class="row hidden-md hidden-lg links noprint"> <div class=col-xs-4> <br> <a class=in href="/">Blog</a> </div> <div class=col-xs-4> <br> <a class=in href="/reading/">Reading</a> </div> <div class=col-xs-4> <br> </div> </div> <div class="row hidden-md hidden-lg links noprint"> <div class=col-xs-4> <br> <a class=in href="/papers/">Papers</a> </div> <div class=col-xs-4> <br> <a class=in href="/about/">About</a> </div> <div class=col-xs-4> <br> <a class="hidden-lg hidden-md" href="#notes">Notes</a> </div> </div> <div class="row hidden-md hidden-lg links text-center noprint"> <br> <input class=st-default-search-input> </div> <div class=row> <div class="col-md-2 leftpanel hidden-xs hidden-sm"> </div> <div class="col-md-7 content"> <article> <h1 class=title>Fixing Middleman-spellcheck</h1> <i>by Wojciech Adam Koszek</i> &nbsp;&nbsp;&sdot;&nbsp;&nbsp; <i>Jun 20, 2015</i> &nbsp;&nbsp;&sdot;&nbsp;&nbsp; <i>Menlo Park, CA</i> <br/> <br/> <b>I liked Middleman for writing my website, I went and fixed up the spell-checking plugin. This piece explains some things step-by-step on how fixing some open source stuff looks like. </b> <br/> <hr class=noprint /> <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f9a67fb0188b069" async=async></script> <div class=addthis_sharing_toolbox></div> <hr class=noprint /> <div class=article_body> <p>Sometimes when you make a change to the software, it is interesting to predict how long will such change take. Fixing <em>Middleman-spellcheck</em> was initially only about letting myself to select words which I would consider correct and do it from within the front-matter of each Middleman’s article files. It ended up taking more than I anticipated, and below is short description on what went wrong.</p> <p><a href="https://middlemanapp.com/advanced/custom_extensions/">Middleman plugin infrastructure</a> lets one to run a filter on several stages of the build process, and Middleman-spellcheck runs at the end, once all files are converted from <code>.md</code> to <code>.html</code> files.</p> <p>Unfortunately the moment I run Middleman with <em>Middleman-spellcheck</em> enabled I got many, many valid words recognized as misspelled words.</p> <p>Problem appears to be reported as <a href="https://github.com/minivan/middleman-spellcheck/issues/7">issue #7</a>.</p> <blockquote> <p>I think no easy model exists for fixing the source code of Gems installed in a system-wide location.</p> </blockquote> <p>I ended up cloning the repository of the project:</p> <pre class="highlight shell"><code><span class="gp">$ </span><span class="nb">cd</span> /w/repos
+<span class="gp">$ </span>git clone git@github.com:minivan/middleman-spellcheck.git
+</code></pre> <p>and basically doing:</p> <pre class="highlight plaintext"><code>$ sudo bash
+# cd /Library/Ruby/Gems/2.0.0/gems
+# mv middleman-spellcheck-0.7.5 middleman-spellcheck-0.7.5.old
+# ln -s /w/repos/middleman-spellcheck middleman-spellcheck-0.7.5
+</code></pre> <p>since I don’t know any better way to point <code>Middleman</code> to use a different Gem. Middleman-spell is structured more or less like that:</p> <pre class="highlight plaintext"><code>[wkoszek-macbook:/w/repos/middleman-spellcheck] wk% tree
+.
+├── Gemfile
+├── LICENSE.txt
+├── README.md
+├── Rakefile
+...
+├── lib
+│   ├── middleman-spellcheck
+│   │   ├── extension.rb
+│   │   ├── spellchecker.rb
+│   │   └── version.rb
+│   ├── middleman-spellcheck.rb
+│   └── middleman_extension.rb
+├── middleman-spellcheck.gemspec
+└── spec
+    └── lib
+	└── middleman-spellcheck
+	    └── spellcheck_spec.rb
+
+22 directories, 31 files
+</code></pre> <p><code>extension.rb</code> is the Middleman-specific code, while <code>spellcheck.rb</code> is where interaction with Aspell is present.</p> <p>Here’s our wolf:</p> <pre class="highlight ruby"><code>  <span class="k">def</span> <span class="nc">self</span><span class="o">.</span><span class="nf">query</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="n">lang</span><span class="o">=</span><span class="s1">'en'</span><span class="p">)</span>
+    <span class="n">result</span> <span class="o">=</span> <span class="sb">`echo "</span><span class="si">#{</span><span class="n">text</span><span class="si">}</span><span class="sb">" | </span><span class="si">#{</span><span class="vc">@@aspell_path</span><span class="si">}</span><span class="sb"> -a -l </span><span class="si">#{</span><span class="n">lang</span><span class="si">}</span><span class="sb">`</span>
+    <span class="k">raise</span> <span class="s1">'Aspell command not found'</span> <span class="k">unless</span> <span class="n">result</span>
+    <span class="n">new_result</span> <span class="o">=</span> <span class="n">result</span><span class="p">.</span><span class="nf">split</span><span class="p">(</span><span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">)</span>
+    <span class="n">new_result</span><span class="p">[</span><span class="mi">1</span><span class="p">.</span><span class="nf">.</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span> <span class="o">||</span> <span class="p">[]</span>
+  <span class="k">end</span>
+</code></pre> <p>My first guess is was that <code>#{text}</code> has some quotes <code>"</code>, but it wasn’t it. The way I try to attack the problem is always with the simplified use case. The pattern is: find for which input the program is failing and try to reproduce such failure. In my case I have 145 <code>.md</code> files, but managed to find one which is fairly short.</p> <p>Here are the errors:</p> <pre class="highlight plaintext"><code>spellcheck  Running spell checker for /blog/2012/12/15/book-the-22-laws-of-marketing/
+    misspell  The word 'nd' is misspelled
+    misspell  The word 'entirely' is misspelled
+    misspell  The word 'want' is misspelled
+    misspell  The word 'think' is misspelled
+    misspell  The word 'to' is misspelled
+    misspell  The word 'numbers' is misspelled
+    misspell  The word 'has' is misspelled
+</code></pre> <p>While <code>nd</code> is probably correctly classified as a problem, “want” and “think” are not. It was time to get more visibility:</p> <pre class="highlight diff"><code><span class="gh">diff --git a/lib/middleman-spellcheck/spellchecker.rb b/lib/middleman-spellcheck/spellchecker.rb
+index 05a48d1..b82c33a 100644
+</span><span class="gd">--- a/lib/middleman-spellcheck/spellchecker.rb
+</span><span class="gi">+++ b/lib/middleman-spellcheck/spellchecker.rb
+</span><span class="gu">@@ -23,9 +23,12 @@ class Spellchecker
+</span>     if @@aspell_cmdargs != ""
+       args = @@aspell_cmdargs
+     end
+<span class="gd">-    result = `echo "#{text}" | #{@@aspell_path} #{@@aspell_cmdargs}`
+</span><span class="gi">+    print "ARGS:\n#{args}"
++    print "TEXT:\n#{text}\n"
++    result = `echo "#{text}" | #{@@aspell_path} #{args}`
+</span>     raise 'Aspell command not found' unless result
+     new_result = result.split("\n")
+<span class="gi">+    print "RESULT:\n#{new_result}\n"
+</span>     new_result[1..-1] || []
+   end
+</code></pre> <p>Unfortunately it wasn’t enough. The problem with middleman-spellcheck is that it used no temporary variables for intermediate results. I had to modify code some more to actually understand what’s wrong:</p> <pre class="highlight diff"><code><span class="gu">@@ -40,10 +44,21 @@ class Spellchecker
+</span>     # the reported mispelled word is actually a correct word.
+     # see: https://github.com/minivan/middleman-spellcheck/issues/7
+     words   = text.split(/[^A-Za-z’']+/).join(" ")
+<span class="gd">-    results = query(words, lang).map do |query_result|
+</span><span class="gi">+    results_raw = query(words, lang)
++    results = results_raw.map do |query_result|
+</span>       correct?(query_result)
+     end
+
+<span class="gi">+    ww = words.split(" ")
++    print "Words count: ", ww.length
++
++    for i in 0..35 do
++      word = ww[i]
++      ret = results[i]
++
++      print "Word:\t#{word}\tRet:\t#{ret}\n"
++    end
++
+</span></code></pre> <p>Note that what I’m doing is essentially a very bad looking hack over the code, but without it, I simply can’t actually see which word caused the problem to aspell.</p> <p>I compared the sizes of results[] and words[] and basically saw that there are more results than words. It means that somewhere within my text is a data that aspell sees as 2 words.</p> <p>For the purposes of debugging I also modified the input file, so that it only had 1 paragraph and was throwing 1 error.</p> <p>After adding instrumentation, I got this:</p> <pre class="highlight plaintext"><code>...
+Word:	here	Ret:	true
+Word:	weren’t	Ret:	false
+Word:	entirely	Ret:	true
+Word:	due	Ret:	true
+...
+</code></pre> <p>Voila. The apostrophe (Hex 2109) seems guilty. We test by hand:</p> <pre class="highlight plaintext"><code>wkoszek-macbook:/w/me] wk% aspell -a
+@(#) International Ispell Version 3.1.20 (but really Aspell 0.60.6.1)
+weren’t
+&amp; weren 30 0: Warren, warren, wherein, whereon, Wren, ween, were, wren,
+Wezen, Webern, we're, wearing, weeny, where, Verne, wen, weren't, Green,
+green, preen, wearer, Vern, Ware, ware, warn, wean, when, wire, wore, worn
+*
+</code></pre> <p>Here’s our problem. Middleman takes care of the Web typography and converts character ‘ to character ’ internally. So HTML files, which middleman-spellcheck sees use the “aspell unfriendly” version. This causes our problems.</p> <p>There were several issues with the original code, and I suggested couple of improvements, so that further debugging efforts were easier. In my fix the code passes individual words to aspell, so that in case of problems, we can see what’s going on. I added a “debug” keyword, and couple of others.</p> <p><a href="https://github.com/minivan/middleman-spellcheck/pull/12">My original pull request</a></p> <blockquote> <p><strong>UPDATE 2015-06-21</strong>: <em>Middleman-spellcheck</em> author merged my pull request, so hopefully you shouldn’t encounter additional problems.</p> </blockquote> <p>Right now all of my 145 files can be correctly checked with middleman-spellcheck.</p> </div> </article> <div class="row noprint"> <br> <div class="col-md-6 text-left"> </div> <div class="col-md-6 text-right"> </div> </div> <div class=noprint> <hr> <h3 id=mailing-list>Subscribe for updates</h3> <p> Once a month I send updates on the new content and hints for software engineers. <div id=mc_embed_signup class=row> <form action="//koszek.us3.list-manage.com/subscribe/post?u=0cfe70aa4cdf848b2adbd70c6&amp;id=bc454f0778" method=post id=mc-embedded-subscribe-form name=mc-embedded-subscribe-form class=validate target=_blank novalidate> <div id=mc_embed_signup_scroll class=col-md-12> <input type=email value="" name=EMAIL class="required email" id=mce-EMAIL placeholder="Enter E-mail here"> <div id=mce-responses class=clear> <div class=response id=mce-error-response style="display:none"></div> <div class=response id=mce-success-response style="display:none"></div> </div> <div style="position: absolute; left: -5000px;"><input name=b_0cfe70aa4cdf848b2adbd70c6_bc454f0778 tabindex=-1 value=""></div> <div class=clear><input type=submit value=Subscribe name=subscribe id=mc-embedded-subscribe class=button width="100%"></div> </div> </form> </div> </p> <hr> <b>Liked it? Share it!</b> <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f9a67fb0188b069" async=async></script> <div class=addthis_sharing_toolbox></div> <hr> <p><br/> <strong>About the author:</strong> I’m Wojciech Adam Koszek. I like software, business and design. Poland native. In Bay Area since 2010.   <a href="/about/">More about me…</a></p> <hr> <div id=disqus_thread></div> <script>
+
+var disqus_config = function () {
+this.page.url = document.location.href.split('?')[0].split('#')[0];
+this.page.identifier = this.page.url;
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//koszek.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> </div> </div> <div class=col-md-1> </div> <div class="col-md-2 rightpanel noprint"> <br><h4>Mailing list</h4> <a href="#mailing-list">Subscribe</a> <br><h4>RSS feed</h4> <a href="http://www.koszek.com/feed.xml">RSS</a> <h4>Contact</h4> <a href="mailto:wojciech@koszek.com">E-mail</a><br> <a href="https://twitter.com/wkoszek/">Twitter</a><br> <a href="https://www.linkedin.com/in/wkoszek/">LinkedIn</a><br> <a href="https://github.com/wkoszek/">Github</a><br> <h4>Tags</h4> <span class=tag> <a href="/blog/tags/software-engineering">software engineering</a> </span> <br> <span class=tag> <a href="/blog/tags/tools">tools</a> </span> <br> <span class=tag> <a href="/blog/tags/entrepreneurship">entrepreneurship</a> </span> <br> <span class=tag> <a href="/blog/tags/productivity">productivity</a> </span> <br> </div> </div> <div class="row noprint"> <div class="col-md-12 footer"> <i>&copy;&nbsp;2012&dash;2017 Wojciech Adam Koszek (<a href="https://www.twitter.com/wkoszek/">@wkoszek</a>)</i> <br> Visits so far: <script>
+var sc_project=10468040; 
+var sc_invisible=0; 
+var sc_security="b542d462"; 
+var sc_text=2; 
+var scJsHost = (("https:" == document.location.protocol) ?  "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>");
+</script> <noscript> <div class=statcounter> <a title="free web stats" href="https://statcounter.com/free-web-stats/" target=_blank> <img class=statcounter src="https://c.statcounter.com/10468040/0/b542d462/0/" alt="free web stats"/></a> </div> </noscript> </div> </div> </div> <script>
+        var active_page_elem = document.getElementById('active_page_name')
+        var active_page_name = (active_page_elem != null ? active_page_elem.textContent : "blog");
+        var active_page_link = document.getElementById(active_page_name);
+        active_page_link.className = "ac";
+    </script> </body> </html>

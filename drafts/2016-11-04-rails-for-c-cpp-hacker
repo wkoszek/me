@@ -1,0 +1,7 @@
+<p>Web development isn’t very complex, but it’s messy. There’s very many
+technologies and it’s hard to find a thing that will work for you.</p>
+
+<p>If you’ve worked with C/C++ the situation is different. You have an OS and a
+compiler. And make <code>make</code>. And here you go - you’re development environment
+is setup. Building 100KLOC application in C in Vim is absolutely doable.</p>
+

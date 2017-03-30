@@ -1,0 +1,229 @@
+httpd  -- mały i bezpieczny serwer HTTP
+Wojciech Koszek
+ 
+W czasach, w których znaczna część rynku zdominowana została przez niepodzielnie 
+królujšcy serwer Apache, wydawać by się mogło, iż używanie rozwišzań 
+alternatywnych jest bezcelowe. Jednak sš sytuacje, w których instalacja serwera 
+o tak potężnych możliwościach jest nieopłacalna. Jednym z możliwych wyborów 
+jest thttpd.
+
+Thttpd jest małym, stabilnym i bezpiecznym serwerem HTTP. Obsługuje wszystkie 
+nowoczesne technologie tj.: skrypty CGI, PHP, rozszerzenia SSI, strony domowe 
+użytkowników, podstawowe mechanizmy uwierzytelniania, możliwość przekierowań, 
+itd. Od innych serwerów różni się przede wszystkim prostą instalacją oraz 
+konfiguracją jak również wysoką wydajnością, o której okazje miały przekonać 
+się takie serwisy jak choćby cdrom.com czy download.napster.com. Do obsługi 
+żądań nie wykorzystuje funkcji fork(), która przy większym obciążeniu może 
+okazać się zbyt mało wydajna, lecz tzw.: nieblokujące operacje wejścia/wyjścia, 
+(non-blocking I/O) które bazują na funkcjach select(), poll(), kqueue(). 
+Powoduje to, iż wszystkie żądania obsługiwane są przez jeden proces. 
+Niepodważalnš zaletš serwera jest możliwość pracy, w chrootowanym środowisku, 
+co niewątpliwie korzystnie wpływa na bezpieczeństwo systemu. Thttpd jako jeden 
+z niewielu serwerów HTTP standardowo obsługuje ograniczanie wykorzystywanej 
+przepustowości, co pozwala nam na zapewnienie gwarantowanej jakości usługi 
+(Quality Of Service). 
+ 
+Instalacja
+Jeżeli jesteśmy użytkownikami systemu BSD możemy zainstalować aplikacje z bazy 
+portów. W przeciwnym wypadku ściągamy źródła ze strony 
+http://www.acme.com/software/thttpd/. Po pobraniu i rozpakowaniu archiwum 
+możemy przystąpić do instalacji. Sprowadza się ona do wykonania następujących 
+kroków:
+ˇ          edycji pliku config.h. Plik ten włączany podczas kompilacji pozwala 
+na ustalenie domyślnych opcji działania serwera. Do zmiennych, na które warto 
+zwrócić uwagę należą: CGI_PATTERN (określa domyślną ścieżkę przeszukiwania 
+skryptów CGI) DEFAULT_USER (określa użytkownika, z którego prawami zostanie 
+uruchomiony serwer, czy też ALWAYS_CHROOT (mówiąca serwerowi, by po starcie 
+domyślnie wywoływał funkcje chroot() ). W celu poznania większej ilości 
+zmiennych odsyłam czytelnika do bogato udokumentowanego pliku config.h.
+ˇ          Dodaniu grupy www. Na systemie FreeBSD polecenie ma postać:
+ 
+#/sbin/pw group add www
+ 
+ˇ          stworzeniu katalogu /usr/local/www :
+ 
+#/bin/mkdir -m 711 /usr/local/www
+ 
+ˇ          Kompilacji aplikacji poprzez wydanie poleceń:
+ 
+#./configure
+#make 
+#make install
+ 
+Niestety na jednym z systemów autora wystąpiły błędy uniemożliwiające poprawne 
+skompilowanie aplikacji w wersji 2.20c. Rozwiązanie problemu jest na szczęście 
+bardzo proste i polega na zmianie linijki w pliku libhttpd.c z:
+ 
+#include <sys/time.h> 
+ 
+na poprawnš formę 
+ 
+#include <time.h>
+ 
+Na szczęście błąd został poprawiony i nie występuje już w wersji 2.23beta, 
+która zawiera wiele zmian i poprawek względem starszej wersji 2.20c.
+ˇ          stworzenia pliku konfiguracyjnego. Przykładowy plik thttpd.conf 
+pokazany jest na listingu nr 1. Określa on główny katalog dokumentów (dir 
+/usr/local/www), ścieżkę przeszukiwania skryptów, CGI (cgipat '/cgi-bin/*') 
+									 oraz 
+użytkownika, z którego prawami uruchomiony zostanie serwer (user webuser. Opcja 
+chroot nakazuje działanie serwerowi w chrootowanym środowisku. W przypadku jej 
+użycia należy pamiętać o skopiowaniu wszystkich bibliotek i programów używanych 
+przez skrypty CGI w odpowiednie katalogi. Opcja pidfile określa plik w którym 
+przechowywany będzie numer procesu serwera.
+ˇ          stworzeniu skryptu startowego thttpd.sh przedstawionego na listingu 
+nr 2 oraz skopiowaniu go do katalogu systemowego /usr/local/etc/rc.d lub innego 
+w zależnoci od systemu. W przypadku systemu FreeBSD polecenie będzie miało 
+postać:
+ 
+#cp thttpd.sh /usr/local/etc/rc.d/
+ 
+Po tak przeprowadzonych przygotowaniach możemy już wystartować serwer wydajšc 
+polecenie:
+ 
+     #/usr/local/etc/rc.d/thttpd.sh start
+ 
+O prawidłowym starcie aplikacji przekonać się możemy wydajšc polecenie:
+ 
+#ps awx|grep thttpd
+2095  ??  Is     0:00.00 /usr/local/sbin/thttpd -C /usr/local/etc/thttpd.conf -t /usr/local/etc/thttpd.throttle
+ 
+W celu zmiany zachowania serwera można posłużyć się również opcjami wiersza 
+poleceń. Niektóre z nich zostały przedstawione w tabeli nr 1.
+ 
+Własne strony błędów
+W praktyce prawie zawsze chcemy mieć możliwoć zdefiniowania własnych stron z 
+opisem błędów. Dokonać tego możemy w prosty sposób poprzez stworzenia pliku 
+errXXX.html w podkatalogu errors, gdzie XXX to standardowy numer błędu protokołu 
+HTTP. Dodatkowo chcšc zablokować domylnie generowane dodatkowych informacji o 
+błędach, musimy zakomentować wiersz w pliku config.h odpowiadajšcy za 
+deklarowanie zmiennej EXPLICIT_ERROR_PAGES.
+ 
+Hosty wirtualne
+Thttpd oferuje nam ciekawe możliwoci jeżeli chodzi o hosty wirtualne. 
+Konfiguracja jest niezwykle prosta i wszystko, czego potrzebujemy to stworzenie 
+w głównym drzewie dokumentów katalogów, których nazwy odpowiadajš nazwom 
+obsługiwanych domen np.:
+ 
+  #cd /usr/local/www && mkdir m 711 www.firma1.com.pl www.firma2.com.pl
+ #/bin/ls lga|grep firma
+ drwxr-xr-x   2 root  wheel  512 Sep 17 19:49 www.firma1.com.pl/
+ drwxr-xr-x   2 root  wheel  512 Sep 17 19:49 www.firma2.com.pl/
+ 
+ 
+oraz dodania do pliku konfiguracyjnego zmiennej vhost.
+ 
+#cat vhost >> /usr/local/etc/thttpd.conf
+ 
+W przypadku użycia hostów wirtualnych bazujšcych na adresach IP  pozostaje nam 
+stworzenie dowišzań symbolicznych o nazwach odpowiadajšcych danemu adresowi IP 
+np.:
+ 
+#ln s www.firma1.com.pl adres_ip1
+#ln s www.firma2.com.pl adres_ip2
+            
+oraz zmianie cieżki wyszukiwania z /cgi-bin/* na */cgi-bin/* .
+Teraz można już skopiować potrzebne strony oraz skrypty pamiętajšc o zmianie 
+cieżki względem głównego katalogu dokumentów serwera wirtualnego. 
+ 
+Strony domowe
+Chcšc umożliwić użytkownikom publikowanie ich własnych stron domowych wszystko 
+co musimy zrobić (o ile w pliku config.h zakomentowalimy wpis #define 
+TILDE_MAP_2 public_file) to stworzenie katalogu users:
+ 
+#mkdir m 711 /usr/local/www/users
+ 
+a w nim katalogu odpowiadajšcemu nazwie użytkownika. 
+ 
+#mkdir m 755 /usr/local/www/users/user 
+ 
+Dla wygody samego użytkownika pozostaje stworzenia dowišzania w jego katalogu 
+domowym:
+ 
+#ln s /usr/local/www/users/user /home/user/WWW
+ 
+Jeżeli wszystko przebiegło pomylnie odwołujšc się do adresu w postaci:
+ 
+http://www.domena.pl/~user
+ 
+powinna ukazać nam się strona użytkownika user. Rozwišzanie to, choć nietypowe, 
+jest konieczne w przypadku pracy w chrootowanym rodowisku. W razie potrzeby 
+thttpd umożliwia również wykorzystanie powszechnie znanej metody, w której 
+mapowanie odbywa się na okrelony katalog znajdujšcy się w katalogu użytkownika.
+ 
+Autoryzacja
+Zabezpieczenia wybranego obszaru hasłem jest niezwykle proste i sprowadza się do 
+stworzenia pliku .htaccess zawierajšcego nazwę oraz hasło użytkownika w 
+katalogu, którego zawartoć mamy zamiar chronić. Posłużyć może do tego program 
+htpasswd standardowo instalowany w katalogu /usr/local/sbin. Przykładowo, 
+zabezpieczenia katalogu /usr/local/www/tajne wraz z umożliwieniem dostępu 
+użytkownikowi user dokonać możemy poprzez wydanie polecenia:
+ 
+#/usr/local/sbin/htpasswd c /usr/local/www/tajne/.htpasswd user
+ 
+Należy pamiętać, by przy dodawaniu następnych użytkowników nie uruchamiać 
+programu wraz z opcjš c.
+ 
+Ograniczanie pasma
+Niezwykle ciekawš opcjš jest tzw. throttling, czyli ograniczenie pasma 
+wykorzystywanego przez okrelone adresy bšd grupy adresów URL. Funkcjonalnociš 
+przypomina nam funkcje oferowane przez moduł mod_bandwidth z serwera Apache. Aby 
+uaktywnić tš opcję musimy stworzyć plik np.: /usr/local/etc/thttpd.throttle. 
+Przykładowy plik zobaczyć możemy na listingu nr 3. Powoduje on ograniczenie 
+całego pasma protokołu HTTP do 8 kb/s, pasma przewidzianego dla wszystkich 
+plików *.gif oraz *.jpg do 4 kb/s, oraz pasma dla plików *.zip oraz *.tgz 
+znajdujšcych się w głównym katalogu dokumentów do 2kb/s. Pozostaje nam tylko 
+zmuszenie serwera do przeczytania konfiguracji w pliku:
+ 
+            #/usr/local/etc/rc.d/thttpd.sh restart
+       
+Podsumowanie
+Mam nadzieję, że w tym artykule udało mi się zachęcić czytelnika do skorzystania 
+z opcji serwera thttpd, który może stać się ciekawš alternatywš dla szeroko 
+stosowanego serwera Apache. 
+ 
+Tabela nr 1
+      OpcjaOpis działania
+      -d katalogPrzyjmuje katalog jako główny katalog dokumentów 
+      -c patternPrzyjmuje zmiennš pattern jako cišg okrelajšcy cieżkę 
+      przeszukiwania skryptów CGI
+      -u userUruchamia serwer z prawami użytkownika user
+      -r Nakazuje serwerowi prace w chrootowanym rodowisku
+      -C plik.confNakazuje serwerowi użycie konfiguracji zawartej w pliku 
+      plik.conf
+      -t plik.confNakazuje serwerowi użycie konfiguracji ograniczajšcej pasmo z 
+      pliku plik.conf
+
+ 
+      StronaOpis
+      http://www.acme.com/software/thttpd/Strona domowa serwera thttpd
+
+ 
+Listing nr 1.
+user=nobody
+dir=/usr/local/www
+chroot
+cgipat=/cgi-bin/*
+pidfile=/var/run/thttpd.pid
+ 
+Listing nr 2.
+#!/bin/sh
+case "$1" in
+start)
+   /usr/local/sbin/thttpd \
+   -C /usr/local/etc/thttpd.conf \
+   -t /usr/local/etc/thttpd.throttle && echo " thttpd";;
+stop)
+   /bin/kill -9 `cat /var/run/thttpd.pid` && echo " thttpd" ;;
+restart)
+   $0 stop
+   $0 start ;;
+*)
+   echo "usage: $0 [start|stop|restart]" ;;
+esac
+ 
+ 
+Listing nr 3.
+*                          8000 # Całkowita szerokoć pasma
+**.jpg|**.gif               4000 # Pasmo dla plików jpg, *.gif
+*.zip |*.tgz               2000 # Pasmo dla plików *.zip, *.tgz

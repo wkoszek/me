@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wojciech Adam Koszek</title>
+  <subtitle>Software. Business. Design.</subtitle>
+  <id>http://www.koszek.com/blog</id>
+  <link href="http://www.koszek.com/blog"/>
+  <link href="http://www.koszek.com/feed.xml" rel="self"/>
+  <updated>2017-03-28T00:00:00+00:00</updated>
+  <author>
+    <name>Wojciech Adam Koszek</name>
+  </author>
+  <entry>
+    <title>Are you a good Open Source contributor?</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/03/28/are-you-a-good-open-source-contributor/"/>
+    <id>http://www.koszek.com/blog/2017/03/28/are-you-a-good-open-source-contributor/</id>
+    <published>2017-03-28T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;Most likely you aren’t a good Open Source contributor. Most people aren’t.
+Let’s look at it a bit closer.
+Below you’ll find a scale which will give you the sense of how the
+community of Open Source is structured.&lt;/p&gt;
+
+&lt;p&gt;By community you can understand several things, but think of GitHub.
+Don’t worry too much GitHub is actually a company.
+In your head Git and GitHub are synonyms of the Open Source already,
+because they have
+the biggest number of software repositories, the biggest number of users, and
+they provide everything that a modern software project needs.&lt;/p&gt;
+
+&lt;p&gt;So here let’s split your advancement in the Open Source to levels.
+Let’s discuss good and bad sides of each level,
+and let’s talk about steps which will lead you from one level to another.&lt;/p&gt;
+
+&lt;h2 id="you-are-unaware-user-of-open-source-level-0"&gt;You are unaware user of Open Source (level 0)&lt;/h2&gt;
+
+&lt;p&gt;You don’t know you’re using Open
+Source. You start Open Source programs like Firefox, and often go to
+Wikipedia, but have no slightest idea what that is, how and who makes it.&lt;/p&gt;
+
+&lt;p&gt;Is it terrible?&lt;/p&gt;
+
+&lt;p&gt;People can’t ask you for help.
+You aren’t bothered.
+Good thing, right?
+Not really – developers can’t really make your own tool better.
+It’s like sabotaging your own house you’ll live in for twenty years.&lt;/p&gt;
+
+&lt;p&gt;If someone asks you for money, you can go away: brand loyalty is low for unaware
+users, in my opinion. 
+We are all greedy, so you and I like free stuff. We don’t come up with random thoughts
+about things like that, and then go to donate. We need to be &lt;strong&gt;forced&lt;/strong&gt; to
+donate. You and I sometimes forget that running an Open Source project may
+incur fees. Hosting, domains, bandwidth, CPU cycles all cost money. We’re
+just blind. We don’t want to see it.&lt;/p&gt;
+
+&lt;p&gt;If you’re reading this post and you’re at 0th level, you’ve just earned
+yourself a pass to level 1. You may read Wikipedia pages about Open Source,
+FreeBSD, GNU and Linux and get to know them more.&lt;/p&gt;
+
+&lt;h2 id="you-become-aware-user-level-1"&gt;You become aware user (level 1)&lt;/h2&gt;
+
+&lt;p&gt;You’ve reached a status of a silent Open Source user. Congratulations!
+Think of it as picking the right pill when you’re being offered one by a guy
+in dark glasses.&lt;/p&gt;
+
+&lt;p&gt;You know that Open Source is there. You know which software came
+from it. You like it and you use it. You’ve never contributed, never
+submitted a bug report, never participated in a discussion, never argued,
+and never had to convince anybody about anything when it comes to software.
+That’s fine on this stage.&lt;/p&gt;
+
+&lt;p&gt;Perhaps you know how to program, but you’ve never starred a GitHub project,
+never &lt;strong&gt;Liked&lt;/strong&gt; any users/developers, never followed or thanked them?&lt;/p&gt;
+
+&lt;p&gt;No e-mail with “thanks” has been sent from your account. At least none that
+you know of.&lt;/p&gt;
+
+&lt;p&gt;This is a good start for planting in your head that Open Source is made by
+humans for humans, and that at some people want to get compensated.
+Somehow. Compensation isn’t about money. I know very small number of people
+who started doing Open Source for money. Consulting or just working
+full-time job are far better ways to achieve that.&lt;/p&gt;
+
+&lt;p&gt;People whom I’ve talked to work on Open Source because:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;it’s interesting&lt;/li&gt;
+  &lt;li&gt;it’s technically challenging&lt;/li&gt;
+  &lt;li&gt;it lets them work remotely&lt;/li&gt;
+  &lt;li&gt;you get to work with experts&lt;/li&gt;
+  &lt;li&gt;you build your online ego&lt;/li&gt;
+  &lt;li&gt;build portfolio&lt;/li&gt;
+  &lt;li&gt;learn new technology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But I feel humans are selfish in nature, and they write and publish software
+because they feel good about it. They didn’t make it to Hollywood, but they
+want to be stars. So they go and hack the code. The better it is, the more
+famous they feel they’ll become.&lt;/p&gt;
+
+&lt;p&gt;You’re not there yet, but might get there one day.&lt;/p&gt;
+
+&lt;p&gt;To get you out of this state you must take an active step. Right now, as you
+read this article.&lt;/p&gt;
+
+&lt;p&gt;Nothing prevents you from showing appreciation for stuff you like
+and use. Do you use Ruby? Go and press “star” on GitHub. You like Rails? Go
+and do the same. You’d really like stars on GitHub, if you owned a project
+there.&lt;/p&gt;
+
+&lt;p&gt;After discussion with a friend of mine I know that for the Apple
+Store around ten percent of people bother to leave the review. Review it’s
+more work than clicking a button, but I’d be surprised to see that this
+number would be bigger than 10–15%. Getting a star there is nice, since I
+like to imagine that for every &lt;code&gt;N&lt;/code&gt; stars I had potentially &lt;code&gt;10N&lt;/code&gt; users who
+inspected and evaluated the repository and maybe used the code.&lt;/p&gt;
+
+&lt;p&gt;Step to next level? Increase your engagement. Algorithm is
+pretty simple: for each visited repository, if you like it, press the “star”
+on GitHub. If you don’t like something, e-mail the author. If you do it
+three times, you can read on.&lt;/p&gt;
+
+&lt;h2 id="you-became-engaged-user-level-2"&gt;You became engaged user (level 2)&lt;/h2&gt;
+
+&lt;p&gt;Engaged user is a great user, and you just became one. You’re watching,
+communicating with authors and trying to help out. Maybe you’ve replied
+“Yes, this bug impacts me too” when someone reported the issue on GitHub.&lt;/p&gt;
+
+&lt;p&gt;This is where the sense of community starts. It’s a really good and strange
+feeling at the same time, because there’s this body of knowledge that you
+can contribute too, and if enough people see value in what you do, they’ll
+help you.&lt;/p&gt;
+
+&lt;p&gt;Engaged users are great, since you can throw them an e-mail and 
+ask the question.
+Or maybe even ask them to test something.
+Engaged user understands that, in most part, making good software is a
+shitty job, since testing and debugging are often awful.
+Engaged users take some of this away.&lt;/p&gt;
+
+&lt;p&gt;There’s nothing terrible about engaged user. You can stay on this level if
+you want. However you can do better than that: become an active user.  Step
+between engagement and being active is pretty small: if you don’t like the
+documentation, report an issue. Maybe try to change something. Spotted a
+typo? This is a great way to start and get familiar.&lt;/p&gt;
+
+&lt;p&gt;Ticket to the next level: figure out what bothered you in your favorite
+Open Source project. If it’s a bug, fix it. If you don’t know how, try to
+ask how this could be fixed. Try to reach out to developers and ask if they
+need help. Let them know how advanced you are, and most often you’ll get
+tasks adjusted to your skill level. To progress to the next level, try to do
+this at least three times.&lt;/p&gt;
+
+&lt;h1 id="youre-an-open-source-contributor-level-3"&gt;You’re an Open Source contributor (level 3)&lt;/h1&gt;
+
+&lt;p&gt;Welcome, Welcome.&lt;/p&gt;
+
+&lt;p&gt;You’ve made first steps to become not only engaged user, but engaged
+contributor. Well done. But what does it mean?&lt;/p&gt;
+
+&lt;p&gt;That you reported an issue? You complained about documentation? Or maybe
+some missing feature?&lt;/p&gt;
+
+&lt;p&gt;No. It means that instead of complaining, you’ve taken a control over the
+situation and decided to step up, roll up your sleeves and do some real dirty
+work.&lt;/p&gt;
+
+&lt;p&gt;Typically you’ll get here through triaging a problem. There will be a audio or
+graphics or Internet program of some sort, and you’ll use it every day. And
+every day you’ll hit some annoying issue, where you have to restart some
+chunk of work, because a program crashed. Or something similar–you get the
+point.&lt;/p&gt;
+
+&lt;p&gt;Afterwards you’ll start to think that instead of dealing with this nonsense,
+you can actually save time and effort and fix the problem once and for all.
+You’ll get the program source, build it by yourself, and then start looking
+inside, under the hood in hope you can fix it.&lt;/p&gt;
+
+&lt;p&gt;Failure after failure you will start to understand just about enough to
+shoot an e-mail to the author:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Listen, I’m using your program X. It worked fine two months now and I
+upgraded my computer, and I think you expect me to have the directory
+“Projects” on my desktop. I don’t have that now, and the program crashes..&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is good stuff. Once you become more advanced you’ll start making your
+fixed. You’ll go, clone the code, make a branch, make fixes, and commit the
+code. You’ll then make the pull request to the original author. Explain why
+you made changes, and then maybe argue a little. Maybe a bit of back and
+forth. But in general: you’ll get your code merged in for the benefit of
+future generations.&lt;/p&gt;
+
+&lt;p&gt;This is good level to be at. You’ll start to feel good here, since you’ll
+start getting comfortable with the code, contacting unknown people around
+the world, fixing their code and complaining.&lt;/p&gt;
+
+&lt;p&gt;Contributions sometimes are hit and miss. Not always will your changes be
+merged. But each time this happens, you feel good. You will get a spike of
+good feelings of accomplishment.&lt;/p&gt;
+
+&lt;p&gt;Well done. I think once you’re here, it’ll be inevitable to progress to the
+next stage: contributing your own inventions and programs.&lt;/p&gt;
+
+&lt;h1 id="youre-an-open-source-author-level-4"&gt;You’re an Open Source author (level 4)&lt;/h1&gt;
+
+&lt;p&gt;Open Source authors are like contributors, but they put out their own tools.
+The tools you can publish are basically anything that you’ve made.
+Feel free to be inventive and creative.&lt;/p&gt;
+
+&lt;p&gt;Shell script? Automation framework? Piece of Python, Ruby, AppleScript?
+Anything works.&lt;/p&gt;
+
+&lt;p&gt;To be a valued Open Source author you can’t however push a total crap in the
+world. Code that doesn’t work, doesn’t compile, doesn’t explain itself is a
+terrible addition to the community. It also isn’t very valuable if you don’t
+explain through the documentation what your code does.&lt;/p&gt;
+
+&lt;p&gt;So strive for good enough quality. Not perfect, because I think perfection
+is an enemy of the invention. Try to make it good enough. Something that
+maybe wouldn’t give you A+, but maybe around B.&lt;/p&gt;
+
+&lt;p&gt;This is critical, because getting to A+ is hard for the first time, and is
+likely to lead to not publishing at all. This is good, if the result would
+be crap that doesn’t build and just pollutes the GitHub. But in principle is
+bad, since who knows – perhaps you’ve solved a problem many other users
+struggled with?&lt;/p&gt;
+
+&lt;p&gt;As an author you’re almost like a chief of command. Now once your code is
+baked, you must serve it. You should try to make some noise about it.
+Otherwise nobody will know that you’ve built something. Use LinkedIn,
+Twitter, Facebook, GitHub, mailing lists, IRC. Let interested parties know
+you’ve built something.&lt;/p&gt;
+
+&lt;p&gt;And if it gets at least 1 GitHub “star”, well done. You’ve unlocked yourself
+gates to the very next, and last, level.&lt;/p&gt;
+
+&lt;h1 id="youre-an-open-source-maintainer-level-5"&gt;You’re an Open Source maintainer (level 5)&lt;/h1&gt;
+
+&lt;p&gt;Open Source maintainer. Who would have thought? Unlike other levels, here I
+don’t know if I should congratulate you, or feel sorry for you.
+This is the most prestigious role which you’re punished with.&lt;/p&gt;
+
+&lt;p&gt;You’ll get bug requests from angry users. Users, who don’t pay you anything,
+but have requirements. You’ll handle broken builds. Builds, which worked
+fine in the past, but don’t anymore, because software has been updated, and
+old axioms no longer hold true.&lt;/p&gt;
+
+&lt;p&gt;On purpose I mention the maintainers last, since this stage takes forever.
+I already covered it in the past, but I’ll rephrase: maintenance is
+expensive, and people doing it for free must get recognition.&lt;/p&gt;
+
+&lt;p&gt;Maintenance requires a lot of effort. If you wrote all the code, that’s
+easier. Bigger projects are worse. You’re read the code written many years
+ago by other people. This is hard, most of the time. No documentation,
+nobody to ask. You’re basically exposing yourself to go through the pain
+which the original authors endured. This knowledge isn’t captured anywhere
+most of the time (sometimes it is: in the unit tests, but that’s very rare
+to have a good unit tests.)&lt;/p&gt;
+
+&lt;p&gt;There’s set of activities that are really boring, but necessary that the
+maintainer does: reply to e-mails, reply to issues and bug reports, review
+code, make sure no regressions are introduced. The last one is especially
+hard, since you don’t know who downloaded the code and is using it
+somewhere. This is really bad about the Open Source: usage metrics are hard
+to get.&lt;/p&gt;
+
+&lt;p&gt;In general however I find the maintainer job to have some charm, at the end
+of a day. Why? Because this is where I believe you shine as a software
+engineer. Taking care of the whole stack of issues and finding ways to
+manage them: this to me is the level of performance you should strive for.&lt;/p&gt;
+
+&lt;p&gt;This is also where proper methods shine. If you get emails and bug-reports,
+you’ll find that unit test suite actually really helps. And it’s nice to
+codifying your knowledge as tests. Got a bug report? Can reproduce it? Great.
+As a part of fixing it, put the unit test reproducing the problem first.
+Then fix the problem and make the test pass.&lt;/p&gt;
+
+&lt;p&gt;Overall I think maintainers don’t get enough credit. Send kudos, e-mails,
+cheers, tweets and other forms of appreciation to maintainers of your
+favoring projects.&lt;/p&gt;
+
+&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Where are you on this scale? I bet somewhere around 0–2.
+People around level 3-4 are seeking ways of improvement, so they &lt;em&gt;might&lt;/em&gt;
+somehow find this article in Google and maybe bleed through it one line at a
+time.
+I doubt anybody at the 5th level listened to what I had to say here.
+If you did, shoot me an e-mail.
+My hope is that you’ve found it helpful and maybe got a little bit of
+distress and a bit of motivation, and you’ll enter the Open Source ladder
+and start climbing up. Good luck and e-mail me about how it’s going.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Movies every software engineer should watch</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/03/13/movies-every-software-engineer-should-watch/"/>
+    <id>http://www.koszek.com/blog/2017/03/13/movies-every-software-engineer-should-watch/</id>
+    <published>2017-03-13T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;This is a live list of movies I enjoyed. They assist
+me till now. I often think of scenes from some of these titles.
+They spark my imagination, and bring some smile.&lt;/p&gt;
+
+&lt;h2 id="triumph-of-the-nerds"&gt;Triumph of the Nerds&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/Riding-the-Bear/dp/B01N6AJPQA/ref=as_li_ss_il?s=instant-video&amp;amp;ie=UTF8&amp;amp;qid=1489978286&amp;amp;sr=1-1&amp;amp;keywords=The+Triumph+of+the+Nerds&amp;amp;linkCode=li2&amp;amp;tag=wkoszek08-20&amp;amp;linkId=270c3ffee65cb42a91b011b40dfffc08" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B01N6AJPQA&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wkoszek08-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B01N6AJPQA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Very interesting documentary on Silicon Valley history.&lt;/p&gt;
+
+&lt;h2 id="something-ventured"&gt;Something Ventured&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/Something-Ventured-Nolan-Bushnell/dp/B00WJT5ZBE/ref=as_li_ss_il?s=instant-video&amp;amp;ie=UTF8&amp;amp;qid=1489976556&amp;amp;sr=1-1&amp;amp;keywords=something+ventured&amp;amp;linkCode=li2&amp;amp;tag=wkoszek08-20&amp;amp;linkId=7bb336ee8d1789529454a5a10de5111a" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B00WJT5ZBE&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wkoszek08-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B00WJT5ZBE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Silicon Valley is made out of a mix of investors and engineers, and this
+movie shows this real tight collaboration between the two. It has some
+computer legends, and I can’t speak highly enough about it.&lt;/p&gt;
+
+&lt;h2 id="pirates-of-silicon-valley"&gt;Pirates of Silicon Valley&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/Pirates-Silicon-Valley-Noah-Wyle/dp/B0009NSCS0/ref=as_li_ss_il?_encoding=UTF8&amp;amp;psc=1&amp;amp;refRID=8GCMZ6H1MD34RED8V71P&amp;amp;linkCode=li2&amp;amp;tag=wkoszek08-20&amp;amp;linkId=f4f98ec46c1d330c62d81761b09945eb" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B0009NSCS0&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wkoszek08-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B0009NSCS0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steve Jobs #1.&lt;/p&gt;
+
+&lt;h2 id="jobs"&gt;Jobs&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/JOBS-Blu-ray-DVD-Digital-UltraViolet/dp/B00BEIYLAW/ref=as_li_ss_il?_encoding=UTF8&amp;amp;pd_rd_i=B00BEIYLAW&amp;amp;pd_rd_r=BSVNM28G5HGA2AFCS5WV&amp;amp;pd_rd_w=heczN&amp;amp;pd_rd_wg=KouOy&amp;amp;psc=1&amp;amp;refRID=BSVNM28G5HGA2AFCS5WV&amp;amp;linkCode=li2&amp;amp;tag=wkoszek08-20&amp;amp;linkId=540760151fe82c3b810ffd3f35bf1c91" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B00BEIYLAW&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wkoszek08-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B00BEIYLAW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Steve Jobs #2.&lt;/p&gt;
+
+&lt;h2 id="hackers"&gt;Hackers&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/Hackers-Jonny-Lee-Miller/dp/6305047456/ref=as_li_ss_il?ie=UTF8&amp;amp;linkCode=li2&amp;amp;tag=wkoszek08-20&amp;amp;linkId=72f64c2f914a0d940b5110f2136e3251" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=6305047456&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wkoszek08-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=6305047456" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Classic. With Angelina Jolie. Need I say more? My journey with computers
+started from security, and this movie is what I believed hacking is like. 
+Watch at least once.&lt;/p&gt;
+
+&lt;h2 id="terminator-2"&gt;Terminator 2&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/Terminator-2-Judgment-Arnold-Schwarzenegger/dp/B000JNN0SM/ref=as_li_ss_il?s=movies-tv&amp;amp;ie=UTF8&amp;amp;qid=1489976382&amp;amp;sr=1-1&amp;amp;keywords=terminator+2&amp;amp;linkCode=li2&amp;amp;tag=wkoszek08-20&amp;amp;linkId=f954637e6cd44dc4e389bbc4d8afe329" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B000JNN0SM&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wkoszek08-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B000JNN0SM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;When I think science-fiction, I think Arnold Schwarzenegger as a humanoid robot. I
+think of a picture of a cyborg crushing a skull. I think about 6502 assembly
+language snippets printed out on the inside of my glasses.&lt;/p&gt;
+
+&lt;h2 id="the-social-network"&gt;The Social Network&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/Social-Network-Two-Disc-Collectors/dp/B0034G4P7G/ref=as_li_ss_il?ie=UTF8&amp;amp;linkCode=li2&amp;amp;tag=wkoszek08-20&amp;amp;linkId=3c51c50d8affe429dc2e135be82fefd6" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B0034G4P7G&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wkoszek08-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B0034G4P7G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Many people, many mixed opinions. Judge by yourself.&lt;/p&gt;
+
+&lt;h2 id="matrix"&gt;Matrix&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/Matrix-Keanu-Reeves/dp/B000HAB4KS/ref=as_li_ss_il?s=instant-video&amp;amp;ie=UTF8&amp;amp;qid=1489978381&amp;amp;sr=1-1&amp;amp;keywords=the+matrix&amp;amp;linkCode=li2&amp;amp;tag=wkoszek08-20&amp;amp;linkId=884c478794eefe8ca533b552bdebda88" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B000HAB4KS&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wkoszek08-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=B000HAB4KS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first part of the trilogy is the best, in my opinion, but it’s in the
+“The Matrix Reloaded” that Trinity is using &lt;code&gt;nmap&lt;/code&gt; for hacking.&lt;/p&gt;
+
+&lt;p&gt;If I’ve missed any movies, definitely let me know – I’d like to
+watch them. And if I like them, I’ll add them to the list.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How to use Ansible Vault with LastPass</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/03/05/how-to-use-ansible-vault-with-lastpass/"/>
+    <id>http://www.koszek.com/blog/2017/03/05/how-to-use-ansible-vault-with-lastpass/</id>
+    <published>2017-03-05T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;There are several competitors for password managers.
+I use &lt;a href="https://www.lastpass.com"&gt;LastPass&lt;/a&gt;, because it has an Open Source &lt;a href="https://github.com/lastpass/lastpass-cli"&gt;command line client&lt;/a&gt;.
+This is an officially supported tool, maintained by the LastPass itself.
+I haven’t audited the code; I have just looked at several &lt;code&gt;.c&lt;/code&gt; files, and
+it seamed decent. Code has been around since 2014, so in the last three
+years I suspect both good and bad guys had a chance to find issues.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://docs.ansible.com/ansible/playbooks_vault.html"&gt;Ansible Vault&lt;/a&gt; is a &lt;a href="https://www.ansible.com"&gt;Ansible&lt;/a&gt; solution for managing secrets.  Principle
+is similar to LastPass: you have a blob file protected by a master password.
+When you deploy code to the server, this blob is unencrypted and passwords
+are put in the right place of your choice. So for example &lt;code&gt;database.php&lt;/code&gt; may
+have a database password placeholder, and Ansible will put a password there,
+but just during deployment. The code in Git won’t have this password in
+plain-text. People use Vault because “blob file” can be checked-in to the
+Git repository.  It’s secure as long as your master password is very strong.&lt;/p&gt;
+
+&lt;p&gt;Here I will show you how to keep this Ansible Vault password strong by using
+LastPass, its command-line client, and the &lt;a href="https://github.com/wkoszek/lastpass-ansible"&gt;lastpass-ansible&lt;/a&gt; tool which I
+wrote.
+At the end, your flow will enable you
+to login to LastPass from the command line. You’ll do it just once, during
+your work session.
+Then, you’ll be able to keep using Ansible Vault with your passwords
+automatically channeled from LastPass.&lt;/p&gt;
+
+&lt;p&gt;This is a sister-tool to &lt;a href="https://github.com/wkoszek/lastpass-ssh"&gt;lastpass-ssh&lt;/a&gt; which does the same thing for SSH
+key passphrases.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-03-05-how-to-use-ansible-vault-with-lastpass/james-sutton-187816_10p.jpg" alt="alt_text_0" title="Image_text_0" /&gt;
+&lt;br /&gt;
+&lt;small&gt;&lt;small&gt;&lt;small&gt;
+&lt;em&gt;(Photo by &lt;a href="https://unsplash.com/@jamessutton_photography"&gt;James Sutton&lt;/a&gt; via &lt;a href="https://www.unsplash.com"&gt;Unsplash&lt;/a&gt;)&lt;/em&gt;
+&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id="how-to-install"&gt;How to install&lt;/h2&gt;
+
+&lt;p&gt;You install the tool in the terminal:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;gem install lastpass-ansible
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="how-to-use"&gt;How to use&lt;/h2&gt;
+
+&lt;p&gt;You must point Ansible to use &lt;code&gt;lastpass-ansible&lt;/code&gt;:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;export ANSIBLE_VAULT_PASSWORD_FILE=`command -v lastpass-ansible`
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Now assume you’re in your web application directory:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;cd ~/Projects/my_web_app
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;To initialize everything, do:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;lastpass-ansible --init
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This will create a new 30-character long password and put it in
+&lt;code&gt;Ansible_Vault/my_web_app&lt;/code&gt; LastPass hierarchy. If you want to “transfer” your vault
+file &lt;code&gt;secrets.yml&lt;/code&gt; to &lt;code&gt;lastpass-ansible&lt;/code&gt;, copy the new password to clipboard:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;lpass show -c -p Ansible_Vault/my_web_app
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And just re-key (change password) for your existing vault:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;ansible-vault rekey secrets.yml
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Type your old password, and paste your new password.&lt;/p&gt;
+
+&lt;p&gt;File &lt;code&gt;.lastpass-ansible.conf&lt;/code&gt; has been created along with the password. You
+can remove this file if the hierarchy &lt;code&gt;Ansible_Vault/....&lt;/code&gt; is fine with you.&lt;/p&gt;
+
+&lt;h2 id="more-details-and-custom-settings"&gt;More details and custom settings&lt;/h2&gt;
+
+&lt;p&gt;If you’re a picky person and you don’t like &lt;code&gt;Ansible_Vault&lt;/code&gt; OR you want to
+point &lt;code&gt;lastpass-ansible&lt;/code&gt; to an existing hierarchy of your passwords, just stick it
+to &lt;code&gt;.lastpass-ansible.conf&lt;/code&gt;.  It’s format is very easy:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;# lastpass-ansible configuration file. For more details read:
+# https://github.com/wkoszek/lastpass-ansible
+MyWebSites/my_web_app
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The order of lookup for this LastPass site name is:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code&gt;.lastpass-ansible.conf&lt;/code&gt; file&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;LASTPASS_ANSIBLE_NAME&lt;/code&gt; environment variable&lt;/li&gt;
+  &lt;li&gt;Name guessed based on a directory: “Ansible_Vault” + name&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It should be safe to commit &lt;code&gt;.lastpass-ansible.conf&lt;/code&gt; to your repository.
+If you’re paranoid, just use &lt;code&gt;LASTPASS_ANSIBLE_NAME&lt;/code&gt; environment variable
+for passing this name. Otherwise just use the guessed name. I think it’s the
+most convenient.&lt;/p&gt;
+
+&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Shoot me an email if this flow worked for you&lt;/strong&gt;.
+I used a shell-based equivalent of this flow for some time and it worked all
+right.  The &lt;code&gt;lastpass-ansible&lt;/code&gt; is my attempt to bring it to more people to
+help with productivity. My hope is to improve this method by
+exposing it to people and getting some criticism. Let me know if you find
+bugs or issues here.&lt;/p&gt;
+
+&lt;h2 id="github"&gt;GitHub&lt;/h2&gt;
+
+&lt;p&gt;It’s maintained in this GitHub repository:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://github.com/wkoszek/lastpass-ansible"&gt;https://github.com/wkoszek/lastpass-ansible&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://travis-ci.org/wkoszek/lastpass-ansible"&gt;&lt;img src="https://travis-ci.org/wkoszek/lastpass-ansible.svg?branch=master" alt="Build Status" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>What's the most expensive stage of software engineering?</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/02/28/whats-the-most-expensive-stage-of-software-engineering/"/>
+    <id>http://www.koszek.com/blog/2017/02/28/whats-the-most-expensive-stage-of-software-engineering/</id>
+    <published>2017-02-28T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img src="/img/2017-02-28-whats-the-most-expensive-in-software/pandu-agus-wismoyo-196366_10p.jpg" alt="alt_text_0" title="worker" /&gt;
+&lt;br /&gt;
+&lt;small&gt;&lt;small&gt;&lt;small&gt;
+&lt;em&gt;(Photo by &lt;a href="https://unsplash.com/@kangterbang"&gt;Yatesndu Agus Wismoyo&lt;/a&gt; via &lt;a href="https://www.unsplash.com"&gt;Unsplash&lt;/a&gt;)&lt;/em&gt;
+&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Imagine we’re starting a software project together this year.
+It will run in production, and serve a large amount of live customer
+traffic.
+Its lifespan may look like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-02-28-whats-the-most-expensive-stage-of-software-engineering/sw_graph_50p.jpg" alt="alt_text_3" title="Image_text_3" /&gt;&lt;/p&gt;
+
+&lt;p&gt;If this cycle of maintenance is long enough, it can overweight the cost of
+all previous stages. I &lt;a href="https://travis-ci.org/wkoszek/"&gt;do have projects&lt;/a&gt;
+which are considered “finished”: all the features are there, and as much as
+you can’t make a hammer any better, neither can I any of these projects.
+But for the most part, the software story is a little different: it’ll
+always be a recipe, but the kitchen, ingredients, pans or people will change over
+time. These adjustments cost money.&lt;/p&gt;
+
+&lt;p&gt;My guess is that with the majority of production software, the graph from above is true.
+We put a lot of effort upfront and make something that works well. And then we
+keep running it, patching bugs, enhancing it, patching bugs in these
+enhancements, and so on. We do it forever. Or at least, for a very long time.
+People who wrote the code may not be around anymore, so you need to train
+new people. &lt;a href="http://www.popularmechanics.com/space/a17991/voyager-1-voyager-2-retiring-engineer/"&gt;Not only NASA&lt;/a&gt;
+has this problem.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="http://www.netbsd.org"&gt;NetBSD&lt;/a&gt; and &lt;a href="http://www.freebsd.org"&gt;FreeBSD&lt;/a&gt;
+repositories you can see that people patch bugs which are fifteen year old.
+How much money do you think it’d take to add a new feature in PostgresSQL?&lt;/p&gt;
+
+&lt;p&gt;In that sense software is a complete opposite to computer hardware. 
+A supercomputer &lt;a href="http://techland.time.com/2012/06/19/what-exactly-is-a-supercomputer/"&gt;can cost $100M&lt;/a&gt;,
+but energy to keep it alive is $10M a year. You only run it for maybe three years, it becomes too slow and you
+decommission it. Supercomputer lifespan ruled by the aging of the silicon is
+the same as your smartphone. Two years and we get bored.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You should focus on optimizing maintenance&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II"&gt;Joint Stike Fighter&lt;/a&gt;
+is close to what software maintenance is about.
+The cost estimate for the JSF program is $1.508T dollars, where $379B is development. The
+$1123B is maintenance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-02-28-whats-the-most-expensive-in-software/sw_main_75p.jpg" alt="alt_text_5" title="Image_text_5" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Life expectancy: till 2070.&lt;/p&gt;
+
+&lt;p&gt;Next time you stick five incoherent lines into your code with hopes that “we
+will fix it later”, imagine how “later” will feel like for someone who will
+look at your code. Fifteen years from now. Or fifty.&lt;/p&gt;
+
+&lt;h3 id="you-may-also-like"&gt;You may also like&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.koszek.com/blog/2017/02/18/making-pull-requests-that-merge/"&gt;Pull requests that merge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.koszek.com/blog/2017/01/17/reading-for-software-engineers/"&gt;Reading 101 for software engineers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.koszek.com/blog/2016/05/16/use-as-few-tools-as-possible/"&gt;Use as few tools as possible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Making pull requests that merge</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/02/18/making-pull-requests-that-merge/"/>
+    <id>http://www.koszek.com/blog/2017/02/18/making-pull-requests-that-merge/</id>
+    <published>2017-02-18T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;The role of the software architect is to reject bad code, push back on
+unnecessary features and prevent the project from accumulating cruft.
+I use the term “software architect” here to match the professional
+environment, but it can apply to any independent software developer,
+including Open Source software engineers writing projects they love and talk
+about.
+When you make a change to the software source code, you will need to pass a
+judgement of a software architect.
+To bring your code into the project upstream, there are two angles
+you’ll be evaluated from: technical and social.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-02-18-making-pull-requests-that-merge/stephen-crowley-110321_15p.jpg" alt="alt_text_1" title="Image_text_1" /&gt;
+&lt;br /&gt;
+&lt;small&gt;&lt;small&gt;&lt;small&gt;
+&lt;em&gt;(Photo by &lt;a href="https://unsplash.com/@crowleystephen"&gt;Stephen Crowley&lt;/a&gt; via &lt;a href="https://www.unsplash.com"&gt;Unsplash&lt;/a&gt;)&lt;/em&gt;
+&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Social angle isn’t very complex, as we’re talking
+about communicating clearly with the project leaders, and explaining why you
+want to make a code change. Sometimes it’s clear and obvious, for example, when
+you’ve made a bug fix. Paragraph or two should suffice to make your
+intentions apparent. If you do this properly, and you’re half done.&lt;/p&gt;
+
+&lt;p&gt;Technical angle is harder. Owners have their
+point of view on a project, their ideas, and their plans, and you must
+align yourself with all of them.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the company you’ll have these wishes and
+ work items broken down to tickets, so understanding whether you’re aligned
+ is pretty easy. Are you working on a ticket? No? Well, you’re not aligned. I
+ argue that contributing to software in the professional setting is easier.
+ In the Open Source world, we rarely have work items. We’re fortunate we have
+ a wishlist.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Let’s talk about this alignment here. During our discussion let’s
+assume you’re attempting to bring from twenty to fifty lines of new code to my software
+package. Without the change, the functionality you want isn’t there. How do I
+evaluate your change?&lt;/p&gt;
+
+&lt;h2 id="why-does-author-of-a-change-matter"&gt;Why does author of a change matter?&lt;/h2&gt;
+
+&lt;p&gt;New change submission is a new notification e-mail to me.  Just
+like for every letter in your mailbox, I look at the source.  Known people
+get more attention and higher priority, and cold-calling attempts get less.
+The latter happens rarely at work, within one team, and more often with
+Open Source.
+Subconciously I feel that dealing with an unknown person will be more work, so I
+procrastinate. If the project is mine, handling this communication is
+fine with me, because after all, well being of my software is my business.
+I must handle code change requests promptly. For the Open Source software I
+can say that if the contributor took the effort to make a pull request, it’s
+possible that the code change is fine. Maybe one percent of people do it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note we can possibly talk about some bias here.  I’d love to see someone
+make an experiment, and remove contributors names whatsoever. You’d receive
+a request for code review, but without know who it is.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id="why-keeping-small-size-is-important"&gt;Why keeping small size is important?&lt;/h2&gt;
+
+&lt;p&gt;Numbers of lines you change is proportional to the time I need to
+spend reviewing them. Change only the lines which are absolutely required.
+I like very minimalistic changes, which do just one thing. It’s
+pretty easy to read your modification when you conform to this rule.
+Remember the documentation and tests, and you’re on your way to having me press
+“Merge” button, and getting your code incorporated. Make no changes to style
+in parallel with functional changes. &lt;strong&gt;Never&lt;/strong&gt;. This makes the code review
+very hard. I really care about size, because I make most of mistakes in my
+software when I change too many lines at once, and I simply can’t
+effectively review my patches afterwards anymore.&lt;/p&gt;
+
+&lt;h2 id="importance-of-coding-style"&gt;Importance of coding style&lt;/h2&gt;
+
+&lt;p&gt;New code must follow existing style.
+The reason is that
+inconsistency makes the software hard to maintain, and the software
+maintainance is the most expensive, as it lasts the longest. Do not make the
+maintenance hard, ever, and the authors will appreciate you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-02-18-making-pull-requests-that-merge/markus-spiske-109588_10p.jpg" alt="alt_text_1" title="Image_text_1" /&gt;
+&lt;br /&gt;
+&lt;small&gt;&lt;small&gt;&lt;small&gt;
+&lt;em&gt;(Photo by &lt;a href="https://unsplash.com/@markusspiske"&gt;Markus Spiske&lt;/a&gt; via &lt;a href="https://www.unsplash.com"&gt;Unsplash&lt;/a&gt;)&lt;/em&gt;
+&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;If you bring many lines with mismatched style, this would make project worse
+as a result, and I can’t bring your change it. Style to some extent can be
+verified automatically, with an external tool, like &lt;code&gt;indent&lt;/code&gt; for ANSI C, of
+&lt;code&gt;gofmt&lt;/code&gt; for Go Programming Language. It’ll only catch formatting, but won’t
+help you with variable names or comments. You can read more about style
+issues in &lt;a href="http://amzn.to/2kzYGqO"&gt;Code Complete&lt;/a&gt; and &lt;a href="http://amzn.to/2lVSSbe"&gt;Clean Code&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Experienced engineers are pedantic about style, and so should you, if you
+want to follow their ranks.&lt;/p&gt;
+
+&lt;h2 id="getting-to-actual-change-logic"&gt;Getting to actual change logic&lt;/h2&gt;
+
+&lt;p&gt;Previous conditions I have explained in detail, but they may
+translate to first ten seconds of work required. The next ninenty
+nine percent will involve thinking through the your code.
+Easy changes will take a minute or less: one or two &lt;code&gt;if&lt;/code&gt; conditions added.
+This is the type of change I’d receive for some of
+&lt;a href="http://github.com/wkoszek"&gt;my hobby pet projects&lt;/a&gt;
+available over GitHub.
+Complex changes can take me hours to analyze.&lt;/p&gt;
+
+&lt;h2 id="code-coverage"&gt;Code coverage&lt;/h2&gt;
+
+&lt;p&gt;It’s very important that I see how you tested the code.
+Better yet, I’d love to get a single command to reproduce your
+results. First I’ll check whether the change does what you say.
+I will try to match the intention of your code (the social part) to the code
+(technical part).&lt;/p&gt;
+
+&lt;p&gt;Well-managed projects will use
+&lt;a href="https://en.wikipedia.org/wiki/Continuous_integration"&gt;continuous integration&lt;/a&gt;
+for testing,
+so this stage will be automatic. If automatic tests don’t pass, I don’t look at your change.
+You must ensure that everything passes (so called: “build is green”) to get
+attention.
+If you provide the tests for your new code, then it’s excellent.
+If the original project didn’t have any tests, try to improvise, and add
+something like &lt;code&gt;testthis.sh&lt;/code&gt; script to verify the functionality.&lt;/p&gt;
+
+&lt;p&gt;Then I’d like to see if any of the previous functionality broke, by simply
+running the code. This is the final step.  And just like with the previous
+ones: the less work I need to sacrifice for your change and prove that the
+code works, the bigger the chances are for getting your code in.&lt;/p&gt;
+
+&lt;h2 id="documentation"&gt;Documentation&lt;/h2&gt;
+
+&lt;p&gt;This is pretty essential. I really dislike when I see some
+indication of functionality I use, but when I don’t know how to invoke it.
+Always remember that for one writer there are one hundreds readers of code,
+and they will thank you for providing them hints of the functionality. Do
+it, and once again – chances of “Merge” button being pressed grow rapidly.&lt;/p&gt;
+
+&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Comments included here will make you a better expert. I believe that
+by following these suggestions, your pull requests will be merged faster,
+and you’ll progress faster in your career too. &lt;strong&gt;Let me know how it goes and
+whether you think anything is missing from this list&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You may also like&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“&lt;a href="http://www.koszek.com/blog/2015/06/29/how-best-companies-do-continuous-integration"&gt;How best companies do continuous integration&lt;/a&gt;”&lt;/li&gt;
+  &lt;li&gt;“&lt;a href="http://www.koszek.com/blog/2015/07/28/optimize-for-developers-time"&gt;Optimize for developer’s, not machine’s time&lt;/a&gt;”&lt;/li&gt;
+  &lt;li&gt;“&lt;a href="http://www.koszek.com/blog/2016/04/11/dont-document-automate"&gt;Don’t document. Automate!&lt;/a&gt;”&lt;/li&gt;
+  &lt;li&gt;“&lt;a href="http://www.koszek.com/blog/2017/02/06/how-much-software-engineer-should-invest-in-career-growth"&gt;How much software engineer should invest in career growth&lt;/a&gt;”&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>Learn programming: self study guide</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/02/13/learn-programming-self-study-guide/"/>
+    <id>http://www.koszek.com/blog/2017/02/13/learn-programming-self-study-guide/</id>
+    <published>2017-02-13T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;The advice you will get here is a true and honest take on how I believe you
+should start programming computers, and how you can self-educate yourself in
+a programming craft. I know how to do it because I went through this process
+by myself and I know exactly where the pain points are. I don’t talk about
+any specific books, as other people have done it already. I only talk about
+methodology and mental side of studying.&lt;/p&gt;
+
+&lt;p&gt;Before we start let me give you a hint for learning programming: you
+should find someone who will show you what programming computers is all
+about. At least the basic steps. The teacher who’s familiar with the writing
+software will be an extreme leverage, and will accelerate your learning by
+an order of magnitude. Remember: having a mentor like this isn’t cheating.
+It’s giving yourself competitive advantage.&lt;/p&gt;
+
+&lt;p&gt;Here we talk about situation where you don’t have a person like this in your
+life or if you just want to do it all by yourself. Maybe to prove yourself?&lt;/p&gt;
+
+&lt;h1 id="what-do-you-want-to-build"&gt;What do you want to build?&lt;/h1&gt;
+
+&lt;p&gt;The problem I see with teaching and teachers in general is that it’s often
+unclear to you what the end goal is. Teachers often make the target of your
+study to be unknown. For self-study it’s even worse. There’s no teacher
+here. So you need to ask yourself: what will you do once you know
+programming language X? Why do you want to learn at all?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-02-13-learn-programming-self-study-guide/4sqbziu_imq-joseph-yates_10p.jpg" alt="alt_text_0" title="Image_text_0" /&gt;
+&lt;br /&gt;
+&lt;small&gt;&lt;small&gt;&lt;small&gt;
+&lt;em&gt;(Photo by &lt;a href="https://unsplash.com/@josephyates\_"&gt;Joseph Yates&lt;/a&gt; via &lt;a href="https://www.unsplash.com"&gt;Unsplash&lt;/a&gt;)&lt;/em&gt;
+&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;In my opinion your end goal must be building a software product. Something
+you can use, or something you can show to other people. Something that is
+“cool” to you. This should be your ultimate motivation. You learn to have
+enough skill and knowledge to go from zero to something working on your
+computer, and then possibly on your friend’s computer. Use this hint:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I want to learn programming because I want to build ……..&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Until you know what to put in dots, you should think of the whole
+programming idea a little more. Unless you’re naturally driven to computers,
+learning programming will be as delightful as chewing a printer paper
+otherwise.&lt;/p&gt;
+
+&lt;p&gt;This project-target will also be your motivator in the moments of weakness,
+where programming will just seem boring and plain dull. Think of something
+before you start. It should be simple, yet interesting. Examples of things
+worth tackling are to-do lists, note taking programs, simple calculators,
+and so on.&lt;/p&gt;
+
+&lt;h1 id="attitude"&gt;Attitude&lt;/h1&gt;
+
+&lt;p&gt;If you’re impatient, even now, as we converse
+here and you can’t wait till I “finally” get to talk about “real programming
+topics”, programming will be a challenge for you. If you get frustrated
+often by solving problems or getting discouraged because you can’t get stuff
+to work, do know: it’s exactly what software is about. It’s about solving
+problems, and most of the time when we talk about “programming” we’re
+struggling, because things don’t work. When things start to work, you are
+happy for five minutes, and then move on to other broken stuff. Think of
+writing software as solving a puzzle and someone finding and putting more
+new pieces on your table.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-02-13-learn-programming-self-study-guide/uuw4psob388-david-siglin_10p.jpg" alt="alt_text_6" title="Image_text_6" /&gt;
+&lt;br /&gt;
+&lt;small&gt;&lt;small&gt;&lt;small&gt;
+&lt;em&gt;(Photo by &lt;a href="https://unsplash.com/@dsiglin"&gt;David Siglin&lt;/a&gt; via &lt;a href="https://www.unsplash.com"&gt;Unsplash&lt;/a&gt;)&lt;/em&gt;
+&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Also set your expectation low for results you’ll get in the first several
+weeks. Very low. It will be as simple as printing something on the screen at
+most. And the more enthusiastic you are about large number of little things,
+and achieving big goals with small steps, the more successful you’ll be. But
+know that building a dynamic website isn’t very much different from printing
+something on the screen. Don’t get discouraged. Be patient.&lt;/p&gt;
+
+&lt;h1 id="how-much-to-study"&gt;How much to study&lt;/h1&gt;
+
+&lt;p&gt;Gaining a new skill is about achieving a good ratio between studying and
+practicing. This ratio, if gotten wrong, will prohibit you from learning and
+burn your excitement. If I were to show you how this distribution should
+look like for people in the software field, I’d present it with the
+following table:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style="text-align: left"&gt;Study time&lt;/th&gt;
+      &lt;th style="text-align: left"&gt;Practicing&lt;/th&gt;
+      &lt;th style="text-align: left"&gt;Result&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: left"&gt;10%&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;90%&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;You’re a professional software engineer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: left"&gt;50%&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;50%&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;You’re destined to success long-term&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: left"&gt;75%&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;25%&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;You’re jump-starting yourself&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style="text-align: left"&gt;90%&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;10%&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;You’re a procrastinator&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The way I see this table is pretty simple: if you keep only reading but
+don’t do exercises and don’t get your hands dirty, you won’t learn anything.
+If you start a new field, you need to read a lot to do basic stuff. And the
+more advanced you get, the less you actually need to read, and the more that
+you can devote to writing software. After some years of experience
+you’ll mostly concentrate on new stuff: updating your skills and knowledge.&lt;/p&gt;
+
+&lt;p&gt;Think of your interest in programming as a fire, and a study time as a fire
+wood and lighter fluid. When you start the fire, you pour a lot of this
+liquid in, just to see any effect. You’ll then add skinny wooden strips
+first. When the fire is started, you’ll throw in two big wooden blocks. When
+the fire is fully developed, you can just add a solid wooden block every now
+and then. Fire will keep going on.&lt;/p&gt;
+
+&lt;h1 id="how-to-study"&gt;How to study&lt;/h1&gt;
+
+&lt;p&gt;Everyone is different, so you’ll have to adjust your study technique, but
+let me tell what works best for me. My suggestion to you is this: if you’ve
+just picked up programming, for every hour that you have for your study
+session, read a book for forty five minutes. Read slowly, with a high
+percentage of understanding. Books about computers and programming are very
+dense and packed with knowledge. It’s closer to math than it is to prose.
+Reading one page for several minutes is not uncommon. Moving back and forth
+between pages is necessary, because you’ll see constructs which are
+referenced in the future, or in the previous pages. Electronic books in the
+PDF form or on a e-book reader don’t work very well for me when I study.
+Paper still wins.&lt;/p&gt;
+
+&lt;p&gt;Paper has an extreme advantage, because you can take notes on the side,
+underline with a pencil, and do scratch-pad calculations. But the biggest
+plus of paper is that it isn’t distracting. I’m highly confident you’ll be
+more productive reading a paper book, since there’s no way to get an e-mail
+here, no notifications, no instant messaging.&lt;/p&gt;
+
+&lt;p&gt;So try to study completely offline, without a computer. Think of it as a
+“dry run” of your skill.&lt;/p&gt;
+
+&lt;p&gt;Now as you read, try to “compile” programs and calculations in your head.
+Think of what the result should be. Try to stop your eyes on calculations,
+and prevent from seeing the result. Derive the result based on your
+knowledge. Guess, if necessary. Treat these little puzzles as your personal
+challenges. A test to yourself which you’re taking because you want it, not
+because someone made you. I could quote &lt;a href="http://www.koszek.com/books/2015/10/15/book-the-art-of-learning/"&gt;books on learning
+here&lt;/a&gt;, but
+the general principle is: to engrain knowledge in you, there must be some
+pain, some amount of friction for your muscles and your brain. This effort
+is a proof you work correctly on your programming imagination, your
+understanding and analytical skills. Taking shortcuts, skipping exercises,
+not answering questions books’ authors often ask - is kidding yourself and
+wasting time.&lt;/p&gt;
+
+&lt;p&gt;The number of pages you can go in a dry-run mode, without a computer, varies
+on a book. For introductory material it can be ten to thirty pages. Leave
+yourself time to run through the exercises on the computer, but I suggest
+you attack the longest possible chunk of content you can tackle.&lt;/p&gt;
+
+&lt;p&gt;So imagine that your very first programming book is on your desk. You just
+read twenty pages of it. After these several pages your brain got overloaded
+with how things are. You’ll realize that two or three last pages you’ve read
+were too much, or that you were no longer able to calculate and predict
+expected results. That’s where you should sit in front of the computer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-02-13-learn-programming-self-study-guide/fgvxxvxmti8-andrew-neel_10p.jpg" alt="alt_text_1" title="Image_text_1" /&gt;
+&lt;br /&gt;
+&lt;small&gt;&lt;small&gt;&lt;small&gt;
+&lt;em&gt;(Photo by &lt;a href="https://unsplash.com/@andrewtneel"&gt;Andrew Neel&lt;/a&gt; via &lt;a href="https://www.unsplash.com"&gt;Unsplash&lt;/a&gt;)&lt;/em&gt;
+&lt;/small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Fire up the editor, your programming environment and in the book go back all
+the way to where you started. Glance at the page, but don’t read it. Try to
+recall what you’ve read from this page and start typing in code examples
+in your editor and running through it.&lt;/p&gt;
+
+&lt;p&gt;I said &lt;em&gt;typing&lt;/em&gt; and not copy and pasting. This is intentional. It’s a well
+known fact that re-typing by hand is much better, because you’re actually
+involving your muscles into building stuff that way. This is very similar
+method to what copywriters use for practicing writing. To these days they
+study great ad writers by retyping their ads. By hand . For programming it’s
+exactly the same. Keep retyping programming examples with your hands. This
+will familiarize you with handling mistakes as well, since you’ll make
+typos and be faced with finding and fixing them. It’s fine - it’s also a big part
+of the learning process.&lt;/p&gt;
+
+&lt;h1 id="crystalizing"&gt;Crystalizing&lt;/h1&gt;
+
+&lt;p&gt;At this point I think you see the pattern. All these things are here to
+stimulate your brain to recall what learn. So invent your own exercises: if
+the book shows a number “7” somewhere, maybe throw “11” there instead and
+see what happens. Play and have fun with it. These little silly steps are
+instrumental, in my opinion. Somehow your brain starts to be in control when
+you inject some of your own stuff, instead of just copy and pasting things
+from the book author.&lt;/p&gt;
+
+&lt;p&gt;The method that I show here makes you to go through the book twice:
+first when dry-reading, and second time, with computer, when you see things
+work. This is on purpose. And this is quite likely going to take less time.
+Reading one page and immediately retyping this page into the interpreter in
+my opinion is learning on the surface. I don’t believe you can really learn
+effectively that way.&lt;/p&gt;
+
+&lt;p&gt;There’ll be a point where you’ll see how things discussed in a book tie to
+your idea. Variables are indexes in your to-do app. Arrays are lists of
+tasks. Suddenly you’ll start understanding how certain pieces can be used
+for your idea. This is the time to start writing your software product.
+Start simple, maybe even trivial. And the more you learn, the more you can
+add to your program. Maybe after the whole book you’ll have enough skill to
+actually write everything what you wanted? I suspect so. This is where the
+mentor can be very helpful. You’d present your knowledge to him, and he’d
+tell you which of the new things you’ve mastered should be used in your
+idea. And later, once you have a prototype, you could show him what you have
+and get criticized.&lt;/p&gt;
+
+&lt;p&gt;That’s all. It’s read, write, repeat loop from now on. If you’ve tried this
+self-study approach, I’d like to hear from you and learn what the result
+was.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You may also like:&lt;/strong&gt;
+&lt;a href="http://www.koszek.com/blog/2017/02/06/how-much-software-engineer-should-invest-in-career-growth/"&gt;“How much engineer should invest in career growth”&lt;/a&gt;,
+&lt;a href="http://www.koszek.com/blog/2017/01/17/reading-for-software-engineers/"&gt;“Reading 101 for software engineer”&lt;/a&gt;,
+&lt;a href="http://www.koszek.com/blog/2017/01/28/why-you-should-start-programming-on-unix/"&gt;“Why you should start programming on UNIX”&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How much software engineer should invest in career growth</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/02/06/how-much-software-engineer-should-invest-in-career-growth/"/>
+    <id>http://www.koszek.com/blog/2017/02/06/how-much-software-engineer-should-invest-in-career-growth/</id>
+    <published>2017-02-06T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;Software engineers can start generating income pretty early on. You don’t
+need permission from anyone, no certificates, no paperwork, no examination.
+If you have your debts paid off, this is the moment when you should think of
+yourself as a single-person company. Why? It’s not because I want you to go
+and become a freelancer and be on your own, but becuase it’s easier to
+understand how to make decent financial decisions that way.  Let’s talk
+about this.  For the purposes of our discussion let’s assume that if your
+name is David Roberts, the name of your company is “David Roberts LLC”.
+Write it down, if it helps you: “David Roberts, CEO of David Roberts LLC”.
+You’re in a company mindset now. We can understand what it really means now.&lt;/p&gt;
+
+&lt;h2 id="your-budget"&gt;Your budget&lt;/h2&gt;
+
+&lt;p&gt;Typical company has money coming in (revenue), money coming out (expenses)
+and money that stays (profit). This matches the flow of money from your
+salary: you receive your salary every two or four weeks, you pay taxes,
+insurance, bills and rent. Whatever is left is up to you to spend.&lt;/p&gt;
+
+&lt;p&gt;Companies allocate this excess budget in buckets. Every bucket will go to a
+department, and they will decide how to spend it. Facilities department
+needs money to keep the place looking good and habitable, so that people are
+willing to enter the building and work there. Security department needs
+money to protect you from crooks and hackers. And so on, for each
+department.&lt;/p&gt;
+
+&lt;p&gt;The amount of money allocated to each department much be justified. For example, if
+you have an office in a decent part of town, the security department only
+needs one guard in front desk to check your badge, and another to monitor
+the parking at night. But they don’t need an excessive weaponry.
+If you give them three times the usual sum of money, they won’t
+know how to spend it. They will buy unnecessary equipment which will
+oxidate with time and the money will be wasted.&lt;/p&gt;
+
+&lt;p&gt;It’s up to you to manage that. You’re the chief in command and you divide
+the the budget to your departments. The other quirk
+of companies is that you’ll be punished by a budget which you didn’t spent.
+Someone will be unhappy with you (“I could have used this money if
+you didn’t fortfeit it”) and you’ll automatically get less next time.&lt;/p&gt;
+
+&lt;h2 id="where-money-goes"&gt;Where money goes&lt;/h2&gt;
+
+&lt;p&gt;Some departments require fixed amount of cash. Your kitchen money stay the same.
+Cost of your entertainment and vacation stay at the similar level too, and
+are required to keep you healthy. One thing to know is that these
+departments don’t bring much levarage, as it’s unlikely you’ll get ahead of
+your competition thanks to the fun you’re having. All departments are
+required and necessary to conduct business, but departments which move you
+ahead are: product, sales and &lt;a href="https://en.wikipedia.org/wiki/Research_and_development"&gt;research and development&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To move ahead and grow, the company needs constant flow of new developments.
+New inventions. This is what R&amp;amp;D is doing.
+Your R&amp;amp;D is learning, your books, magazines, software you’ve purchased and
+your side projects.
+You must start thinking with the same pattern if you want to be successful.&lt;/p&gt;
+
+&lt;h2 id="so-how-much"&gt;“So how much?”&lt;/h2&gt;
+
+&lt;p&gt;I looked at the &lt;a href="http://fortune.com/2014/11/17/top-10-research-development/"&gt;R&amp;amp;D expenditures&lt;/a&gt; of big companies. For simplicity I put
+the data into a table:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;No&lt;/th&gt;
+      &lt;th style="text-align: left"&gt;Company&lt;/th&gt;
+      &lt;th style="text-align: right"&gt;Spending ($B)&lt;/th&gt;
+      &lt;th style="text-align: right"&gt;Percent of revenue&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Volkswagen&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$13.5&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;5.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Samsung&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$13.4&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;6.4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Intel&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$10.6&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;20.1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Microsoft&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$10.4&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;13.4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Roche&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$10.0&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;19.0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Novartis&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$9.9&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;16.8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Toyota&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$9.1&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;3.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Johnson&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$8.2&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;11.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Google&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$8.0&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;13.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10.&lt;/td&gt;
+      &lt;td style="text-align: left"&gt;Merck&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;$7.5&lt;/td&gt;
+      &lt;td style="text-align: right"&gt;17.0&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Without doing much of
+data science I can see a pattern: big, established companies in a specific
+business sector spend smaller portion of their income. More diverse
+companies spend more.&lt;/p&gt;
+
+&lt;p&gt;There’s an interesting corellation here, because old and well established
+companies earn more and spend more, a pattern which you’re likely going to
+see in your career too. So even though Volkswagen spends only 5.2% (as
+compared to Intel’s 20.1%) they top the list of R&amp;amp;D spenders ($13.5B vs
+$10.6B). As you become more senior, your salary will likely grow to the
+point where you will be able to have a significant R&amp;amp;D budget. So what’s the
+right number for you?&lt;/p&gt;
+
+&lt;h2 id="section"&gt;5%&lt;/h2&gt;
+
+&lt;p&gt;For the math simplicity assume that you earn $100k a year and you live in
+California.  It’s $67500 after taxes, and you’re going to spend five percent
+(conservative number) of it to your personal R&amp;amp;D. It’s $3375 a year, or
+$281/month. I have picked five and not ten because remember: too much money
+will be wasted. For 10% which would be $562 you would have to waste some
+money, in my opinion: buy too many online classes, too many books and not
+finish any of it.&lt;/p&gt;
+
+&lt;p&gt;The whole “Person as a company” concept breaks when you realize that to
+really move ahead you’ll have to study in your own time. Companies can keep
+growing in their paid time. So remember that even for five percent you can
+subscribe to &lt;a href="https://teamtreehouse.com"&gt;Treehouse&lt;/a&gt; &lt;em&gt;and&lt;/em&gt; &lt;a href="https://www.codeschool.com"&gt;Code School&lt;/a&gt; &lt;strong&gt;and&lt;/strong&gt; &lt;a href="https://www.udacity.com"&gt;Udacity&lt;/a&gt;, but if
+you have a full-time job, I think you won’t have enough time to complete all
+the assignments of these courses.&lt;/p&gt;
+
+&lt;p&gt;Note that my earlier calculation is that you come to the table with some
+experience; that you’re an established company. If you aren’t, this number
+will be much bigger: you’ll go to school, attend a bootcamp or ask someone
+to mentor you.  If you are somehow experienced already, in my opinion a
+range 5%–15% on your own development is fine.&lt;/p&gt;
+
+&lt;h2 id="why"&gt;Why&lt;/h2&gt;
+
+&lt;p&gt;Because you get what you pay for.
+Great free resources for software engineers do exist.
+I talked about how you can &lt;a href="http://www.koszek.com/blog/2015/11/16/computer-history-from-giants-themselves/"&gt;learn from giants&lt;/a&gt; for example.
+There is &lt;a href="https://www.coursera.org"&gt;Coursera&lt;/a&gt; and &lt;a href="https://www.edx.org"&gt;edX&lt;/a&gt;, but some topics aren’t covered there.
+And I haven’t met a person who finished the whole Coursera class.
+I think it’s because it’s free content.
+Dropping out doesn’t cost anything.
+It’s less rare for people to drop the paid university class.
+I’m highly confident you’ll be more focused and more motivated if
+you treat yourself with a high quality content, either in form of
+books, video training or audiobooks.
+Money spent is a great motivator, believe me.
+So while I did watch &lt;a href="https://web.stanford.edu/class/cs193p/cgi-bin/drupal/"&gt;Stanford 193P class&lt;/a&gt; and delivered
+&lt;a href="https://github.com/wkoszek/cs193p"&gt;most of the assignments&lt;/a&gt;, for study of iOS design I purchased
+&lt;a href="https://designcode.io"&gt;Design+Code&lt;/a&gt; and &lt;a href="http://design.codeschool.com"&gt;Fundamentals of Design&lt;/a&gt; from &lt;a href="https://www.codeschool.com"&gt;Code School&lt;/a&gt;.
+With a bit of experience you’ll know what is worth buying.&lt;/p&gt;
+
+&lt;h1 id="balance-sheet"&gt;Balance sheet&lt;/h1&gt;
+
+&lt;p&gt;Whatever I showed you here works for me.
+$280/month is pretty easy to reach if you include software.
+Last year I purchased &lt;a href="https://affinity.serif.com/en-us/photo/"&gt;Affinity Photo&lt;/a&gt; and &lt;a href="https://www.sketchapp.com"&gt;Sketch&lt;/a&gt;
+which help me with publishing on this website and with UI prototyping.
+As software engineer you will also need services, such us a backup storage
+and several VMs running in the cloud.
+Count the value of my phone, computer and
+equipment (I’ve purchased a camera to make videos for &lt;a href="http://www.youtube.com/user/wkoszek"&gt;my
+YouTube channel&lt;/a&gt;) and you’ll
+need to start planning your expenses like a company would.
+Be frugal, but don’t underspend.
+&lt;strong&gt;I would be interested in hearing how you spend on your career growth.&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>Why you should start programming on UNIX</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/01/28/why-you-should-start-programming-on-unix/"/>
+    <id>http://www.koszek.com/blog/2017/01/28/why-you-should-start-programming-on-unix/</id>
+    <published>2017-01-28T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;It’s simpler than anything else around.&lt;/p&gt;
+
+&lt;p&gt;I know. It’s counterintuitive. All the nice tools and integrated
+environments for writing code looks slick. You may even see other people
+using them in the train to work.&lt;/p&gt;
+
+&lt;p&gt;You look over their shoulder and it doesn’t look that hard.&lt;/p&gt;
+
+&lt;p&gt;But it is.&lt;/p&gt;
+
+&lt;p&gt;So stay with me hear and listen. The idea might be counterintuitive, but if
+you go with it, I think you’ll learn programming faster and you’ll be a
+better engineer at the end, since you’ll do more things by yourself.&lt;/p&gt;
+
+&lt;p&gt;In my opinion your software adventure you should start from programming
+UNIX, or GNU/Linux, in the modern newspeak.&lt;/p&gt;
+
+&lt;p&gt;Why?&lt;/p&gt;
+
+&lt;p&gt;It’s 3x as simple to interact with UNIX that it is with modern Web. If you
+set a goal to write a modern web app (something that many people laught at)
+you’re destined to be doomed, and you fight the forces of darkness. You dive
+in a sea of Javascript libraries, Ruby or Django modules and plugins and try
+to get your ORM model executing fast. And then it all is super clunky and
+sometimes does work, but not quite. It hard to write a modern web app
+nowadays, as it involves a lot of stuff: frontend, backend, a bit of devops
+and it’s all there to scare you.&lt;/p&gt;
+
+&lt;p&gt;UNIX has 1 black terminal window. You’ll have a file. Maybe two or three.
+And you’ll have your text editor–whichever you want. Your whole project is
+these 3 files, without any XML “project” files and any other crap. The last
+thing of your environment is the compiler or the interpreter that you feed
+your source code files with. It’s very friendly unless you feed it a wrong
+stuff, in which case it’ll warn you.&lt;/p&gt;
+
+&lt;p&gt;UNIX was probably the first very well engineered OS. It hasn’t changed that
+much over the last 40 years. You can still pull old programs and understand
+what they were supposed to do. You may even compile them.&lt;/p&gt;
+
+&lt;p&gt;UNIX API is great. I can remember every function there is, and
+can write it from memory, most of the time. It is maybe 200 functions,
+which if you read something like UNIX deamon source code, you can pretty
+much understand.&lt;/p&gt;
+
+&lt;p&gt;To compare this: iOS API has 80 &lt;em&gt;frameworks&lt;/em&gt;. And framework is basically API
+subset, sometimes very complex. Of course not all apps use every framework,
+but even using 5 of them means a lot of reading.&lt;/p&gt;
+
+&lt;p&gt;So next time you hear someone trying to persuade you to start programming
+from the web, don’t listen to them. Just listen a terminal window on your
+computer and keep writing code and learning new stuff there. There’ll be a
+time where you’ll understand a bit more about files, sockets, networking and
+other operating system primitives, and you’ll be able to grasp the stack for
+modern web. But it’s not the best idea if you’re getting started with
+programming. There’s just too much stuff for you to filter through, in my
+opinion.&lt;/p&gt;
+
+&lt;p&gt;Let me know how it goes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-01-28-why-you-should-start-programming-on-unix/unix_75p.jpg" alt="unix" title="unix" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>The best OSX file manager</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/01/18/the-best-osx-file-manager/"/>
+    <id>http://www.koszek.com/blog/2017/01/18/the-best-osx-file-manager/</id>
+    <published>2017-01-18T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;Even if you don’t like Windows, some tools there are great. One of them is 
+&lt;a href="http://www.winamp.com"&gt;WinAmp&lt;/a&gt;, probably the best audio player around. (do you know a replacement
+for OSX? Let me know!)&lt;/p&gt;
+
+&lt;p&gt;Another is &lt;a href="https://www.ghisler.com"&gt;Total Commander&lt;/a&gt;–the 2 pane file commander. Total Commander
+can do anything you can think of for file management.
+Its UI was like &lt;a href="https://en.wikipedia.org/wiki/Norton_Commander"&gt;Norton Commander&lt;/a&gt;’s: the
+“blue background” file manager for DOS.&lt;/p&gt;
+
+&lt;p&gt;You miss a lot if you don’t use these tools, since they’re huge time savers.
+There isn’t a similar functionality built in the OSX, so you’ll have to do
+your homework. You can use Finder, of course, and I do like Finder and its
+preview feature. Also the the embedded image editor is very useful. However
+for shuffling files Finder is terrible. To move one file from one directory
+to another, you must open two windows. Or you must open tabs. Selecting
+files is terrible. I can’t count how many times I’ve selected 20 images and
+they all were accidently opened. Or you select many files and want to move
+them to the directory on the very bottom of the current screen. Good luck
+with that. For file-system management, Finder sucks. You must admit it.&lt;/p&gt;
+
+&lt;p&gt;So I started from &lt;a href="https://en.wikipedia.org/wiki/File_manager"&gt;the page on file managers&lt;/a&gt; on Wikipedia, and learned
+about “Orthodox File Managers”.&lt;/p&gt;
+
+&lt;p&gt;The idea is that you have a program with two panes representing two
+directory structures.  On the left you have one directory, on the right you
+have another one, and you have a set of keyboard shortcuts for moving files
+back and forth. You can copy, move, rename, delete files. In a good manager
+the source/destination can be anything: another folder, another computer in
+the network, a website server etc.&lt;/p&gt;
+
+&lt;p&gt;So what’s there for OSX?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://apple.stackexchange.com/questions/10097/what-orthodox-file-manager-for-os-x-could-i-use"&gt;This is a great thread&lt;/a&gt; on StackOverflow on really good file managers for OSX.&lt;/p&gt;
+
+&lt;p&gt;I’ve tried some of these programs, but &lt;a href="http://www.mucommander.com"&gt;muCommander&lt;/a&gt; beat them all. Others
+were paid and not looking very good.&lt;/p&gt;
+
+&lt;p&gt;muCommander looks simple, but is pretty powerful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-01-18-the-best-osx-file-manager/mucommander_75p.jpg" alt="MuCommander screenshot" title="MuCommander" /&gt;&lt;/p&gt;
+
+&lt;p&gt;My mental model is: left pane is source, right pane is destination. It’s
+simple for files and directories, and comes handy when you make a backup to
+your external harddrive (you do backup, don’t you?)&lt;/p&gt;
+
+&lt;p&gt;It has a support for modern stuff too: S3, HDFS and HTTP:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-01-18-the-best-osx-file-manager/mucommander_functions_75p.jpg" alt="MuCommander screenshot 2" title="MuCommander 2" /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re a normal user and you only care about files, it won’t be fun for
+you, but nerds should try “HTTP”. You can type a website address there and
+muCommander will fetch and analyze the site and show its resources as files.
+So if there’s a reference to &lt;code&gt;style.css&lt;/code&gt; it’ll show it to you and you can
+copy the file to the local filesystem. It’s pretty cool.&lt;/p&gt;
+
+&lt;p&gt;You should start playing with it and I think you’ll like it.&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>Reading 101 for software engineers</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/01/17/reading-for-software-engineers/"/>
+    <id>http://www.koszek.com/blog/2017/01/17/reading-for-software-engineers/</id>
+    <published>2017-01-17T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;I would argue that without reading, you’re wasting a lot of time.
+“Good people borrow, and great steal”. I know few software engineers, who
+don’t read and yet still write amazing software. But there are very few of them.
+I bet you’re not one of them, actually.
+And most of their time, they do waste &lt;em&gt;some&lt;/em&gt; time too.
+Very few of us solve unique problems. You’re probably not the lucky guy either.&lt;/p&gt;
+
+&lt;p&gt;In my opinion, you won’t be very good and well respected, unless you read.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-01-17-reading-for-software-engineers/8muutamcwu4-jez-timms_10p.jpg" alt="alt_text_0" title="Image_text_0" /&gt;&lt;/p&gt;
+
+&lt;h2 id="motivation"&gt;Motivation&lt;/h2&gt;
+
+&lt;p&gt;I just came back from a “meetup”. Small informal mini-conference which
+people around here organize. It happens on a monthly basis. You get free
+talk, free pizza and sometimes get solicited to help someone. Or they try to
+recruit you. But in general: it’s a free-though meeting and idea exchange.&lt;/p&gt;
+
+&lt;p&gt;One talk was by a book author. A question was raised on why her book topic
+touches “Swift”, a popular programming language, instead of being more
+general. The author replied she had picked a topic she knew would have a
+shelf life longer than 6 months.&lt;/p&gt;
+
+&lt;p&gt;This made me think.&lt;/p&gt;
+
+&lt;h2 id="new-books-are-mostly-worthless-skip-them"&gt;New books are mostly worthless. Skip them.&lt;/h2&gt;
+
+&lt;p&gt;Not the first time technical author expresses a worry that topics in
+computers change rapidly, and they can’t keep up with writing the material.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/2017-01-17-reading-for-software-engineers/3wygakaeqc-simson-petrol_10p.jpg" alt="alt_text_0" title="Image_text_0" /&gt;&lt;/p&gt;
+
+&lt;p&gt;But here’s the secret: it’s 10% true.&lt;/p&gt;
+
+&lt;p&gt;Most of the rudimentary topics don’t change and won’t change. The reason?
+Underlying hardware, software and algorithm principles don’t oscillate or
+get outdated. Not unless we get completely new paradigms, like quantum
+computers. But right now: it’s all 0s and 1s flipping back and forth, very
+quickly.&lt;/p&gt;
+
+&lt;p&gt;It’s all the same stuff, wrapped differently.&lt;/p&gt;
+
+&lt;p&gt;It’s like getting a candy packaged in a red silver wrapping. And then
+getting a candy packaged in a green silver wrapping. On the surface it’s
+very different, but it’s the same candy.&lt;/p&gt;
+
+&lt;p&gt;The problem is that new books (lets say 2010–…) are mostly about
+wrappings. Older books talk about universal values. Example: the publisher
+Morgan Kaufmann made so many great books in the past. The new ones are often
+a collection of conference papers. Many authors, inconsistent style. Not
+worth a buck. Keep buying older books.&lt;/p&gt;
+
+&lt;h2 id="for-writers-interested-in-money"&gt;For writers interested in money&lt;/h2&gt;
+
+&lt;p&gt;Authors have to struggle with it. In my opinion: if you’re a writer and you
+like this kind of stuff, it should be great for you: keep writing about
+candy wrappings, and people who are your audience and who want to stay
+up-to-date will keep buying your books.&lt;/p&gt;
+
+&lt;p&gt;Think of Donald Knuth or Richard Stevens books. Stevens taught me UNIX
+and I have Polish and English edition of each of his books. And he delivered
+high-quality examples, in a source code form. And it’s still very useful.
+If you know any other authors whose work you like, let me know.
+For a writer and a publisher: it’s terrible. I baught these books once, and
+that’s it. I don’t new copies ever again. Poor business.&lt;/p&gt;
+
+&lt;h2 id="things-worth-reading-about"&gt;Things worth reading about&lt;/h2&gt;
+
+&lt;p&gt;If you’re a reader, my suggestion to you: start selecting literature so that
+things you learn are universal.&lt;/p&gt;
+
+&lt;p&gt;It’s fine to get a book on some particular technology. I have a book on
+Rails 4. Rails 5 is around, but still most of the stuff in the book is true.
+In 2 years it won’t, but I’ll be a part of the active “Rails developers
+community” by then, so I’ll notice.&lt;/p&gt;
+
+&lt;p&gt;Which things are those? It’s pretty easy, if you look around.&lt;/p&gt;
+
+&lt;p&gt;Some stuff you may want to read about:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Methodology doesn’t change. Read book on it.&lt;/strong&gt; 
+There are some new inventions
+every now and then, but most of experts know they don’t bring even 2x
+improvement in productivity. Maybe 20% improvement. Or 5%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Process doesn’t change (much). Read book on it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coding style and its importance doesn’t change&lt;/strong&gt;. It’s a universal software engineering
+stuff. It’s slightly different for each technology and even a project, but
+its principles don’t change. &lt;strong&gt;Read book on it&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Networking concepts don’t change (much)&lt;/strong&gt;. If you have time, read TCP/IP
+Illustrated. This stuff isn’t going away.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Software architecture and patterns don’t change&lt;/strong&gt;. This is like grammar for software
+engineering. You can make a prose with made up words, but 99% of software
+has signs of being architected according to a well-known patterns.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Testing doesn’t change. Read book on it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UI design doesn’t change (much). Read book on it&lt;/strong&gt; If you pick book on old Win3.1 UI design and
+it’s principles, it’s pretty much the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Databases and data models don’t change much. Read book on it&lt;/strong&gt; One of the
+things I slightly regret is that I wasn’t paying more attention during my
+databases courses (didn’t like it back then) Now I do, and I’m catching up.
+But these concept re-surface everywhere: in embedded databases (Realm),
+Rails (ORM) and everywhere else.&lt;/p&gt;
+
+&lt;h2 id="hints-for-you"&gt;Hints for you&lt;/h2&gt;
+
+&lt;p&gt;Read a book and take a break. Technical stuff isn’t prose and your brain
+will burn more calories processing stuff.&lt;/p&gt;
+
+&lt;p&gt;If the book has source code examples, retype them and try them out.&lt;/p&gt;
+
+&lt;p&gt;Never copy and paste stuff from ready-to-use examples. Unless you write
+stuff with your own hands, I guarantee you that your recall will be maybe
+10%.&lt;/p&gt;
+
+&lt;p&gt;Do the homework. If the book has exercises, try to do them. Challenge
+yourself to go through them and see how much and why you were off.&lt;/p&gt;
+
+&lt;p&gt;Fiddle with content in your head. Keep asking yourself questions and trying
+to answer them. Find additional material on Google. Find YouTube videos,
+podcasts and animations showing concepts you’ve learned about. People recall
+video best, then podcasts and then text. It’s best to have multi-media
+source of knowledge to stimulate your brain. And there’s research on that.&lt;/p&gt;
+
+&lt;p&gt;Try to mix it up. I find it hard to read two software architecture books
+back-to-back.&lt;/p&gt;
+
+&lt;p&gt;Don’t read more than one book at a time. I get confused and discouraged and
+it’s hard for me to come back to the context at which I’ve left of.&lt;/p&gt;
+
+&lt;h1 id="missing-books"&gt;Missing books&lt;/h1&gt;
+
+&lt;p&gt;There’s some new stuff which I think isn’t very well covered. For example
+distributed computing isn’t very well covered. If you’ve asked me, I
+wouldn’t know what to recommend. It’s weird, because it’s around for a
+while, but I think it’s (a) a domain of big companies with busy people who
+don’t like writing books (b) it changes quickly due to increasing demand for
+bigger systems (c) is tied to companies. Google, Facebook and other big
+companies have their own distributed software frameworks.&lt;/p&gt;
+
+&lt;h1 id="summary"&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;Reading is important. You’ll be better of reading, as it gives you more
+experience, more perspective and makes you a better expert. You gain more
+tools in a box, and you’re more appropriate for doing interesting work which
+may come your way by accident.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>That's why you haven't accomplished enough in 2016</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2017/01/02/thats-why-you-havent-accomplished-enough-in-2016/"/>
+    <id>http://www.koszek.com/blog/2017/01/02/thats-why-you-havent-accomplished-enough-in-2016/</id>
+    <published>2017-01-02T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;When you make a plan to accomplish goals, most of the time you don’t do it
+very well. Maybe it’s the book you wanted to read, the podcasts you wanted
+to listen, or maybe finally wrapping up the pet project of yours.&lt;/p&gt;
+
+&lt;p&gt;First of all typically you have too many goals.
+Another problem is that they’re not very precise.
+Not very measurable.
+You don’t know how to even start. You never start and thus you fail.
+Maybe even you’re slightly depressed or upset, since not finishing what
+you’ve plan kind of sucks.&lt;/p&gt;
+
+&lt;p&gt;I’ve been there and done that.&lt;/p&gt;
+
+&lt;p&gt;The best book I’ve ever read which helped me, and which will help you with
+setting proper goals is this:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=as_li_ss_il?ie=UTF8&amp;amp;qid=1483393307&amp;amp;sr=8-1&amp;amp;keywords=getting+things+done&amp;amp;linkCode=li2&amp;amp;tag=wojcadamkoszh-20&amp;amp;linkId=36d41f0280a3efb64d38131870e170e2" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=0143126563&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wojcadamkoszh-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=0143126563" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve listened to it over Audible, and I’ve also got myself a papercopy, I
+liked it so much.&lt;/p&gt;
+
+&lt;p&gt;The idea behind getting things done is to create a list of things which
+make sense in the context of what you want to achieve. If you develop a
+software you probably know this, but if you don’t, here’s also one of the
+hidden gems: remember about things which take time, but aren’t immediately
+obvious.&lt;/p&gt;
+
+&lt;p&gt;For example: if you want to learn how to bake a cake, you need to learn
+about types of cakes, pick the one you like, maybe get the cooking book,
+then shop for ingredients. Bring them back from the store and use them in
+your kitchen. In the kitchen you may learn that you don’t have proper cake
+form and maybe you miss a baking paper etc. When you make your New Year
+goals you must remember how to put all these things in your plan, so that
+you can actually properly plan things.&lt;/p&gt;
+
+&lt;p&gt;David teaches that whatever takes a short time, you probably should already
+do, but for New Year, it doesn’t matter. You plan for things which will
+happen months ahead.&lt;/p&gt;
+
+&lt;p&gt;Not to find yourself overwhelmed with new goals, I can recommend you a
+second book which helped me greatly in my engineering practice. It’s this
+one:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X/ref=as_li_ss_il?ie=UTF8&amp;amp;qid=1483393761&amp;amp;sr=8-1&amp;amp;keywords=power+of+habit&amp;amp;linkCode=li2&amp;amp;tag=wojcadamkoszh-20&amp;amp;linkId=587fc3a13c969fb51482f21459f5a999" target="_blank"&gt;&lt;img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=081298160X&amp;amp;Format=_SL160_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=wojcadamkoszh-20" /&gt;&lt;/a&gt;&lt;img src="https://ir-na.amazon-adsystem.com/e/ir?t=wojcadamkoszh-20&amp;amp;l=li2&amp;amp;o=1&amp;amp;a=081298160X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;So while David will teach you how to nicely partition your goal, this
+Duhigg’s book will teach you how to achieve them. It’s basically the idea of
+creating enough space in a day, let’s say 15 minutes, in which you can do
+the work. And do it every day or every week of every month.&lt;/p&gt;
+
+&lt;p&gt;This helped me with software engineering where I started to make the
+commitment of making a small change to my program, every day. Regardless of
+how small change, it still counts. Over 300 days making many small changes
+makes it looked like you’ve made a huge change.&lt;/p&gt;
+
+&lt;p&gt;That works for New Year goals too.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Building an Open Source iOS app: lessons learned</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2016/12/12/building-an-open-source-ios-app/"/>
+    <id>http://www.koszek.com/blog/2016/12/12/building-an-open-source-ios-app/</id>
+    <published>2016-12-12T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;Below you can find an abstract and materials for the talk I gave at the
+Silicon Valley Mobile Developers and Designers Meetup at Hacker Dojo, Santa
+Clara, Dec 12th, 2016.&lt;/p&gt;
+
+&lt;h2 id="slides"&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;Slideshare slides.&lt;/p&gt;
+
+&lt;iframe src="//www.slideshare.net/slideshow/embed_code/key/EkJuhVmt4s5wPe" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""&gt; &lt;/iframe&gt;
+&lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="//www.slideshare.net/wkoszek/building-an-open-source-ios-app-lessons-learned" title="Building an Open Source iOS app: lessons learned" target="_blank"&gt;Building an Open Source iOS app: lessons learned&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a target="_blank" href="//www.slideshare.net/wkoszek"&gt;Wojciech Koszek&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;p&gt;For easy download, go to GitHub link below.&lt;/p&gt;
+
+&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;In this talk I’m going to talk about lessons learned from building Sensorama
+&lt;a href="http://www.sensorama.org"&gt;http://www.sensorama.org&lt;/a&gt;, an Open Source sensor platform for data science.
+The main theme of the talk will be Open Source: what is great about it, what
+is bad and how you must become a part of the Open Source
+community to really move quickly and benefit from it.
+For this project, I did both the code and the design, so you’ll have a chance to see how
+solo-developer deals with time/feature constraints, which tools I’ve used
+and what my approach towards development in this mode is.
+In other words: I’ll tell you what I did to stay sane.
+If the iOS development were a walk in a dark city park, this talk may turn
+out to be your flashlight. If you like it, star it at GitHub:
+&lt;a href="http://www.sensorama.org"&gt;https://github.com/wkoszek/sensorama-ios&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="agenda"&gt;Agenda&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.meetup.com/svmobiledev/events/235836893/"&gt;https://www.meetup.com/svmobiledev/events/235836893/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="video"&gt;Video&lt;/h2&gt;
+
+&lt;p&gt;We have recorded the video from this event.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Part 1&lt;/strong&gt;: &lt;a href="https://www.youtube.com/watch?v=gE49zGSFcio"&gt;https://www.youtube.com/watch?v=gE49zGSFcio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Part 2&lt;/strong&gt;: &lt;a href="https://www.youtube.com/watch?v=zY6YDXyF6ks"&gt;https://www.youtube.com/watch?v=zY6YDXyF6ks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="materials"&gt;Materials&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://github.com/wkoszek/talks/tree/master/svmobiledev2016"&gt;https://github.com/wkoszek/talks/tree/master/svmobiledev2016&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some of the links from the slides:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fake it till you make it presentation&lt;/strong&gt; &lt;a href="https://developer.apple.com/videos/play/wwdc2014/223"&gt;https://developer.apple.com/videos/play/wwdc2014/223&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Designing for Future Hardware&lt;/strong&gt; &lt;a href="https://developer.apple.com/videos/play/wwdc2015/801/"&gt;https://developer.apple.com/videos/play/wwdc2015/801/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="references"&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;WWW: &lt;a href="http://www.sensorama.org"&gt;http://www.sensorama.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitHub (code): &lt;a href="https://github.com/wkoszek/sensorama-ios"&gt;https://github.com/wkoszek/sensorama-ios&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitHub (artwork): &lt;a href="https://github.com/wkoszek/sensorama-artwork"&gt;https://github.com/wkoszek/sensorama-artwork&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Failure of my one post per week goal</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2016/11/02/failure-of-my-one-post-per-week-goal/"/>
+    <id>http://www.koszek.com/blog/2016/11/02/failure-of-my-one-post-per-week-goal/</id>
+    <published>2016-11-02T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;I started to appreciate bloggers and YouTubers this year. We’ve got many,
+many people pushing great content into the Internet for free, and let me
+tell you: I’m not one of them.&lt;/p&gt;
+
+&lt;p&gt;After understanding that writing on a regular basis is important, I’ve tried
+to do one blog a week.&lt;/p&gt;
+
+&lt;p&gt;One blog a week. Really. This isn’t that much if you think about it. I
+believed that it’d be around 30 minutes of writing and maybe several more on
+proofreading and publishing, but it’s official – I’ve failed.&lt;/p&gt;
+
+&lt;p&gt;Failure reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;it’s hard to find a proofreaders for technical content, unless you ask
+friends, who never have time, or always find your stuff “very interesting”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;publishing takes more than 30 minute&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;you run out of topics&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;you get pushed in real-life and work, and have little energy left at the
+end of a day&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;you’d rather write software than blog posts&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“other people will do it for me”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Any of these reasons is valid and holds true and I fell into the trap. So as
+of today, my statistics look like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;
+	$ la 2016-0* | grep -v book | wc -l
+	       8
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to read this:&lt;/strong&gt; this year not counting books I’ve written 8 blog
+posts. It should have been something close to 50. This needs changing, and
+I think one of the things I’m going to be exploring is just plain old stupid
+Wordpress.&lt;/p&gt;
+
+&lt;p&gt;Reason?&lt;/p&gt;
+
+&lt;p&gt;Simply read this (I fully agree): &lt;a href="http://blog.pankajmore.in/static-site-generators-focus-on-the-wrong-thing"&gt;Static generators focus on the wrong
+thing&lt;/a&gt;.
+If you didn’t know, the way I write this blog post is by opening a simple
+notepad, writing text, and then using this thing called
+&lt;a href="https://middlemanapp.com/"&gt;Middleman&lt;/a&gt;. And this file later turns into the
+website. This works well until you have 200 pages (which I do – check my
+&lt;a href="http://www.koszek.com/reading"&gt;reading section&lt;/a&gt;). Then it takes a long time..&lt;/p&gt;
+
+&lt;p&gt;Other than that I need to tie myself with a schedule for writing. As of now
+I’m ignoring my Wednesday reminder “To write!” and my Saturday’s reminder to
+“proofread”, but I think this needs to change too.&lt;/p&gt;
+
+&lt;p&gt;The biggest reason is basically: if time for writing comes, I would much
+rather write software than text, most often. Also topics which I pick
+sometimes appear relevant to whatever I’m doing at that very moment. So
+sometimes it’s iOS related, sometimes it’s Mac or UNIX, and sometimes about
+business. Unclear if people would actually enjoy reading un-specific stuff
+like this.&lt;/p&gt;
+
+&lt;p&gt;Things I’ll be exploring:&lt;/p&gt;
+
+&lt;p&gt;Writing as I go. Work on
+&lt;a href="http://www.sensorama.org"&gt;Sensorama&lt;/a&gt; led to a lot of studying and
+discovering, and I feel like I’ll have to review the
+&lt;a href="https://www.github.com/wkoszek/sensorama-ios"&gt;GitHub repo&lt;/a&gt; to come back to
+some of the ideas and conclussions I’ve reached during writing of it.&lt;/p&gt;
+
+&lt;p&gt;It’s just November, but these are my reflections.&lt;/p&gt;
+
+&lt;p&gt;What is your system for pushing content regularly?&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Dealing with large jobs on Travis-CI</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2016/07/25/dealing-with-large-jobs-on-travis/"/>
+    <id>http://www.koszek.com/blog/2016/07/25/dealing-with-large-jobs-on-travis/</id>
+    <published>2016-07-25T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;I’m releasing &lt;a href="https://github.com/wkoszek/"&gt;all my projects&lt;/a&gt;
+&lt;a href="http://www.koszek.com/blog/2016/07/11/what-i-learned-from-connecting-60-projects-to-ci-system/"&gt;through continuous integration&lt;/a&gt;,
+so I end up working with &lt;a href="http://www.travis-ci.org"&gt;Travis-CI&lt;/a&gt; a lot.
+Travis provides a corresponding diagnostic page for each project I have
+linked to it from GitHub.
+For example one of my GitHub projects &lt;a href="https://github.com/wkoszek/cpu60"&gt;is here&lt;/a&gt; and 
+its Travis-CI subpage &lt;a href="https://travis-ci.org/wkoszek/kmnsim"&gt;would be here&lt;/a&gt;.
+If you look at the link format, you’ll understand what I mean.
+In there you can see what the output of your job was.
+Most of the jobs are fairly simple and finish within short period of time.
+For these jobs debugging the build steps is easy: just look at the console
+output and see what’s wrong. It’s what I do 95% of time. Below I give hints
+on how to handle 5% of other cases.&lt;/p&gt;
+
+&lt;h1 id="bigger-projects"&gt;Bigger projects&lt;/h1&gt;
+
+&lt;p&gt;While working on &lt;a href="http://www.sensorama.org"&gt;Sensorama for iOS&lt;/a&gt; I had
+to do something different, since it generates a lot of output from
+many tools.
+It has many dependencies on &lt;a href="https://rubygems.org"&gt;Ruby Gems&lt;/a&gt; and
+&lt;a href="https://cocoapods.org/"&gt;CocoaPods&lt;/a&gt;, which make it long-running as well.
+Unless you’re careful, you’ll make your life and Travis job debugging
+harder. For me debugging OSX/iOS projects is especially challenging, since it’s a
+flow of: bug, commit, verify cycles (for Linux/UNIX projects you can run
+Travis-CI environment in a Docker container).&lt;/p&gt;
+
+&lt;h1 id="travis-ci-limits-for-open-source-projects"&gt;Travis-CI limits for Open Source projects&lt;/h1&gt;
+
+&lt;p&gt;Travis-CI is entirely free for Open Source, which I find great.
+Even though its run-time limits are pretty generous, they do exist:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;time limit on jobs: which currently is set to 30 minutes.&lt;/li&gt;
+  &lt;li&gt;10 minute watchdog: if your job doesn’t output anything in this period, it will be killed.&lt;/li&gt;
+  &lt;li&gt;size of the output files is limited to 4MB. If you run over it, your job will be killed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How does the issue look like?&lt;/p&gt;
+
+&lt;p&gt;Example (&lt;a href="https://travis-ci.org/wkoszek/sensorama-ios/builds/145737758"&gt;from here&lt;/a&gt;):&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;+scan --workspace Sensorama.xcworkspace --scheme SensoramaTests
+[08:12:08]: xcrun xcodebuild -list -workspace Sensorama.xcworkspace
+No output has been received in the last 10m0s, this potentially indicates a
+stalled build or something wrong with the build itself.
+The build has been terminated
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Another one (&lt;a href="https://travis-ci.org/wkoszek/sensorama-ios/builds/146298516"&gt;from here&lt;/a&gt;):&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk -fasm-bloc
+The log length has exceeded the limit of 4 MB (this usually means that the test suite is raising the same exception over and over).
+The job has been terminated
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;How to deal with this stuff?&lt;/p&gt;
+
+&lt;h1 id="prettifiers"&gt;Prettifiers?&lt;/h1&gt;
+
+&lt;p&gt;For XCode projects just pipe everything what comes from &lt;code&gt;xcodebuild&lt;/code&gt; through
+&lt;code&gt;xcpretty&lt;/code&gt;. If you’re using &lt;a href="https://github.com/fastlane/fastlane"&gt;fastlane&lt;/a&gt;
+(and if not, you should), then the &lt;code&gt;xcpretty&lt;/code&gt; is used automatically.
+Normally I don’t like the tools which obfuscate real command’s output, but
+in this case I had no choice. Also &lt;code&gt;xcpretty&lt;/code&gt; makes the output
+understandable.&lt;/p&gt;
+
+&lt;h1 id="output-folding"&gt;Output folding&lt;/h1&gt;
+
+&lt;p&gt;Travis-CI has this cool undocumented feature called “output folding”. You
+can group lines of output which belong to the same group of commands. You’ll
+get them folded together and you don’t have to scroll through all the
+output thanks to it.&lt;/p&gt;
+
+&lt;p&gt;How to do it?&lt;/p&gt;
+
+&lt;p&gt;First of all, your config file &lt;code&gt;.travis.yml&lt;/code&gt; for the &lt;code&gt;script&lt;/code&gt; entry has to
+call 1 script. So for Sensorama I have:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;language: objective-c
+osx_image: xcode7.3
+cache: cocoapods
+rvm:
+- 2.2
+podfile: Sensorama/Podfile
+script:
+- ./scripts/travis_script.sh
+#- ./scripts/script_with_folds
+addons:
+  ssh_known_hosts:
+  - gitlab.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you want to give it a try, use &lt;code&gt;script_with_folds&lt;/code&gt;, borrowed from here.&lt;/p&gt;
+
+&lt;p&gt;Then it’s pretty easy:&lt;/p&gt;
+
+&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="c"&gt;#!/bin/bash&lt;/span&gt;
+
+travis_fold&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+  &lt;span class="nb"&gt;local &lt;/span&gt;&lt;span class="nv"&gt;action&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nv"&gt;$1&lt;/span&gt;
+  &lt;span class="nb"&gt;local &lt;/span&gt;&lt;span class="nv"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nv"&gt;$2&lt;/span&gt;
+  &lt;span class="nb"&gt;echo&lt;/span&gt; -en &lt;span class="s2"&gt;"travis_fold:&lt;/span&gt;&lt;span class="k"&gt;${&lt;/span&gt;&lt;span class="nv"&gt;action&lt;/span&gt;&lt;span class="k"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;:&lt;/span&gt;&lt;span class="k"&gt;${&lt;/span&gt;&lt;span class="nv"&gt;name&lt;/span&gt;&lt;span class="k"&gt;}&lt;/span&gt;&lt;span class="se"&gt;\r&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;
+
+travis_fold start foo
+
+&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;"This line appears in the fold's 'header'"&lt;/span&gt;
+
+&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;"Stuff inside"&lt;/span&gt;
+
+sleep 2
+
+&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;"More stuff"&lt;/span&gt;
+
+travis_fold end foo
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;So every fold has to start with &lt;code&gt;travis_fold:ACTION:name&lt;/code&gt;, where &lt;code&gt;ACTION&lt;/code&gt; is
+either &lt;code&gt;start&lt;/code&gt; or &lt;code&gt;end&lt;/code&gt;, and the &lt;code&gt;name&lt;/code&gt; is whatever you want.&lt;/p&gt;
+
+&lt;h1 id="doing-folds-easily"&gt;Doing folds easily&lt;/h1&gt;
+
+&lt;p&gt;For Sensorama I plan to use output folding a lot, so I’ve devised a simpler
+way to deal with this stuff:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;TMP=/tmp/.travis_fold_name
+
+# This is meant to be run from top-level dir. of sensorama-ios
+
+travis_fold() {
+  local action=$1
+  local name=$2
+  echo -en "travis_fold:${action}:${name}\r"
+}
+
+travis_fold_start() {
+  travis_fold start $1
+  echo $1
+  /bin/echo -n $1 &amp;gt; $TMP
+}
+
+travis_fold_end() {
+  travis_fold end `cat ${TMP}`
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This is a more elaborate version of what I showed before, but it lets you to
+do:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;(
+  travis_fold_start BOOSTRAPPING
+  ./build.sh bootstrap
+  travis_fold_end
+)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Without worrying whether the start and end tags for the fold are matched.
+One of the stupid mistakes I’ve made in one of the commits is that &lt;code&gt;action&lt;/code&gt;
+and &lt;code&gt;name&lt;/code&gt; mismatched, and then folding is broken.&lt;/p&gt;
+
+&lt;h1 id="summary"&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;For optimizing output logging I’d start from trying to limit job output.
+In cases where you can’t do it, try to use some output “compressors” and
+prettyfiers. Remember that these things add complexity and can sometimes
+make debugging harder, as they essentially obfuscate the output of original
+commands. At the end use output folding on Travis-CI.&lt;/p&gt;
+
+&lt;p&gt;Was this article useful? &lt;a href="http://www.twitter.com/wkoszek"&gt;Let me know&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>What I learned from connecting 60 projects to CI system</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2016/07/11/what-i-learned-from-connecting-60-projects-to-ci-system/"/>
+    <id>http://www.koszek.com/blog/2016/07/11/what-i-learned-from-connecting-60-projects-to-ci-system/</id>
+    <published>2016-07-11T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;Several months ago I started to wonder what makes me check out software
+sitting at &lt;a href="http://www.GitHub.com"&gt;GitHub&lt;/a&gt; and try it out.
+Some projects I was more willing to work with, and some I
+simply skipped without thinking about it much.
+It seemed like a habit which I’ve developed over the years.
+But why do I have this feeling of carelessly ignoring some projects over another?&lt;/p&gt;
+
+&lt;p&gt;The characteristics of projects I’m drawn into are pretty simple: good,
+clear documentation, good top-level directory structure, presence of some
+“dotfiles” and … green badge, signalizing &lt;a href="https://en.wikipedia.org/wiki/Continuous_integration"&gt;Continuous Integration
+(CI)&lt;/a&gt;
+system is actually verifying this software is at least building fine.&lt;/p&gt;
+
+&lt;p&gt;Once I’ve reached this conclusion, I set myself on a path for bringing all
+my essential repositories to the Continuous Integration (CI) system. First,
+to help people with my software, and second, to learn more about CI systems.&lt;/p&gt;
+
+&lt;p&gt;I had many repositories, big and small, old and new, some of which weren’t
+in the best state. Below you have my thoughts and conclusions from the
+project.&lt;/p&gt;
+
+&lt;h2 id="continuous-integration-101"&gt;Continuous Integration 101&lt;/h2&gt;
+
+&lt;p&gt;Quick introduction: CI system is a remote computer wired to your repository.
+When the repository changes, it’ll pick a change and execute the steps which
+user normally would have taken to build your software. By being a ‘virtual
+user’ the CI system finds issues with reproducibility which customers of
+your software would normally find. And it relieves you from “boring but
+necessary” kind of work. By establishing a process and culture around CI
+system, you’re more likely to deliver software with a decent quality.&lt;/p&gt;
+
+&lt;h2 id="projects-target"&gt;Project’s target&lt;/h2&gt;
+
+&lt;p&gt;So the idea I had was to basically let people know what &lt;a href="https://github.com/wkoszek/"&gt;my
+repos&lt;/a&gt; are all about by bringing documentation.
+And then showing that code isn’t total crap by building it in a reproducible
+way.&lt;/p&gt;
+
+&lt;p&gt;So my algorithm for fixing my code was this:&lt;/p&gt;
+
+&lt;pre class="highlight plaintext"&gt;&lt;code&gt;for each repo:
+	regardless of what (no exceptions)
+		put README.md in place
+	if it's super trivial and I don't care:
+		skip
+	contigure CI system and see a green badge
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id="continuous-integration-solutions"&gt;Continuous Integration solutions?&lt;/h2&gt;
+
+&lt;p&gt;I’ve worked with 3 CI systems:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://travis-ci.org/"&gt;Travis CI&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://circleci.com/"&gt;Circle CI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.appveyor.com/"&gt;AppVeyor&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;First of all, it’s pretty eye-opening that people in these companies
+contribute their compute time to the open-source community. I’m not
+affiliated with any of these companies, yet I send them big kudos for doing
+so. So far on delivering my open source projects I have paid literally $0
+(zero dollars) for their services. It is great companies contribute that way
+to the open-source and I hope that through this article we will have more
+developers using their products and improving quality of software.&lt;/p&gt;
+
+&lt;h3 id="how-they-differ"&gt;How they differ?&lt;/h3&gt;
+
+&lt;p&gt;Travis-Ci and Circle-Ci are direct competitors and their offering is
+similar. I have found Travis slightly easier to configure and its UI
+nicer. Circle-Ci feels slightly faster however. This is not 1-to-1
+comparison, and I feel like the best way is to try yourself.
+Travis has a big advantage that was important to me: they offer free OSX
+support. Since I &lt;a href="https://github.com/wkoszek/cs193p"&gt;had&lt;/a&gt;
+&lt;a href="https://github.com/wkoszek/macb"&gt;some&lt;/a&gt; projects for OSX, it was important
+to me. CircleCi and AppVeyor have this nice feature of letting you to login
+on the worker machine for debugging, something I wish Travis had. This is
+very important for debugging (read on).&lt;/p&gt;
+
+&lt;p&gt;AppVeyor however is pretty simple to choose: it’s a dominant Windows-based
+CI system. Because &lt;a href="https://github.com/wkoszek/flviz"&gt;FLViz&lt;/a&gt; and
+&lt;a href="https://github.com/wkoszek/kmnsim"&gt;KMNSIM&lt;/a&gt; both worked on Windows, I wanted
+to see them building fine too.&lt;/p&gt;
+
+&lt;h2 id="lessons-learned"&gt;Lessons learned&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Being a code piper isn’t always fun&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Debugging CI system can be boring and tedious. Reward is there of course,
+but you’ll have to arm yourself in patience and prepare for debugging remote
+system which you have no direct access to.&lt;/p&gt;
+
+&lt;p&gt;Most of failures will be of sort: “Works for me, but doesn’t work on remote
+system”, which is precisely a point of having CI system.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Whatever problem you rule out at this stage, your customers won’t hit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Debugging through a key-hole&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Remote systems behave differently and can be configured in unfamiliar way.
+I tried to ease this issue by showing some CI settings through
+&lt;a href="https://github.com/wkoszek/ci-env"&gt;CI-env&lt;/a&gt;. By clicking individual badges
+of each system you can see its remote settings, which you can encompass in
+your scripts later.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trial and error&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Travis-CI offers a &lt;a href="https://docs.travis-ci.com/user/common-build-problems/"&gt;Docker Image&lt;/a&gt;
+for debugging. You may find it helpful for debugging your flow.
+For me it’s often a cycle of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;push a commit&lt;/li&gt;
+  &lt;li&gt;see CI system failing&lt;/li&gt;
+  &lt;li&gt;change something and push a fix&lt;/li&gt;
+  &lt;li&gt;see CI system failing&lt;/li&gt;
+  &lt;li&gt;etc..&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Great flexibility&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For sure I’ve done with CI systems more than I’d have normally do. For
+example
+&lt;a href="https://github.com/wkoszek/book-programming-ruby/blob/master/.travis.yml"&gt;testing my Ruby versions&lt;/a&gt;
+for your scripts is easy. So is
+&lt;a href="https://github.com/wkoszek/mini_printf/blob/master/.travis.yml"&gt;building on 2 operating systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Things I don’t want to heat my Mac with, such as &lt;a href="https://travis-ci.org/wkoszek/dockerfiles"&gt;building Docker
+images&lt;/a&gt; I also do through CI
+system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keeping things simple&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What I see in some projects I &lt;a href="https://github.com/wkoszek/middleman-blog-similar/blob/master/.travis.yml"&gt;contributed
+to&lt;/a&gt;
+is that we put a lot of stuff in CI configuration. I think it’s a mistake
+because users can’t actually execute the CI steps from the same
+configuration file. So I suggest you wrap most of &lt;a href="https://github.com/wkoszek/dockerfiles/blob/master/build.sh"&gt;your steps in a
+script&lt;/a&gt; or
+&lt;a href="https://github.com/wkoszek/me/blob/master/makefile"&gt;a makefile&lt;/a&gt; and then
+run it from a
+&lt;a href="https://github.com/wkoszek/me/blob/master/.travis.yml"&gt;simple&lt;/a&gt;
+&lt;a href="https://github.com/wkoszek/dockerfiles/blob/master/.travis.yml"&gt;config&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;It will take time to push the quality of your code higher, but the benefits
+are great. Right now each time I make a change to my projects, I can see
+immediate checks on whether I broke something or not, which is very nice. I
+urge you to pick 2-3 of your active projects and do the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Let me know if this article was helpful and whether you’d find a
+screencast documenting topics in this article useful&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+  </entry>
+  <entry>
+    <title>What Docker really is</title>
+    <link rel="alternate" href="http://www.koszek.com/blog/2016/06/27/what-docker-really-is/"/>
+    <id>http://www.koszek.com/blog/2016/06/27/what-docker-really-is/</id>
+    <published>2016-06-27T00:00:00+00:00</published>
+    <updated>2017-03-30T05:04:37+00:00</updated>
+    <author>
+      <name>Wojciech Adam Koszek</name>
+    </author>
+    <content type="html">&lt;p&gt;It felt strange when Docker first came out, since I couldn’t really
+understand what it is. It is an interesting feeling when people market and
+brand a new technology in a way which makes it obscure and hard to
+understand. So below you have my explanation of Docker, the way I would like
+to see it couple of months ago.&lt;/p&gt;
+
+&lt;h2 id="docker-in-one-paragraph"&gt;Docker in one paragraph&lt;/h2&gt;
+
+&lt;p&gt;Docker is a manager for isolated buckets of software called containers. I
+gives you a way to say: “My software is based on Ubuntu; it must have these
+4 packages installed, and these 5 commands must be executed to make it run
+continually”. These steps will be done at “build” time, during which your
+~1GB image will be created. From this image containers with your software
+can be started on many OSes.&lt;/p&gt;
+
+&lt;h2 id="more-details"&gt;More details.&lt;/h2&gt;
+
+&lt;p&gt;Build is basically a nice term for downloading all the junk like binaries,
+software libraries and data-files, stitching them all together through the
+command line tools and making sure that whatever is in this “bundle” is
+exactly what you requested and what you need. This image is specified in
+&lt;code&gt;Dockerfile&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The image is a filesystem snapshot and has a name. For example,
+&lt;code&gt;wkoszek/base&lt;/code&gt; is a name of the image where I keep basic software for simple
+projects. Or &lt;code&gt;ruby:2.2.4&lt;/code&gt; is an image with Ruby &lt;code&gt;2.2.4&lt;/code&gt;. You can then take
+this build image and export it to the server. Later, other people can
+download it too, and start their containers with your software. Container is
+the instance of the image. Basically you can make many active running
+containers out of the image if you want. To compare it: think of the program
+on a disk, and a process running in the memory. And some programs you can
+start a many copies of . Docker image is similar.&lt;/p&gt;
+
+&lt;h2 id="virtualized-or-not"&gt;Virtualized or not?&lt;/h2&gt;
+
+&lt;p&gt;Now Docker is branded as a virtualization platform. This is partially true.
+It’s more of a separation manager. When you run on Linux and you want to
+start a container, Docker tools will talk to the kernel and tell it to
+create a separate “jail” for new programs about to be started. You can make
+this jail have limited CPU time, limited memory or just simply have no
+limits. Afterwards you can start a program in a jail and this will make this
+program be isolated. If someone were to take over the program from the jail,
+they’d be able to destroy only things within a jail, but not the main
+system.&lt;/p&gt;
+
+&lt;p&gt;So Docker runs on Linux and is basically based on Linux features.&lt;/p&gt;
+
+&lt;p&gt;What happens when you run Windows or Mac? This is where it gets tricky.
+Docker was branded as multi-platform solution, able to run the same
+software, anywhere, with no changes.&lt;/p&gt;
+
+&lt;p&gt;How to make your Linux-based image run on Mac?&lt;/p&gt;
+
+&lt;p&gt;That’s simple. You run Linux VM on Mac, and within this VM you run Docker.
+Docker tools which run on OSX are smart enough to talk to this VM first. And
+in the VM everything is as explained above. It’s pretty … primitive when
+you think about it, but it works.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Once again&lt;/strong&gt;: Docker is only multi-platform when running Linux on your
+native platform is viable. In fact the old Docker on OSX required running
+VirtualBox in the background. New Docker Beta runs Linux in a Apple-branded
+virtualization framework, and Docker inside of it. I haven’t looked at how
+Microsoft Windows is handled, but I know they have their virtualization
+features too, so I suspect it’s equivalent.&lt;/p&gt;
+
+&lt;p&gt;Let me add to that: whatever you’re running inside of Docker are real Linux
+programs compiled for your computer architecture. If you have 32-bit ARM CPU
+like Raspberry PI, and you want to grab a ready-to-use image, you must
+select the right image type. Otherwise you’ll attempt to fetch x64 image and
+it won’t work.&lt;/p&gt;
+
+&lt;h2 id="how-to-start-many-containers"&gt;How to start many containers?&lt;/h2&gt;
+
+&lt;p&gt;The idea of containers shows its real benefits if you deploy a system with
+many elements. For example you can think of a modern website as a software
+with a powerful database (SQL), fast memory storage (Redis/Memcached),
+engine (Rails/NodeJS), HTTP server etc. And it’s beneficial to have it all
+loosely coupled and separated, so that you can test/mock individual elements
+without impacting others. Containers help with that, because they keep all
+these packages in isolated jails, and let them communicate only when you let
+them.&lt;/p&gt;
+
+&lt;p&gt;So in the above example one could put SQL database in one container and all
+memory storage, HTTP storage and Web engine in their own separate
+containers. And you could say: I’m OK with SQL database talking to a Web
+engine, but not to the memory storage. And to do this, you may use Docker
+Compose.&lt;/p&gt;
+
+&lt;p&gt;Docker Compose explains the whole system in a file called
+&lt;code&gt;docker-compose.yml&lt;/code&gt;. This is where you can say that Web engine needs a
+memory storage and a database, and Compose will start things for you in a
+correct order.&lt;/p&gt;
+
+&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;That’s pretty much it. Intentionally I kept you away from technical details,
+since Docker documentation does a good job at it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Let me know if you’ve found this article useful and whether screencast
+demonstrating this topic step-by-step could be beneficial&lt;/strong&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>

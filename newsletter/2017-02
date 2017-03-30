@@ -1,0 +1,37 @@
+<p>Hello,</p>
+
+<p>March is here!</p>
+
+<p>Last month I published four articles:</p>
+
+<ul>
+  <li>
+    <p><a href="https://www.koszek.com/blog/2017/02/06/how-much-software-engineer-should-invest-in-career-growth/">How much software engineer should invest in career growth</a> about investing in your career. I showed how much industry is spending, and how much should you, to give yourself enough leverage. This article was shared over 40 times on LinkedIn and was my most read post ever.</p>
+  </li>
+  <li>
+    <p><a href="https://www.koszek.com/blog/2017/02/13/learn-programming-self-study-guide/">Learn programming: self study guide</a> is targeted towards people interested in self-study of programming languages. I share the approach which I’ve used with a great success for many years. I think it’ll work for you too.</p>
+  </li>
+  <li>
+    <p><a href="https://www.koszek.com/blog/2017/02/18/making-pull-requests-that-merge/">Making pull requests that merge</a> in which I explain how to make smart changes in the source code. If you follow this short guide, I think you will end up more successful at any software job.</p>
+  </li>
+  <li>
+    <p><a href="https://www.koszek.com/blog/2017/02/28/whats-the-most-expensive-stage-of-software-engineering/">What’s the most expensive stage of software engineering</a> should help you realize which stage of software project is worth optimizing for.</p>
+  </li>
+</ul>
+
+<p>To help you understand my technical articles more, I’ve studied several books about clear and precise writing. Most of them were dry and boring, but <a href="http://amzn.to/2lmvJ25">Stephen King’s book</a> was so good I listened to it twice, and I wrote a review: <a href="https://www.koszek.com/books/2015/10/21/book-on-writing/">On writing</a>.</p>
+
+<p>From the technical part I’ve switched my website to HTTPS, an encrypted
+version of HTTP. I used it as an excuse to learn Ansible (server automation
+framework) and Let’s Encrypt (tool for managing secure certificates).
+I’m going to write an article about this soon.</p>
+
+<p>Let me know what you think and feel free to e-mail me and let me know what you’re up to.</p>
+
+<p>Take care and see you in a month.</p>
+
+<pre class="highlight plaintext"><code>      Wojciech Adam Koszek
+      http://www.koszek.com
+      wojciech@koszek.com
+</code></pre>
+<p>You got this e-mail because you subscribed to the mailing list on my website. If you don’t want to receive e-mail from me, click unsubscribe and I’ll remove you from my mailing list.</p>

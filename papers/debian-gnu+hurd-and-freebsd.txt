@@ -1,0 +1,266 @@
+  ,= ,-_-. =.                             _____             _____ _____ ____  
+ ((_/)o o(\_)) 31.12.2004                |   __|___ ___ ___| __  |   __|    \ 
+  `-'(. .)`-'  Wojciech A. Koszek        |   __|  _| -_| -_| __ -|__   |  |  |
+      \_/      dunstan@FreeBSD.czest.pl  |__|  |_| |___|___|_____|_____|____/ 
+
+Debian GNU/Hurd+bochs on FreeBSD mini-HOWTO
+
+This is short description how to get Debian GNU/Hurd working in bochs on FreeBSD as
+native operating system.
+
+Introduction
+Main goal of this article is to get image with ready-to-use filesystem
+filled with fully runnable Debian GNU/Hurd system. Version of author's software:
+* System built from latest RELENG_5 branch (at the time of writing --
+  5.3-RELEASE).
+* bochs 2.1.1 (compiled from FreeBSD ports collection).
+* mke2fs (part of e2fsprogs from ports collection).
+* grub (compiled from ports collection).
+* Debian GNU/Hurd taken from
+  http://eu.hurd.gnuab.org/pub/debian-cd/K7/debian-K7-hurd-i386-CD1.iso.
+
+Native system configuration
+
+FreeBSD 5.x supports great GEOM framework, which simpifies all work. Kernel has
+to be compiled with memory disk support (included by default in
+/usr/src/sys/<arch>/conf/GENERIC):
+
+	# Pseudo devices.
+	[..]
+	device         md              # Memory "disks"
+	[..]
+
+Memory disk support can be also loaded from KLD:
+
+	# kldload /boot/kernel/g_md.ko
+	
+Building filesystem image
+
+First step is to get file in specified size. From the GNU/Hurd point of
+view, it will be main filesystem. This file will contain needed data in
+proper format. Author built 500MB image:
+
+	%dd if=/dev/zero bs=1024k count=500 of=system.img
+	500+0 records in
+	500+0 records out
+	524288000 bytes transferred in 13.191399 secs (39744685 bytes/sec)
+
+Creating memory device which will be accessible just like any other disk:
+
+	# mdconfig -a -t vnode -f system.img
+	md0
+
+Accesses to mdX device (available in /dev) will be mapped to image file.
+Number can differ from 0, but correct name of device has to be used,
+overwise you get into touble! Use name which has been displayed! It is
+possible to create needed slices. Using fdisk derived with FreeBSD:
+
+	#fdisk -u /dev/md0
+
+Author of article was asked about some alternative to native fdisk. Some of
+the users may use fdisk known from GNU/Linux distributions (available after
+/usr/ports/sysutils/linuxfdisk port installation):
+
+	# cfdisk-linux /dev/md0
+
+After answering 'y' to question:
+
+	No partition table or unknown signature on partition table
+	Do you wish to start with a zero table [y/N] ?
+
+..user is dropped in friendly menu based interface. Two slices has to be
+created. First with GNU/Hurd native filesystem (which is ext2fs -- 0x83 in
+hexadimal notation) and swap space (which is Linux swap -- 0x82 in hexadimal
+notation).
+
+Let say two slices were created:
+
+	# ls /dev/md0s*
+	crw-r-----  1 root  operator  -   4,  25 30 Gru 16:41 /dev/md0s1
+	crw-r-----  1 root  operator  -   4,  26 30 Gru 16:41 /dev/md0s2
+
+General layout of created image looks like that:
+
+	# fdisk /dev/md0
+	******* Working on device /dev/md0 *******
+	parameters extracted from in-core disklabel are:
+	cylinders=63 heads=255 sectors/track=63 (16065 blks/cyl)
+	
+	parameters to be used for BIOS calculations are:
+	cylinders=63 heads=255 sectors/track=63 (16065 blks/cyl)
+	
+	Media sector size is 512
+	Warning: BIOS sector numbering starts with sector 1
+	Information from DOS bootblock is:
+	The data for partition 1 is:
+	sysid 131 (0x83),(Linux native)
+	    start 63, size 787122 (384 Meg), flag 80 (active)
+	        beg: cyl 0/ head 1/ sector 1;
+	        end: cyl 48/ head 254/ sector 63
+	The data for partition 2 is:
+	sysid 130 (0x82),(Linux swap or Solaris x86)
+	    start 787185, size 224910 (109 Meg), flag 0
+	        beg: cyl 49/ head 0/ sector 1;
+	        end: cyl 62/ head 254/ sector 63
+	The data for partition 3 is:
+	<UNUSED>
+	The data for partition 4 is:
+	<UNUSED>
+
+Currently this command shows everything was done well, but it is very
+also very helpful in reading geometry of create image. Now time creation of
+filesystem. Second slice will be swap space, so no formating is needed.
+First slice must contain Ext2FS, with ,,hurd'' as filesystem owner:
+
+	# mke2fs -o hurd /dev/md0s1
+	mke2fs 1.35 (28-Feb-2004)
+	Filesystem label=
+	OS type: GNU/Hurd
+	Block size=1024 (log=0)
+	Fragment size=1024 (log=0)
+	98392 inodes, 393560 blocks
+	19678 blocks (5.00%) reserved for the super user
+	First data block=1
+	49 block groups
+	8192 blocks per group, 8192 fragments per group
+	2008 inodes per group
+	Superblock backups stored on blocks: 
+	        8193, 24577, 40961, 57345, 73729, 204801, 221185
+	
+	Writing inode tables: done                            
+	Writing superblocks and filesystem accounting information: done
+	
+	This filesystem will be automatically checked every 20 mounts or
+	180 days, whichever comes first.  Use tune2fs -c or -i to override.
+
+	Filesystem is mounted, and baseGNU.tgz is extracted.
+
+	# mount_ext2fs /dev/md0s1 /mnt
+	# cd /mnt
+	# tar xzf /cdrom/dists/sid/main/disks-hurd-i386/3.0.24-gnu-K/baseGNU.tgz
+	# ls -la
+	total 58
+	drwxr-xr-x  24 root  wheel  -  1024 Dec 30 23:35 ./
+	drwxr-xr-x  28 root  wheel  -  1024 Dec 21 19:29 ../
+	drwxr-xr-x   2 root  wheel  -  6144 Sep 17 10:37 bin/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 boot/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 dev/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 doc/
+	-rwxr-sr-x   1 root  wheel  -  5111 Sep 17 10:37 dpkg-hurd*
+	drwxr-xr-x  26 root  wheel  -  1024 Sep 17 10:37 etc/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 games/
+	drwxr-sr-x   2 root  staff  -  1024 Sep 17 10:36 home/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 hurd/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 include/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 info/
+	drwxr-xr-x  17 root  wheel  -  4096 Sep 17 10:37 lib/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:37 libexec/
+	drwx------   2 root  wheel  - 12288 Dec 30 23:26 lost+found/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 mnt/
+	-rwxr-xr-x   1 root  wheel  -  7987 Sep 17 10:38 native-install*
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 root/
+	drwxr-xr-x   2 root  wheel  -  2048 Sep 17 10:37 sbin/
+	drwxr-xr-x   3 root  wheel  -  1024 Sep 17 10:37 servers/
+	drwxr-xr-x  31 root  wheel  -  1024 Sep 17 10:37 share/
+	drwxr-sr-x   2 root  40     -  1024 Sep 17 10:36 src/
+	drwxr-xr-x   2 root  wheel  -  1024 Sep 17 10:36 sys/
+	drwxr-xr-t   2 root  wheel  -  1024 Sep 17 10:36 tmp/
+	lrwxr-xr-x   1 root  wheel  -     1 Sep 17 10:36 usr@ -> .
+	drwxr-xr-x  11 root  wheel  -  1024 Sep 17 10:36 var/
+	
+GRUB files has to be copied:
+	
+	# cp -Rf /usr/local/share/grub/i386-freebsd grub
+	
+It is good moment for preparing menu.lst file, which is used by GRUB while
+booting operating systems. For GNU/Hurd, simple menu.lst may look like:
+	
+	title Debian GNU/Hurd
+	root (hd0,0)
+	kernel /boot/gnumach.gz root=device:hd0s1
+	module /hurd/ext2fs.static \
+	--multiboot-command-line=${kernel-command-line} \
+	--host-priv-port=${host-port} \
+	--device-master-port=${device-port} \
+	--exec-server-task=${exec-task} -T typed ${root} $(task-create)
+	$(task-resume)
+	module /lib/ld.so.1 /hurd/exec $(exec-task=task-create)
+
+Put this lines in /mnt/grub/menu.lst. Currently it is possible to detach
+created image:
+  
+	# umount /mnt
+	# mdconfig -d -u md0
+
+This stage of image creation succeeded.
+
+Bochs configuration:
+
+Building bootable floppy image:
+
+	$ cd /usr/local/share/grub/i386-freebsd
+	$ cat stage1 stage2 /dev/zero | dd bs=512 count=2880 of=/tmp/grub-floppy.img 
+	2880+0 records in
+	2880+0 records out
+	1474560 bytes transferred in 0.044378 secs (33227243 bytes/sec)
+
+Now minimal bochsrc:
+
+	romimage: file=/usr/local/share/bochs/BIOS-bochs-latest, address=0xf0000
+	vgaromimage: /usr/local/share/bochs/VGABIOS-elpin-2.40
+	config_interface: textconfig
+	display_library: x
+	boot: floppy
+	newharddrivesupport: enabled=1
+	megs: 32
+	log: bochs.out
+	clock: sync=realtime, time0=1
+	
+	floppya: 1_44=/tmp/grub-floppy.img,status=inserted
+	ata0-master: type=disk, mode=flat, path=./system.img, cylinders=63,heads=255, spt=63
+
+Geometry of ata0-master is taken from fdisk output, just like presented
+above. After booting virtual machine, user is dropped into grub:
+
+	    GNU GRUB  version 0.95  (639K lower / 31744K upper memory)
+	 
+	 [ Minimal BASH-like line editing is supported.  For the first word, TAB
+	   lists possible command completions.  Anywhere else TAB lists the possible
+	   completions of a device/filename. ]
+	 
+	 
+	Setting GRUB onto image file can be done by typing:
+	
+	grub> root (hd0,0)
+	 Filesystem type is ext2fs, partition type 0x83
+	 
+	grub> setup (hd0)
+	 Checking if "/boot/grub/stage1" exists... no
+	 Checking if "/grub/stage1" exists... yes
+	 Checking if "/grub/stage2" exists... yes
+	 Checking if "/grub/e2fs_stage1_5" exists... yes
+	 Running "embed /grub/e2fs_stage1_5 (hd0)"...  17 sectors are embedded.
+	succeeded
+	 Running "install /grub/stage1 (hd0) (hd0)1+17 p (hd0,0)/grub/stage2 /grub/menu
+	.lst"... succeeded
+	Done.
+	 
+	grub>
+ 
+Now bochs can be stopped. Image is independent. Changing line in bochsrc
+from:
+
+	boot: floppy
+
+to:
+  
+	boot: disk
+
+..will result system will be started from image file.
+
+Author got runnable Debian GNU/Hurd system by typing exacly these commands,
+so after carefully followed steps, reader's result will probably be the
+same. Author will be grateful for comments and suggestions. If one of this
+steps failed, please report it to author giving him chance to correct
+mistake.
+                                

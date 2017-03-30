@@ -1,0 +1,96 @@
+FreeBSD 5.0-RELEASE
+Wojciech Koszek
+
+FreeBSD od dawna uznawany jest za stabilny i bezpieczny system doskonale nadajšcy się do pełnienia 
+funkcji serwera internetowego czy też wydajnej stacji roboczej. W artykule tym przedstawię zmiany, 
+jakie zaszły w wersji 5.0 systemu, którego oficjalne wydanie miało miejsce 19 stycznia 2003 roku.
+
+Jšdro
+
+We FreeBSD 5.0-RELEASE zwiększyła się liczba obsługiwanych architektur. Obecnie należš do nich: 
+i386, alpha, pc98, sparc64, ia64, a w najbliższym czasie możemy spodziewać się wsparcia dla x86-64, 
+ppc, oraz MIPS'a. Znacznym zmianom podległ kod SMPng, odpowiedzialny za wsparcie dla maszyn 
+wieloprocesorowych. Dzięki trwajšcym pracom nad sportowaniem kodu zapożyczonego od BSD/OS 
+5.0, już w niedługim czasie projekt (wraz ze wsparciem dla wielowštkowoci) ma okazję stać się 
+doskonałym rozwišzaniem dla maszyn wieloprocesorowych. Warto wspomnieć, iż wprowadzenie 
+obsługi SMPng wymaga wiele pracy, głównie za sprawš zmian w wielu partiach kodu, do tej pory nie 
+przystosowanych do wspierania maszyn obsługujšcych wiele procesorów.
+
+Systemy plików
+Jednš z większych nowoci, a zarazem wzbudzajšcš wiele ciekawoci jest nowy, zaimplementowany 
+system plików, UFS2. Dzięki zwiększeniu adresowania, możliwe jest wykorzystanie przestrzeni 
+dyskowych o wielkoci przekraczajšcej 1TB. Mimo iż nowy system plików udostępnia wiele ciekawych 
+funkcji (możliwoć stosowania list kontroli dostępu, rozszerzonych atrybutów, okrelania czasu 
+stworzenia pliku) to instalator domylnie utworzy partycje wykorzystujšc tradycyjny UFS. Wybór UFS2 
+jest opcjonalny. Możliwe stało się również tworzenie przestrzeni swap większych od 67GB, co wbrew 
+pozorom, ma ogromne znaczenie na maszynach wielu orodków naukowych. Za sprawš pojawienia się 
+polecenia mount_udf(8), oraz wsparcia dla formatu zapisu plików, możliwy jest odczyt noników 
+zapisanych w formacie UDF. Deweloperzy postanowili, że domylnie włšczony zostanie devfs, system 
+plików odpowiedzialny za zarzšdzanie plikami urzšdzeń. Od tej pory administrator zwolniony jest z 
+obowišzku ręcznego tworzenia tychże plików. Osoby pragnšce dostosować jšdro do własnych potrzeb 
+mogš zdecydować, iż chcš korzystać ze standardowego rozwišzania bazujšcego na tradycyjnym 
+sposobie tworzenia urzšdzeń. W takim wypadku w pliku konfiguracyjnym jšdra należy zaznaczyć 
+opcję:
+
+options NODEVFS
+
+Bezpieczeństwo
+Domenš FreeBSD zawsze był wysoki poziom bezpieczeństwa,. W nowej wersji systemu jest ti 
+szczególnie widoczne głównie za sprawš włšczenia projektu TrustedBSD. Dzięki pracy deweloperów 
+oraz twórców projektu (na czele którego stoi Robert Watson, osoba dobrze znana w rodowisku 
+użytkowników FreeBSD) do dyspozycji administratora oddane zostały dwa z pięciu  mechanizmów 
+praktycznie całkowice zgodnych ze standardem POSIX.1e: MAC (Mandatory Access Control), 
+umożliwiajšce stosowanie różnorakich poziomów zabezpieczeń już na poziomie jšdra, oraz ACL 
+(Access Control List), dzięki którym możliwe jest stosowanie bardziej szczegółowych praw dostępu do 
+plików. Przykładowo, dzięki modułowi mac_bsdextended(4) oraz narzędziu ugidfw(8) 
+korzystajšcemu ze składni podobnej do ipfw(8), możliwe jest tworzenie praw dostępu do tzw 
+tematów (subject) bšd objektów (object) w oparciu o tradycyjny model zabezpieczeń (uid, gid). 
+Czytelników chcšcych poznać więcej szczegółów dotyczšcych TrustedBSD odsyłam do strony domowej 
+projektu. Uaktualnieniu uległo oprogramowanie dostarczone z systemem, a wykryte błędy 
+poprawiono. Zmianom podległ mechanizm jail(8). Obecnie możliwe jest uruchomienie rodowiska 
+pod osobnym poziomem bezpieczeństwa (securelevel). W najbliższym czasie możemy spodziewać 
+się pojawienia jail-ng, nowej implementacji obecnego mechanizmu, wspierajšcej nazywanie jail'i jak 
+również osobne konfigurowanie każdego rodowiska. Do zmian kosmetycznych majšcych na celu 
+utrzymanie porzšdku w systemie należy przeniesienie syscalli zwišzanych z bezpieczeństwem do 
+hierarchii security.*.
+
+Userland
+Jednš z ważniejszych (i nieco dyskusyjnych) zmian w przestrzeni użytkownika jest brak interpretera 
+Perl'a. Skutkiem takiej decyzji jest przepisanie do standardowego /bin/sh bšd C aplikacji do tej pory 
+korzystajšcych z Perl'a. Deweloperzy doszli do wniosku, iż utrzymanie Perl'a w basesystemie nie jest 
+najlepszym pomysłem ze względu na rosnšcš objętoć jak również ze względu na bezpieczeństwo. 
+Oczywicie wcišż istnieje możliwoć zainstalowania Perl'a z bazy pakietów/portów. Oprócz pojawienia 
+się wielu nowych opcji, każdy program skompilowany jest przy pomocy GCC 3.2.1, który od tej pory 
+stał się domylnym kompilatorem. Warto również wspomnieć o nowym narzędziu portupgrade, które 
+zastšpiło pkg_update(1), oraz przejęło częciowš funkcjonalnoć pkg_version(1).
+
+Sterowniki
+Oczywicie system został wyposażony w większš niż dotychczas iloć sterowników. Posiadaczy 
+napędów DVD-RW ucieszy zapewne fakt, iż dzięki rozszerzeniu funkcjonalnoci sterownika ATA, majš 
+możliwoć zapisu na nonik. Znaczna częć kodu odpowiedzialna za wsparcie dla urzšdzeń 
+kryptograficznych została przeniesiona z OpenBSD, co dzięki sprzętowej i programowej akceleracji, 
+powinno znaczšco skrócić czas wykonywania tego typu operacji.
+
+Podsumowanie
+Iloć zmian wprowadzonych od wersji 4.x powoduje, iż obecnš gałš rozwoju możemy nazwać 
+nowatorskš bšd nawet rewolucyjnš. Pomimo, iż wiele z przedstawionych opcji należy do 
+eksperymentalnych częci systemu które znajdujš się w trakcie rozwoju, goršco zachęcam Czytelników 
+do testowania i zgłaszania ewentualnych usterek. Czytelników zainteresowanych bardziej 
+szczegółowymi informacjami, odsyłam do stron podanych w tabelce. Niemniej jednak wzrok 
+użytkowników poszukujšcych pewnej i sprawdzonej platformy dla rodowisk produkcyjnych kieruję ku 
+FreeBSD 4.7-RELEASE, bšd ku zbliżajšcemu się FreeBSD 4.8-RELEASE.
+
+http://www.freebsd.org/
+Strona domowa FreeBSD
+http://www.freebsd.org/releases/5.0R/announce.html
+Informacja o pojawieniu się FreeBSD 5.0-
+RELEASE
+http://www.freebsd.org/releases/5.0R/relnotes.html
+Szczegóły dotyczšce nowej wersji systemu
+http://www.freebsd.org/releases/5.0R/hardware.html
+Informacje dotyczšce wspieranego sprzętu
+http://www.freebsd.org/smp/
+Projekt SMP
+http://www.trustedbsd.org/
+Strona domowa projektu TrustedBSD
+

@@ -1,0 +1,86 @@
+FreeBSD 5FreeBSD 5.0
+ 
+Wojciech Koszek
+ 
+FreeBSD jest dynamicznie rozwijającym się systemem, powszechnie uznawanym za 
+bezpieczny, stabilny, doskonale nadajšcy się zarówno na system serwerowy, jak 
+również na wysokowydajną stację roboczą. W artykule tym postaram się przedstawić 
+zmiany wprowadzone w nowej wersji, FreeBSD oznaczonej numerem 5.0, której 
+oficjalne wydanie ujrzało światło dzienne 19 stycznia 2002 roku. 
+ 
+Nowe architektury i sterowniki
+Nowa wersja systemu działa obecnie na większej ilości architektur. FreeBSD 
+można teraz uruchomić na procesorach i386, alpha, ia64, sparc64, pc98, a 
+dzięki pracy deweloperów w najbliższym czasie możemy spodziewać się także 
+wsparcia dla x86-64, MIPS'a oraz PowerPC. Dodanych zostało wiele sterowników 
+z czego ważniejsze to: sterownik umożliwiajšcy zapis na urządzeniach klasy 
+DVD-RW oraz przeniesiony z OpenBSD sterownik urzšdzeń kryptograficznych, 
+dzięki czemu możliwe będzie wykorzystanie szyfrowania zarówno na bazie 
+oprogramowania, jak i sprzętu.
+ 
+Zmiany w jądrze.
+W jądrze systemu zaszło wiele zmian. Oprócz wszelkich poprawek rozwijanych 
+jest wiele kluczowych projektów m.in.: wsparcia dla operacji wieloprocesorowych 
+(SMPng) czy też wsparcia wielowątkowości dla schedulera jšdra. Zapewni to 
+większą skalowalność w przypadku maszyn wieloprocesorowych oraz klastrów. 
+Sterownik odpowiedzialny za generowanie liczb pseudo losowych został przepisany 
+i obecnie używa trudniejszego do przewidzenia algorytmu Yarrow. Możliwe jest 
+tworzenie bardzo dużych przestrzeni swap (powyżej 67GB), co ma ogromne znaczenie 
+w serwerach obliczeniowych wielu ośrodków naukowych. Dodane została opcja 
+RLIMIT_VMEM, dzięki której możliwe jest ograniczenie maksymalnej pamięci 
+procesu.
+ 
+Systemy plików
+Nowym systemem plików wzbudzającym wiele emocji jest zapewne UFS w wersji 2. 
+Pomimo, iż instalator domyślnie formatuje dyski przy pomocy UFS1, to podczas 
+instalacji użytkownik ma możliwość wyboru UFS2. Nowy system plików 
+zaprojektowany został tak, by wspierać listy kontroli dostępu do plików tzw. 
+ACL (ang. Access Control List) wraz z rozszerzonymi projektu TrustedBSD. 
+Dzięki zwiększeniu adresowania, udało się przełamać dotychczasowš granicę 
+1TB. Od wersji 5.0 domyślnie włączony jest system plików devfs odpowiedzialny 
+za zarządzanie plikami urzšdzeń, co zwalnia nas z ręcznego tworzenia tychże 
+plików przy pomocy MAKEDEV. 
+ 
+Bezpieczeństwo
+ 
+Oprócz wielu poprawek i uaktualnień aplikacji, do FreeBSD 5.0 wprowadzono 
+wiele niepowtarzalnych cech zwišzanych z bezpieczeństwem. Chodzi tu głównie 
+o integracje z projektem TrustedBSD zawierajšcym w sobie zaawansowane 
+mechanizmy takie jak MAC (ang. Mandatory Access Control), zastosowanie list 
+kontroli dostępu do systemu plików, co w połšczeniu z wielopoziomową 
+kontrolą w warstwie jądra i przestrzeni użytkownika (Multi-Level Security), 
+oferować będzie administratorowi naprawdę imponujący zestaw narzędzi do 
+zabezpieczenia systemu. Dzięki narzędziu devfs(8) możliwe jest określenie 
+ścisłych reguł, dzięki którym dany użytkownik/proces nie będzie w stanie 
+zobaczyć danych części systemu. Daje to administratorowi możliwość do 
+zdefiniowania grup użytkowników, którzy będą mogli korzystać z danych 
+urządzeń, w zależności od ich potrzeb.
+ 
+Userland
+Jednš z ważniejszych (i nieco dyskusyjnych) zmian w przestrzeni użytkownika 
+jest brak interpretera Perl'a. Skutkiem takiej decyzji jest przepisanie do 
+standardowego /bin/sh bądź C aplikacji do tej pory korzystajšcych z Perl'a. 
+Deweloperzy doszli do wniosku, iż utrzymanie Perl'a w basesystemie nie jest 
+najlepszym pomysłem ze względu na rosnšcš objętość jak również ze względu na 
+bezpieczeństwo. Oczywiście wcišż istnieje możliwość zainstalowania Perl'a z 
+bazy pakietów/portów. Oprócz pojawienia się wielu nowych opcji, każdy program 
+skompilowany jest przy pomocy GCC 3.2.1, który od tej pory stał się domyślnym 
+kompilatorem. Warto również wspomnieć o nowym narzędziu portupgrade, które 
+zastšpiło pkg_update(1), oraz przejęło częściową funkcjonalność pkg_version(1).
+ 
+Podsumowanie
+Mam nadzieję, że udało mi się przedstawić nowe cechy systemu i zachęcić 
+czytelnika do jego wypróbowania. Część z przedstawionych tu opcji jest 
+jeszcze w fazie heavy-development, więc należy liczyć się ze zmniejszoną 
+stabilnością oraz problemami z uruchomieniem niektórych opcji. Pomimo, 
+iż obecna wersja nie nadaje się jeszcze na platformę produkcyjną, 
+wszystkich gorąco zachęcam do testowania i zgłaszania błędów szczególnie, 
+że według zapowiedzi, obecna, niewąpliwie przełomowa gałąź 5.x ma szanse 
+stać się największym projektem w świecie Opensource.
+ 
+Linki do stron
+[1] http://www.freebsd.org/releases/5.0R/announce.html - Wiadomość o wydaniu 
+nowej wersji FreeBSD.
+[2] http://www.freebsd.org/releases/5.0R/relnotes-i386.html - Szczegółowe 
+informacje dotyczšce zmian od wersji 4.x dla platformy i386
+[3] http://www.freebsd.org/platforms/index.html - Lista wspieranych architektur

@@ -1,0 +1,84 @@
+<!doctype html> <html lang=en> <head> <meta charset=utf-8 /> <meta http-equiv=X-UA-Compatible content='IE=edge;chrome=1'/> <meta name=author content="Wojciech Adam Koszek"> <meta name=viewport content="width=device-width, initial-scale=1"> <meta name="p:domain_verify" content=35dedfd4f697e6e974b0ae6631ca7351 /> <!--[if lt IE 9]><script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script> <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]--> <link rel=stylesheet media=none onload="if(media!='all')media='all'" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> <link rel=stylesheet media=none onload="if(media!='all')media='all'" href="/css/1406-fonts.css"> <link rel=stylesheet media=none onload="if(media!='all')media='all'" href="/css/debug.css"> <link rel=stylesheet media=none onload="if(media!='all')media='all'" href="/css/code.css"> <script src="https://code.jquery.com/jquery-git.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-8027537-3', 'auto');
+  ga('send', 'pageview');
+</script> <script>
+	(function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){
+	(w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
+	e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
+	})(window,document,'script','//s.swiftypecdn.com/install/v2/st.js','_st');
+	_st('install','_i_CdLX9xwxixHZtjxHu','2.0.0');
+</script> <link rel=icon type="image/png" href="/img/favicon.ico"> <title>fpurge() hack &mdash; Koszek trick #1</title> <meta name=description content="Dirty, ugly and terribly useful trick that works sometimes. "/> <meta property="og:title" content="fpurge() hack &mdash; Koszek trick #1"/> <meta property="og:description" content="Dirty, ugly and terribly useful trick that works sometimes. "/> <meta name="twitter:card" content=summary_large_image> <meta name="twitter:site" content="@wkoszek"/> <meta name="twitter:creator" content="@wkoszek"/> <meta name="twitter:title" content="fpurge() hack &mdash; Koszek trick #1"/> <meta name="twitter:description" content="Dirty, ugly and terribly useful trick that works sometimes. "/> <meta property="og:type" content=article /> <meta property="article:author" content="https://www.koszek.com/about"/> <meta property="article:publisher" content="https://www.koszek.com/"/> <link rel=alternate type="application/atom+xml" title="Atom Feed" href="/feed.xml"/> </head> <body> <div class=container> <div class="row noprint"> <div class="col-md-3 logo"> <a href="/">Wojciech Adam Koszek</a> </div> <div class="col-md-9 links hidden-sm hidden-xs"> <a class=in id=blog href="/">Blog</a> <a class=in id=reading href="/reading/">Reading</a> <a class=in id=papers href="/papers/">Papers</a> <a class=in id=about href="/about/">About me</a> <input class=st-default-search-input> </div> </div> <div class="row noprint"> <hr/> </div> <div class="row hidden-md hidden-lg links noprint"> <div class=col-xs-4> <br> <a class=in href="/">Blog</a> </div> <div class=col-xs-4> <br> <a class=in href="/reading/">Reading</a> </div> <div class=col-xs-4> <br> </div> </div> <div class="row hidden-md hidden-lg links noprint"> <div class=col-xs-4> <br> <a class=in href="/papers/">Papers</a> </div> <div class=col-xs-4> <br> <a class=in href="/about/">About</a> </div> <div class=col-xs-4> <br> <a class="hidden-lg hidden-md" href="#notes">Notes</a> </div> </div> <div class="row hidden-md hidden-lg links text-center noprint"> <br> <input class=st-default-search-input> </div> <div class=row> <div class="col-md-2 leftpanel hidden-xs hidden-sm"> </div> <div class="col-md-7 content"> <article> <h1 class=title>fpurge() hack &mdash; Koszek trick #1</h1> <i>by Wojciech Adam Koszek</i> &nbsp;&nbsp;&sdot;&nbsp;&nbsp; <i>May 19, 2012</i> &nbsp;&nbsp;&sdot;&nbsp;&nbsp; <i>East Palo Alto, CA</i> <br/> <br/> <b>Dirty, ugly and terribly useful trick that works sometimes. </b> <br/> <hr class=noprint /> <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f9a67fb0188b069" async=async></script> <div class=addthis_sharing_toolbox></div> <hr class=noprint /> <div class=article_body> <p>A friend of mine asked me once:</p> <p><strong><em>How to recover text formatted by printf(), but do not spit it output to the console?</em></strong></p> <p>Right now I don’t exactly remember why <code>fprintf()</code> couldn’t be used, but I remember this was in the environment where <code>fprintf()</code> (or all?) changes couldn’t be applied.</p> <p>This is a technique I was came up with. Please note: this is <em>HUGE</em> hack and it is not proven to work on your system. It is based on the fact data from <code>printf</code> function family is first written to the buffer <code>buf</code>, and until it’s internally flushed, it won’t be printed. Lack of flush is implicitly expected due to the large buffer size, and buffering set by <code>setbuf</code>. Once we generate enough data in the <code>buf</code> buffer through <code>fprintf</code> calls, we copy the data to <code>text</code> buffer, and discard <code>buf</code> buffer. Discarding happens via <code>fprune</code> and its associated file descriptor, for which buffer has been used for.</p> <p>It used to work on FreeBSD and GNU/Linux, but PLEASE don’t make your code depend on that. It’s a hack. Here it is:</p> <pre class="highlight cpp"><code>
+<span class="cp">#include &lt;assert.h&gt;
+#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+#include &lt;string.h&gt;
+</span>
+<span class="cp">#define	SZ	1024*1024
+</span>
+<span class="cm">/*
+ * This is Koszek's trick to write formated data to the FILE structure
+ * with an underlying buffer, but without flushing it to the backing
+ * descriptor. Later on, once a buffer is filled, I print it to get a
+ * proof and clear it.
+ */</span>
+<span class="kt">int</span>
+<span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="o">**</span><span class="n">argv</span><span class="p">)</span>
+<span class="p">{</span>
+	<span class="kt">char</span> <span class="n">buf</span><span class="p">[</span><span class="n">SZ</span><span class="p">];</span>
+	<span class="kt">char</span> <span class="n">text</span><span class="p">[</span><span class="n">SZ</span><span class="p">];</span>
+	<span class="kt">FILE</span> <span class="o">*</span><span class="n">fp</span><span class="p">;</span>
+
+	<span class="p">(</span><span class="kt">void</span><span class="p">)</span><span class="n">argc</span><span class="p">;</span>
+	<span class="p">(</span><span class="kt">void</span><span class="p">)</span><span class="n">argv</span><span class="p">;</span>
+
+	<span class="n">memset</span><span class="p">(</span><span class="n">buf</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="k">sizeof</span><span class="p">(</span><span class="n">buf</span><span class="p">));</span>
+
+	<span class="n">fp</span> <span class="o">=</span> <span class="n">fopen</span><span class="p">(</span><span class="s">"FILE.txt"</span><span class="p">,</span> <span class="s">"a+"</span><span class="p">);</span>
+	<span class="n">assert</span><span class="p">(</span><span class="n">fp</span> <span class="o">!=</span> <span class="nb">NULL</span><span class="p">);</span>
+	<span class="n">fflush</span><span class="p">(</span><span class="n">fp</span><span class="p">);</span>
+	<span class="n">setbuf</span><span class="p">(</span><span class="n">fp</span><span class="p">,</span> <span class="n">buf</span><span class="p">);</span>
+
+	<span class="n">fprintf</span><span class="p">(</span><span class="n">fp</span><span class="p">,</span> <span class="s">"Nie wiem co napisaæ</span><span class="se">\n</span><span class="s">"</span><span class="p">);</span>
+	<span class="n">fprintf</span><span class="p">(</span><span class="n">fp</span><span class="p">,</span> <span class="s">"Nie wiem co tutaj wklepaæ</span><span class="se">\n</span><span class="s">"</span><span class="p">);</span>
+	<span class="n">fprintf</span><span class="p">(</span><span class="n">fp</span><span class="p">,</span> <span class="s">"To ma tylko wyczy¶ciæ bufor</span><span class="se">\n</span><span class="s">"</span><span class="p">);</span>
+
+	<span class="n">memcpy</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="n">buf</span><span class="p">,</span> <span class="k">sizeof</span><span class="p">(</span><span class="n">text</span><span class="p">));</span>
+
+	<span class="n">fpurge</span><span class="p">(</span><span class="n">fp</span><span class="p">);</span>
+	<span class="n">setbuf</span><span class="p">(</span><span class="n">fp</span><span class="p">,</span> <span class="nb">NULL</span><span class="p">);</span>
+
+	<span class="n">printf</span><span class="p">(</span><span class="s">"Text: '%s'</span><span class="se">\n</span><span class="s">"</span><span class="p">,</span> <span class="n">text</span><span class="p">);</span>
+
+	<span class="n">fflush</span><span class="p">(</span><span class="n">fp</span><span class="p">);</span>
+	<span class="n">fclose</span><span class="p">(</span><span class="n">fp</span><span class="p">);</span>
+	<span class="k">return</span> <span class="p">(</span><span class="n">EXIT_SUCCESS</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre> </div> </article> <div class="row noprint"> <br> <div class="col-md-6 text-left"> </div> <div class="col-md-6 text-right"> </div> </div> <div class=noprint> <hr> <h3 id=mailing-list>Subscribe for updates</h3> <p> Once a month I send updates on the new content and hints for software engineers. <div id=mc_embed_signup class=row> <form action="//koszek.us3.list-manage.com/subscribe/post?u=0cfe70aa4cdf848b2adbd70c6&amp;id=bc454f0778" method=post id=mc-embedded-subscribe-form name=mc-embedded-subscribe-form class=validate target=_blank novalidate> <div id=mc_embed_signup_scroll class=col-md-12> <input type=email value="" name=EMAIL class="required email" id=mce-EMAIL placeholder="Enter E-mail here"> <div id=mce-responses class=clear> <div class=response id=mce-error-response style="display:none"></div> <div class=response id=mce-success-response style="display:none"></div> </div> <div style="position: absolute; left: -5000px;"><input name=b_0cfe70aa4cdf848b2adbd70c6_bc454f0778 tabindex=-1 value=""></div> <div class=clear><input type=submit value=Subscribe name=subscribe id=mc-embedded-subscribe class=button width="100%"></div> </div> </form> </div> </p> <hr> <b>Liked it? Share it!</b> <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f9a67fb0188b069" async=async></script> <div class=addthis_sharing_toolbox></div> <hr> <p><br/> <strong>About the author:</strong> I’m Wojciech Adam Koszek. I like software, business and design. Poland native. In Bay Area since 2010.   <a href="/about/">More about me…</a></p> <hr> <div id=disqus_thread></div> <script>
+
+var disqus_config = function () {
+this.page.url = document.location.href.split('?')[0].split('#')[0];
+this.page.identifier = this.page.url;
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//koszek.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script> <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> </div> </div> <div class=col-md-1> </div> <div class="col-md-2 rightpanel noprint"> <br><h4>Mailing list</h4> <a href="#mailing-list">Subscribe</a> <br><h4>RSS feed</h4> <a href="http://www.koszek.com/feed.xml">RSS</a> <h4>Contact</h4> <a href="mailto:wojciech@koszek.com">E-mail</a><br> <a href="https://twitter.com/wkoszek/">Twitter</a><br> <a href="https://www.linkedin.com/in/wkoszek/">LinkedIn</a><br> <a href="https://github.com/wkoszek/">Github</a><br> <h4>Tags</h4> <span class=tag> <a href="/blog/tags/software-engineering">software engineering</a> </span> <br> <span class=tag> <a href="/blog/tags/tools">tools</a> </span> <br> <span class=tag> <a href="/blog/tags/entrepreneurship">entrepreneurship</a> </span> <br> <span class=tag> <a href="/blog/tags/productivity">productivity</a> </span> <br> </div> </div> <div class="row noprint"> <div class="col-md-12 footer"> <i>&copy;&nbsp;2012&dash;2017 Wojciech Adam Koszek (<a href="https://www.twitter.com/wkoszek/">@wkoszek</a>)</i> <br> Visits so far: <script>
+var sc_project=10468040; 
+var sc_invisible=0; 
+var sc_security="b542d462"; 
+var sc_text=2; 
+var scJsHost = (("https:" == document.location.protocol) ?  "https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+ "statcounter.com/counter/counter.js'></"+"script>");
+</script> <noscript> <div class=statcounter> <a title="free web stats" href="https://statcounter.com/free-web-stats/" target=_blank> <img class=statcounter src="https://c.statcounter.com/10468040/0/b542d462/0/" alt="free web stats"/></a> </div> </noscript> </div> </div> </div> <script>
+        var active_page_elem = document.getElementById('active_page_name')
+        var active_page_name = (active_page_elem != null ? active_page_elem.textContent : "blog");
+        var active_page_link = document.getElementById(active_page_name);
+        active_page_link.className = "ac";
+    </script> </body> </html>
