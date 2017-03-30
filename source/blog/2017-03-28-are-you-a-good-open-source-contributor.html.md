@@ -2,7 +2,7 @@
 title: "Are you a good Open Source contributor?"
 author: "Wojciech Adam Koszek"
 description: >
-  You're a bad Open Source contributor, I think.
+  You're a bad Open Source contributor.
   Open Source Scale of Contributions shows that.
   You can check it out and come back and shout at me, and prove me wrong.
 address: "Menlo Park, CA"
