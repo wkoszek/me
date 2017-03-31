@@ -202,3 +202,9 @@ input[type=submit] {
   background-color: $link-color;
   color: white;
 }
+.subscribe {
+  color: white;
+  border: solid 2px $link-color;
+  background-color: $link-color;
+  padding: 5px;
+}
