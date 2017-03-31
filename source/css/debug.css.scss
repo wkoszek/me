@@ -196,3 +196,9 @@ padding-right: 2%;
 .tag {
   background-color: lightred;
 }
+
+input[type=submit] {
+  border: solid 3px $link-color;
+  background-color: $link-color;
+  color: white;
+}
