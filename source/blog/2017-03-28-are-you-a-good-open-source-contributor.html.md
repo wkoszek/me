@@ -5,6 +5,10 @@ description: >
   You're a bad Open Source contributor.
   Open Source Scale of Contributions shows that.
   You can check it out and come back and shout at me, and prove me wrong.
+maillist: >
+  which shows the scale of Open Source contributors and tells you
+  how to get better at publishing code; everything by doing a series of
+  little steps
 address: "Menlo Park, CA"
 tags:
 - "software engineering"

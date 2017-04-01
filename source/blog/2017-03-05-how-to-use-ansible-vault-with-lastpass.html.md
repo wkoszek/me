@@ -4,6 +4,9 @@ author: "Wojciech Adam Koszek"
 description: >
   I give you the tool which will help you keep your Ansible Vault passwords
   in LastPass. I show how to use it as well.
+maillist: >
+  in which you'll learn how to use a password manager LastPass to manage
+  secrets stored in the Ansible Vault
 address: "Menlo Park, CA"
 tags:
 - "software engineering"

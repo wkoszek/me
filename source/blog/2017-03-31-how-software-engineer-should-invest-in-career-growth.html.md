@@ -4,6 +4,9 @@ author: "Wojciech Adam Koszek"
 description: >
   How to invest money in yourself, your education and a career growth as a
   software engineer.
+maillist: >
+  where I show the best ways to invest money into your software
+  engineering education
 address: "Menlo Park, CA"
 tags:
 - "software engineering"

@@ -4,6 +4,9 @@ author: "Wojciech Adam Koszek"
 description: >
   When you're not in the productive mood, and you need some
   techy movies, watch these titles.
+maillist: >
+  where you get to know movies which have some bits and pieces of the
+  techy culture and which I enjoyed and you'll too
 address: "Menlo Park, CA"
 tags:
 - "software engineering"
