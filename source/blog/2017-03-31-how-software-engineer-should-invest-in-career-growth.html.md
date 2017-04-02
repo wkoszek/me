@@ -48,7 +48,7 @@ Or maybe three lunches, if you eat out.
 Yes, I do know forty dollars is a lot of money in most parts of the world.
 I'm from Poland originally, and the currency ratio makes $40 be
 approximately four times as much.
-But by buying books you buy yourself a levarage against all the people who
+But by buying books you buy yourself a leverage against all the people who
 you meet, interviews you take and all the business opportunities.
 
 Let me give you an example here.  I remember paying $70 for a fourth edition
@@ -73,7 +73,7 @@ If you want to learn how to make good book picks, you can take a look at my
 [Reading 101 for software engineers](https://www.koszek.com/blog/2017/01/17/reading-for-software-engineers/)
 [Previously](https://www.koszek.com/blog/2017/02/06/how-much-software-engineer-should-invest-in-career-growth/)
 I talked about looking at your learning as a business, and
-it's inenvitable to make mistakes on your R&D budget.
+it's inevitable to make mistakes on your R&D budget.
 
 ## Library membership
 
@@ -88,11 +88,11 @@ You should use the library to read, study and proof-read books and do work.
 
 In the US libraries come with several perks. One of them is [Safari Books Online](https://www.safaribooksonline.com)
 available at no cost.  Others are programs for
-audiobooks like [OneDigital](https://www.onedigital.com) and [OverDrive](https://www.overdrive.com).  You can "borrow" an
-audiobook for two weeks, listen to it, and then "return" it.  It simply
+audio-books like [OneDigital](https://www.onedigital.com) and [OverDrive](https://www.overdrive.com).  You can "borrow" an
+audio-book for two weeks, listen to it, and then "return" it.  It simply
 disappears from your device after these two weeks.  Cost is similar: zero.
 
-Libraries are probably the cheapest coworking spaces out there.
+Libraries are probably the cheapest co-working spaces out there.
 When you're sick of being at home and need more focus, go to
 the library. Everybody is studying and working there. So will you.
 
@@ -101,7 +101,7 @@ you only like one chapter.  Three week lease term is fine because it brings
 focus and motivation ("I need to finish this book first to be able to get the
 next one")
 
-University libraries prioritize students. For an unafiliated person it's $80 for 3
+University libraries prioritize students. For an unaffiliated person it's $80 for 3
 months or $200 for a year to be able to just enter the library, sit and read. It
 can be as much as $500 for a year to be able to borrow books.
 
@@ -195,11 +195,11 @@ feel bad about spending on online education. It pays of.
 **Benefit:** `medium`
 
 I never participated in a boot camp.
-The idea you can start from zero, go to a twelve week bootcamp and get some
+The idea you can start from zero, go to a twelve week boot-camp and get some
 knowledge to get you jump started sounds fine.
 The idea of getting a job afterwards sounds a little bit unrealistic.
 You should study first, so that you're not a total newbie by the time you
-go to the bootcamp.
+go to the boot-camp.
 Then do it. Afterwards try to do as many projects on your own as
 possible.
 
@@ -220,17 +220,17 @@ Organized every month at Stanford, was very well prepared, with speakers
 every time, group discussion. Everybody was a Forth expert with many years
 of experience. I loved it.
 
-Most meetups aren't well organized. People come to eat and drink for free.
+Most meetings aren't well organized. People come to eat and drink for free.
 Sometimes organizers are bigger companies, and they flash perks in front of
 you, because they want you work for them. Then they sit. Speaker, who is
-there just to be able to list his/her presence on the meetup flashes slides
+there just to be able to list his/her presence on the meet-up flashes slides
 quickly. And then there's the end.  Little interaction, little discussion.
 This is a mistake in my opinion, and you should refrain from those. It's a
 waste of your time. Go to the library and read a book for two hours. You'll
 benefit more.
 
 There's a little quirk here: pick a Meetup with $10--$20 fee, and it'll be
-fine. Or better: $60. Those are mostly financial/entrepreneurial Meetups.
+fine. Or better: $60. Those are mostly financial/entrepreneurial meet-ups.
 Only people who really care go to those. It's a great crowd. I went to maybe
 three of those Meetups, but investment was worth it. Advice I've gotten
 there I still remember till this day.
