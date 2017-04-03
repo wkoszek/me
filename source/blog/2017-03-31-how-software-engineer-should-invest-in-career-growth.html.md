@@ -11,7 +11,7 @@ address: "Menlo Park, CA"
 tags:
 - "software engineering"
 published: true
-image: 
+image: https://www.koszek.com/img/2017-03-31-how-software-engineer-should-invest-in-career-growth/oscar-nilsson-1860_25p.jpg
 ads:
 -
 spellcheck-allow:
@@ -29,6 +29,8 @@ employer about them.
 They have a way to bring resources to you, because funds for training and
 growth are specially allocated in big institutions. Let's start from the
 cheapest to the most expensive.
+
+![alt_text_2](/img/2017-03-31-how-software-engineer-should-invest-in-career-growth/oscar-nilsson-1860_25p.jpg "Image_text_2")
 
 ## Books
 
@@ -325,4 +327,3 @@ In terms of the rest of the ways to learn, it all depends on your
 conditions.
 Let me know if I missed anything. I'd like to pick up some of your ideas for
 learning.
-
