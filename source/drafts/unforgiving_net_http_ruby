@@ -1,0 +1,26 @@
+
+
+[23:08:35][wk@wkoszek_mba:~/r/koszek_com]$ ./test.rb
+Run options: --seed 56393
+
+# Running:
+
+E.
+
+Finished in 0.354682s, 5.6388 runs/s, 0.0000 assertions/s.
+
+  1) Error:
+TestMeme#test_koszek_redirect_https:
+Net::HTTPBadResponse: wrong header line format
+    /Users/wk/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net/http/response.rb:63:in `each_response_header'
+    /Users/wk/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net/http/response.rb:31:in `read_new'
+    /Users/wk/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net/http.rb:1437:in `block in transport_request'
+    /Users/wk/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net/http.rb:1434:in `catch'
+    /Users/wk/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net/http.rb:1434:in `transport_request'
+    /Users/wk/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net/http.rb:1407:in `request'
+    ./test.rb:19:in `block in http_code_for_url'
+    /Users/wk/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net/http.rb:853:in `start'
+    /Users/wk/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/net/http.rb:584:in `start'
+    ./test.rb:17:in `http_code_for_url'
+    ./test.rb:33:in `test_koszek_redirect_https'
+

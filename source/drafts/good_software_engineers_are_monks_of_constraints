@@ -1,0 +1,41 @@
+"Monk of Constraint" is a software engineer who can take exaggerated
+requirements for a software product and strip down the parts which are
+unrealistic. Parts which will take long time to write, even longer to test and
+which aren't required. I claim we don't exercise this way of thinking 
+well enough and we boggle our minds with abstract cases which never happen, yet
+lead to our procrastination.
+
+Looking at myself, before I entered the CS program, I was *better*
+at figuring out realistic constraints for my programs. I'd think:
+
+"All right, so I will have anything from 100 to 200 log files per server to
+analyze.  The report for anything else makes no sense, since it's hard to figure
+out what the server has been doing three months ago. And if someone wants, well
+... let me just spit the whole thing out in a new directory, where I'll make
+`index.html`, so in a weird case, I can always go there and see what the graph
+looked like last December"
+
+Now the issue with the formal CS program is, that for the very same task, you'll
+hear questions about your approach.
+
+"All right, but what if you have 100000 files. Or rather: infinite amount of
+files? How would that work? Your program wouldn't process that at all! Your
+program isn't correct!"
+
+Then you start to think about it..
+
+"Well, my program isn't going to work. But this case is unrealistic. But wait,
+this is a professor, and he must have more knowledge on software than I do,
+so... let me think about that"
+
+
+When you design a program, you're one foot in the future. is good to do with some insight into the future and
+understanding how the bits which you write will behave with growin data,
+number or requests or increased capacity. The issue I see we have
+
+aim to design all our software is if data put in it was growing. Infinitely.
+
+I don't mean this approach is bad. I think it's good in principle, 
+since realizing that your algorithm baked into a production
+code doesn't perform well sucks. What I mean is that very often
+I see us writing 
