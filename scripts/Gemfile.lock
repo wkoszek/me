@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    excon (0.55.0)
+    json (2.0.3)
+    mailchimp-api (2.0.6)
+      excon (>= 0.16.0)
+      json (>= 1.7.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mailchimp-api
+
+BUNDLED WITH
+   1.13.6
