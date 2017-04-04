@@ -1,5 +1,5 @@
 ---
-title:  "Clean Code
+title:  "Clean Code"
 author: "Wojciech Adam Koszek"
 description: >
   Take on clean programming. Unfortunately the book is entirely in Java and

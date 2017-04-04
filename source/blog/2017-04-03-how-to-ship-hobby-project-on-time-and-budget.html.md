@@ -1,8 +1,8 @@
 ---
 title: "To ship on time you must write shitty software"
-title2: How to ship a software pet project, on time and budget"
-title3: Time-tested method to ship pet projects on time: write shitty code
-title4: Why you must have pet projects as a software engineer
+title2: 'How to ship a software pet project, on time and budget'
+title3: 'Time-tested method to ship pet projects on time: write shitty code'
+title4: 'Why you must have pet projects as a software engineer'
 author: "Wojciech Adam Koszek"
 description: >
   If you learn and grow throught building projects on your own,
