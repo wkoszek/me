@@ -1,0 +1,32 @@
+# This is a meta-data for my YouTube channel.
+# Things I've listed here are mirrored with whatever is visible on
+# YouTube.
+
+channel:
+  name: wkoszek
+  author: |
+    WWW: https://www.koszek.com
+    Twitter: https://twitter.com/wkoszek
+    LinkedIn: https://www.linkedin.com/in/wkoszek/
+    Email: wojciech@koszek.com
+  desc: |
+    In this channel you'll learn about software engineering. You'll get
+    hints on design, implementation and deployment of your code. You will
+    save time, because tools mentioned in this channel will make you
+    more productive, and your normal business day easier. Everything covered
+    here came from my experience on building software systems.
+  dir: /Volumes/BACKUP3G/COPIED_NEW_BACKUP/home/wkoszek/video/podcast
+videos:
+- title: >-
+      Channel Introduction
+  date: "2016-11-01"
+  keywords:
+  - software
+  - software engineering
+  - developer
+  link: "not_yet"
+  description: |
+    You get to learn why I made this channel, and what I plan to talk about.
+    Watching this video to decide whether this channel is for you, and maybe
+    save time before you subscribe.
+  filename: 20161101_intro8_pretty_good.MP4
