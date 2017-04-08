@@ -1,10 +1,265 @@
-Use existing code.
+Meet Jeff, the only professional software engineer out there.
 
-Use existing tool.
+In this article Jeff tells us how professional software engineer like
+himself thinks of solving problems with software.
 
-Buy ready to use solution.
+Everyone, meet Jeff. Jeff is the the only professional software engineer out
+there. Jeff will tells us something from his 20 years of experience in the
+software industry.
 
-Do what others tried.
+## Jeff
+
+Hi guys. Heh. Thanks. Well, I don't know where to start. Noone has ever
+asked me this. I guess you and I differ, since you've not yet figured out what software business is
+all about.
+I wrote so many lines of code running in production out there ...
+I mean..
+Writing working stuff isn't fun anymore. I'm done with that. I like cars
+now. I repair engines in my free time now.
+
+But anyway..
+
+So you ask me how I got here. I don't know, man. I guess I think ... it was
+a matter of my ethic. You know -- just come to the office, do my job on time
+and leave. Pretty much it was to pay bills, and I hoped it'd get better, but
+... Well. It's not bad. Others have worse.
+
+So first I'd say: I just came to the office and solved all the issues and that's all.
+It's been 20 years now. My God.
+
+## Do stuff on time
+
+When I first started here I was pretty new. You know, I moved over here from
+Kansas, and people around here seamed wiser, so I just stuck my nose in the
+keyboard and did my tasks. Whatever people assigned me, I just did it. And
+you know -- not much innovative stuff. Sometimes fun, sometimes drugery:
+computer problems, plumbing, making sure tests pass. Write new line of code
+was a holiday. Delivering tables and
+spreadsheets for management, mostly. I didn't really control what they
+waned me to do. It was years after I could put some of my stuff in.
+
+But I figured it all pretty quickly. You see, my previous job was in small cafe
+house. The type that students go to. And software business and this coffee
+house are similar. People come, want to get their stuff served quickly and
+nicely, without unnecessary hassle.  Here's it's the same. They tell you
+what they want and if you give it to them, they say thank you. Just the tips
+are batched together, so if you're good, you'll get a bonus.
+
+I was late, couple of times. People hated that. I figured that even if I
+don't piss people off and do what they say, if I'm late, they'll get mad.
+There was this one time.... Eh. This story is a little long. But yeah, if
+you can fullfill the orders on time and within budget. That's the top thing.
+
+There were two interns here, from good school. I though they would get hired
+and I'd be out, since I figured they could pay them less. But after they
+went back to school I heard they didn't really want to hire them. Apparently
+guys were smart, but were always late with stuff. They always wanted to move
+stuff around, try to do better, faster. And you know how it is, typically --
+you think you can do better, you try, and it's a failure. So I just made
+sure I was different than these guys.
+
+Let me see.. What else got me here.
+
+## Improving process
+
+So I guess after some time of this cycle of, you know, get task, do task,
+get task, do task, I started to figure things out.
+
+I knew who needs what, and I also figured what it's all about. I figured
+these patterns that show up here and there. Like Mike would want his reports
+in XML and Jen wanted me to show her logs. Always. And at the beginning I
+did it all like a monkey, kind of. All by hand.
+
+Then when I figured it all out, it was automated. I basically wrote the
+scripts to do work for me, so when they came, I had my stuff already figured
+out. I'd just show them stuff. And I figured that if I put it in the
+intranet, they'll be able to see that too. One day I tried that and it
+worked. They stopped coming. I didn't really mind, since in this coffee shop
+I told you about a had a rough boss, the Texan guy, who watched my hands
+pretty closely. But after he figured I just want to earn a dime for college,
+he left me alone. He started trusting me. Here it's the same.
+
+The more time I spent here, I just kept adding on top of my existing toolbox
+and making sure people get from me what they want. Sometimes, I figured,
+they'd also let me put a little thing, a little addition or suggestions that
+I had.
+
+"Good job Jeff" was when I started to send out a status of our unit test
+suite. It was a total crap, and people kept ignoring it, but I guess when
+they saw failing tests outputs in their mailbox, they started to core. You
+know, they probably didn't even bother looking at this, if the suite kept
+failing for like a month or two. So this e-mail gave them something to be
+ashamed of, I guess. And they fixed it.
+
+So yeah, it was work and basically gradually proposing stuff to other people
+and giving them some of my tools.
+
+Let's see.
+
+## Being a nice person
+
+This Michael was here before me. Brilliant guy. After 20 years I'm still
+reading his code. No tests, no nothing. But everything works. Just really
+bright guy. But I heard he was an asshole. Like a moronic type, that people
+hate him. Didn't talk, didn't do much. Just sat here, and wrote code. People
+were surprised, since they felt he was slacking off, showing up here at 10am
+while most of others are here by 8:30am. You know.
+
+They couldn't really fire him for a long time, and he was making good
+progress. We attribute a lot of stuff to him. The multi request thing I
+showed you earlier - he did it.
+
+But he was rude, people got tired and kicked him out. First downsizing and
+he was out, and afterwards, when the market bounced back, they knew they
+needed a replacement and Rich, a buddy of mine, recommended me. I was
+finishing college, needed a job. I wanted to work for Xerox since all good
+people were there, but you know. Things turned out differently, and I met my
+wife around that time, so steady paycheck was nice. I came here and I just
+stayed.
+
+What else..
+
+## I used existing code
+
+The thing that probably will be new to you is my approach to code.
+You know, when I was young, I just wanted to write code. And debug.
+The feeling it all came from my head to the screen and worked was great.
+
+Not me. I'm tired. If I could, I'd retire. Or just hang out with my wife.
+She's cute, but I'll tell you this some other time.
+
+Anyway..
+
+But then after I started to get better at this, and read articles and
+books.. I guess I saw the algorithms and solutions and I knew I'll waste
+massive slice of time redoing it. I tried that maybe three times, and
+whatever I bleeded out on the keyboard was mediocre. So I've just given up
+on this. And I kinda understood all of this what I read. So re-doing it
+seemed like I wasn't really proving anything.
+
+Right now I just look for the best guy out there, try to see if he wrote
+stuff, and steal his shit. Whenever I can I just take and bring huge chunks
+of code that I know work. I'll put a little note here and there where I took
+it from, but nobody ever question that. I think people don't read this code,
+heh.
+
+So you know -- maybe you too like shuffling lines of text all day long. But 
+I figured it's easier to be on time with other people's code.
+And now I just use this approach.
+Maybe you just like sitting in front of the computer and still debugging,
+but it's not for me anymore. I just do it only when I really can, since I
+figured other stuff will demand my time anyway.
+
+I guess that ties it to another thing..
+
+## Reducing risk
+
+I told you that I can't retire, so I hope to make the time in front of the computer
+suck a little bit less. After 20 years your eyes hurt, your back hurts, so
+you just want to spend less time in front of this S.O.B.
+
+And I hate solving issues in production code, and looking like a dumb when
+my asserts fail. This I really hate. You go to a meeting to explain the
+failure that happened over night, and you have Dave there, the IT guy, and
+his boys were woken up by pagers and they moaned to him probably, and he is
+pissed. So going there and explain the IT guy why your code failed. Eh.
+
+Now I try to reduce risk. So as I told you, I'll just use whatever other
+guys are using, unless we really need a custom piece. But mostly we don't.
+We have ... what. Two millions of accounts now, and we haven't written
+anything from scratch, really. It's all Open Source now.
+
+So most of the time my process is: find how other guys did it, and we'll do
+the same. This works well, since basically you work smart: other guys
+debugged this crap for you, and you're just plugging it in.
+
+And the thing I like is to just use my toolbox. The new stuff I don't
+understand. You know -- it's people like you who are young and ambitous.
+They go, read the code and say: "Ha, I can do better than that". And then
+they make and use their own stuff and keep maintaining it. I guess that
+works if you have a lot of time, but now with wife and kids. You know, I
+really want to get done with this and go home.
+
+Let me tell you: my stuff works. I may sound like an asshole, but think
+of it as owning a Jeep. It's 20 year old car, and has sits ripped off,
+messed up dashboard and inside stinks with your dog. But it works. And
+if you want to take it for a trip, it works. And for the cinema, it works
+too. It's not flashy and you won't pick girls with it, but it's not what
+I use it for. I just use it to get my job.
+
+These intern I have in my group. Man. They each use different programming
+language. They all keep arguing now, in the office, in lunch. They wrote
+some code for a class; different universities and different cities, but they
+had these assignments. They keep arguing, but I saw this and it's all
+similar.
+
+They didn't teach them much there, so they run the code in debugging mode,
+on their laptops. It's not tested, and not deployed anywhere. I asked each
+one of them during one-on-ones to show me this stuff, and it took them like
+10 minutes to just get the damn thing started.
+
+With my code I just go from 0 to production deploy in 10 minutes. I just,
+you know, use whatever there is. Take my existing stuff from my previous
+project, paste it in the new project and `scp` the source code files and 
+I can make a fairly scalable website in a two or three days. Maybe not
+something which would hold million accounts, but 10,000 easily. I know, I
+once measured that.
+
+Anyway..
+
+## Buy, whenever possible
+
+What I started to like is when they asked me to opimize my work once. First
+time they did that, I had no idea what's going on. I went back to my cube
+and started to look at code. Then on the next meeting when they asked about
+estimates I kinda understood I failed.
+
+My then-boss took me on a side after that meeting and he told me:
+
+"Jeff, we pay you 30 bucks an hour here. And it's hard to, you know...
+It's basically whatever you do with this time, we'll have to pay you
+anyway. We could have you do all sorts of nasty necessities here,
+and maybe get some new guy in, but why?"
+
+"Listen Jeff, I'm much rather give you some lump sum for whatever you want
+if you can free up some time, so that I don't need to take anyone new here."
+
+"Jeff, listen, don't tell anyone, but the number of e-mails I get... I
+remove half of it. So try to make it so that we can stay small. Go and see
+what can we automate"
+
+So I got it pretty quickly. I looked at my console logs -- you know -- I
+keep what I often type to console handy. And I figured that spinning the
+staging environment was a total fiasco always. Three commands run in
+different windows, to different appliances. So I told him this.
+
+Next month they sent me to Atlanta to talk to the vendor. They showed me
+their solution. You had to customize it, and I didn't know crap about it.
+It failed three times. But once the guy made it work, it was a single
+command.
+
+I called my boss and told him it was a good stuff, and before I came back to
+the office next Monday I had their product receipts on my desk. Same guy
+came to the office next Thursday (we were lucky, since they were giving a
+demo to some big government company in the city) and he customized it. We
+paid him like 70 bucks or something. And it was all working.
+
+So I quickly understood that if I can pay some money and get all
+up-and-running solution, it's good stuff. And then we went ahead, and
+revamped a lot of our stuff. Now reporting, analytics, virtualization. It's
+all boxed ready-to-use stuff. Saves us time.
+
+What else..
+
+# Don't rewrite
+
+One thing I haven't tried here is rewriting code in here.
+They prohibited me.
+This previous guy was here, since they were rewriting some parts of the
+system that were here from long, long ago.
+It was a total fiasco. Guy was a genius and he ... I guess he overdid some
+stuff.
+So they were all sitting here Fridays and Saturdays and debugging his code.
 
 Don't rewrite.
 
