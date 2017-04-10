@@ -47,10 +47,18 @@ didn't work for me.
 Run it like this:
 
 ```
-sshuttle -r user@server
+sshuttle -r user@server 0/0
+[local sudo] Password:
 ```
 
+You're asked for the local `sudo` password since `pf` also known as "Packet
+Filter" is a priviledged thing: only root can modify it.
+
 Upon the successful connection you should see:
+
+```
+client: Connected.
+```
 
 ## How to validate VPN connectivity?
 
