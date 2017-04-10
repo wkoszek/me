@@ -26,6 +26,11 @@ keys installed on the server, there's no need for any other configuration.
 No certificates, no drama. I'm using OSX for the purposes of this article.
 
 ![alt_text_4](/img/2017-04-09-ssh-vpn-with-sshuttle-in-3-minutes/rishabh-varshney-138805_5p.jpg "Image_text_4")
+<br>
+<small><small><small>
+*(Photo by [Rishabh Varshney](https://unsplash.com/@rishabh) via [Unsplash](https://www.unsplash.com))*
+</small></small></small>
+
 
 SSHuttle helped me tunnel over SSH the traffic to a XenServer instance which
 I share with a friend of mine. For some reason, Open Source parts of the 
