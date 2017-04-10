@@ -2,7 +2,7 @@
 title: "SSH VPN on OSX with SSHuttle in 3 minutes"
 author: "Wojciech Adam Koszek"
 description: >
-  How to setup a temporary VPN from my OSX to my server.
+  How to setup a temporary SSH VPN from OSX to any server.
 maillist: >
   where I explained one of the really nice SSH VPN tools which I've
   found during my weekend debugging session
@@ -41,7 +41,7 @@ and [Vagrant XenServer](https://github.com/jonludlam/vagrant-xenserver) seems to
 again, it didn't seem to have SSL support. So I gave up on patching it, and
 just used VPN.
 
-## Quickstart
+## Quick start
 
 Install SSHuttle with [Homebrew](https://brew.sh/):
 
@@ -60,7 +60,7 @@ sshuttle -r user@server 0/0
 ~~~
 
 You're asked for the local `sudo` password since `pf` also known as "Packet
-Filter" is a priviledged thing: only root can modify it.
+Filter" is a privileged thing: only root can modify it.
 
 Upon the successful connection you should see:
 
