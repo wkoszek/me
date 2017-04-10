@@ -11,68 +11,71 @@ tags:
 - "tools"
 - "devops"
 published: true
-image: https://www.koszek.com/img/2017-03-31-how-software-engineer-should-invest-in-career-growth/oscar-nilsson-1860_25p.jpg
+image: https://www.koszek.com/img/2017-04-09-ssh-vpn-with-sshuttle-in-3-minutes/rishabh-varshney-138805_5p.jpg
 ads:
 -
 spellcheck-allow:
 -
 ---
 
-You will learn how to setup SSH VPN with [sshuttle](https://github.com/apenwarr/sshuttle) **quickly** here, on the OSX.
-SSH VPN people say is "poor man's" [VPN](https://en.wikipedia.org/wiki/Virtual_private_network), but I like it. If you have the SSH
+You will learn how to setup SSH VPN with
+[sshuttle](https://github.com/apenwarr/sshuttle) **quickly** here.
+SSH VPN people say is "poor man's" [VPN](https://en.wikipedia.org/wiki/Virtual_private_network), but I view it
+as a great tool, since you can't always spin OpenVPN easily. If you have the SSH
 keys installed on the server, there's no need for any other configuration.
-No certificates, no drama.
+No certificates, no drama. I'm using OSX for the purposes of this article.
 
-This article is written for you and myself, so that I don't forget how to
-use this flow.
+![alt_text_4](/img/2017-04-09-ssh-vpn-with-sshuttle-in-3-minutes/rishabh-varshney-138805_5p.jpg "Image_text_4")
 
-You should use the VPN when you access critical resources over untrusted
-network. VPN also helps you when the software which you use doesn't support
-encryption. Yes, software like this exists, and I learned about it last
-week, when I wanted to make myself a flow for making VMs on XenServer box I
-share with a friend of mine. XenServer exposes its API via HTTP, which is a
-little surprising.. Anyway.
+SSHuttle helped me tunnel over SSH the traffic to a XenServer instance which
+I share with a friend of mine. For some reason, Open Source parts of the 
+Xen(Server) ecosystem don't concentrate on encryption. I tried fog and
+added the SSL encryption there,
+[https://github.com/fog/fog-xenserver/pull/68](https://github.com/fog/fog-xenserver/pull/68)
+and [Vagrant XenServer](https://github.com/jonludlam/vagrant-xenserver) seems to support SSL, but when I tried packer, once
+again, it didn't seem to have SSL support. So I gave up on patching it, and
+just used VPN.
 
 ## Quickstart
 
 Install SSHuttle with [Homebrew](https://brew.sh/):
 
-```
+~~~shell
 brew install sshuttle
-```
+~~~
 
 For some reason the `pip` version, which SSHuttle advertises on its website
 didn't work for me.
 
 Run it like this:
 
-```
+~~~shell
 sshuttle -r user@server 0/0
 [local sudo] Password:
-```
+~~~
 
 You're asked for the local `sudo` password since `pf` also known as "Packet
 Filter" is a priviledged thing: only root can modify it.
 
 Upon the successful connection you should see:
 
-```
+~~~shell
 client: Connected.
-```
+~~~
 
 ## How to validate VPN connectivity?
 
 Go to any "what's my IP" service (or type "what's my IP" in Google).
 It should be your server's IP.
 
-```
+~~~shell
 $ curl -s -o - https://jsonip.com | jq "."
 {
   "ip": "88.129.122.7",
   "about": "/about",
   "Pro!": "http://getjsonip.com"
 }
-```
+~~~
 
 ## How it works
 
@@ -80,3 +83,8 @@ The SSHuttle doesn't really explain how it works. So I've dug into it. On
 OSX it uses a `pf` filter in a way where all your traffic from the network
 you specify in the command line is being channeled through SSH's port to the
 remote machine.
+
+## Summary
+
+Let me know if it helped you, and maybe which VPN service/solution you use
+right now.
