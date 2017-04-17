@@ -1,12 +1,22 @@
-"Monk of Constraint" is a software engineer who can take exaggerated
-requirements for a software product and strip down the parts which are
-unrealistic. Parts which will take long time to write, even longer to test and
-which aren't required. I claim we don't exercise this way of thinking 
-well enough and we boggle our minds with abstract cases which never happen, yet
-lead to our procrastination.
+During product development we focus mostly on flashy programming language
+constructs, style, layout of your classes and other intricenacies of
+software. It's a good thing. Yet we forget what saves us most time: deciding
+what to build.
 
-Looking at myself, before I entered the CS program, I was *better*
-at figuring out realistic constraints for my programs. I'd think:
+"Monk of Constraint" is a software architect or a product manager who can
+take exaggerated requirements for a software product and strip down the
+parts which are unrealistic. Parts which will take long time to write, even
+longer to test and which aren't required. Parts which will never pull enough
+revenue to return the cost of development.
+
+We don't exercise this way of business thinking.  We boggle our minds with
+abstract cases of behaviors that never happen, yet lead to our
+procrastination ("I must implement A, B and C before D starts"). 
+
+## Problem starts at school
+
+Computer science students are **better** at figuring out realistic
+constraints for my programs. They think:
 
 "All right, so I will have anything from 100 to 200 log files per server to
 analyze.  The report for anything else makes no sense, since it's hard to figure
@@ -15,7 +25,7 @@ out what the server has been doing three months ago. And if someone wants, well
 `index.html`, so in a weird case, I can always go there and see what the graph
 looked like last December"
 
-Now the issue with the formal CS program is, that for the very same task, you'll
+Now the issue with the formal study program is, that for the very same task, you'll
 hear questions about your approach.
 
 "All right, but what if you have 100000 files. Or rather: infinite amount of
@@ -28,8 +38,46 @@ Then you start to think about it..
 this is a professor, and he must have more knowledge on software than I do,
 so... let me think about that"
 
+## Problem in the industry
 
-When you design a program, you're one foot in the future. is good to do with some insight into the future and
+Problem isn't only impacting people who studied software. Industry has also
+a fair share of feature bloat. Features that were built, but never used.
+Features maybe only two percent of users use, and which cause a burden to
+your team. Something once promised and delivered has to be maintained now.
+"I'm sorry, we already printed customer's brosures."
+
+> I'm sorry, we already printed customer's brossures
+
+The best thing marketing and sales can do to engineering is to build what
+customer directly wants and would kill and pay for, if existed.
+
+## Future vs Present in software design
+
+When you design a program, first snapshot of the though process about the
+problem is to handle present cases. But during the design, you're one foot
+in the future too.  The right choice is to find a balanace between present
+thinking and future thinking. You should write as little future code as
+possible, as make the present code robust and clean. 
+
+> You should write as little future code as possible, as make the
+> present code robust and clean. 
+
+The reason for this that for most of the software projects, future never
+comes. Projects die or get replaced. Or simply present never changes.
+Present is the future, requirements don't grow, and your software stays the
+same.
+
+Yes, the truth is that all this thinking about reusability that you do --
+it's time wasted. Your classes are never exported outside of the original
+project. If they are, they require changes anyway.
+
+## Not too much in the present
+
+The biggest problem with software you can make is to deliver something that
+is too much in the present. Something that is so constraint to just one
+single case, that you can't really reused
+
+good to do with some insight into the future and
 understanding how the bits which you write will behave with growin data,
 number or requests or increased capacity. The issue I see we have
 
