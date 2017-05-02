@@ -42,8 +42,8 @@ solutions that work. I wrote about this
 ## Background
 
 In ["Don't document. Automate"](https://www.koszek.com/blog/2016/04/11/dont-document-automate/)
-I talked about the importance of
-automating steps for your workflow. Here I want to push it further: make the
+we talked about the importance of
+automating steps for your workflow. Here we want to push it further: make the
 most common flow available with a *single command*. **Impossible?**
 
 It's hard. I admit. If writing a tutorial or a good `README` is one on the
@@ -57,10 +57,10 @@ rarely is *that* different)
 
 ## How I read documentation
 
-When I'm building software, I'm mostly hearing in my head voices of people
-whom I've worked with and who made an impression on me. I also hear my own
+When you're building software, you're mostly hearing in your head voices of people
+whom you've worked with and who made an impression on you. You also hear my own
 inner voice. During figuring out how to build and deploy a bigger chunk of
-software I'm not familiar with, it's typically:
+software you're not familiar with, it's typically:
 
 "Just give me the darn command to run."
 
@@ -73,7 +73,11 @@ all, if it works"
 "Please, don't make me select and paste these random commands I have little idea
 about. Just give me a recipe to try this damn thing out"
 
-As you see I'm a big fan of Plug an Pray model, or OSX DMG model.
+As you see we're big fans of Plug an Pray model, or OSX DMG model. Stuff
+just works, you can try it without installing. If you like it, installing it
+is easy.
+
+*Try to follow this principle*
 
 # Safe defaults
 
@@ -104,6 +108,8 @@ example, if I run Ubuntu, doing `apt-get` with your package name is the
 easiest for me. If you've packaged your software correctly, not only it'll
 get installed, but also wrappers like `systemd` startups scripts. This is
 very convenient and I like it, since it fits into my system model nicely.
+
+Other examples are `Homebrew`, `RubyGems`, `Python pip`, Node's npm etc.
 
 Otherwise I need to write these boring pieces, which I don't like.
 
