@@ -2,12 +2,16 @@
 title: "Single Command Principle"
 author: "Wojciech Adam Koszek"
 description: >
-  Make functional and reliable scripts with usable interface, and you have
-  a high chance of gaining fast user adoption. Let's talk how to do it,
-  targeting a command line scripts.
+  The best way to engage new users to your software products is to deliver
+  something that just works, right out of the box, with little or no
+  configuration. We discuss why's and how's of this approach. We call it
+  "Single Command Principle"..
+maillist: >
+  where I explained my thoughs on software installation and deployment,
+  targeting usability and the least overhead for the end user.
 address: "Menlo Park, CA"
 tags:
-- "devops"
+- "software engineering"
 published: true
 image: 
 ads:
