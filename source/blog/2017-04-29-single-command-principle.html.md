@@ -13,7 +13,7 @@ address: "Menlo Park, CA"
 tags:
 - "software engineering"
 published: true
-image: 
+image: https://www.koszek.com/img/2017-04-29-single-command-principle/ales-krivec-2859_10p.jpg
 ads:
 -
 spellcheck-allow:
