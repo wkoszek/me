@@ -31,7 +31,7 @@ attention to it,letting it stew in my mailbox for a while, until I
 visited the [*reading section of my
 website*](http://www.koszek.com/reading/) in the hope of referring to
 [*the book I read a while
-ago*](http://www.koszek.com/blog/2012/12/07/book-the-old-new-thing/),
+ago*](http://www.koszek.com/books/2012/12/07/book-the-old-new-thing/),
 and all I saw instead of a nice picture was this:
 
 ![](2015-08-10-non-continuous-innovation-is-dangerous/image02.jpg)
