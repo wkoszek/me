@@ -22,6 +22,10 @@ spellcheck-allow:
 You should follow the **Single Command Principle** of software deployment.
 A customer takes your software from the repository, looks at the `README`
 file and sees a single command. A main entrance to the whole "software".
+Stuff is built and starts to just work in five minutes. This saves time and
+effort.
+
+![alt_text_0](/img/2017-04-29-single-command-principle/ales-krivec-2859_10p.jpg "Image_text_0")
 
 This command should either run your software with safe defaults, most common
 configuration or something that shows that the run is successful.
@@ -37,7 +41,7 @@ solutions that work. I wrote about this
 
 ## Background
 
-In ["Don't document. Automate"][https://www.koszek.com/blog/2016/04/11/dont-document-automate/]
+In ["Don't document. Automate"](https://www.koszek.com/blog/2016/04/11/dont-document-automate/)
 I talked about the importance of
 automating steps for your workflow. Here I want to push it further: make the
 most common flow available with a *single command*. **Impossible?**
