@@ -1,5 +1,5 @@
 ---
-title: "How to deliver a high-quality software with a single command"
+title: "Single Command Principle"
 author: "Wojciech Adam Koszek"
 description: >
   Make functional and reliable scripts with usable interface, and you have
@@ -15,111 +15,102 @@ ads:
 spellcheck-allow:
 ---
 
-A customer takes your software from the repository, looks at directory listing and
-runs one command. 
-It bootstraps whatever is necessary on the client's computer and your
-software runs.
+You should follow the **Single Command Principle** of software deployment.
+A customer takes your software from the repository, looks at the `README`
+file and sees a single command. A main entrance to the whole "software".
+
+This command should either run your software with safe defaults, most common
+configuration or something that shows that the run is successful.
+
+It should bootstrap whatever is necessary on the client's computer too.
 This is the experience you should strive for.
 
-I call it a follow the "Single Command Principle" rule in your software. 
-Command so descriptive you can't miss it. Make it
-"runit.sh" or whatever else you want. If it's there, I'll likely notice it
-and maybe it'll all just work.
-The "customer" can be your boss, or one of your coworkers. Doesn't matter;
-your effort will be greatly appreciated and you'll score a point in their
-spreadsheet.  Let's explore this idea here.
+I call it a follow the "Single Command Principle" rule in your software
+deployment methodology.
+It's important, because people easily give up while trying to bootstrap
+solutions that work. I wrote about this
+[earlier](https://www.koszek.com/blog/2015/08/26/how-do-you-evaluate-new-technologies/).
 
 ## Background
 
-In ["Don't document. Automate"][] I talked about the importance of
+In ["Don't document. Automate"][https://www.koszek.com/blog/2016/04/11/dont-document-automate/]
+I talked about the importance of
 automating steps for your workflow. Here I want to push it further: make the
 most common flow available with a *single command*. **Impossible?**
 
-When you build software, we see all the problems and parameters. When you
-build a real estate program, for example, you wonder how many buildings will
-be in your database, how big will they be, and other details. Then you
-wonder how many people will access the program, how much memory and CPUs you
-have. Pick something reasonable, and just make it the default. Most of the
-users will get it to work, and if they feel defaults are wrong, adjust it.
-Everybody will appreciate it. **Impossible?**
+It's hard. I admit. If writing a tutorial or a good `README` is one on the
+scale of difficulty, then writing a fully automated solution is 3x the
+effort.
 
-"How to make it all work from a single command?", you may ask. And my answer
-to you: use common sense and "common case fast". The reason is that as a
-busy person, I really want to get down to my work and finish it quickly.
-When I can't even test-drive your thing. Well. I'm sorry, but I'll use
-something else. **Impossible?**
+But it's worth it. I'll quite likely pick a solution that just works over
+the one that is better, since most of the time it doesn't really matter
+(it'd have to be 3x better, faster, more secure etc.., and "competition"
+rarely is *that* different)
 
-## Software delivery
+## How I read documentation
 
-Fred Brooks phrased his opinion on software development difficulty as
-something like this table:
+When I'm building software, I'm mostly hearing in my head voices of people
+whom I've worked with and who made an impression on me. I also hear my own
+inner voice. During figuring out how to build and deploy a bigger chunk of
+software I'm not familiar with, it's typically:
 
-|----------------------
-| Difficulty | Software class
-|:---------|:---------------
-| Easy | Applications
-| Medium | Compilers
-| Hard | Operating&nbsp;Systems
-|===================================
+"Just give me the darn command to run."
 
-<small>
-(if I could add fourth row, I'd add systems engineering, where all three
-pieces are developed in parallel)
-</small>
+"I don't want your documentation or explanations. I don't want your manual pages.
+Just let me run the damn thing."
 
-When I was a FreeBSD developer the idea of modifying the kernel code which
-x86, x86-64, MIPS, ARM and PowerPC was sharing was interesting. Some changes
-I could only compile test, since I didn't have the hardware.  Development is
-just a portion of the cost, however. There's also a software delivery.
+"Maybe it'll work, and if it does, I'll just tweak it a little or not at
+all, if it works"
 
-Delivery commonly phrased as deployment happens when you want to give the
-software to the customer, the devops team or your production server.
-For simple service you can do it by yourself.
-Big corporations have teams
-dedicated just to shipping software; being able to monitor, alert,
-recover and revert the software is a lot of work in a big company.
+"Please, don't make me select and paste these random commands I have little idea
+about. Just give me a recipe to try this damn thing out"
 
-## Deployment difficulty
+As you see I'm a big fan of Plug an Pray model, or OSX DMG model.
 
-I want to coin the idea of deployment difficulty here, and suggest to use
-this table:
+# Safe defaults
 
-|------------------
-| Difficulty | Software class
-|:---|:---------------
-| Easy | Application, your OS only
-| Medium | Networking service, your OS only
-| Hard | Web service, remote machine
-|===================================
+When you build software, we see all the problems and parameters. Stupid
+example: when you build a real estate program, you can guess the most common
+case of usage. Like: how many
+buildings will be in a database, and how many appartments will be referenced
+through the index and all other possible implications.
 
-"Easy" is achieved mostly thanks to `make` command for most of the C++ and C
-software packages. Its two sisters are "configure" and "make install".
-It's pretty easy to achieve that, so I won't cover this here. 
+If you write an end product, it's easier. It's harder if you build
+infrastructure, and it can handle anything from 1 to 1B of items. But these
+cases aren't that common.
 
+Just pick the most common configuration, call it "default" and make sure it works out
+of the box.
+
+**Make common case fast**
+
+## Deployment
+
+Use virtualization and separation for deploying with 1 command. It's the
+easiest and best way to deliver any piece of software. Vagrant or Docker for
+desktop/development software and tools.  There isn't anything easier that
+`git clone ...` and a single `vagrant up` executed in a directory.
+
+Second choice would be native package managers. For
+example, if I run Ubuntu, doing `apt-get` with your package name is the
+easiest for me. If you've packaged your software correctly, not only it'll
+get installed, but also wrappers like `systemd` startups scripts. This is
+very convenient and I like it, since it fits into my system model nicely.
+
+Otherwise I need to write these boring pieces, which I don't like.
 
 ## Continuous integration
 
-The concept of 
-Where the concept of using the single command 
+Whatever you do, wire it in the continuous integration system.
+If it's Travis, I'd expect it to maybe have 3 commands at most.
+Anything more means your customer will be typing or copy and pasting a lot
+of stuff, which is always bad. Make it very short.
 
+## Summary
 
-I'm done with abstact part of this 
+Make it work out of the box, preferably with one command. Document the
+tuning system, not installation system. The less tunables and mandatory
+changes or adjustments, the better.
 
-Just give me the darn command to run.
-I don't want your documentation or explanations.
-I don't want your manual pages.
-Just let me run the damn thing.
-Yes, it's very insecure, but I can open it in Vim, look through it and if
-it looks reasonable, I'll just execute it.
-I will go, retype or repaste the damn command, and guess what?
-With all the exploits that hide and are there to jump on me.
-Repaste.
-And afterwards I'll just hit ENTER.
-Just like that.
-Little, silly, careless ENTER.
-Click.
-ENTER pressed.
-Pum.
-No way back.
-
-["Don't document. Automate"]: https://www.koszek.com/blog/2016/04/11/dont-document-automate/
+Take one of your projects and see how much it'd take to accomplish "Single
+Command Principle" there. Let me know how it went.
