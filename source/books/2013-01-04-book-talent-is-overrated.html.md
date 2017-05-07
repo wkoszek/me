@@ -5,6 +5,7 @@ description: >
   Explanation why hard and systematic work is really what matters more than
   "talent"
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Geoff Colvin

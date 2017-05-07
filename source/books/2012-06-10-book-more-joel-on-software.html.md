@@ -7,6 +7,7 @@ description: >
   writings, I think you'll be fine ordering this position too. It's
   basically a printed collection of posts you'd find on Joel's website for free.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Joel Spolsky

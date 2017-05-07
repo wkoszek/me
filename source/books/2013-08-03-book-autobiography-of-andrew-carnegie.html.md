@@ -7,6 +7,7 @@ description: >
   long and cover too many things. I feel like it's only interesting if
   you're a history junkie.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Andrew Carnegie

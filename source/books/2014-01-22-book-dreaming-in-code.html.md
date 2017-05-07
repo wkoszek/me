@@ -5,6 +5,7 @@ description: >
   Two years after reading this book I don't remember anything from it, so
   I'd think twice before investing your time in it.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Scott Rosenberg

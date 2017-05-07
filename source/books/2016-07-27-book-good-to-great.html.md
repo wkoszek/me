@@ -5,6 +5,7 @@ description: >
   Deep analysis on how normal and average companies become outstanding
   companies. Lots of numbers; this book is researched-based.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

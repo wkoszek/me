@@ -5,6 +5,7 @@ description: >
   This was an extremely long book on Xerox PARC. I felt like it should have
   been compressed, since in the audiobook format it was really, really long.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Jon Gertner

@@ -6,6 +6,7 @@ description: >
   his style was less formal than usual. And because I got it free. 
   Maybe I'm biased. Not worth reading.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Larry Winget

@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Nothing special.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Charles F. Haanel

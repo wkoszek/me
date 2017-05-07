@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   How to write English to make it easy to understand
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

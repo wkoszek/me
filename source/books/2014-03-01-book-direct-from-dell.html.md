@@ -7,6 +7,7 @@ description: >
   not so long ago. Book was cool -- two years after reading it I sometimes
   come back to it in my head.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	"Michael Dell, Catherine Fredman"

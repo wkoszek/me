@@ -7,6 +7,7 @@ description: >
   the summary. You'll listen through it, but you'll need to summarise it
   yourself.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

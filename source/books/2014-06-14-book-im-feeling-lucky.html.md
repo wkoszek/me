@@ -5,6 +5,7 @@ description: >
   This is a story on how Google came to be.
   It was a very nice personal documentary as well.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Douglas Edwards

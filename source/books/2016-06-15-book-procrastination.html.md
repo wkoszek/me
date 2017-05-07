@@ -8,6 +8,7 @@ description: >
   and it gives some good hints on how to deal with procrastination. This
   booked helped me understand some procrastination elements I noticed in myself.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

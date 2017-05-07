@@ -5,6 +5,7 @@ description: >
   Don't remember this one. Title is definitely sketchy, even for my taste.
   Unclear.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	T. Boone Pickens

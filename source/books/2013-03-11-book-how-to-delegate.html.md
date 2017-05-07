@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   How to be a good manger.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Dick Lohr

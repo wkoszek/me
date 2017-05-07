@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   1 year after listening to this book I don't really remember it..
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

@@ -7,6 +7,7 @@ description: >
   this is a good book for engineers. It's not what the title claims it to be
   -- it's more about human interaction.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Dale Carnegie

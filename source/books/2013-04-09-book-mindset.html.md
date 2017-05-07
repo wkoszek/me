@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Don't remember this book at all.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Carol Dweck

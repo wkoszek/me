@@ -7,6 +7,7 @@ description: >
   how I communicate. You'll learn a lot of secrets on making your writing
   more interesting thanks to this book.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

@@ -6,6 +6,7 @@ description: >
   Group. If you don't have time studying 10 other investment books, read
   this one.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

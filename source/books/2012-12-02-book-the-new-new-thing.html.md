@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   This is a must if you're interested in a Silicon Valley history.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Michael Lewis

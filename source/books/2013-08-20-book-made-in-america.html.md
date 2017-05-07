@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   One of the best books I've read.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Sam Walton, John Huey

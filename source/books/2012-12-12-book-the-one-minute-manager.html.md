@@ -6,6 +6,7 @@ description: >
   delegation, which I think is one of the top factors why some technical
   contributors fail to properly transition to the role of a manager.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Kenneth H. Blanchard, Spencer Johnson

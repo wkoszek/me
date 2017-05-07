@@ -6,6 +6,7 @@ description: >
   world envies. It was cool to learn more about him in a structured form. If
   you're a design junkie, you'll like this one.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

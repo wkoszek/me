@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Nice little book. Title matches what the content is about.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Dick Lohr

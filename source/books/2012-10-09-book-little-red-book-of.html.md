@@ -7,6 +7,7 @@ description: >
   because I've read more books by the same author. No strong yes, but not
   definite no.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Jeffrey Gitomer

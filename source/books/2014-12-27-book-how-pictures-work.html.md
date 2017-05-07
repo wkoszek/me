@@ -6,6 +6,7 @@ description: >
   about how image and graphics work for transferring feelings, impressions
   and content.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Molly Bang

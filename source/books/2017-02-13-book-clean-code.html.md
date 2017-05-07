@@ -5,6 +5,7 @@ description: >
   Take on clean programming. Unfortunately the book is entirely in Java and
   has a lot of Javaisms, but my overall impression was "fine"
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

@@ -7,6 +7,7 @@ description: >
   enjoyable. Unique part about him is that he's British -- most of the other
   stuff on my list is all Silicon Valley centered.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Richard Branson

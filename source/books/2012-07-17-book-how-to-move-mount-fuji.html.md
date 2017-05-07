@@ -6,6 +6,7 @@ description: >
   thing I remember is that it was a pretty good take on Silicon Valley
   history. You decide.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	 William Poundstone

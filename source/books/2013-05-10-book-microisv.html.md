@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Don't remember much from this book 3 years after reading it.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Bob Walsh

@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   I really liked this gem. The title reflects it all.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Julian Guthrie

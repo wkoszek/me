@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   This was a book on Google values, but don't remember the details.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	William Poundstone

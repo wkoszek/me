@@ -6,6 +6,7 @@ description: >
   really, really small to gianormous. And how to do it without other people
   noticing, so that you can be a dominant player.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 description: "My impressions from listening to From Zero to One"

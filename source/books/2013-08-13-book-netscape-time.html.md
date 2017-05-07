@@ -5,6 +5,7 @@ description: >
   Creation of the legendary web browser and a personal take on Clark's life.
   Really great book--highly recommended.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Jim Clark

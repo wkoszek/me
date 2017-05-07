@@ -6,6 +6,7 @@ description: >
   empire. A lot of funny moments, and his epic table with 'comfortably poor'
   scale.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Felix Dennis

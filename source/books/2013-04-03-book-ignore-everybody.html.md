@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Don't remember anything about this one
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Hugh MacLeod

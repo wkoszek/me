@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Terribly long take on Xerox. Corporate history.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Michael A. Hiltzik

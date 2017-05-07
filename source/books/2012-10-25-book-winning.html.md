@@ -5,6 +5,7 @@ description: >
   Probably as important for the future leader as "High Output Management".
   I remember enjoying this book greatly.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Jack Welch, Suzy Welch

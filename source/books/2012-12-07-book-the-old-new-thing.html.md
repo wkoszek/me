@@ -8,6 +8,7 @@ description: >
   highly enough. By the way -- I enjoyed it even though I'm not a Microsoft
   software stack person.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Raymond Chen

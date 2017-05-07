@@ -6,6 +6,7 @@ description: >
   if you plan or think about making your side-projects happen and maybe
   charge money for those, I think you should invest in this book.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Eric Ries

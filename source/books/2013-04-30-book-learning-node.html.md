@@ -6,6 +6,7 @@ description: >
   I feel like too many topics and frameworks have been touched in this text,
   so it's more of a breath read than a depth read.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Shelley Powers

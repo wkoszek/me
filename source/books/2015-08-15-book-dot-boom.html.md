@@ -5,6 +5,7 @@ description: >
   Having read it 1 year ago I must say I don't remember anything from this
   book. Probably not really worth reading.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 description: "My thoughts from listening about great and curvy story about Value America"

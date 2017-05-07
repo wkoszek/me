@@ -7,6 +7,7 @@ description: >
   Haven't learned much, but maybe because it wasn't my first book on
   usability.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	 Jakob Nielsen, Marie Tahir

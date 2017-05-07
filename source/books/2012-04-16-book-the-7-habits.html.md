@@ -8,6 +8,7 @@ description: >
   talk about basic traits of H2H (human to human communication)? Unclear,
   but reading this one won't hurt.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Stephen R. Covey

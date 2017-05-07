@@ -8,6 +8,7 @@ description: >
   "computer", this book will make sense and be very enjoyable. It was for
   me.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Jeffrey Liker

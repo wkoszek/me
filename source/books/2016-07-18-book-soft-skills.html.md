@@ -6,6 +6,7 @@ description: >
   whole book addresses this problem. If you think you should have a blog but
   you don't yet, I feel like you will benefit greatly from this book.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

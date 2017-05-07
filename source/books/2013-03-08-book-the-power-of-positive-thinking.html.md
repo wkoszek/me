@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   A lot of people recommend it, but I didn't like it.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Norman Vincent Peale

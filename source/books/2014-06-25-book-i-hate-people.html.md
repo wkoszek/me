@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description:
   Office survival guide.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Jonathan Littman, Marc Hershon

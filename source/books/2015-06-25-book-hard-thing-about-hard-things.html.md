@@ -5,6 +5,7 @@ description: >
   Book which I prefer much more than "Zero to One", as it's written by the
   guy who went through many, many obstacles and try to make it through.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

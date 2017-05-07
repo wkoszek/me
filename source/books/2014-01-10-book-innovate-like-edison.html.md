@@ -6,6 +6,7 @@ description: >
   I guess it's well deserved, yet a lot of people know that Tesla was
   invention hero. Ready this book, but read something on Tesla too.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Michael J. Gelb, Sarah Miller Caldicott

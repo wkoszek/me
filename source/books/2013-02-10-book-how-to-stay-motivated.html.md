@@ -6,6 +6,7 @@ description: >
   listened to the book, but I remember having a lot of fun deciphering his
   accent and jokes.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Zig Ziglar

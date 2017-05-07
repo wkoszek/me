@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   I wish I had known what this book was all about.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 description: "My thoughts from Mind for Numbers"

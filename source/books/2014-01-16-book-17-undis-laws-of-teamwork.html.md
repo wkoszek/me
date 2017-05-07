@@ -5,6 +5,7 @@ description: >
   After 2 years from reading I don't remember anything from this book. I
   guess it wasn't that valuable.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	John C. Maxwell

@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Details on Google intestines.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 read:	2015-01-05

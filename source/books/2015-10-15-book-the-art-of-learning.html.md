@@ -5,6 +5,7 @@ description: >
   Great reference for study nerds and people interested in effective study
   methodologies.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

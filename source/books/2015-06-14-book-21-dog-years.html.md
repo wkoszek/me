@@ -5,6 +5,7 @@ description: >
   Very funny take on one person's career at Amazon from the time of its
   hypergrowth.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

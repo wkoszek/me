@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Don't remember anything from this book. I think you may skip it.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Seth Godin

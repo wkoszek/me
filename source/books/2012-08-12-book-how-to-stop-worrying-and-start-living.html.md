@@ -6,6 +6,7 @@ description: >
   personal-development world, so I went ahead and read it. So-so. If you're
   very bored, you won't loose by reading it. Is it a must-have? Nah.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Dale Carnegie

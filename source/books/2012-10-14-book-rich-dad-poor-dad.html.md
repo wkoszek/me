@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Classic.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Robert Kiyosaki

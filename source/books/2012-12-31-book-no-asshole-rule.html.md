@@ -5,6 +5,7 @@ description: >
   If you have social problems at your workspace this book can be helpful for
   you to gain more perspective and maybe even pinpoint problems.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Robert Sutton

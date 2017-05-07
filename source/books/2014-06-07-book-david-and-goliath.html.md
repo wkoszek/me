@@ -5,6 +5,7 @@ description: >
   How smaller competitors can win the fight over the product/market. Worth
   read.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Malcolm Gladwell

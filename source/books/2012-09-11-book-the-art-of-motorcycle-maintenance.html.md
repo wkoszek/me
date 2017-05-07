@@ -6,6 +6,7 @@ description: >
   of dual meanings of things, and this book is not the best choice for an
   audiobook..
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Robert Pirsig

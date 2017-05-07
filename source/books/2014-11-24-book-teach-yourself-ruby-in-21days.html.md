@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Cool thing. Get it if you like Ruby
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	by Mark Slagell

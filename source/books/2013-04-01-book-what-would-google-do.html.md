@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Yet another Google book
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Jeff Jervis

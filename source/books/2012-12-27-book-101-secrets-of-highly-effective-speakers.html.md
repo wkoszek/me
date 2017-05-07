@@ -6,6 +6,7 @@ description: >
   after original reading, I suspect I should revisit this book at some
   point.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Caryl Rae Krannich

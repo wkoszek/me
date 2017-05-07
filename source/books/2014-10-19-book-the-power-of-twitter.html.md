@@ -5,6 +5,7 @@ description: >
   Book is good if you want to get better at using Twitter and figuring out
   the dynamics and what it's all about.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Joel Comm, Dave Taylor, Guy Kawasaki

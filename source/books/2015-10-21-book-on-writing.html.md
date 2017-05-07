@@ -6,6 +6,7 @@ description: >
   If you need to understand how real professional writer works, this is the
   book.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 categories: books

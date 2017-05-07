@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Didn't like it. Too esoteric and sketchy. Skip this one without feeling bad.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Lynne McTaggart

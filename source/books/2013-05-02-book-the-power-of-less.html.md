@@ -7,6 +7,7 @@ description: >
   how many comments I wrote on this book, I feel like it's a worth read, as
   it triggered a lot of thinking.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	 Leo Babauta

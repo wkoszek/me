@@ -4,6 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   This was an interesting take on the creation of Oracle.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Karen Southwick

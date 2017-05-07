@@ -6,6 +6,7 @@ description: >
   guess Amazon is a modern way of exploring book resources, so feel free to
   skip this one.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Tom Butler-Bowdon

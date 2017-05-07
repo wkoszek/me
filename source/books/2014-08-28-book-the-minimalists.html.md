@@ -7,6 +7,7 @@ description: >
   these guys and I like the idea, but this book feels like it needs more
   work.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Joshua Fields Millburn, Ryan Nicodemus

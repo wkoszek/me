@@ -7,6 +7,7 @@ description: >
   you to the target closer by small step and you stick to it. And the
   science behind all that. Worth read.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	 Charles Duhigg

@@ -6,6 +6,7 @@ description: >
   If you do anything with human-related software and product design,
   go and read it. It's a worth investment.
 address: "East Palo Alto, CA"
+_layout: book
 tags:
 - books
 auth:	Steve Krug

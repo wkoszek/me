@@ -8,6 +8,7 @@ description: >
   your life and spend your time better. But as far as I remember, the actual
   problems meeting the entrepreneur aren't discussed in this book.
 address: "Menlo Park, CA"
+_layout: book
 tags:
 - books
 auth:	Timothy Ferriss
