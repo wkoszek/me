@@ -1,6 +1,7 @@
 ---
 title: "How software engineer should invest in career growth"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   How to invest money in yourself, your education and a career growth as a
   software engineer.

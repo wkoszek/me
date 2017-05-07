@@ -1,6 +1,7 @@
 ---
 title: "How to use Ansible Vault with LastPass"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   I give you the tool which will help you keep your Ansible Vault passwords
   in LastPass. I show how to use it as well.

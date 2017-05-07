@@ -1,6 +1,7 @@
 ---
 title:	'Fixing Middleman-spellcheck'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   I liked Middleman for writing my website, I went and fixed up the
   spell-checking plugin. This piece explains some things step-by-step on how

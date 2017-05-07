@@ -1,6 +1,7 @@
 ---
 title:	'My GitHub Wishlist: Consolidate Request'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   We all love fork and merge in GitHub, but what I think would be both hard
   to implement and very beneficial for the Open Source community is:

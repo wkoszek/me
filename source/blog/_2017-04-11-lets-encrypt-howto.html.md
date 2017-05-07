@@ -1,6 +1,7 @@
 ---
 title: "How to use Let's Encrypt"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   What is LetsEncrypt? How to use it? How many domains you can LetsEncrypt
   support? How to renew the generated SSL certificate? Which LetsEncrypt to

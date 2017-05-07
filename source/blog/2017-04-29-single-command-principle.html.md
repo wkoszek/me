@@ -1,6 +1,7 @@
 ---
 title: "Single Command Principle"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   The best way to engage new users to your software products is to deliver
   something that just works, right out of the box, with little or no

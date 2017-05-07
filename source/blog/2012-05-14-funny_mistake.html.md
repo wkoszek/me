@@ -1,6 +1,7 @@
 ---
 title:	"Funny mistakes and The Toyota Way"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Some of my random thoughts and insights after reading "The Toyota Way"
 address: "East Palo Alto, CA"

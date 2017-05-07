@@ -1,6 +1,7 @@
 ---
 title:	'wget in 9 lines of Python For Hostile Environments'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Bootstrapping a system on a UNIX distribution where not all the tools
   are installed and those installed are out-of-date can be challenging. I've

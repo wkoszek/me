@@ -1,6 +1,7 @@
 ---
 title: "Making pull requests that merge"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Making progress in a software project means accumulating changes
   which align well with the its plan and vision. I explain how you can

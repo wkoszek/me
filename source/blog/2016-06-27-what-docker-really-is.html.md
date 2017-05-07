@@ -1,6 +1,7 @@
 ---
 title: 'What Docker really is'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Easy to understand explanation of Docker. Docker for dummies and normal
   humans.

@@ -1,6 +1,7 @@
 ---
 title:	'Subtle difference between FreeBSD, MacOSX and Linux printf'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Things you'll find when you try to write a substitute for one of the most
   basic and rudimentar pieces of UNIX C API. Treat it as "lessons learned"

@@ -1,6 +1,7 @@
 ---
 title: "How software engineer should invest in himself"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   To all those stingy little bastards with greasy hands, savings three dimes and watching
   subpar YouTube tutorials I dedicate this piece.

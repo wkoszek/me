@@ -1,6 +1,7 @@
 ---
 title:	"Why it's not about self-driving"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Self-driving technology is something I never believed would happen in my
   life-time. Looking at the race to build and improve this technology is

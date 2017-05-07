@@ -1,6 +1,7 @@
 ---
 title: "Movies every software engineer should watch"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   When you're not in the productive mood, and you need some
   techy movies, watch these titles.

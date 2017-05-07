@@ -1,6 +1,7 @@
 ---
 title:	'How do you evaluate new technologies?'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   With the lack of time behind your belt? You still miss one piece to make
   your project happen, and there are five possible solutions? Here I mention

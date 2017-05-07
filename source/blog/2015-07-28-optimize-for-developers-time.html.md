@@ -1,6 +1,7 @@
 ---
 title:	"Optimize for the Developer’s Time, Not the Machine’s"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   In the age where CPU cycles are getting cheaper and cheaper, many people
   still shift and crank bells and whisles in the software. In the piece I

@@ -1,6 +1,7 @@
 ---
 title:	'Command Line Interface to GoDaddy.com'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   People complain about GoDaddy, but for me it just works. I miss the
   automation and this is my attempt to address that. You get a

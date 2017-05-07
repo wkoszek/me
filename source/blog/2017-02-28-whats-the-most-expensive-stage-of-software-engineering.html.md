@@ -1,6 +1,7 @@
 ---
 title: "What's the most expensive stage of software engineering?"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   In this article I explain where the real cost of software
   comes from and what does it have to do with Joint Strike Fighter.

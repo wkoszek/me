@@ -1,6 +1,7 @@
 ---
 title:	"01001011, or on the art of snare drum patterns"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Improvised use of Verilog and C and blending it with my drumset interests.
 address: "East Palo Alto, CA"

@@ -1,6 +1,7 @@
 ---
 title:	"Why the Go Language Won't Be Successful"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   My take on Go usability from the perspective of the 1st time user.
   My most-read article so far.

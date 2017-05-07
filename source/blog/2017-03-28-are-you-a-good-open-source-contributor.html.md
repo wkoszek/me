@@ -1,6 +1,7 @@
 ---
 title: "Are you a good Open Source contributor?"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   You're a bad Open Source contributor.
   Open Source Scale of Contributions shows that.
@@ -199,6 +200,7 @@ new technology, [new programming language](https://www.koszek.com/blog/2017/02/1
 
 Failure after failure you will start to understand just about enough to
 shoot an e-mail to the author:
+_layout: post
 
 > Listen, I'm using your program X. It worked fine two months now and I
 > upgraded my computer, and I think you expect me to have the directory

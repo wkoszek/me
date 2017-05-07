@@ -1,6 +1,7 @@
 ---
 title:	"How to write a good Google Summer of Code Proposals"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Some tips on how to write a good Google Summer of Code Proposal. Something
   that you may find useful if you consider applying to Google Code-In of

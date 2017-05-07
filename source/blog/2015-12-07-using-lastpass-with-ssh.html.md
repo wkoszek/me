@@ -1,6 +1,7 @@
 ---
 title:	'How to store SSH passphrases in LastPass'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   LassPass improved my flow for passwords, and in this article I present how
   to make it work for SSH keys and their passphrases.

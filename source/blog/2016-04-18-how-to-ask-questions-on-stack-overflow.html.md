@@ -1,6 +1,7 @@
 ---
 title:	'How to ask questions on Stack Overflow?'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Stack Overflow is probably number one forum for developers. We all consume
   it, but less people actually produce content there. I present my take on

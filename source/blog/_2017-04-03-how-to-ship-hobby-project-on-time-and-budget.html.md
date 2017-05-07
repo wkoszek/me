@@ -4,6 +4,7 @@ title2: 'How to ship a software pet project, on time and budget'
 title3: 'Time-tested method to ship pet projects on time: write shitty code'
 title4: 'Why you must have pet projects as a software engineer'
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   If you learn and grow throught building projects on your own,
   but never complete any of them, that's a problem. Because I

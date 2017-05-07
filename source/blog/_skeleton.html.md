@@ -1,6 +1,7 @@
 ---
 title:	
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   Normal abstract goes here.
 image:

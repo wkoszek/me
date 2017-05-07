@@ -1,6 +1,7 @@
 ---
 title:	"Google Summer of Code &mdash; my take"
 author: "Wojciech Adam Koszek"
+_layout: post
 description: >
   I share my thoughs about Google Summer of Code
   and things I've learned while participating in this program
