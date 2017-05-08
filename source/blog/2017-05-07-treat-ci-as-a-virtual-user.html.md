@@ -1,8 +1,7 @@
 ---
-title: "Why you do Continuous Integration wrong"
-title: "Treat Continuous Integration as your user"
+title: "Treat Continuous Integration as your virtual user"
 author: "Wojciech Adam Koszek"
-layout: post
+_layout: post
 description: >
   We use Continuous Integration incorrectly and waste user's time in doing
   so. In this article we talk about how to properly build the Continuous
@@ -20,8 +19,7 @@ ads:
 spellcheck-allow:
 ---
 
-Ninety five percent of professional software engineers use Jenkins as a Continuous
-Integration. The rest are consumers of Travis-Ci, Circle CI and many other
+Ninety five percent of professional software engineers use [Jenkins](https://jenkins.io) as a [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration). The rest are consumers of [Travis-Ci](https://www.travis-ci.org), [Circle CI](https://www.circleci.com) and many other
 hosted CI platforms. None of these platforms are opinionated. They are just a little
 smarter replacements of `cron`, allowing you to simply throw many commands
 into the flow to build your software. We use these tools in a dump way, I
