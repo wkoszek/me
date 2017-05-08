@@ -63,7 +63,7 @@ activate :blog do |blog|
   blog.default_extension = ".md"
 
   #blog.tag_template = "blog/tag.html"
-  blog.calendar_template = "calendar.html"
+  #blog.calendar_template = "calendar.html"
 
   # Future blog post.
   blog.publish_future_dated = true
@@ -82,7 +82,7 @@ activate :blog do |blog|
   blog.sources = "{year}-{month}-{day}-{title}.html"
   blog.permalink = "{year}/{month}/{day}/{title}.html"
   blog.tag_template = "tag.html"
-  blog.calendar_template = "calendar.html"
+  #blog.calendar_template = "calendar.html"
   blog.publish_future_dated = true
 end
 
