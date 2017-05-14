@@ -5,7 +5,7 @@ description: >
   Dry in the content, but let me pick some positions which I wouldn't have
   known if I hadn't read (listened?) to think book.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Tom Butler-Bowdon

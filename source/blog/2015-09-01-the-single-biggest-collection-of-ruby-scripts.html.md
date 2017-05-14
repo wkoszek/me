@@ -1,7 +1,7 @@
 ---
 title:	'(Probably) the single biggest collection of Ruby scripts'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   This is a very nice archive with a lot of small Ruby scripts.
   I use it to evaluate things like Travis-CI, where you have a chance to

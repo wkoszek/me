@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Another chunk of the corporate history. This time about DEC.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	E. Schein, P. Kampas, P. Delisi, M. Sonduck

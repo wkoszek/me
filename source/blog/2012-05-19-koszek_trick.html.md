@@ -1,7 +1,7 @@
 ---
 title:	"fpurge() hack &mdash; Koszek trick #1"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Dirty, ugly and terribly useful trick that works sometimes.
 address: "East Palo Alto, CA"

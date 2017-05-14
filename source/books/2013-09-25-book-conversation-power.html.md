@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Don't remember this one.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	James K. Van Fleet

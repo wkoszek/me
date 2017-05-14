@@ -1,7 +1,7 @@
 ---
 title: "Reading 101 for software engineers"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Software engineers should read, and I explain how to go about it.
 address: "Menlo Park, CA"

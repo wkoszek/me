@@ -7,7 +7,7 @@ description: >
   and get this one. If I make a list of the most influential entrepreneurial
   books ever, I think it'll be high on the list.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Michael E. Gerber

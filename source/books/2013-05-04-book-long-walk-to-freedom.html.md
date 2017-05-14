@@ -7,7 +7,7 @@ description: >
   amazing job too. Story is pretty unique and I can highly recommend this
   book.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Nelson Mandela

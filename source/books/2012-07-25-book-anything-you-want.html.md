@@ -8,7 +8,7 @@ description: >
   regret. If I ever make a software startup bootstrapping bible, this book
   will be somewhere there.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Derek Sivers

@@ -5,7 +5,7 @@ description: >
   Worth read, but by no means a comprehensive introduction to chip design or
   Verilog.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Douglas Smith

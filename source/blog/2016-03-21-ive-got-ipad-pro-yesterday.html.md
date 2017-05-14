@@ -1,7 +1,7 @@
 ---
 title:	"I've got an iPad Pro yesterday"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   My buyers remorse and post-mortem or lack of first or the later.
 address: "Menlo Park, CA"

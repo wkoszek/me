@@ -6,7 +6,7 @@ description: >
   software engineering is going and what's the connection between engineers
   and designers, this book might be for you.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Daniel H. Pink

@@ -1,7 +1,7 @@
 ---
 title:	"Almost usable &mdash; Sharp MFP printer menu"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   After reading the "Design of Everyday Things" I share some insights on
   things I've noticed in the office.

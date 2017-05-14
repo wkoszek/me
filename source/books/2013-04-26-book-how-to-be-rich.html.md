@@ -6,7 +6,7 @@ description: >
   entrepreneurs of that time and the founder of the "Getty's Museum".
   Enjoyed every single minute of it.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	 J. Paul Getty

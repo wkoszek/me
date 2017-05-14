@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   This was useful for better negotiating skills.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Chester L Karrass

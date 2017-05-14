@@ -5,7 +5,7 @@ description: >
   On scaling IBM. It's a good read, since many people consider Thomas Watson
   Jr to be one of the best corporate leaders.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Thomas J. Watson, Peter Petre

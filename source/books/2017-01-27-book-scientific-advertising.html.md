@@ -6,7 +6,7 @@ description: >
   book, so I read it to figure out if I can apply some lessons to promote my
   software.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

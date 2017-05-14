@@ -5,7 +5,7 @@ description: >
   Must read for everybody. I keep coming back to lessons learned from this
   book several years after having read it originally.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Al Ries, Jack Trout

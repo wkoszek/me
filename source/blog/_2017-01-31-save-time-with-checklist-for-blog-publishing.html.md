@@ -1,7 +1,7 @@
 ---
 title: "Save time with this checklist for blog publishing"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Live document which helps me remember what to do to publish an article
   online.

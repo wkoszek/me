@@ -9,7 +9,7 @@ description: >
   and more, but I did this here. Three times now. I'm going to re-read this
   book soon too. Go and get it. You'll benefit.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	David Allen

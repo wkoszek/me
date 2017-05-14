@@ -5,7 +5,7 @@ description: >
   Another position that got me interested in investments. I should revisit
   that. For the modern adult I'd consider this book a must-have.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	David Bach

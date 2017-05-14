@@ -5,7 +5,7 @@ description: >
   Don't remember anything from this book. I don't even know if I finished
   it.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Mark Victor Hansen, Robert G. Allen

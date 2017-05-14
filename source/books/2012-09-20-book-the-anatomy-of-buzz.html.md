@@ -6,7 +6,7 @@ description: >
   works like. For a person interested in getting stronger at business this
   might be a useful addition.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Emanuel Rosen

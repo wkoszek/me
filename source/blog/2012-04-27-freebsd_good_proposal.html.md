@@ -1,7 +1,7 @@
 ---
 title:	"Google Summer of Code &mdash; how proposals are evaluated"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Short piece to serve as a help for students wishing to apply to
   Google Summer of Code. I discuss some background in how the

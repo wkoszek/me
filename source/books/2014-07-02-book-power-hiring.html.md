@@ -5,7 +5,7 @@ description: >
   Don't remember much from this book 3 years after reading it. Might not be
   worth buying.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Lou Adler

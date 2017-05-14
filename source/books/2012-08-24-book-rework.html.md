@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   I highly recommend you skip this book, since I want to be ahead of you.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Jason Fried, David Heinemeier Hansson

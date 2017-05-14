@@ -1,7 +1,7 @@
 ---
 title:	"Unfriendly IT, or how to get Perforce diffs e-mailed to you"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   I show a simple hack for getting Perforce changes e-mailed to you.
 address: "East Palo Alto, CA"

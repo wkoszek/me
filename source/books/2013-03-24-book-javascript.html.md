@@ -5,7 +5,7 @@ description: >
   This book shows old Javascript. For the latest pieces with static types
   etc., you'll have to find something else.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	David Flanagan

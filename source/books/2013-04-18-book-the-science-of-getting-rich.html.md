@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   This is a sketchy book and a sketchy title.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Wallace D. Wattles

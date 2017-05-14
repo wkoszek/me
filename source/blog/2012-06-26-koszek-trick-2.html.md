@@ -1,7 +1,7 @@
 ---
 title:	"Figuring out confusing assembly instructions &mdash; Koszek trick #2"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Useful trick to get from C to assembly and attempt to identify which C
   parts mapped to which assembly fragments.

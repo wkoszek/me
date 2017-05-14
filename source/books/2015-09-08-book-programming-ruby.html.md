@@ -5,7 +5,7 @@ description: >
   Cool book on Ruby. If you intend to write in Ruby, just get it. You won't
   regret.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

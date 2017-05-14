@@ -1,7 +1,7 @@
 ---
 title:	'Pastebin adds DOS new-line separators at the end snippets'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Ouch. This bit me really hard, so I've made a warning sign out of this
   post so that other guys don't hit that.

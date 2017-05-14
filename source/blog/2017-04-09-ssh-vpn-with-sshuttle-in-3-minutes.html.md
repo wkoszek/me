@@ -1,7 +1,7 @@
 ---
 title: "SSH VPN on OSX with SSHuttle in 3 minutes"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   How to setup a temporary SSH VPN from OSX to any server.
 maillist: >

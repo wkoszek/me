@@ -6,7 +6,7 @@ description: >
   any kind, you'll just love it as much as I did. Wasn't boring at any given
   time.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

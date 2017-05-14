@@ -5,7 +5,7 @@ description: >
   This is one of books I've picked to become a better designer.
   Slight disappointment and I'm explaining why.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - "design"
 - "software engineering"

@@ -7,7 +7,7 @@ description: >
   my library I think this book links fairly well with "Innovator's
   Dillemma".
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Malcolm Gladwell

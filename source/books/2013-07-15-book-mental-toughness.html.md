@@ -8,7 +8,7 @@ description: >
   advanced in the art of sports. Interesting. I keep coming back to it when
   people make fun out of golf.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	 by James, Loehr, Peter McLaughlin

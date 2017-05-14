@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Another book from "The rich dad" franchise. Don't remember much from it.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Robert T. Kiyosaki

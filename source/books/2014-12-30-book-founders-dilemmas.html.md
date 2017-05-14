@@ -5,7 +5,7 @@ description: >
   Don't remember much of it, but the title seems appealing. Maybe I'll
   revisit. Read on your own risk.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Noam Wasserman

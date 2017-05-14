@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   If you like Linux, this book is for you.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Linus Torvalds, David Diamond

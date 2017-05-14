@@ -1,7 +1,7 @@
 ---
 title:	'How the best companies do Continuous Integration'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Topic of continuous integration interests me a lot, and this is my
   collection of writings I've found around. Consider it a currated content.

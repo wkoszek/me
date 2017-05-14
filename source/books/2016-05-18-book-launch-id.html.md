@@ -6,7 +6,7 @@ description: >
   form of audio/video recordings, this book might be for you.
 auth: Jonathan R Taylor
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

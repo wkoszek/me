@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Title is pretty accurate and sums it all.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Eric Tyson, Ray Brown"

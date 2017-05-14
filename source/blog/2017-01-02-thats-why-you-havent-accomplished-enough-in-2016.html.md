@@ -1,7 +1,7 @@
 ---
 title:	"That's why you haven't accomplished enough in 2016"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   While most of us make new New Year resolutions, I look back and see why
   some of the last years plans didn't pan out.

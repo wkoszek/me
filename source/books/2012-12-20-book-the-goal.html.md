@@ -6,7 +6,7 @@ description: >
   education fun. If you want to learn about agile by just reading a story,
   this is the book for you.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Eliyahu M. Goldratt, Jeff Cox, David Whitford

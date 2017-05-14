@@ -8,7 +8,7 @@ description: >
   well and do it with minimal resources. And I think this is what Forth is
   all about. This book is a very gentle introduction into Forth.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Leo Brodie

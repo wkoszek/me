@@ -5,7 +5,7 @@ description: >
   My interest in investing and personal finance started from this
   book.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Thomas J. Stanley,  William D. Danko

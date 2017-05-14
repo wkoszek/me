@@ -1,7 +1,7 @@
 ---
 title: "Learn programming: self study guide"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   I show you my approach towards studying programming and software
   engineering on your own. I've used it with a great success for many years,

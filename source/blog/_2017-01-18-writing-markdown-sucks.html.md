@@ -1,7 +1,7 @@
 ---
 title: "Here's why writing Markdown sucks"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Writing text documents in Markdown is fine until you try to add...
 address: "Menlo Park, CA"

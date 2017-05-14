@@ -5,7 +5,7 @@ description: >
   This is "The Toyota Way" rephrased. I think the general rule is: pick just
   want book about Toyota production system and you're good to go.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Emi Osono, Norihiko Shimizu, Hirotaka Takeuchi

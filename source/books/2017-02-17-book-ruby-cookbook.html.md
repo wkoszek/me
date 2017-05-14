@@ -5,7 +5,7 @@ description: >
   Great book. I don't like the recipe-style book, but this one was neat,
   since it touches whole bunch of topics which you may need one day.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

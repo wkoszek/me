@@ -1,7 +1,7 @@
 ---
 title: "Software engineer&rsquo;s sacred resource"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Pros and cons of putting sugar in a gas tank, and how to
   get the most MPG out of a software developer.

@@ -6,7 +6,7 @@ description: >
   again. I remember reading them one after the other, and they appeared to
   be very similar.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Edward Tufte

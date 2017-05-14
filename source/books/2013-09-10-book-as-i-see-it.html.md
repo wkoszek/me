@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Another really great biography. Can't recommend highly enough.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Jean Paul Getty

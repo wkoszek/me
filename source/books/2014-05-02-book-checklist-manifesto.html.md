@@ -6,7 +6,7 @@ description: >
   moments. Used some techniques from this book in the software development
   and it turned out to be very effective.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Atul Gawande

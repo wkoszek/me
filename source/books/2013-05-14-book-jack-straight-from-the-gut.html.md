@@ -5,7 +5,7 @@ description: >
   This was a real gem. I keep coming back to this book in my head. Should
   allocate some time and re-read it once again.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Jack Welch, John A. Byrne

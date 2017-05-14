@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Very nice and compact introduction to typography.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

@@ -1,7 +1,7 @@
 ---
 title:	'Source Code from "Programmer Guide to NCurses" by Dan Gookin'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Dan Gookin did a good job with getting some NCurses examples out in the
   world, and I've just made it easier to access. If you like to write your

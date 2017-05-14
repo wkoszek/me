@@ -9,7 +9,7 @@ description: >
   creative is something I liked. Looking back, I don't regret having read
   it.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Edward De Bono

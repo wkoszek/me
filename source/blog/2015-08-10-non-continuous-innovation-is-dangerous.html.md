@@ -1,7 +1,7 @@
 ---
 title:	'Non-continuous innovation = dangerous or “Amazon Ad Platform Cleanups”'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Amazon went ahead and changes their advertising links, which impacted me.
   In this article I discuss making changes to your products in a

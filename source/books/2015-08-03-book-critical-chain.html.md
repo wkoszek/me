@@ -6,7 +6,7 @@ description: >
   Toyota Way" I don't think you'll learn anything new. If you haven't
   however, this might be a good position.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 description: "Notes from listening to Critical Chain"

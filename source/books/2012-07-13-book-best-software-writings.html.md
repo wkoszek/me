@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Joel Spolsky is back, but this time as a content moderator.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Joel Spolsky and various other authors

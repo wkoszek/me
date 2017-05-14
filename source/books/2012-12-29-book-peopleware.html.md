@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Art and science of keeping people away from the burnout syndrome.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Marco, Lister

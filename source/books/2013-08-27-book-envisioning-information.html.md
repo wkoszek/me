@@ -8,7 +8,7 @@ description: >
   chore, since the nomenclature and the way he phrases things is very
   "liberal arts".
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Edward Tufte

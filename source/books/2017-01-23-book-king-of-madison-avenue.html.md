@@ -5,7 +5,7 @@ description: >
   Executive of one of the biggest advertising agencies telling the story of
   one of the most important figures of modern advertising in the XX century.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

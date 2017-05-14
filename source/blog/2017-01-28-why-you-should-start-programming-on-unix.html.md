@@ -1,7 +1,7 @@
 ---
 title: "Why you should start programming on UNIX"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   People sometimes asked me how to start programming, and many of them
   get a wrong advice about web programming, webapps etc. In here I share my

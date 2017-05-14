@@ -5,7 +5,7 @@ description: >
   Take on how ice-cream we all like got made. From 0 to Cookie Dough
   icecream!
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Fred Lager

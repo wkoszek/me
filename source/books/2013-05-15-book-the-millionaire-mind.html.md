@@ -5,7 +5,7 @@ description: >
   Very interesting take on the finances in the USA. Mentions approaches used
   by financially capable people to retain wealth. Interesting read.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Thomas J. Stanley

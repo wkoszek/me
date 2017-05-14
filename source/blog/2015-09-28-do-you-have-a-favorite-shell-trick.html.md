@@ -1,7 +1,7 @@
 ---
 title:	'Do You Have a Favorite Shell Trick?'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Something for Bash geeks.
 address: "Menlo Park, CA"

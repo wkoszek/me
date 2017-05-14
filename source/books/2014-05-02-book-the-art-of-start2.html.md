@@ -5,7 +5,7 @@ description: >
   Don't remember much, but it was a bootstrapping guide. Nothing else to add
   after two years from reading it.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Guy Kawasaki

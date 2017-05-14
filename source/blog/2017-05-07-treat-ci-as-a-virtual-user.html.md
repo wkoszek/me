@@ -1,7 +1,7 @@
 ---
 title: "Treat Continuous Integration as your virtual user"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   We use Continuous Integration incorrectly and waste user's time in doing
   so. In this article we talk about how to properly build the Continuous

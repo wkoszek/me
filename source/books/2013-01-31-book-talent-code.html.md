@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Debunking a myth of "talent"
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Daniel Coyle

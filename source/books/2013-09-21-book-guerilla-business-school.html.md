@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Don't remember much from it.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Herv Eker

@@ -1,7 +1,7 @@
 ---
 title: "How much software engineer should invest in career growth"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   In this article I look at expenditures of the industry and 
   explain how similar investment can make a big difference in 

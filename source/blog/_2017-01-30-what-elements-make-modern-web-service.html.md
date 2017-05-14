@@ -1,7 +1,7 @@
 ---
 title: "What software makes a modern web application"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   I explain what software elements go into a modern web application of
   medium complexity.

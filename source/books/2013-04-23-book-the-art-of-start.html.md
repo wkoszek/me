@@ -5,7 +5,7 @@ description: >
   Not sure about this one. Didn't remember much from it. It's short, so
   maybe you can read it through your public library first?
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Guy Kawasaki

@@ -1,7 +1,7 @@
 ---
 title:	'Top 3 bugs I make in shell scripts'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Things to shy away from when working on shell scripting.
 address: "Menlo Park, CA"

@@ -1,7 +1,7 @@
 ---
 title: "How to create a VM on Digital Ocean from the command line"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   For any modern cloud product you'll have to work with virtual machines and
   virtual private servers. In this short article I show how to start a VM

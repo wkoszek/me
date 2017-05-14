@@ -6,7 +6,7 @@ description: >
   with this weird bracket syntax and general language concepts. Worked fine
   for me -- the first time LISPer.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Conrad Barski

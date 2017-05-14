@@ -1,7 +1,7 @@
 ---
 title:	'Dropbox on iOS is disappointing'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   My take on iOS Dropbox usability at the time of writing this article.
 address: "Menlo Park, CA"

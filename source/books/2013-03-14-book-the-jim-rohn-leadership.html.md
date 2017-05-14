@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   After three years after listening I don't recall much.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Jim Rohn

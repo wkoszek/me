@@ -8,7 +8,7 @@ description: >
   don't mention you've read it. Unless it's Silicon Valley -- then you're
   good.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Napoleon Hill

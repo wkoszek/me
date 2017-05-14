@@ -1,7 +1,7 @@
 ---
 title: "The best OSX file manager"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   Shuffling files on OSX doesn't have to be hard if you have the right
   tool. I show you the motivation behind the research on file managers I've

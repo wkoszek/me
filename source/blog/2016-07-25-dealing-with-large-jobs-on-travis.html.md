@@ -1,7 +1,7 @@
 ---
 title: 'Dealing with large jobs on Travis-CI'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   So you've made a commit which greatly extends the output of your build
   script and you see that it broke your Travis CI process? I've this

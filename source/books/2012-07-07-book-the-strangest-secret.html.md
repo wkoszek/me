@@ -8,7 +8,7 @@ description: >
   should!) do know I'd not have started my website articles without this
   book.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Earl Nightingale

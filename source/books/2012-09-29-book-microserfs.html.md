@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Eh. Interesting, but don't feel bad about not reading this book.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Douglas Coupland

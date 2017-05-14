@@ -7,7 +7,7 @@ description: >
   solutions, you'd benefit from this book, as it presents an
   easy-to-understand take on what usability really is.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Donald A. Norman

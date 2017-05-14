@@ -6,7 +6,7 @@ description: >
   and then buying back the company back. Really enjoyed it. Get it only if
   you like biographies and analysis from the battlefield.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Howard Jonas

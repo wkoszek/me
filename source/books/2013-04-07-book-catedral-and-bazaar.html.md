@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Classic for software people.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Eric S. Raymond

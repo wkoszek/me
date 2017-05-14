@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Knight seems to be a great storyteller...
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

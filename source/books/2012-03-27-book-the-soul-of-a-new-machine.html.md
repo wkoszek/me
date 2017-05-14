@@ -8,7 +8,7 @@ description: >
   you work in tech, in which case better stories you'll hear from your lab
   technicians.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Tracy Kidder

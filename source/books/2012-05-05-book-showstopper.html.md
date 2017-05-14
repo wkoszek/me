@@ -7,7 +7,7 @@ description: >
   wondered how hard it is to work on big industry projects, this book might
   be for you.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	G. Pascal Zachary

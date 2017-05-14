@@ -8,7 +8,7 @@ description: >
   read it, re-read it many times and assimilate the business/software
   wisdom. By the way, this is a software startup bootstrapping bible.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Joel Spolsky

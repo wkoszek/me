@@ -8,7 +8,7 @@ description: >
   her books in the real life, but I never investigated. Nothing in this book
   is sold to you. To me, it was a very useful read.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Suze Orman

@@ -6,7 +6,7 @@ description: >
   I've heard. I have this book in my mind everyday. So will you, if you get
   it.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

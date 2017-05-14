@@ -6,7 +6,7 @@ description: >
   don't remember much from this book after two years from reading it. Worth
   skipping.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Mortimer J. Adler, Charles Van Doren

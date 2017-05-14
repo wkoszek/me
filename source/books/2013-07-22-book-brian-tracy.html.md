@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Don't remember them much. I don't think these are worth reading.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Brian Tracy

@@ -1,7 +1,7 @@
 ---
 title:	'Random notes on "Barely usable"'
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   This are my thoughts and insights after reading "Don't make me think"
 address: "East Palo Alto, CA"

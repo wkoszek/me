@@ -5,7 +5,7 @@ description: >
   My first gig as a full-book book reviewer. You can learn what my opinion
   on Yegor's book is.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

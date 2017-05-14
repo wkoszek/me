@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   How quick assessment and first impression really does count.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Malcolm Gladwell

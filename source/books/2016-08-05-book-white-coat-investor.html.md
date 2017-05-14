@@ -6,7 +6,7 @@ description: >
   interested, so I ordered an audiobook. Did I regret? You can read the
   review to find out.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

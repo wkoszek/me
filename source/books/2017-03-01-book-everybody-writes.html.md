@@ -4,7 +4,7 @@ author: "Wojciech Adam Koszek"
 description: >
   Nice, but not great. Can recommend, unless you can get "On writing well"
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

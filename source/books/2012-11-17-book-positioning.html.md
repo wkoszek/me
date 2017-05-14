@@ -7,7 +7,7 @@ description: >
   advertising book to some extent, and I remember having a lot of fun
   reading it.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Al Ries, Jack Trout

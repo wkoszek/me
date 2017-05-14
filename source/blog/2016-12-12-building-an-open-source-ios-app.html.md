@@ -1,7 +1,7 @@
 ---
 title:	"Building an Open Source iOS app: lessons learned"
 author: "Wojciech Adam Koszek"
-_layout: post
+klayout: post
 description: >
   In this post I share my links, materials and videos for the talk I gave at
   Silicon Valley Mobile Developers and Designers Meetup.

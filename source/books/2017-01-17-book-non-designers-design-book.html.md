@@ -5,7 +5,7 @@ description: >
   My review of what probably is the best design book for software engineers
   and other people originally not trained in design.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 categories: books

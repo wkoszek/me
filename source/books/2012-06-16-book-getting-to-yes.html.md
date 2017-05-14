@@ -7,7 +7,7 @@ description: >
   sometimes having a lot of very detail oriented hackers in the room isn't
   great for making ... any steps towards actual problem resolution.
 address: "East Palo Alto, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Roger Fisher, William L. Ury, Bruce Patton

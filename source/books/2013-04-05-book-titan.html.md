@@ -5,7 +5,7 @@ description: >
   Really great book on Rockefeller. I'm into history of the American
   business, so not sure if you'd like it. But if you are, I can recommend.
 address: "Menlo Park, CA"
-_layout: book
+klayout: book
 tags:
 - books
 auth:	Ron Chernow
