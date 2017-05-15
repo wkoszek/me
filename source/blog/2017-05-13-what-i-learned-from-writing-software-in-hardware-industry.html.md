@@ -13,7 +13,7 @@ address: "Menlo Park, CA"
 tags:
 - "software engineering"
 published: true
-image: 
+image: https://www.koszek.com/img/2017-05-13-what-i-learned-from-writing-software-in-hardware-industry/ST_Microelectronics_OSMLT04_H_mouse_sensor_chip_with_vertical_and_horizontal_illumination_15p.jpg
 ads:
 -
 spellcheck-allow:
