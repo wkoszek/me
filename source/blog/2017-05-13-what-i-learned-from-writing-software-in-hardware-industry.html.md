@@ -24,6 +24,8 @@ engineer one can have a great workspace experience in the software company.
 When I first read it, I worked for the hardware company, in fact, and it
 took me a while to understand what he meant. Let's say he was 50% right.
 
+![alt_text_1](/img/2017-05-13-what-i-learned-from-writing-software-in-hardware-industry/ST_Microelectronics_OSMLT04_H_mouse_sensor_chip_with_vertical_and_horizontal_illumination_15p.jpg "Image_text_1")
+
 What I share with you here is my experience is backed by one year of internship at
 [Xilinx](https://www.xilinx.com) in 2011, followed by
 three year full-time 2012--2015. I worked for a hardware/software team writing
@@ -73,6 +75,8 @@ You'll get to see some ugly looking code too. Code written by hardware
 engineers who never done any real software, for example. And you'll have to
 live with it. The value of the legacy code is just simply to big to throw
 some of it away, and rewrite.
+
+![alt_text_7](/img/2017-05-13-what-i-learned-from-writing-software-in-hardware-industry/yung-chang-108329_15p.jpg "Image_text_7")
 
 This is what I believe was one of the major lessons: incrementally fix and
 improve, instead of replace. Replacing too often ends up giving you
@@ -150,6 +154,8 @@ to deliver five subprojects/pieces of code, and you all concentrate on it.
 
 ## Money
 
+![alt_text_0](/img/2017-05-13-what-i-learned-from-writing-software-in-hardware-industry/fabian-blank-78637_10p.jpg "Image_text_0")
+
 One of the things which motivated me to move out of the hardware industry
 was a pay. It's generally underpaid industry given how much skill and
 knowledge there is. Unless the connection of the hardware and software is
@@ -162,7 +168,8 @@ a decent paycheck.
 One of the best parts of hardware industry are the people.
 Because I like to work with people who are smarter than me, hardware
 environment was perfect. Filled with people who graduated from EE and
-physics made me learn thing which otherwise I'd not have known about.
+physics, made me learn thing which otherwise I'd not have known about.
+
 The median age in the semiconductors is higher, so you'll work with older
 folks, which is great, since you get to understand the background behind
 certain technological and strategic decisions. I've always had lunch with
