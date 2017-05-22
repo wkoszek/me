@@ -32,11 +32,11 @@ end
 
 dbg("------------ site building started -----------")
 
-set :url_root, 'http://www.koszek.com'
+set :url_root, 'https://www.koszek.com'
 activate :search_engine_sitemap, default_priority: 0.5, default_change_frequency: "weekly"
 
 activate :sitemap_ping do |config|
-  config.host         = 'http://www.koszek.com' # (required) Host of your website
+  config.host         = 'https://www.koszek.com' # (required) Host of your website
   config.after_build  = true                      # (optional, default: true)        Run automatically after build?
 end
 
