@@ -5,19 +5,20 @@ require 'pathname'
 require 'pp'
 
 unless ARGV.length == 2 then
-	print "add_img <img_file> <post_file>\n"
+	print "add_img <post_file> <img_file>\n"
 	exit
 end
 
-img_fn = ARGV[0]
+img_fn = ARGV[1]
 img_basename = Pathname.new(img_fn).basename.to_s
 img_no_ext = img_basename.split('.')[0]
 ext = img_basename.split('.')[1]
+
 #print "IMG_FN #{img_fn}\n"
 #print "IMG_BASENAME #{img_basename}\n"
 #print "IMG_NO_EXT #{img_no_ext}\n"
 
-post_fn = ARGV[1]
+post_fn = ARGV[0]
 unless File.exist?(post_fn) then
 	print "Post file #{post_fn} doesn't exist\n"
 	exit
