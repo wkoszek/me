@@ -14,7 +14,7 @@ address: "Menlo Park, CA"
 tags:
 - "software engineering"
 published: true
-image: 
+image: https://www.koszek.com/img/2017-05-22-15-tips-on-staying-productive-offline-as-a-software-engineer/courtney-recker-190987_10p.jpg
 ads:
 -
 spellcheck-allow:
