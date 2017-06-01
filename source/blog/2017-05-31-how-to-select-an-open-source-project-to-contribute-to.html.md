@@ -23,7 +23,15 @@ all seek and are directed by four things: status, power, money, and
 popularity.  Working on software is no different: people don't spend their
 private time in front of the computer hacking code without a reason.
 
-My view is that it's good--contributing to the Open Source makes sense,
+You must like to get critique from people who read your code, since it
+improves your skills.  After you bring changes and the people like them, it
+brings all of your "ratios" higher too. Another example is when your
+projects reach certain level on maturity and you get recognized by other
+hackers (through GitHub stars) when they like the program you wrote or the
+tool you've hacked. Personally I get a spike of motivation that way. It's
+one of the things that keeps me going with my Open Source.
+
+My view is that it's positive--contributing to the Open Source makes sense,
 after all. Most of the time. Here we will talk about projects which you
 should focus on, depending on your goals. 
 
