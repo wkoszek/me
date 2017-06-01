@@ -1,5 +1,5 @@
 ---
-title: "How to select an Open Source project to contribute to"
+title: "Which Open Source Projects Should You Contribute To"
 author: "Wojciech Adam Koszek"
 klayout: post
 description: >
