@@ -18,16 +18,18 @@ ads:
 spellcheck-allow:
 ---
 
-I don't remember which audiobook I heard it from, but the author stated
-everything leads to four things: status, power, money, and popularity.
-Working on software is no different: people don't spend their private
-time in front of the computer hacking code without a reason.
+I don't remember which audiobook I heard it from, but the author stated we
+all seek and are directed by four things: status, power, money, and
+popularity.  Working on software is no different: people don't spend their
+private time in front of the computer hacking code without a reason.
 
 My view is that it's good--contributing to the Open Source makes sense,
 after all. Most of the time. Here we will talk about projects which you
 should focus on, depending on your goals. 
 
 ## Status: using Open Source to get a real-world experience
+
+**Example:** FreeBSD, NetBSD, OpenBSD, Linux, GNOME, KDE, NGINX, Apache
 
 For real-world experience, you must find big, well-established software
 projects. They must have many people contributing.  The structure of the
@@ -47,6 +49,8 @@ working in a software company.
 
 ## Power: expanding Computer Science/Engineering knowledge
 
+**Example:** FreeBSD, Linux, Tensorflow, LLVM, Clang, GCC, GDB, PostgresSQL
+
 For this you'll seek software that executes a lot. Sounds funny? Well, the
 truth about "normal" everyday software is that however you write it, it's
 likely to be fast enough. No optimizations, no special algorithms. Default
@@ -65,6 +69,8 @@ at it in 8hr/day perspective.
 
 ## Popularity: getting recognition through Open Source
 
+**Example** any of the above, really..
+
 To be able to get recognized in the Open Source community you'll have to stick
 to one thing, possibly for extented period of time. We're talking years,
 instead of months.  This will require patience, and being able to (1) attract
@@ -79,6 +85,8 @@ doing a great job at testing, so if you offer your hand in testing the code,
 people will be thrilled.
 
 ## Money: getting a job with Open Source
+
+**Example** React (FB), Android (Google), Ansible (Red Hat), etc.
 
 In 2010 I've gotten a job because of a very little number of Open Source
 contributions.  The thing is that other people who applied had none, as far
@@ -102,4 +110,9 @@ People who sacrificed their private time to come to our GitHub repository,
 read the code, try it out and maybe improve it definitely have some skill
 and, more important, some interest in what my team does.
 
+## Summary
 
+Hacking software long-term is a lot of work, and it's nice to be concious
+and aware how and why you channel your creative energy towards some things,
+and not the others, and I hope this article was useful. Let me know if it
+had influenced your decision in any way.
