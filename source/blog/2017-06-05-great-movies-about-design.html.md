@@ -1,5 +1,5 @@
 ---
-title: "Movies For Aspiring (Web) Designers"
+title: "Great Movies About Design"
 author: "Wojciech Adam Koszek"
 klayout: post
 description: >
@@ -13,7 +13,7 @@ tags:
 - "software engineering"
 - "design"
 published: true
-image: 
+image: https://www.koszek.com/img/2017-06-05-the-best-movies-for-designers/federica-campanaro-27450_15p.jpg
 ads:
 - <a href="https://www.amazon.com/Helvetica-David-Carson/dp/B000VWEFP8/ref=as_li_ss_il?ie=UTF8&qid=1496813105&sr=8-2&keywords=helvetica&linkCode=li2&tag=wkoszek08-20&linkId=88c757d576caad74890210996437aa2d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000VWEFP8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&l=li2&o=1&a=B000VWEFP8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a href="https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151/ref=as_li_ss_il?ie=UTF8&qid=1496813878&sr=8-1&keywords=non-designers+design+book&linkCode=li2&tag=wkoszek08-20&linkId=142381ca075a64e68e7b2657acd64a94" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0133966151&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&l=li2&o=1&a=0133966151" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -23,7 +23,11 @@ spellcheck-allow:
 Design is an overloaded word, but we all get it when we see or experience
 it. For software design and achieving usability the basics of design are
 indespensible. Understanding why things are placed the certain way and have
-certain color is important. Reading about it is great, and I highly
+certain color is important.
+
+![alt_text_1](/img/2017-06-05-the-best-movies-for-designers/federica-campanaro-27450_15p.jpg "Image_text_1")
+
+Reading about it is great, and I highly
 encourage you to buy [Non-Designers Design Book](http://amzn.to/2seIqyg),
 but if you prefer to watch something in the moments of relative downtime,
 below is the list of movies about design.
@@ -56,5 +60,15 @@ Not a movie per-se, but it's a video training with interactive exercises
 about design fundamentals. It talks about things which you may not be aware
 of, such as meaning and importance of color, fonts, placement.
 
-http://design.codeschool.com/levels/1
+<a href="http://design.codeschool.com/levels/1">
+<img src="/img/2017-06-05-the-best-movies-for-designers/typography_50p.jpg" />
+</a>
 
+## Summary
+
+I've identified just four titles so far.
+[Udemy](https://www.udemy.com),
+[Lynda](https://www.lynda.com) and other video
+trainings must have great resources too, but I just don't know them.
+If you think there's something else worth the time investment, let me know.
+I'll add it to this page and give you a credit.
