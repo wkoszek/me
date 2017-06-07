@@ -19,8 +19,14 @@ ads:
 spellcheck-allow:
 ---
 
-There are 18.5 million software developers in the world. In the US itself
-there are 3.6 million.
+There are 18.5 million software professionals in the world. Out of that,
+3.6 million are in the US. That's 19% percent.
+
+## Visas
+
+## Growth
+
+## Management
 
 Whether should you have a degree or not in order to be an active software
 engineer is a difficult question. My answer is: you should definitely strive
