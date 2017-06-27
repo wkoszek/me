@@ -99,3 +99,5 @@ amount of crap-work and sometimes don't get enough recognition. You see a
 reliable unit-test suite in the product you're contributing to? Well,
 there's this one person who might have put a huge amount of work to make it
 work reliable. Always remember that.
+
+![alt_text_3](/img/2017-06-26-hackers-and-cooks/7735462760_1195e2d127_b_50p.jpg "Image_text_3")
