@@ -14,6 +14,11 @@ ads:
 spellcheck-allow:
 ---
 
+Markdown is a text markup format. It's very universal, so that you can write
+it in any software. Even simple Notepad can be good enough to write
+markdown.
+
+
 Images. And links.
 
 
