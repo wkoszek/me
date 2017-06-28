@@ -12,7 +12,8 @@ tags:
 published: true
 image: http://www.koszek.com/img/2017-01-18-the-best-osx-file-manager/mucommander_75p.jpg
 ads:
--
+- <a href="https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=as_li_ss_il?ie=UTF8&qid=1498640728&sr=8-1&keywords=coders+at+work&linkCode=li2&tag=wkoszek08-20&linkId=4bdbac7d501bffb8aee6bfa0296d0dc9" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1430219483&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&l=li2&o=1&a=1430219483" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- <a href="https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=as_li_ss_il?ie=UTF8&qid=1498640728&sr=8-4&keywords=coders+at+work&linkCode=li2&tag=wkoszek08-20&linkId=b68b7af79be5f482acb18b60aebf31a4" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321965515&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&l=li2&o=1&a=0321965515" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 spellcheck-allow:
 ---
 

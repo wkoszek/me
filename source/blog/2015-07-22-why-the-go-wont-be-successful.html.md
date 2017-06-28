@@ -22,6 +22,10 @@ spellcheck-allow:
 - "GOPATH"
 ---
 
+>
+> Since I wrote this post two years ago, I changed my mind:
+> Go is OK. 
+>
 
 The other day I stumbled upon a [Google Drive command line client](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fprasmussen%2Fgdrive&sa=D&sntz=1&usg=AFQjCNGAiYDSR3UBgK6bT9wAoUSUPQrd-A). It’s a software project written in the Go language. It lets you access Google Drive from the command line. I felt it was a great project, and I wanted to give it a shot, so I started reading. Unfortunately, the program is distributed in binary form, and given several problems that GitHub has had over the past 2 years or so, I’d rather not run binaries from GitHub on my machine. Makes sense, right?
 

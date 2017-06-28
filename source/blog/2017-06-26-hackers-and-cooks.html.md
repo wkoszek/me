@@ -14,7 +14,7 @@ tags:
 published: true
 image: https://www.koszek.com/img/2017-06-26-hackers-and-cooks/Dirty_dishes_25p.jpg
 ads:
--
+- <a href="https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/ref=as_li_ss_il?ie=UTF8&qid=1498640816&sr=8-1&keywords=hackers+and+painters&linkCode=li2&tag=wkoszek08-20&linkId=8949e08b5980de5f4a5d20ea28ff362b" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1449389554&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&l=li2&o=1&a=1449389554" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 spellcheck-allow:
 ---
 
