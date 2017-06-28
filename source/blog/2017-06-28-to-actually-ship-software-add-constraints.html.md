@@ -15,6 +15,7 @@ published: true
 image: https://www.koszek.com/img/2017-06-28-to-actually-ship-software-add-constraints/pawel-nolbert-291146_15p.jpg
 ads:
 - <a href="https://www.amazon.com/dp/0131177052/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=wkoszek08-20&linkId=a5e33a71b06111d66728ba32ddd0d035" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0131177052&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&l=li2&o=1&a=0131177052" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- <a href="https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_il?ie=UTF8&qid=1498641129&sr=8-7&keywords=clean+code&linkCode=li2&tag=wkoszek08-20&linkId=1ec800549a86c96aef1a05dc7a8a0323" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0735619670&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=wkoszek08-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=wkoszek08-20&l=li2&o=1&a=0735619670" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 spellcheck-allow:
 -
 ---
