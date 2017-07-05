@@ -2,9 +2,36 @@
 
 require 'yaml'
 
-BLOG_DIR = "../blog"
+BLOG_DIR = "../source/blog"
 EXT = ".html.md"
 BASE_URL = "https://www.koszek.com/blog"
+
+HEADER = %q{
+Hello,
+
+This month
+
+
+}
+
+FOOTER = %q{
+
+**Wojciech Adam Koszek**
+
+Feel free to
+[e-mail](mailto:wojciech@koszek.com) and
+[tweet](https://www.twitter.com/wkoszek) to me,
+or connect with me on
+[LinkedIn](https://www.linkedin.com/in/wkoszek).
+You can read more of my content on
+[my website](https://www.koszek.com).
+
+--
+
+<small>
+*You got this e-mail because you subscribed to the mailing list on my website. If you don't want to receive e-mail from me, just reply and say "unsubscribe" and I'll remove you from my mailing list.*
+</small>
+}
 
 def main
   all_matched = []
@@ -12,7 +39,12 @@ def main
     all_matched += list_matched_filenames(arg)
   end
   all_yaml = generate_yaml_array(all_matched)
-  yaml_to_mailing_list(all_yaml)
+
+  content = HEADER
+  content += yaml_to_mailing_list(all_yaml)
+  content += FOOTER
+
+  puts content
 end
 
 def list_matched_filenames(month)
@@ -32,13 +64,15 @@ def generate_yaml_array(filenames)
 end
 
 def yaml_to_mailing_list(yaml_files)
+  summary = ""
   yaml_files.each do |y|
     title, filename, maillist = y["title"], y["filename"], y["maillist"]
     md_link = mdlink(title, make_url_from_filename(filename))
 
-    print "# #{filename}\n"
-    print "- #{md_link} #{maillist}\n\n"
+    #print "# #{filename}\n"
+    summary += "- #{md_link} #{maillist}\n\n"
   end
+  return summary
 end
 
 def make_url_from_filename(filename_raw)
@@ -48,7 +82,7 @@ def make_url_from_filename(filename_raw)
 
   front_offset = "1900-01-01".length + 1
   back_offset = EXT.length + 1
-  filename_nodate_noext = filename[front_offset..-back_offset] 
+  filename_nodate_noext = filename[front_offset..-back_offset]
   return "#{BASE_URL}/#{year}/#{month}/#{day}/#{filename_nodate_noext}/"
 end
 
