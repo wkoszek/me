@@ -18,6 +18,34 @@ ads:
 spellcheck-allow:
 ---
 
+There are two paths to achieve success in any profession: the typical one
+and the complex one. I see that a lot of people advise taking the complex
+path, as it's more 
+
+In book "The white coat investor" author uses a phrase of "living according
+to how the governement suggests". For example the government wants to
+incentifize people to own their houses, so home owners get a lot of tax
+offsets and benefits. It also wants you to get married and have children,
+since married couples and couples with children have a lot of offsets too.
+
+The same is for investors: those, who buy assets and hold them for a long
+time are treated much better than short-term traders and speculators.
+
+
+The US has a "federal law" -- country-wide set of rules and regulations
+people of all states have to follow. 
+
+You live in a framework. A structure which has rules and regulations which
+make law. You can stretch the law, but in most situations you just have to
+follow it. One of the laws is the federal law in the US, where in other
+country it's just "the law".
+
+You make the choice whether you fit in this framework or not. This framework
+is there as a suggestion. If you break it, you're on your own and you'll be
+made liable.
+
+
+are made for us to have a law which 
 
 Explosion of computers through rapid hardware and software causes
 massive interest in computer science and engineering. There's also a 
