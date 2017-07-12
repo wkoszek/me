@@ -1,0 +1,71 @@
+
+At work you get some pieces of infrastructure
+figured out by other people; ready tools, ready scripts.
+They just work.
+Piece of cake, you think?
+If you don't touch them, you don't understand them.
+
+You learn when you rip software appart, and then put it all back together.
+With each line of code there's a story, and unfortunately this story isn't
+preserved. When you dig through the commit history of most programming
+projects, you won't find much in most cases.
+
+Methods, functions, files, project organization, or call it "the software"
+all have hidden knowledge that original author had.
+To learn how to design software, you must go through the pain
+of developing everything by yourself, at least several time. You must be
+this author.
+
+When you must write code, scripts, `makefiles`, add some test data by
+yourself, you cross the border. You're becoming a maker, just like
+sculptors, who build their own tools, laders and plans.
+
+When asked why he repeats his verses two
+hundred fifty times, Anthony Hopkins said that something magical happens
+after one hundred fifty's time.
+Same is in software: once you cross some treshhold for writing pieces of
+code that fit into the complete software product, you start to get things
+figured out in your head.
+
+That's what software pet projects are for.
+
+Here you must do everything by yourself.
+We're not talking about reinventing the wheel, however.
+You pick the existing frameworks and libraries, and you take a consequence
+of your decisions for the whole duration of the project.
+
+There's nobody whining that what you do isn't in a plan, or that
+you're using wrong technology.
+You can use whatever you want. You're absolutely free.
+I think that's why people love making software so much. And also why so many
+of us fail with what's the most essential in software: shipping the product.
+
+
+You build your own development environment.
+It's the best way to learn.
+By making your hands dirty, you're becoming a better expert.
+
+## Why you never finish anything
+
+You focus on wrong things in a wrong order.
+The golden rule is:
+
+Make it work.
+Make it work correctly.
+Make is fast.
+
+When you put a lot of constraints on yourself, you'll be
+overwhelmed pretty quickly.
+You probably have some ideas on what you want your project to be.
+Maybe you want to make it great, the highest quality code, which
+you'll be proud of?
+That's a great goal, in my opinion.
+That's a pretty shitty goal for the first version of your project.
+Quality takes time, and it doesn't have to be the very first thing you worry
+about.
+In fact, it shouldn't be.
+Make it work. Make it work fast. Refactor for the highest quality later.
+
+Let me clarify that a bit: if you're a language purist and you're obsessed
+with discussions about OOP, lambdas, operators etc. I don't know what to
+tell you.
