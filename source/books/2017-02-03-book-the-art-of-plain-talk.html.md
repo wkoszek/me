@@ -17,5 +17,14 @@ spellcheck-allow:
 ---
 
 Probably one of the best books on language, writing and readability in
-general. It's very good take on phrasing readable sentences 
-a language that is easy to understand.
+general. It's very good take on phrasing readable sentences, keeping
+language clear and concise.
+
+The key take away were the results of the readability studies Flesch did in
+early XXIth century. He found certain relationships with age and education
+and its impact on text readability.
+
+Before I read this, I didn't know about the algorithms for readability. The
+formulas in the book seemed a little abstract, yet there's something
+appealing at having a single score of your written text. Microsoft Word has
+Flesch's algorithm embedded.
