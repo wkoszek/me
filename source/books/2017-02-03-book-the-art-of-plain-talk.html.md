@@ -3,6 +3,7 @@ title:  "The Art of Plain Talk"
 author: "Wojciech Adam Koszek"
 description: >
   How to write English to make it easy to understand
+author:	Rudolf Flesch
 address: "Menlo Park, CA"
 klayout: book
 tags:
@@ -14,3 +15,7 @@ ads:
 spellcheck-allow:
 - 
 ---
+
+Probably one of the best books on language, writing and readability in
+general. It's very good take on phrasing readable sentences 
+a language that is easy to understand.
