@@ -3,6 +3,7 @@ title: "Who Says Elephants Can't Dance"
 author: "Wojciech Adam Koszek"
 description: >
   First person take on the transformation of IBM in the 90's.
+author: Edward Herrmann, Louis V. Gerstner
 address: "Menlo Park, CA"
 klayout: book
 tags:
@@ -20,8 +21,11 @@ spellcheck-allow:
 IBM was not on the top of my list for doing my entrepreneurial studies, and
 somehow I learned about this book by accident.
 
-Not only was this book great, but it's also written by  Louis V. Gerstner,
-who's an ex CEO of IBM.
+Not only was this book great, but it's also written by Louis Gerstner,
+who's an ex-CEO of IBM.
+
+Think of it as a first person shooter, where a main guy (you) is the CEO,
+and problems are the monsters in a game.
 
 You should take a look at it, if you ever want to do something
-entrepreneurial, and especially if you're in business.
+entrepreneurial, and especially if you're in business that needs changing.
