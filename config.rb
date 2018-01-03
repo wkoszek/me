@@ -234,11 +234,3 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
-
-# To deploy to a remote branch via git (e.g. gh-pages on github):
-activate :deploy do |deploy|
-  deploy.deploy_method = :git
-  deploy.branch = "gh-pages"
-  deploy.remote = "git@github.com:wkoszek/me.git"
-  deploy.build_before = false
-end
