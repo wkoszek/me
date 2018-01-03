@@ -63,4 +63,4 @@ doit:	render prepare http_start test_links test_spec http_stop
 b:	render
 p:	pub
 sync:
-	(cd ../koszek_com && make sync)
+	rsync -va --delete --exclude '*\.git' build/ ubuntu@w:/var/www/koszek.com
