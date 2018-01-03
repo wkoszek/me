@@ -28,7 +28,7 @@ min:
 max:
 	git checkout -f source/{blog,books}
 bootstrap:
-	gem install json -v '1.8.3'
+	sudo apt install -y ruby ruby-bundler ruby-dev gcc g++ build-essential libxml2-dev zlib1g-dev npm
 	bundle install
 	#cd data/ && rm -rf aspell-dict && ln -s aspell6* aspell-dict
 install_dict:

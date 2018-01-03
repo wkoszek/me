@@ -14,7 +14,6 @@ gem 'middleman-livereload'
 
 gem "middleman-blog"
 gem "middleman-minify-html"
-gem "middleman-deploy"
 gem "middleman-gh-pages"
 gem "middleman-syntax"
 gem 'middleman-imageoptim'
