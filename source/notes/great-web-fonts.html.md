@@ -83,3 +83,21 @@ fonts (starting from the ones I liked most often):
 - 1 Adobe Garamond W08
 - 1 AdelleBold
 - 1 Brandon
+- Source Code Pro
+- Fira Code
+- Whitney, http://www.typography.com/fonts/whitney/styles/
+- Nobel
+- Playfair Display
+- Oswald
+- Lato
+- "Libre Baskerville"
+- "MeretPro"
+- http://almamono.com/
+- Railway fonteo
+- Old Standard TT
+- W droge font
+- https://www.google.com/fonts/specimen/Domine
+- https://www.fontsquirrel.com/fonts/playfair-display
+- Montserrat
+- 'Archivo Narrow'
+- https://typekit.com/fonts/kepler
