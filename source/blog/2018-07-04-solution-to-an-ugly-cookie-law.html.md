@@ -60,7 +60,10 @@ Many websites just have "Allow" button, as they don't imagine not tracking you.
 Let's take Wall Street Journal for instance:
 
 > 
-> We use cookies for analytics, advertising and to improve our sire. You agree to our use of cooking by closing this message box or contiuing to use our site. To find out more, including how to change your settings, see our Cookie Policy
+> We use cookies for analytics, advertising and to improve our sire. You
+> agree to our use of cooking by closing this message box or contiuing to
+> use our site. To find out more, including how to change your settings, see
+> our Cookie Policy
 >
 
 It is hard to opt-out here, isn't it?
