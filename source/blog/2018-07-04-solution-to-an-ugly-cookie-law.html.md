@@ -41,7 +41,7 @@ There are also fear that this law is a little difficult to understand:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I do not say it is a great law or even effective. Only try to get this perception out that the EU is stupid because it is blocking cookies as a technology. That is not what the law is about.</p>&mdash; Casper Bakker (@casperbakker) <a href="https://twitter.com/casperbakker/status/1014434624494325760?ref_src=twsrc%5Etfw">July 4, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The reason is that the entry barrier to making websites has dropped.
-It's something people learn in school or from the popular press and books.
+It's something people learn in school or from a popular press and books.
 Publishing such websites should be possible immediately, and  without
 studying European politics.
 
