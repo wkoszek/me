@@ -141,7 +141,7 @@ This choice would happen on a browser level.
 In that sense, it'd be similar to the "green lock" which you get in the
 address bar upon visit to the encrypted website.
 
-Try it by yourself: [https://www.bankofamerica.com](Bank of America).
+Try it by yourself: [Bank of America](https://www.bankofamerica.com).
 You see a green lock next to the URL?
 
 There could be an indicator of the privacy level there too.
