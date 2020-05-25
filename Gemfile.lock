@@ -151,7 +151,7 @@ GEM
       websocket-driver (>= 0.2.0)
     progress (3.4.0)
     public_suffix (3.0.1)
-    rack (2.0.3)
+    rack (2.2.2)
     rack-livereload (0.3.16)
       rack
     rack-test (0.8.2)
