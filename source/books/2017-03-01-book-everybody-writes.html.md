@@ -16,4 +16,3 @@ spellcheck-allow:
 ---
 
 Didn't remember this book whatsoever after several weeks after reading it.
-
