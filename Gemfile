@@ -16,7 +16,7 @@ gem "middleman-blog"
 gem "middleman-minify-html"
 gem "middleman-gh-pages"
 gem "middleman-syntax"
-gem 'middleman-imageoptim'
+gem 'middleman-image_optim'
 gem 'middleman-search_engine_sitemap'
 gem 'middleman-sitemap-ping'
 gem 'middleman-build-reporter'
@@ -37,3 +37,6 @@ gem 'poltergeist'
 
 # For feed.xml.builder
 gem "builder"
+
+gem 'less'
+gem 'therubyracer'
